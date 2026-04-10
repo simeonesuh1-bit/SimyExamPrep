@@ -428,7 +428,10 @@ export default function App() {
                 }
                 return prev;
             });
-        }, (err) => console.error("[Firestore users]", err?.code, err?.message));
+        }, (err) => {
+            console.error("[Firestore users]", err?.code, err?.message);
+            setIsUsersLoading(false); // Fix hang on error
+        });
 
         const unsubAuth = onAuthStateChanged(auth, async (fireUser) => {
             if (fireUser) {
@@ -785,8 +788,11 @@ export default function App() {
     };
 
     const handleLogin = (u) => {
+        const isAdmin = ADMINS.some(a => a.matric === u.matric);
         const isSuperAdmin = u.matric === SUPER_ADMIN.matric;
-        if (!isSuperAdmin) {
+        
+        // Exempt ALL admins from duplicate login check to prevent lock-outs
+        if (!isAdmin && !isSuperAdmin) {
             if (activeSessions[u.matric]) {
                 setNotifications(prev => [...prev, { to: SUPER_ADMIN.matric, subject: "🚨 Duplicate Login Attempt", body: `${u.name} (${u.matric}) tried to log in on a second device.`, time: new Date().toLocaleString(), type: "security" }]);
                 showToast("This account is already active on another device.", "error");
@@ -1397,11 +1403,13 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
 
             // Still update local state for the dashboard fallback
             setUsers(prev => [...prev, newUser]);
-            showToast("Account created successfully in Firebase!", "success");
+            showToast("Account created successfully!", "success");
             onSuccess();
         } catch (error) {
+            console.error("[Registration Error]", error);
             if (error.code === 'auth/email-already-in-use') showToast("Email already registered", "error");
-            else showToast(error.message, "error");
+            else if (error.code === 'permission-denied') showToast("Database permission error. Contact admin.", "error");
+            else showToast(error.message || "Registration failed. Try again.", "error");
         }
     };
 
