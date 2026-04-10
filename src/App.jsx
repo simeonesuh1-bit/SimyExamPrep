@@ -523,16 +523,23 @@ export default function App() {
     const [notifications, setLocalNotifications] = useState([]);
     const [payments, setLocalPayments] = useState([]);
     const [broadcasts, setLocalBroadcasts] = useState([]);
-    const setBroadcasts = useCallback((updateFn) => {
+    const setBroadcasts = useCallback((updateFnOrVal) => {
         setLocalBroadcasts(prev => {
-            const next = typeof updateFn === "function" ? updateFn(prev) : updateFn;
+            const next = typeof updateFnOrVal === "function" ? updateFnOrVal(prev) : updateFnOrVal;
+            // Diffing logic: only write what's new or changed
             setTimeout(() => {
                 next.forEach(b => {
-                    setDoc(doc(db, "broadcasts", b.id || "main"), b).catch(console.error);
+                    const bId = b.id ? b.id.toString() : "main";
+                    const old = prev.find(o => (o.id || "main").toString() === bId);
+                    if (!old || JSON.stringify(old) !== JSON.stringify(b)) {
+                        setDoc(doc(db, "broadcasts", bId), b).catch(console.error);
+                    }
                 });
+                // Handle deletions
                 prev.forEach(b => {
-                    if (!next.find(n => n.id === b.id)) {
-                        deleteDoc(doc(db, "broadcasts", b.id || "main")).catch(console.error);
+                    const bId = b.id ? b.id.toString() : "main";
+                    if (!next.find(n => (n.id || "main").toString() === bId)) {
+                        deleteDoc(doc(db, "broadcasts", bId)).catch(console.error);
                     }
                 });
             }, 0);
@@ -592,6 +599,13 @@ export default function App() {
             });
             setLocalBroadcasts(arr);
         }, err => console.error("[Firestore broadcasts]", err?.code, err?.message));
+
+        const unsubMaintenance = onSnapshot(doc(db, "settings", "maintenance"), (snap) => {
+            if (snap.exists()) {
+                setMaintenanceModeState(snap.data());
+            }
+        }, err => console.error("[Firestore maintenance]", err?.code, err?.message));
+
         const unsubLogs = onSnapshot(collection(db, "admin_logs"), (snap) => {
             const arr = [];
             snap.forEach(d => {
@@ -612,7 +626,7 @@ export default function App() {
                 setLocalPlans(arr);
             }
         }, err => console.error("[Firestore plans]", err?.code, err?.message));
-        return () => { unsubNotifs(); unsubPayments(); unsubMessages(); unsubPlans(); unsubBroadcasts(); unsubLogs(); };
+        return () => { unsubNotifs(); unsubPayments(); unsubMessages(); unsubPlans(); unsubBroadcasts(); unsubMaintenance(); unsubLogs(); };
     }, []);
 
     const setNotifications = useCallback((updateFn) => {
@@ -686,7 +700,11 @@ export default function App() {
     }, []);
     const [activeSessions, setActiveSessions] = useLocalStorage("simyc_sessions", {});
     const [penaltyData, setPenaltyData] = useLocalStorage("simyc_penalty", {});
-    const [maintenanceMode, setMaintenanceMode] = useLocalStorage("simyc_maintenance", { active: false, message: "" });
+    const [maintenanceMode, setMaintenanceModeState] = useState({ active: false, message: "" });
+    const setMaintenanceMode = (val) => {
+        setMaintenanceModeState(val);
+        setDoc(doc(db, "settings", "maintenance"), val).catch(console.error);
+    };
     const [plans, setLocalPlans] = useState(DEFAULT_PLANS);
     const setPlans = useCallback((updateFn) => {
         setLocalPlans(prev => {
