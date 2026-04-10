@@ -805,13 +805,7 @@ export default function App() {
 
     const [screen, setScreen] = useState("welcome");
     const [modal, setModal] = useState(null);
-    const [toast, setToast] = useState(null);
     const [showCalc, setShowCalc] = useState(false);
-
-    const showToast = useCallback((msg, type = "info") => {
-        setToast({ msg, type });
-        setTimeout(() => setToast(null), 3500);
-    }, []);
 
     const logAdminAction = useCallback((adminName, action) => {
         setAdminLogs(prev => [{ admin: adminName, action, time: new Date().toLocaleString() }, ...prev.slice(0, 299)]);
