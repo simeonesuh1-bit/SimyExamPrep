@@ -1358,7 +1358,7 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
         const fMatric = cleanMatric.toLowerCase();
 
         // Safety: Check if matric belongs to an Admin
-        if (admins.some(a => a.matric?.toLowerCase() === fMatric)) { 
+        if (ADMINS.some(a => a.matric?.toLowerCase() === fMatric)) { 
             showToast("This matric number is reserved for system administration.", "error"); 
             return; 
         }
