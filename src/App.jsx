@@ -478,10 +478,19 @@ export default function App() {
         if (needsAuthUpdate) setEmailAuthModalOpen(true);
     }, [currentUser?.matric, currentUser?.authEmailNeedsUpdate, currentUser?.email, authEmailState]);
 
-    const setUsers = useCallback((updateFn) => {
+    const syncUserToFirestore = async (user) => {
+        if (!user || !user.matric || user.role === "superadmin") return;
+        try {
+            await setDoc(doc(db, "users", user.matric), user, { merge: true });
+        } catch (err) {
+            console.error("Firestore Sync Error (currentUser):", err);
+        }
+    };
+
+    const setUsers = (updateFn) => {
         setLocalUsers(prev => {
             const next = typeof updateFn === "function" ? updateFn(prev) : updateFn;
-            // Diffing logic to only write changes to Firestore
+            // Find what changed and sync it
             next.forEach(u => {
                 if (!u.matric) return;
                 const old = prev.find(o => o.matric === u.matric);
@@ -490,25 +499,27 @@ export default function App() {
                 }
             });
             // Handle deletions
-            prev.forEach(u => {
-                if (!next.find(n => n.matric === u.matric)) {
-                    deleteDoc(doc(db, "users", u.matric)).catch(err => console.error("Firestore Delete Error (users):", err));
-                }
-            });
-            return next;
-        });
-    }, []);
-
-    const setCurrentUser = useCallback((updateFn) => {
-        setLocalCurrentUser(prev => {
-            const next = typeof updateFn === "function" ? updateFn(prev) : updateFn;
-            if (next && next.role !== "superadmin" && next.matric) {
-                // Update Firestore and then rely on onSnapshot to keep it perfect
-                setDoc(doc(db, "users", next.matric), next, { merge: true }).catch(err => console.error("Firestore Error (currentUser):", err));
+            if (next.length < prev.length) {
+                prev.forEach(u => {
+                    if (!next.find(n => n.matric === u.matric)) {
+                        deleteDoc(doc(db, "users", u.matric)).catch(err => console.error("Firestore Delete Error (users):", err));
+                    }
+                });
             }
             return next;
         });
-    }, []);
+    };
+
+    const setCurrentUser = (updateFn) => {
+        setLocalCurrentUser(prev => {
+            const next = typeof updateFn === "function" ? updateFn(prev) : updateFn;
+            if (next && next.role !== "superadmin" && next.matric) {
+                // Trigger sync asynchronously after the state update
+                setTimeout(() => syncUserToFirestore(next), 0);
+            }
+            return next;
+        });
+    };
     const [notifications, setLocalNotifications] = useState([]);
     const [payments, setLocalPayments] = useState([]);
     const [broadcasts, setLocalBroadcasts] = useState([]);
@@ -1345,12 +1356,16 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
     const [showTermsText, setShowTermsText] = useState(false);
     const [showPass, setShowPass] = useState(false);
     const [showConfirm, setShowConfirm] = useState(false);
+    const [isBusy, setIsBusy] = useState(false);
     const set = (k, v) => setForm(f => ({ ...f, [k]: v }));
     const faculties = FACULTIES.map(f => f.name);
     const depts = FACULTIES.find(f => f.name === form.faculty)?.departments || [];
 
     const handleRegister = async () => {
-        if (!form.fullName || !form.matric || !form.email || !form.phone || !form.dob || !form.password || !form.faculty || !form.department) { showToast("Please fill all required fields", "error"); return; }
+        if (!form.fullName || !form.matric || !form.email || !form.phone || !form.dob || !form.password || !form.faculty || !form.department) { 
+            showToast("Please fill all required fields", "error"); 
+            return; 
+        }
         if (form.password !== form.confirm) { showToast("Passwords do not match", "error"); return; }
         if (form.password.length < 6) { showToast("Password must be at least 6 characters", "error"); return; }
         
@@ -1363,32 +1378,34 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
             return; 
         }
 
-        // Safety: Check if matric already exists in students list (prevent overwriting)
+        // Safety: Check if matric already exists
         if (users.some(u => u.matric?.toLowerCase() === fMatric)) {
             showToast("An account with this matric number already exists.", "error");
             return;
         }
 
-        if (!termsChecked || !privacyChecked) { showToast("You must accept the Terms & Conditions", "error"); return; }
+        if (!termsChecked || !privacyChecked) { 
+            showToast("You must accept BOTH Terms & Conditions AND Privacy Policy", "error"); 
+            return; 
+        }
+
         const age = new Date().getFullYear() - new Date(form.dob).getFullYear();
         if (age < 16) { showToast("You must be at least 16 years old to register.", "error"); return; }
 
         const cleanEmail = form.email.trim().toLowerCase();
+        setIsBusy(true);
 
         try {
-            // Firebase Auth
+            // 1. Firebase Auth Creation
             const userCredential = await createUserWithEmailAndPassword(auth, cleanEmail, form.password);
-            const userRef = doc(db, "users", form.matric.trim());
-
-            // Remove confirm from the form data so it isn't saved in Firestore
+            
+            // 2. Prepare Firestore Document
             const { confirm, ...firestoreData } = form;
-
             const newUser = {
                 uid: userCredential.user.uid,
                 ...firestoreData,
                 email: cleanEmail,
                 matric: form.matric.trim(),
-                password: form.password, // keeping it for backwards compat internally if needed
                 role: "student",
                 registeredAt: new Date().toISOString(),
                 questionsAttempted: 0,
@@ -1398,9 +1415,11 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
                 termsAcceptedAt: new Date().toISOString()
             };
 
+            // 3. Save to Firestore
+            const userRef = doc(db, "users", form.matric.trim());
             await setDoc(userRef, newUser);
 
-            // Still update local state for the dashboard fallback
+            // 4. Update local state & trigger UI switch
             setUsers(prev => [...prev, newUser]);
             showToast("Account created successfully!", "success");
             onSuccess();
@@ -1409,6 +1428,8 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
             if (error.code === 'auth/email-already-in-use') showToast("Email already registered", "error");
             else if (error.code === 'permission-denied') showToast("Database permission error. Contact admin.", "error");
             else showToast(error.message || "Registration failed. Try again.", "error");
+        } finally {
+            setIsBusy(false);
         }
     };
 
@@ -1483,7 +1504,9 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
                             <span style={{ fontSize: 13 }}>I agree to the <strong style={{ color: "var(--primary-light)" }}>Privacy Policy</strong> and will use this platform responsibly</span>
                         </label>
                     </div>
-                    <button className="btn btn-primary btn-full" onClick={handleRegister} disabled={!termsChecked || !privacyChecked}>✅ Create My Account</button>
+                    <button className="btn btn-primary btn-full" onClick={handleRegister} disabled={isBusy || !termsChecked || !privacyChecked}>
+                        {isBusy ? "⏳ Creating Account..." : "✅ Create My Account"}
+                    </button>
                 </div>
             </div>
         </div>
