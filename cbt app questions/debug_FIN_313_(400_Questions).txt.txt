@@ -1,0 +1,1701 @@
+# FIN 313 CBT QUESTION BANK — EASY MODE
+### Lagos State University | Business Administration 300L
+---
+**SECTION A: INTRODUCTION TO FINANCIAL MANAGEMENT**
+1. Financial management is concerned with the planning and controlling of a firm's:
+-	A) Production resources
+-	B) **Financial resources ✓**
+-	C) Human resources
+-	D) Marketing resources
+2. Financial management was a branch of economics until:
+-	A) 1950   - B) 1920
+-	C) **1890 ✓**    - D) 1970
+3. The three most important activities of a business firm are:
+-	A) Planning, organizing, controlling
+-	B) **Production, marketing, finance ✓**
+-	C) HR, finance, operations   - D) Sales, finance, IT
+4. What are financial assets also called?
+-	A) Fixed assets
+-	B) Tangible assets
+-	C) **Securities ✓**
+-	D) Intangible assets
+5. Examples of tangible real assets include:
+-	A) Patents and copyrights
+-	B) **Plant, machinery, and buildings ✓**
+-	C) Shares and bonds   - D) Technological collaborations
+6. Intangible real assets include:    - A) Land and buildings
+-	B) Machinery and equipment
+-	C) **Patents, copyrights, and technical know-how ✓**    - D) Cash and bank balances
+7. Shares and bonds are examples of:
+-	A) Real assets
+-	B) **Financial assets ✓**
+-	C) Tangible assets
+-	D) Fixed assets
+8. Buyers of shares are called:
+-	A) Debtholders
+-	B) Creditors
+-	C) **Shareholders or stockholders ✓**    - D) Debenture holders
+9. Preference shareholders receive dividend at:
+-	A) A variable rate
+-	B) No fixed rate
+-	C) **A fixed rate ✓**
+-	D) The discretion of directors
+10.	Which type of shareholders is generally called the "owners of residue"?
+-	A) Preference shareholders
+-	B) Debenture holders
+-	C) **Ordinary shareholders ✓**     - D) Bond holders
+11.	Dividends paid by a company are:
+-	A) Tax-deductible expenses
+-	B) Paid before taxes
+-	C) **Not deductible for corporate income tax purposes ✓**     - D) Always mandatory
+12.	The finance function that involves deciding how to raise funds is called:
+-	A) Investment decision
+-	B) Dividend decision
+-	C) **Financing decision ✓**     - D) Liquidity decision
+13.	Capital budgeting decisions are also known as:
+-	A) Dividend decisions
+-	B) Liquidity decisions
+-	C) **Investment decisions ✓**     - D) Financing decisions
+14.	The proportion of profits distributed as dividends is called:
+-	A) Retention ratio
+-	B) Payout index
+-	C) **Dividend-payout ratio ✓**     - D) Profit margin
+15.	Managing current assets and current liabilities is a:
+-	A) Long-term finance decision
+-	B) **Short-term finance decision ✓**
+-	C) Capital structure decision
+-	D) Dividend decision
+16.	The short-term finance decision is also referred to as:
+-	A) Capital budgeting decision
+-	B) Financing decision
+-	C) Dividend decision
+-	D) **Liquidity decision ✓**
+17.	Long-term financial decisions generally have a time horizon:
+-	A) Less than 6 months
+-	B) Exactly 1 year
+-	C) **Greater than one year ✓**     - D) Between 3-6 months
+18.	The mix of debt and equity in a firm is known as:
+-	A) Financial structure
+-	B) Working capital
+-	C) **Capital structure ✓**     - D) Net worth
+19.	The financial manager's basic task is to:
+-	A) Maximize sales revenue
+-	B) Minimize production costs
+-	C) **Plan the acquisition and use of funds to maximize firm value ✓**     - D) Manage employee performance
+20.	What does SWM stand for?
+-	A) Sales Wealth Maximization
+-	B) **Shareholder Wealth Maximization ✓**
+-	C) Stakeholder Worth Management
+-	D) Short-term Wealth Measurement
+---
+**SECTION B: FINANCIAL GOALS**
+21.	The financial goal generally agreed upon in theory is:
+-	A) Profit Maximization    - B) Sales Maximization
+-	C) **Shareholder Wealth Maximization (SWM) ✓**     - D) Cost Minimization
+22.	NPV stands for:
+-	A) Net Profit Value
+-	B) **Net Present Value ✓**
+-	C) Nominal Price Valuation
+-	D) Net Payment Variance
+23.	A financial action with a positive NPV:
+-	A) Destroys shareholder wealth
+-	B) Is always rejected
+-	C) **Creates wealth for shareholders ✓**     - D) Is considered neutral
+24.	A financial action resulting in negative NPV should be:
+-	A) Accepted
+-	B) Reviewed further
+-	C) Partially accepted    - D) **Rejected ✓**
+25.	Profit maximization fails as an operational criterion because it:
+-	A) Is too simple
+-	B) Considers too many stakeholders
+-	C) **Ignores timing of returns and risk ✓**     - D) Focuses too much on dividends
+26.	Which of the following is NOT a limitation of profit maximization?
+-	A) It is vague
+-	B) It ignores risk
+-	C) It ignores timing of returns
+-	D) **It considers all stakeholders ✓**
+27.	Satisficing behaviour was described by:
+-	A) Jensen & Meckling
+-	B) Van Horne
+-	C) **Cyert & March ✓**     - D) Durand
+28.	Agency theory was introduced by:
+-	A) Cyert & March
+-	B) Gerstenberg
+-	C) **Jensen & Meckling (1976) ✓**     - D) Prasanna Chandra
+29.	In an agency relationship, shareholders are the:
+-	A) Agents
+-	B) Managers
+-	C) **Principals ✓**     - D) Directors
+30.	Agency costs include:     - A) Production costs
+-	B) Marketing expenses
+-	C) **Less than optimum share value and monitoring costs ✓**
+-	D) Dividend payments
+31.	One way to reduce agency problems is to give managers:
+-	A) More vacation days
+-	B) Bigger offices
+-	C) **Stock options / ownership rights ✓**     - D) Fixed salaries
+32.	The agency problem arises from:
+-	A) Market failures
+-	B) Tax regulations
+-	C) **Separation of ownership and control ✓**     - D) Government policies
+33.	Wealth maximization theory is about:
+-	A) Profit at all costs
+-	B) Short-term gains
+-	C) **Efficient allocation of economic resources ✓**     - D) Employee satisfaction
+34.	According to the Objectives of the Firm, the main beneficiary of value creation is:
+-	A) Government
+-	B) Employees
+-	C) **Ordinary shareholders (risk bearers) ✓**     - D) Banks
+35.	Profit maximization ignores:
+-	A) Revenue
+-	B) Costs
+-	C) **Time value of money ✓**
+-	D) Market share
+---
+**SECTION C: SOURCES OF FINANCE**
+36.	Which of the following is a short-term source of business finance?
+-	A) Debentures
+-	B) Ordinary shares
+-	C) **Trade credits ✓**     - D) Preference shares
+37.	Bank overdraft (O/D) is a:
+-	A) Long-term source of finance
+-	B) **Short-term source of finance ✓**
+-	C) Medium-term source of finance
+-	D) Permanent source of finance
+38.	Finance lease gives the lessee:     - A) Ownership of the asset
+-	B) The right to sell the asset
+-	C) **The right to use the asset ✓**     - D) Full control of the asset forever
+39.	HP refers to:
+-	A) High Purchase
+-	B) **Hire Purchase ✓**
+-	C) Hybrid Product
+-	D) Home Purchase
+40.	HP and leases are used to:
+-	A) Increase profits directly
+-	B) Reduce taxes
+-	C) **Conserve liquidity ✓**     - D) Raise equity
+41.	Which of the following is a long-term source of finance?
+-	A) Trade credits
+-	B) Bank overdraft
+-	C) Trade debtors
+-	D) **Ordinary shares ✓**
+42.	Debentures are also called:
+-	A) Equity shares
+-	B) **Loan stock ✓**
+-	C) Preference shares    - D) Retained earnings
+43.	Higher debentures in a capital structure increase:
+-	A) Profitability only
+-	B) **Gearing/leverage risk ✓**
+-	C) Shareholder equity    - D) Working capital
+44.	Sale and lease back is classified under which time category?
+-	A) Short-term
+-	B) Long-term
+-	C) **Medium-term ✓**     - D) Permanent
+45.	Retained earnings as a source of finance are classified under:
+-	A) Short-term
+-	B) Medium-term
+-	C) **Long-term ✓**
+-	D) Informal sources
+46.	Debt factoring involves:
+-	A) Issuing new bonds
+-	B) **Turning over trade debtors/receivables ✓**
+-	C) Buying government bonds    - D) Leasing assets
+47.	A finance lease is usually:
+-	A) Easily cancellable
+-	B) Free of maintenance obligations
+-	C) **Non-cancellable ✓**     - D) Short-term in nature
+48.	Under a finance lease, who is responsible for upkeeping and maintenance?
+-	A) The lessor
+-	B) The bank
+-	C) **The lessee ✓**
+-	D) The government
+49.	Preference shares are classified as:
+-	A) Short-term finance
+-	B) Medium-term finance
+-	C) **Long-term finance ✓**     - D) Informal finance
+50.	Accruals as a source of finance fall under:
+-	A) Long-term sources
+-	B) **Short-term sources ✓**
+-	C) Medium-term sources
+-	D) Equity sources
+---
+**SECTION D: TIME VALUE OF MONEY**
+51.	Time value of money means:
+-	A) Money loses value over time always
+-	B) Future money is worth more than present money
+-	C) **Present money is preferred over the same amount in the future ✓**     - D) Money has no time preference
+52.	The three reasons for time preference for money are:
+-	A) Inflation, deflation, stagflation
+-	B) **Risk, preference for consumption, investment opportunities ✓**
+-	C) Interest, dividends, capital gains
+-	D) Savings, spending, borrowing
+53.	The formula for Future Value (FV) is:
+-	A) FV = C0 / (1+r)^T
+-	B) FV = C0 x r x T
+-	C) **FV = C0 x (1+r)^T ✓**     - D) FV = C0 + r^T
+54.	The formula for Present Value (PV) is:
+-	A) PV = CT x (1+r)^T
+-	B) PV = CT + r^T
+-	C) **PV = CT / (1+r)^T ✓**     - D) PV = CT - r
+55.	Discounting is the process of finding the:
+-	A) Future value of a cash flow
+-	B) **Present value of a future cash flow ✓**
+-	C) Interest rate on a loan    - D) Effective annual yield
+56.	Compounding is the process of finding the:
+-	A) Present value of cash flows
+-	B) **Future value of a present cash flow ✓**
+-	C) Discount rate
+-	D) Net present value
+57.	If Isaac invests $500 at 7% per annum for 3 years, his future value is approximately:     - A) $550     - B) $600
+-	C) **$612.52 ✓**     - D) $625
+58.	What does 'r' represent in the time value of money formula?
+-	A) Revenue
+-	B) Return on equity
+-	C) **Interest rate ✓**     - D) Risk premium
+59.	The effective annual rate with quarterly compounding at 8% is:
+-	A) 8.00%    - B) 8.10%
+-	C) **8.24% ✓**     - D) 8.50%
+60.	C0 in the TVM formula refers to:
+-	A) Cash flow at the end
+-	B) **Cash invested at time zero ✓**
+-	C) Cost of capital
+-	D) Capital outflow
+61.	What is the NPV decision rule?
+-	A) Accept if NPV = 0
+-	B) Accept if NPV < 0
+-	C) **Accept if NPV > 0 ✓**     - D) Reject if NPV > 0
+62.	If Ada can earn 10% in the bank and the PV of land sale is N82,727, while the land costs N85,000, Ada should:     - A) Buy the land
+-	B) Ignore the investment
+-	C) **Invest in the bank ✓**     - D) Borrow to buy the land
+63.	The effective annual yield formula is:
+-	A) (1 + r/m)^m
+-	B) **(1 + r/m)^m – 1 ✓**
+-	C) (r/m)^m    - D) r x m
+64.	When compounding is more frequent, the effective annual rate:
+-	A) Decreases
+-	B) Stays the same
+-	C) **Increases ✓**
+-	D) Becomes negative
+65.	NPVs of a firm's projects are:
+-	A) Multiplicative
+-	B) Subtractive
+-	C) **Additive ✓**
+-	D) Divisible
+---
+**SECTION E: FINANCIAL STATEMENT ANALYSIS**
+66.	A financial statement is:
+-	A) A personal record of income
+-	B) **An official document exploring a firm's financial information ✓**
+-	C) A budget forecast    - D) A tax document
+67.	The income statement is also known as:
+-	A) Balance sheet
+-	B) Cash flow statement
+-	C) **Profit and loss account ✓**
+-	D) Statement of equity
+68.	The balance sheet is also called:
+-	A) Income statement
+-	B) Fund flow statement
+-	C) Profit and loss account
+-	D) **Position statement ✓**
+69.	Gross profit is determined through the preparation of:
+-	A) Balance sheet
+-	B) **Trading or manufacturing account ✓**
+-	C) Cash flow statement    - D) Statement of equity
+70.	Net profit is determined through:
+-	A) Balance sheet
+-	B) Trading account
+-	C) Fund flow statement
+-	D) **Profit and loss account ✓**
+71.	The statement of retained earnings is also called:
+-	A) Position statement
+-	B) **Statement of changes in owner's equity ✓**
+-	C) Income statement
+-	D) Cash flow statement
+72.	Horizontal analysis is also called:
+-	A) Static analysis
+-	B) Vertical analysis
+-	C) **Dynamic analysis ✓**     - D) Common size analysis
+73.	Vertical analysis is also called:
+-	A) Dynamic analysis
+-	B) Trend analysis
+-	C) **Static analysis ✓**     - D) Horizontal analysis
+74.	In common size analysis, the base value is assumed to be:
+-	A) 50    - B) 10
+-	C) **100 ✓**     - D) 1000
+75.	Ratio analysis uses the relationship between:
+-	A) Assets and liabilities only
+-	B) Revenue and costs only
+-	C) **Two meaningful financial figures ✓**
+-	D) Cash inflows and outflows only
+76.	Liquidity ratios are also called:
+-	A) Leverage ratios
+-	B) Activity ratios
+-	C) Profitability ratios
+-	D) **Short-term ratios ✓**
+77.	Activity ratios are also called:
+-	A) Short-term ratios
+-	B) **Turnover ratios ✓**
+-	C) Liquidity ratios
+-	D) Solvency ratios
+78.	Solvency ratios are also called:
+-	A) Activity ratios
+-	B) Liquidity ratios
+-	C) **Leverage ratios ✓**     - D) Turnover ratios
+79.	External financial analysis mainly depends on:
+-	A) Internal management reports
+-	B) Confidential records
+-	C) **Published financial statements ✓**     - D) Oral information from directors
+80.	Fund flow statement is also called:
+-	A) Cash flow statement
+-	B) **Statement of sources and uses of funds ✓**
+-	C) Income statement
+-	D) Statement of equity
+---
+**SECTION F: RISK AND RETURN**
+81.	The relationship between risk and return is:
+-	A) Inverse
+-	B) No relationship
+-	C) Negative    - D) **Linear/positive ✓**
+82.	The higher the risk, the:
+-	A) Lower the expected return
+-	B) Smaller the investment
+-	C) **Higher the expected return ✓**
+-	D) Fewer the investors
+83.	Risk-free rate is obtained from:
+-	A) Corporate bonds
+-	B) Stock market
+-	C) **Default risk-free government securities ✓**
+-	D) Commercial banks
+84.	Risk premium is required:
+-	A) On risk-free investments
+-	B) On deposits only
+-	C) **On investments that carry risk ✓**     - D) Only on preference shares
+85.	Every financial decision involves:
+-	A) Profit only
+-	B) Capital budgeting only
+-	C) Dividend payout only
+-	D) **Risk-return trade-off ✓**
+86.	Finance as a managerial process is about:
+-	A) Past performance only
+-	B) Historical data
+-	C) **Futurity and decision making ✓**     - D) Fixed outcomes
+87.	Required return on an investment = Risk-free rate +:
+-	A) Inflation rate
+-	B) **Risk premium ✓**
+-	C) Tax rate
+-	D) Dividend yield
+88.	A firm's market value of shares is maximized when:
+-	A) Debt is maximized
+-	B) Costs are minimized only
+-	C) Dividends are eliminated
+-	D) **A proper balance between risk and return is maintained ✓**
+89.	Risk in investment arises because of:
+-	A) Guaranteed returns
+-	B) **Uncertain future returns ✓**
+-	C) Government regulations    - D) Dividend declarations
+90.	Government bonds carry _______ risk compared to shares:
+-	A) Higher
+-	B) **Lower ✓**
+-	C) Equal
+-	D) No difference
+---
+**SECTION G: CAPITAL STRUCTURE — BASICS**
+91.	Capital structure refers to the mix of:
+-	A) Short-term liabilities only
+-	B) **Long-term sources of finance like equity and debt ✓**
+-	C) Current assets and liabilities    - D) Only retained earnings
+92.	According to Gerstenberg, capital structure includes:
+-	A) Only current liabilities
+-	B) Only short-term debt
+-	C) **All long-term capital resources ✓**     - D) Only equity shares
+93.	Financial structure equals:
+-	A) Equity + Long-term debt
+-	B) **Capital structure + Current liabilities ✓**
+-	C) Only debt
+-	D) Only equity
+94.	Optimum capital structure minimizes:
+-	A) Revenue
+-	B) Dividends
+-	C) **Overall cost of capital (WACC) ✓**     - D) Equity
+95.	Forms of capital structure include equity shares only, equity and preference, equity and debentures, and:     - A) Only debt
+-	B) Only retained earnings
+-	C) **Equity, preference shares, and debentures ✓**     - D) Only government bonds
+96.	When the cost of capital increases, the value of the firm:
+-	A) Increases
+-	B) Stays the same
+-	C) **Decreases ✓**
+-	D) Becomes unpredictable
+97.	The Net Income (NI) approach was suggested by:
+-	A) Modigliani
+-	B) Jensen
+-	C) Gerstenberg
+-	D) **Durand ✓**
+98.	Under the Net Income approach, to increase firm value, a firm should:
+-	A) Use more equity
+-	B) Pay more dividends
+-	C) **Use more debt ✓**
+-	D) Reduce retained earnings
+99.	Under the Net Operating Income approach, capital structure is:
+-	A) Highly relevant
+-	B) Moderately relevant
+-	C) Somewhat relevant
+-	D) **Irrelevant to firm value ✓**
+100.	The Traditional Approach to capital structure is a mix of:      - A) Equity and retained earnings theories
+-	B) **Net Income and Net Operating Income approaches ✓**
+-	C) Only debt theories
+-	D) NPV and IRR approaches
+101.	An objective of capital structure decision is to:
+-	A) Maximize debt
+-	B) **Maximize the value of the firm ✓**
+-	C) Eliminate dividends     - D) Minimize equity
+102.	Leverage refers to the use of:      - A) Only equity
+-	B) Variable cost financing only
+-	C) **Fixed cost financing such as debt ✓**      - D) Short-term loans only
+103.	Capital structure theories assume the firm pays:
+-	A) No dividends
+-	B) Partial dividends
+-	C) **100% of earnings as dividend ✓**      - D) Random dividends
+104.	Capital structure theories assume business risk:
+-	A) Increases constantly
+-	B) Decreases over time
+-	C) **Remains constant ✓**      - D) Is always zero
+105.	Capital structure theories assume the firm has:
+-	A) Limited life
+-	B) **Perpetual life ✓**
+-	C) 10-year life
+-	D) Unknown life span
+---
+**SECTION H: FINANCIAL MANAGER'S ROLE & CORPORATE FINANCE**
+106.	The CFO is also known as the:
+-	A) CEO
+-	B) **Chief Finance Officer ✓**
+-	C) Chief Operations Officer     - D) Chief Risk Manager
+107.	The CFO plays which of the following roles?
+-	A) Human resource manager
+-	B) Production supervisor
+-	C) **Chief strategist and chief deal maker ✓**      - D) Marketing director
+108.	In the balance sheet model of the firm: V = D + E, where E stands for:
+-	A) Earnings
+-	B) Expenditure
+-	C) **Equity ✓**      - D) EBIT
+109.	NWC in the balance sheet model stands for:
+-	A) Net Worth Capital
+-	B) **Net Working Capital ✓**
+-	C) New Working Company
+-	D) National Wealth Capital
+110.	The primary market is where:
+-	A) Used securities are traded
+-	B) Only bonds are sold
+-	C) **New issues are sold ✓**      - D) Currency is exchanged
+111.	The secondary market is also known as:
+-	A) Primary exchange
+-	B) Bond market only
+-	C) **Stock exchange ✓**      - D) Money market
+112.	Financial planning considers:      - A) Only short-run plans
+-	B) Only past performance
+-	C) **Both short-run and long-run plans ✓**
+-	D) Government budgets only
+113.	A key element of the basic financial planning model is:
+-	A) Employee headcount
+-	B) Marketing strategy
+-	C) **Sales forecast ✓**      - D) Plant capacity
+114.	Boards of directors help shareholders control management through:
+-	A) Direct employment
+-	B) **Board membership ✓**
+-	C) Share trading
+-	D) Customer feedback
+115.	Poor management performance may trigger:
+-	A) Salary increases
+-	B) **Mergers and acquisitions (M&A) ✓**
+-	C) New product launches     - D) Tax holidays
+116.	A corporation is described as:
+-	A) A natural person
+-	B) A temporary entity
+-	C) **An artificial person with perpetual succession ✓**      - D) A partnership
+117.	The goal of the corporate firm is to:
+-	A) Maximize employee salaries
+-	B) Minimize expenses only
+-	C) **Add value to stockholders ✓**      - D) Expand production
+118.	The Big Truth #1 states that a manager creates value when:
+-	A) Sales exceed costs
+-	B) Employees are satisfied
+-	C) **Return on invested capital > hurdle rate ✓**      - D) Market share increases
+119.	Share price of listed stocks depends on:
+-	A) Historical performance
+-	B) Balance sheet totals only
+-	C) **Future expected performance ✓**      - D) Number of employees
+120.	A manager must choose projects that:
+-	A) Minimize risk absolutely
+-	B) Maximize sales
+-	C) **Maximize present value of cash flows ✓**
+-	D) Reduce debt
+---
+**SECTION I: MIXED — CONCEPTS AND DEFINITIONS**
+121.	The term "gearing" in finance relates to:
+-	A) Marketing risk
+-	B) **Financial leverage/debt ratio ✓**
+-	C) Production efficiency     - D) Employee performance
+122.	EBIT stands for:
+-	A) Equity Before Income Tax
+-	B) **Earnings Before Interest and Tax ✓**
+-	C) Earnings Base in Turnover     - D) Effective Base Interest Tax
+123.	PAT stands for:
+-	A) **Profit After Tax ✓**
+-	B) Payment After Trade     - C) Pre-Assessment Tax      - D) Profit Allocation Terms
+124.	PBT stands for:
+-	A) **Profit Before Tax ✓**
+-	B) Payment Balance Total
+-	C) Primary Business Tax     - D) Profit Based Transfer
+125.	EBITDA includes depreciation and amortisation. EBITDA stands for:
+-	A) Equity Before Interest, Tax, Depreciation, Accounts
+-	B) **Earnings Before Interest, Tax, Depreciation, and Amortisation ✓**
+-	C) Earnings Beyond Investment, Tax, Debt, Assets     - D) Effective Base Income, Trade, Debt, Allowances
+126.	The money market deals in:
+-	A) Long-term securities
+-	B) Equity shares only
+-	C) **Short-term financial instruments ✓**      - D) Real estate
+127.	Capital market deals in:      - A) Short-term funds only
+-	B) **Long-term securities ✓**
+-	C) Foreign currency only
+-	D) Commodities
+128.	Working capital is the difference between:
+-	A) Fixed assets and long-term liabilities
+-	B) **Current assets and current liabilities ✓**
+-	C) Revenue and expenses     - D) Equity and debt
+129.	A firm's capital budgeting decision involves:
+-	A) Managing current liabilities
+-	B) Paying dividends
+-	C) **Allocating capital to long-term assets ✓**
+-	D) Short-term borrowing
+130.	The retained portion of profits is called:
+-	A) Dividend payout
+-	B) **Retention ratio ✓**
+-	C) Capital gain     - D) Net income
+131.	Primary capital markets are where firms issue securities to:
+-	A) Government agencies     - B) Foreign investors only
+-	C) **Investors to raise funds ✓**      - D) Only banks
+132.	Capital gains for shareholders arise from:
+-	A) Receiving dividends
+-	B) Holding bonds
+-	C) **Selling shares at a higher price ✓**      - D) Lending money to firms
+133.	The optimum dividend policy is one that:
+-	A) Pays no dividends
+-	B) Distributes all profits
+-	C) Retains all profits
+-	D) **Maximizes the market value of the firm's shares ✓**
+# FIN 313 CBT QUESTION BANK — MEDIUM MODE
+### Lagos State University | Business Administration 300L
+---
+**SECTION A: FINANCIAL MANAGEMENT CONCEPTS**
+134.	Which of the following best describes the scope of financial management?
+-	A) Only concerned with profit generation
+-	B) **Planning and controlling financial resources to support production, marketing, and finance activities ✓**      - C) Limited to raising equity capital
+-	D) Focuses only on short-term cash management
+135.	The objective of financial management is best reflected in:
+-	A) Maximizing total revenue
+-	B) Minimizing all costs
+-	C) **Maximizing shareholders' wealth as reflected in market value of shares ✓**      - D) Maximizing employee benefits
+136.	What distinguishes financial assets from real assets?
+-	A) Financial assets have physical form; real assets do not     - B) Real assets include bonds and shares
+-	C) **Real assets are physical or intangible property; financial assets are paper instruments like shares and bonds ✓**      - D) Financial assets include machinery and buildings
+137.	The conflict between profitability and liquidity in current asset management means:
+-	A) Higher liquidity always leads to higher profit
+-	B) **Investing too much in current assets reduces profitability, while too little causes illiquidity ✓**      - C) Profit and liquidity are always aligned
+-	D) Illiquidity is never a concern for large firms
+138.	A financial manager must evaluate investments using:
+-	A) Profit only
+-	B) Sales revenue only
+-	C) **Both expected return and risk ✓**      - D) Market share alone
+139.	The cut-off rate in capital budgeting is used to:
+-	A) Determine dividend payments
+-	B) **Compare against prospective returns of new investments ✓**
+-	C) Calculate tax obligations
+-	D) Measure employee performance
+140.	Which statement correctly describes the role of the financial manager?
+-	A) Responsible only for tax management
+-	B) Responsible only for raising equity
+-	C) **Responsible for raising funds, allocating them, profit planning, and understanding capital markets ✓**      - D) Responsible only for accounting records
+141.	The capital market is where firms issue securities to investors. This is known as the:      - A) Secondary market
+-	B) Money market
+-	C) **Primary capital market ✓**      - D) Derivatives market
+142.	Trade in already-issued securities happens in the:
+-	A) Primary market
+-	B) Money market
+-	C) **Secondary market (stock exchange) ✓**
+-	D) Commodities market
+143.	Capital expenditures are also called:
+-	A) Operating expenses
+-	B) Current expenditures
+-	C) **Investment ✓**
+-	D) Dividend payments
+144.	In the balance sheet model: (CA – CL) + FA = E + LT. What does this simplify to?
+-	A) Financial structure = Debt + Equity
+-	B) **NWC + FA = E + LT ✓**
+-	C) V = D only
+-	D) CA = CL + FA
+145.	What is the significance of separating ownership and control in a modern corporation?
+-	A) It eliminates agency problems
+-	B) It improves profitability automatically
+-	C) **It creates agency problems as managers may not act in shareholders' interests ✓**      - D) It increases dividend payments
+146.	How does close monitoring by stakeholders help in an organization?
+-	A) Increases gearing
+-	B) Reduces dividends
+-	C) **Reduces agency problems ✓**      - D) Increases debt financing
+147.	Which of the following is NOT among the Big 5 Truths of financial management?
+-	A) Managers create value when ROIC > hurdle rate
+-	B) Share price depends on future expected performance
+-	C) **Maximizing sales always maximizes firm value ✓**
+-	D) Managers must choose projects that maximize PV of cash flows
+148.	Financial management draws heavily on which discipline for its theoretical concepts?     - A) Sociology
+-	B) Political science
+-	C) **Economics ✓**
+-	D) Engineering
+---
+**SECTION B: FINANCIAL GOALS AND OBJECTIVES**
+149.	Why is profit maximization considered vague as an objective?
+-	A) Because it considers shareholders' interests
+-	B) **Because it is unclear whether it refers to short-term or long-term profit, PBT, PAT, or EBITDA ✓**      - C) Because it is too simple to apply
+-	D) Because it always considers risk
+150.	Satisficing behaviour by managers results in:
+-	A) Optimal shareholder wealth
+-	B) **Satisfactory rather than maximum wealth for shareholders ✓**
+-	C) Immediate dividend payments     - D) Lower agency costs
+151.	Shareholders' wealth is measured by:
+-	A) Book value of equity
+-	B) Total assets of the firm
+-	C) **Market value of the firm's shares ✓**      - D) Net income after tax
+152.	Non-financial objectives of a firm include:
+-	A) Debt minimization
+-	B) Tax avoidance
+-	C) **Growth, diversification, and market leadership ✓**      - D) Equity maximization
+153.	The optimum capital structure is one that:
+-	A) Uses only equity
+-	B) Uses only debt
+-	C) **Maximizes market value of shares and minimizes WACC ✓**      - D) Eliminates all dividends
+154.	When NPV analysis is applied across mutually exclusive projects:
+-	A) Accept all projects with positive NPV
+-	B) Reject all projects regardless of NPV
+-	C) Choose the project with the lowest NPV
+-	D) **Choose the project with the highest NPV ✓**
+155.	What is the core argument of the wealth maximization theory in relation to resource allocation?
+-	A) It promotes wasteful use of resources
+-	B) **It promotes efficient allocation of economic resources ✓**
+-	C) It focuses on employee welfare     - D) It ignores social responsibility
+156.	Incentives like bonuses and share options are given to managers to:
+-	A) Reduce shareholder returns
+-	B) Increase agency costs
+-	C) **Motivate agents to act in the best interest of principals ✓**      - D) Eliminate dividends
+157.	Which of the following leads to the vanishing of agency problems?
+-	A) Hiring more managers
+-	B) Increasing dividends
+-	C) **When managers own the company ✓**
+-	D) Reducing debt
+158.	The stakeholder view of a manager's role may:
+-	A) Always align with shareholder wealth maximization
+-	B) **Compromise with the objective of SWM ✓**
+-	C) Eliminate agency costs
+-	D) Increase profitability automatically
+159.	In theory, the optimum financing mix is where:
+-	A) Debt is zero
+-	B) **Market price per share is maximized ✓**
+-	C) Earnings are retained fully     - D) Dividends are maximized
+160.	Which group bears the greatest risk in a company?
+-	A) Preference shareholders
+-	B) Debenture holders
+-	C) Creditors
+-	D) **Ordinary shareholders ✓**
+161.	The dividend-payout ratio and retention ratio together must equal:      - A) 50% each
+-	B) 200%
+-	C) **100% of profits ✓**      - D) EBIT
+162.	What does the NPV additivity principle mean?
+-	A) NPVs cannot be combined
+-	B) Only negative NPVs are counted
+-	C) **The NPVs of individual projects can be summed to get total firm NPV ✓**      - D) NPV calculations cancel each other out
+---
+**SECTION C: SOURCES AND TYPES OF FINANCE**
+163.	Which of the following correctly pairs the source with its category?
+-	A) Debentures – Short term
+-	B) Trade credits – Long term
+-	C) **Finance lease – Medium term ✓**      - D) Ordinary shares – Short term
+164.	What is the key difference between a finance lease and an operating lease?
+-	A) Operating leases are longer than finance leases
+-	B) Finance leases allow ownership transfer always
+-	C) **Finance leases cover full cost plus finance charge; operating leases are usually shorter and cancellable ✓**      - D) There is no difference
+165.	An "off balance sheet" engagement in finance refers to:
+-	A) Hidden profits
+-	B) Undisclosed liabilities
+-	C) **Finance lease used for financial engineering ✓**      - D) Tax evasion methods
+166.	Acceptance credits fall under which source of finance?
+-	A) Long-term
+-	B) **Short-term ✓**
+-	C) Medium-term
+-	D) Equity financing
+167.	In a "Sale and Lease back" arrangement:
+-	A) The lessee buys the asset outright
+-	B) The company issues shares
+-	C) **A firm sells an asset and leases it back from the buyer ✓**      - D) Assets are donated to creditors
+168.	The PARTS acronym in short-term bank finance refers to characteristics of:
+-	A) Equity shares
+-	B) Debentures
+-	C) **Bank overdraft/loan terms ✓**      - D) Preference shares
+169.	What makes preference shares different from ordinary shares in terms of dividends?
+-	A) Preference dividends are paid out of retained earnings
+-	B) **Preference dividends are fixed and have priority over ordinary dividends ✓**
+-	C) Ordinary shares always pay more dividends     - D) Both types have the same priority
+170.	Which of these factors does NOT directly determine a firm's choice of capital structure?
+-	A) Nature of business
+-	B) Size of the company
+-	C) Legal requirements     - D) **Employee satisfaction ✓**
+171.	Debt factoring helps firms by:
+-	A) Increasing debt burden
+-	B) Reducing equity
+-	C) **Converting receivables to immediate cash ✓**      - D) Increasing fixed assets
+172.	In corporate finance, the goal of financing decisions is:
+-	A) Maximize cost of debt
+-	B) **Determine the best mix of equity and debt (optimal capital structure) ✓**      - C) Minimize equity
+-	D) Eliminate preference shares
+173.	Under what condition would a large company prefer internal sources of finance?
+-	A) When interest rates are low
+-	B) **When it can manage financial requirements from retained earnings or internal reserves ✓**
+-	C) When it wants to increase gearing     - D) When dividends are high
+174.	Government policy affects capital structure because:
+-	A) It always favours equity
+-	B) **It restricts how much can be raised from certain sources and sets promoter contribution ✓**      - C) It eliminates debt financing
+-	D) It determines dividend rates
+175.	Which of the following is NOT a feature of a finance lease?
+-	A) Usually non-cancellable
+-	B) Lessee is responsible for maintenance
+-	C) **Lessor bears all maintenance costs ✓**
+-	D) Covers full cost plus finance charge
+---
+**SECTION D: TIME VALUE OF MONEY — INTERMEDIATE**
+176.	Harry Angel invests $5,000 at 12% per annum compounded quarterly for 5 years. Which formula applies?     - A) FV = C0 x (1 + r)^T
+-	B) FV = C0 x r x T
+-	C) **FV = C0 x (1 + r/m)^(mT) ✓**      - D) PV = CT / (1+r)^T
+177.	Harry Angel's ending wealth is approximately:
+-	A) $7,000
+-	B) $8,000
+-	C) **$9,030.50 ✓**      - D) $10,000
+178.	The effective annual rate is higher than the stated annual rate when:
+-	A) Compounding is annual
+-	B) Interest rates are falling
+-	C) **Compounding occurs more than once a year ✓**      - D) Dividends are paid quarterly
+179.	Bella Daniels receives $10,000 in three years at a discount rate of 8%. Her PV is approximately:      - A) $8,500
+-	B) $9,000
+-	C) **$7,938 ✓**
+-	D) $8,100
+180.	Temi invested $1,000 in ABC Plc, which pays a current dividend of $2 growing at 20% for 2 years. The dividend after 2 years is:      - A) $2.40
+-	B) $2.50
+-	C) **$2.88 ✓**
+-	D) $3.00
+181.	Finance.com's NPV for a $50,000 computer with cash inflows of $25,000, $20,000, $15,000 at 7% is approximately:      - A) -$1,000
+-	B) $0
+-	C) **$3,077.50 ✓**
+-	D) $5,000
+182.	The break-even interest rate in the Dangote tugboat problem where PV = $38,610 and future payment = $50,000 in 3 yearsis:
+-	A) 7%
+-	B) 8%
+-	C) **9% ✓**      - D) 10%
+183.	Mr Dappa's total present value of $2,000 in Year 1 and $5,000 in Year 2 at 6% is approximately:      - A) $6,000
+-	B) $6,500
+-	C) **$6,337 ✓**      - D) $7,000
+184.	When $1,000 is invested at 10% compounded daily, the effective annual rate is approximately:      - A) 10.00%      - B) 10.25%      - C) 10.38%
+-	D) **10.52% ✓**
+185.	In capital budgeting, Finance.com should invest if:
+-	A) PV of costs > PV of benefits
+-	B) NPV < 0
+-	C) **PV of future cash flows > initial cost, i.e., NPV > 0 ✓**      - D) The investment is risk-free
+186.	The formula for PV of a single future cash flow is derived from:
+-	A) Dividend discount model
+-	B) **Discounting the future cash flow by the appropriate interest rate ✓**
+-	C) Adding compounding periods
+-	D) Multiplying FV by the interest rate
+187.	In multi-period compounding, 'T' in the formula FV = C0(1+r)^T represents:
+-	A) Tax rate
+-	B) **Number of periods ✓**
+-	C) Total investment
+-	D) Time preference index
+188.	Isaac's savings of $500 at 7% for 3 years uses which mathematical operation?     - A) Simple addition
+-	B) Subtraction of discount
+-	C) **Compounding — multiplying by (1.07)^3 ✓**      - D) Dividing by interest rate
+189.	When evaluating whether to buy land vs. invest in a bank, the preferred tool is:      - A) Trend analysis
+-	B) Payback period
+-	C) **Present value comparison ✓**      - D) Ratio analysis
+190.	The uncertainty about future cash flows is a reason for:
+-	A) Ignoring discounting
+-	B) Preferring future money
+-	C) **Preferring current money over future money (time preference) ✓**      - D) Avoiding investments
+---
+**SECTION E: FINANCIAL STATEMENT ANALYSIS — INTERMEDIATE**
+191.	Trend analysis helps firms to understand:
+-	A) Only one year's data
+-	B) Current ratios
+-	C) **Upward or downward movement in financial data over multiple periods ✓**      - D) Daily cash flows
+192.	In common size income statement analysis, which figure is taken as the base (100%)?
+-	A) Net profit
+-	B) Total assets
+-	C) **Sales ✓**
+-	D) Gross profit
+193.	A comparative balance sheet is useful because it:
+-	A) Shows only current year figures
+-	B) **Compares balance sheet figures across multiple periods to understand changes ✓**      - C) Replaces ratio analysis
+-	D) Eliminates the need for auditing
+194.	Internal analysis of financial statements is useful for:
+-	A) External investors only
+-	B) Government agencies
+-	C) **Operational performance decisions within the firm ✓**      - D) Loan officers in banks
+195.	Cash flow statements focus on:      - A) Long-term financial position
+-	B) Balance sheet changes only
+-	C) **Short-term financial position — sources and uses of cash ✓**      - D) Retained earnings only
+196.	Which ratio measures how efficiently a firm uses its assets to generate sales?     - A) Liquidity ratio
+-	B) Solvency ratio
+-	C) Profitability ratio
+-	D) **Activity/turnover ratio ✓**
+197.	The fund flow statement shows changes in:
+-	A) Cash position only
+-	B) Sales revenue
+-	C) **Working capital position between two periods ✓**      - D) Fixed asset values
+198.	Profitability ratios measure:
+-	A) Liquidity of current assets
+-	B) Debt obligations
+-	C) **The ability of the firm to generate profits ✓**      - D) Cash flow adequacy
+199.	Which of the following is NOT a technique of financial statement analysis?
+-	A) Ratio analysis
+-	B) Common size analysis
+-	C) Trend analysis
+-	D) **Capital budgeting ✓**
+200.	Solvency ratios help understand:      - A) Short-term obligations
+-	B) Current asset management
+-	C) **How long-term funds are used in the firm ✓**      - D) Revenue generation
+201.	External financial analysis provides:      - A) Comprehensive internal data
+-	B) Confidential managerial insights
+-	C) **Limited information based on published statements ✓**      - D) Full access to all records
+202.	Financial statement analysis helps ascertain:      - A) Future share prices only
+-	B) Employee productivity
+-	C) **The strength and weakness of the firm's financial position ✓**      - D) Market demand for products
+203.	Which Myers' quote relates to financial statement analysis?
+-	A) "Financial statements are tools for profit maximization"
+-	B) **"Financial statement analysis is a study of relationships among financial factors and trends over time" ✓**      - C) "Ratios are the only tools needed"
+-	D) "Cash flow is irrelevant for analysis"
+204.	A static analysis method in financial statement analysis is:
+-	A) Horizontal analysis
+-	B) Trend analysis
+-	C) **Vertical analysis ✓**
+-	D) Comparative analysis
+---
+**SECTION F: CAPITAL STRUCTURE — INTERMEDIATE**
+205.	The NI approach assumes:
+-	A) Corporate taxes exist
+-	B) Debt is more expensive than equity
+-	C) **No corporate taxes, cost of debt < cost of equity, and debt use doesn't change investor risk perception ✓**      - D) The firm has no debt
+206.	Under the NOI approach, a change in capital structure leads to:      - A) Change in total firm value
+-	B) **No change in total firm value or market price of shares ✓**
+-	C) Increase in market price of shares     - D) Decrease in cost of equity
+207.	The Traditional Approach states that Ko (overall cost of capital):
+-	A) Always increases with leverage
+-	B) Is unaffected by leverage
+-	C) **Decreases within reasonable financial leverage, then increases ✓**      - D) Always decreases with more debt
+208.	The assumptions of capital structure theories state that the firm uses only:
+-	A) Equity and preference shares
+-	B) Debt and retained earnings
+-	C) **Debt and shares ✓**
+-	D) Preference and ordinary shares
+209.	Under the NI approach, increasing debt leads to:
+-	A) Reduction in firm value
+-	B) Unchanged firm value
+-	C) Reduction in equity value
+-	D) **Increase in firm value ✓**
+210.	Optimum capital structure is achieved when:
+-	A) Equity is maximized
+-	B) Debt is maximized
+-	C) **WACC is minimized and firm value is maximized ✓**      - D) All financing is through retained earnings
+211.	Which approach argues that the overall cost of capital remains constant regardless of leverage?     - A) Net Income Approach
+-	B) Traditional Approach
+-	C) **Net Operating Income Approach ✓**      - D) Dividend Growth Model
+212.	WACC stands for:
+-	A) Weighted Average Capital Cost
+-	B) **Weighted Average Cost of Capital ✓**
+-	C) Working Asset Capital Calculation     - D) Wealth Adjusted Capital Criteria
+213.	Financial structure differs from capital structure in that:
+-	A) They are the same
+-	B) Financial structure excludes long-term debt
+-	C) Capital structure includes current liabilities
+-	D) **Financial structure includes both capital structure and current liabilities ✓**
+214.	Government policy can restrict capital structure by:
+-	A) Mandating minimum dividend payments
+-	B) Requiring only equity financing
+-	C) **Setting promoter contribution and restricting mobilization of long-term funds ✓**      - D) Fixing interest rates on all loans
+215.	A firm with high gearing has:
+-	A) Mostly equity financing
+-	B) No debt
+-	C) **A high proportion of debt in its capital structure ✓**      - D) Only retained earnings
+216.	Capital structure decision is closely related to:
+-	A) Inventory management
+-	B) Employee compensation
+-	C) **The value of the firm ✓**      - D) Marketing budgets
+217.	In Exercise 1 (ABC Ltd.), the objective is to maximize:
+-	A) Total assets
+-	B) Revenue
+-	C) **Earnings per share (EPS) ✓**
+-	D) Dividends
+218.	ABC Ltd. needs Rs. 30,00,000 for a new factory with expected EBIT of Rs. 5,00,000. Funds above Rs. 12,00,000 borrowedcause market price per share to drop from Rs. 250 to:
+-	A) Rs. 100     - B) Rs. 150      - C) Rs. 180
+-	D) **Rs. 200 ✓**
+---
+**SECTION G: RISK, RETURN & CORPORATE FINANCE**
+219.	The risk-return trade-off implies that:
+-	A) Investors always prefer high-risk investments
+-	B) Risk and return are negatively correlated
+-	C) **Investors require higher expected returns to compensate for higher risk ✓**      - D) Government bonds offer the highest return
+220.	Which type of risk is most relevant in financial management?     - A) Political risk only
+-	B) Inflation risk only
+-	C) **Business and financial risk ✓**      - D) Employee-related risk
+221.	The financial manager's role in risk management includes:
+-	A) Eliminating all risks
+-	B) Ignoring risk in investment decisions
+-	C) **Balancing risk and return in investment and financing decisions ✓**      - D) Transferring all risk to shareholders
+222.	Shareholder wealth is maximized when the financial manager:
+-	A) Accepts all investments regardless of risk
+-	B) Rejects all risky investments
+-	C) **Makes decisions that appropriately balance risk and return ✓**      - D) Focuses only on liquidity
+223.	The CFO's role as Chief Risk Officer involves:
+-	A) Eliminating all borrowing
+-	B) Increasing dividends always
+-	C) **Hedging financial instruments to manage risk ✓**      - D) Reducing staff numbers
+224.	Risk premium in an investment represents:
+-	A) The base return earned by all investors
+-	B) **Additional return required above risk-free rate for bearing risk ✓**      - C) The dividend yield
+-	D) Tax savings on investments
+225.	An investor switching holdings from Company X to Company Y (as in Modigliani-Miller arbitrage example) will benefit if:
+-	A) Company X is more geared
+-	B) **The net income from Company Y is higher after switching ✓**
+-	C) Company Y pays lower dividends
+-	D) Both companies have the same capital structure
+226.	The risk-free rate compensates an investor for:
+-	A) Inflation only
+-	B) Default risk
+-	C) **Time value of money ✓**      - D) Business risk
+227.	Which statement is true about the risk-return graph?
+-	A) It is a horizontal line
+-	B) It shows risk and return as inversely related
+-	C) **It shows a linear upward slope — higher risk leads to higher return ✓**      - D) It shows return is independent of risk
+228.	Capital budgeting decisions involve evaluating future benefits that are:
+-	A) Always certain
+-	B) Guaranteed by government
+-	C) Based only on historical data
+-	D) **Difficult to measure and subject to uncertainty ✓**
+229.	The appropriate discount rate in capital budgeting is based on:
+-	A) Historical profit margins
+-	B) **Risk of the investment and opportunity cost of capital ✓**
+-	C) The inflation rate alone
+-	D) Management preferences
+230.	Financial planning requires firms to prepare:
+-	A) Only budget forecasts
+-	B) **Pro forma statements including balance sheet, income statement, and sources & uses of funds ✓**      - C) Only cash flow statements
+-	D) Only tax returns
+---
+**SECTION H: REVIEW AND APPLIED CONCEPTS**
+231.	The three main scopes of corporate finance are:
+-	A) Planning, organizing, and controlling
+-	B) **Investment, financing, and dividend decisions ✓**
+-	C) HR, IT, and operations
+-	D) Marketing, sales, and production
+232.	In the context of corporate finance, "value creation chain" refers to:
+-	A) Supply chain management
+-	B) **The chain of investment, financing, and dividend decisions that create value ✓**
+-	C) Employee value creation
+-	D) Asset replacement cycle
+233.	The financial planning model requires economic assumptions including:
+-	A) Employee salaries only
+-	B) **Interest rates and foreign exchange rates ✓**
+-	C) Production volumes only     - D) Marketing budgets
+234.	When a CFO communicates with the public to build confidence, this is the role of:      - A) Chief Strategist
+-	B) Chief Risk Officer
+-	C) Chief Deal Maker
+-	D) **Chief Communicator ✓**
+235.	Which of the following is a medium-term source of finance?
+-	A) Trade credit
+-	B) Ordinary shares
+-	C) Bank overdraft
+-	D) **Term loan ✓**
+236.	The phrase "contingency plan" in financial planning means:      - A) Planning for dividends
+-	B) **Having plans in place to avoid financial surprises ✓**
+-	C) Maximizing profits
+-	D) Issuing new shares
+237.	Managers pursuing survival and self-sufficiency goals rather than SWM represents:
+-	A) Good governance
+-	B) Agency benefit
+-	C) **Agency problem ✓**
+-	D) Optimal shareholder outcome
+238.	Which of the following correctly describes the dividend decision?     - A) Deciding how much debt to raise
+-	B) **Deciding what proportion of profits to distribute vs. retain ✓**
+-	C) Deciding where to invest capital     - D) Deciding how to manage current assets
+239.	A firm's finance function is performed:
+-	A) Only at the beginning of the financial year
+-	B) Once per quarter
+-	C) **Simultaneously and continuously in the normal course of business ✓**      - D) Only when there is a financial crisis
+240.	The concept of "perpetual succession" in a corporation means:
+-	A) Shareholders always remain the same
+-	B) Management never changes
+-	C) **The company continues to exist regardless of changes in ownership or management ✓**      - D) Debt is never repaid
+241.	Mergers and acquisitions (M&A) may be triggered by:
+-	A) High dividend payments
+-	B) **Poor management performance ✓**
+-	C) Increased share prices     - D) New product launches
+242.	The scope of financial management includes which three main activities?
+-	A) Planning, organizing, staffing
+-	B) **Production, marketing, finance ✓**
+-	C) Auditing, reporting, compliance     - D) Procurement, logistics, distribution
+243.	The finance function calls for:
+-	A) Only financial reporting
+-	B) Only compliance
+-	C) **Skilful planning, control, and execution of firm activities ✓**      - D) Only investment decisions
+244.	The financial manager determines the "best financing mix." This is the:
+-	A) Dividend decision
+-	B) Investment decision
+-	C) **Financing decision ✓**      - D) Liquidity decision
+245.	In lease vs. buy decisions, the concept applied is:
+-	A) Ratio analysis
+-	B) Trend analysis
+-	C) **Time value of money ✓**      - D) Horizontal analysis
+246.	Which factor among these does NOT affect capital structure?
+-	A) Cost of capital
+-	B) Nature of business
+-	C) **Employee productivity ✓**      - D) Size of the company
+247.	The relationship among the capital structure, cost of capital, and value of the firm is:
+-	A) Capital structure is irrelevant always
+-	B) Only debt matters
+-	C) **Complex and the subject of different theories (NI, NOI, Traditional) ✓**      - D) Always predictable and fixed
+248.	An investor assuming risk must receive:
+-	A) Risk-free rate only
+-	B) Zero return
+-	C) Tax rebate
+-	D) **Risk-free rate + risk premium ✓**
+249.	Financial management theory still has areas of:
+-	A) Complete certainty
+-	B) Universal agreement
+-	C) **Controversy with no unanimous solutions ✓**      - D) No relevance to practitioners
+250.	Which of the following best represents a "state of nature" in financial planning?
+-	A) Daily weather changes
+-	B) **Worst case, normal case, and best case scenarios ✓**
+-	C) Government economic policy
+-	D) Industry average performance
+251.	The statement "maximization of corporate wealth is not necessarily shareholder wealth" suggests:      - A) Corporate and shareholder interests always align
+-	B) **There can be divergence between corporate goals and shareholder wealth maximization ✓**
+-	C) All corporate profits go to shareholders
+-	D) Shareholder wealth depends only on dividends
+252.	"Feasibility" in investment/financing decisions means:
+-	A) The option is the cheapest
+-	B) **The option fits into the overall objective of maximizing shareholder wealth ✓**
+-	C) The option generates the highest revenue     - D) The option is government-approved
+253.	Profitability and liquidity trade-off requires the financial manager to:
+-	A) Always prioritize liquidity
+-	B) Always prioritize profitability
+-	C) **Achieve a proper balance between profitability and liquidity ✓**      - D) Ignore current assets
+254.	Which of the following correctly defines "capital market"?
+-	A) A market for short-term funds
+-	B) **A market for long-term securities including equity and bonds ✓**
+-	C) A government-controlled institution
+-	D) A market exclusively for government bonds
+255.	The retention ratio measures:      - A) Total assets retained
+-	B) Dividends paid to shareholders
+-	C) **The proportion of profits retained in the firm ✓**      - D) Cash held in reserves
+256.	What makes ordinary shareholders "owners of residue"?
+-	A) They receive the highest dividends
+-	B) They have first claim on assets
+-	C) **They receive dividends and asset repayments only after all other obligations are met ✓**      - D) They have no voting rights
+257.	Why do most individuals prefer present money over future money?
+-	A) Future money has higher value
+-	B) **Because of risk, preference for consumption, and investment opportunities ✓**
+-	C) Interest rates are always negative
+-	D) Future inflation reduces present needs
+258.	Which of the following is correctly defined as an "investment decision"?
+-	A) How to distribute profits
+-	B) **Allocation of capital funds to investment proposals to yield future benefits ✓**      - C) How to raise equity
+-	D) Managing working capital
+259.	What is the significance of the phrase "balance act" in dividend decisions?
+-	A) Balancing debt and equity
+-	B) **Balancing dividend payments to investors against the opportunity cost of retained earnings ✓**      - C) Balancing assets and liabilities
+-	D) Balancing income and expenditure
+260.	The financial goal of SWM is considered "normative" because:
+-	A) It is based on historical data
+-	B) **It prescribes what firms should aim for rather than describing what they actually do ✓**      - C) It is a legal requirement
+-	D) It eliminates agency problems
+261.	Which statement best describes "risk-return trade-off"?
+-	A) Higher risk guarantees higher return
+-	B) Lower risk always leads to higher return
+-	C) Risk and return are unrelated
+-	D) **Every financial decision involves balancing potential gains against potential losses ✓**
+262.	A firm investing in government bonds is said to be:
+-	A) Highly risk-seeking
+-	B) **Risk-averse / seeking lower risk ✓**
+-	C) Indifferent to risk
+-	D) Operating at the risk frontier
+263.	The financing decision of a financial manager is guided by:
+-	A) Employee preferences
+-	B) Only equity market conditions
+-	C) Tax law exclusively
+-	D) **When, where from, and how to acquire funds for the firm's investment needs ✓**
+264.	Return on equity (ROE) can depend more on:
+-	A) Actual past earnings
+-	B) The number of shareholders
+-	C) **Changes in expectations rather than realized performance ✓**      - D) Dividend frequency
+265.	Which two major theories explain the relationship between capital structure, cost of capital, and firm value?
+-	A) CAPM and APT
+-	B) **Traditional approach and Modigliani-Miller (NI/NOI frameworks) ✓**
+-	C) Gordon Model and Walter Model     - D) EMH and Portfolio Theory
+266.	How does financial statement analysis by Myres define the subject?
+-	A) A study of profit and loss only
+-	B) **A study of relationships among financial factors within and across financial statements over time ✓**      - C) A focus on external creditors only
+-	D) An evaluation of cash flow exclusively
+267.	The investment decision evaluates two key aspects:
+-	A) Sales revenue and market share
+-	B) **Prospective profitability of new investments and the appropriate cut-off rate ✓**
+-	C) Dividend payout and retention ratio
+-	D) Debt-equity ratio and WACC
+# FIN 313 CBT QUESTION BANK — HARD MODE
+### Lagos State University | Business Administration 300L
+---
+**SECTION A: ADVANCED FINANCIAL MANAGEMENT THEORY**
+268.	Which statement most accurately captures all limitations of profit maximization?
+-	A) It is too focused on long-term gains
+-	B) It always considers the time value of money
+-	C) **It is vague, ignores risk, and fails to account for the timing of returns ✓**      - D) It is too operationally complex for firms
+269.	Shareholder Wealth Maximization (SWM) is considered "theoretically logical and operationally feasible" because:
+-	A) It is the same as profit maximization
+-	B) **It uses NPV which accounts for timing, risk, and magnitude of returns ✓**
+-	C) It guarantees maximum dividends
+-	D) It eliminates agency problems completely
+270.	If Project A has NPV +₦500,000 and Project B has NPV -₦200,000 (independent projects), the correct decision is:      - A) Reject both
+-	B) Accept both
+-	C) **Accept A, reject B ✓**
+-	D) Accept whichever has higher cash flows
+271.	Between two mutually exclusive projects with NPVs of +₦300,000 and +₦450,000, the correct decision is:
+-	A) Accept both since both are positive
+-	B) Accept neither since they are mutually exclusive
+-	C) **Accept the project with NPV +₦450,000 ✓**
+-	D) Accept the one with the lower initial investment
+272.	If Project X has NPV ₦2m and Project Y NPV ₦3m (independent, additive), the firm's total NPV impact is:      - A) ₦1m
+-	B) **₦5m ✓**
+-	C) ₦6m
+-	D) Cannot be determined
+273.	Why is "satisficing" by managers sub-optimal from shareholders' perspective?
+-	A) It maximizes agency costs
+-	B) It eliminates dividends
+-	C) **It creates only satisfactory rather than maximum shareholder wealth ✓**      - D) It ignores debt management
+274.	Agency problems arise fundamentally from:
+-	A) Tax policies
+-	B) Interest rate changes
+-	C) **The separation of ownership and control in modern corporations ✓**      - D) The size of the board of directors
+275.	Agency costs can be reduced by all of the following EXCEPT:      - A) Giving managers stock options
+-	B) Close monitoring by stakeholders and board of directors
+-	C) Offering attractive monetary incentives to managers
+-	D) **Increasing debt financing in the capital structure ✓**
+276.	Managers' personal goals of survival and self-sufficiency conflict with SWM because they tend to:      - A) Increase shareholder dividends excessively
+-	B) **Avoid high investment and financing risks needed to maximize shareholders' wealth ✓**      - C) Always pursue maximum returns
+-	D) Eliminate dividends
+277.	In the context of the wealth maximization principle, what does "sub-optimal allocation of resources" imply for theeconomy?
+-	A) Higher productivity
+-	B) Improved shareholder returns
+-	C) **Grave implications — inefficient use of scarce resources that reduces overall economic output ✓**      - D) Better income distribution
+278.	A financial decision that creates wealth for shareholders must have:
+-	A) NPV = 0
+-	B) NPV < 0
+-	C) **NPV > 0 ✓**
+-	D) A positive internal rate of return only
+---
+**SECTION B: TIME VALUE OF MONEY — ADVANCED CALCULATIONS**
+279.	If the stated annual rate is 24% compounded monthly, Jane Lancet's end-of-year wealth on $1,000 is:      - A) $1,240.00
+-	B) $1,250.00
+-	C) **$1,268.20 ✓**      - D) $1,300.00
+280.	The effective annual yield from the above (24% compounded monthly) is:      - A) 24.00%
+-	B) 25.00%
+-	C) **26.82% ✓**      - D) 28.00%
+281.	What is the effective annual rate if the stated rate is 8% compounded quarterly?     - A) 8.00%
+-	B) 8.10%
+-	C) **8.24% ✓**      - D) 8.50%
+282.	Harry Angel invests $5,000 at 12% compounded quarterly for 5 years. His ending wealth is:      - A) $7,500
+-	B) $8,000
+-	C) **$9,030.50 ✓**      - D) $10,000
+283.	In Harry Angel's problem, which formula correctly applies?
+-	A) FV = C0(1 + r)^T     - B) PV = CT/(1+r)^T
+-	C) **FV = C0(1 + r/m)^(mT) = $5,000 x (1.03)^20 ✓**      - D) FV = C0 + r x T
+284.	If $1,000 is invested at 10% compounded semi-annually for one year, what is the effective annual rate?     - A) 10.00%
+-	B) **10.25% ✓**
+-	C) 10.38%
+-	D) 10.52%
+285.	Temi's dividend of $2 growing at 20% p.a. for 2 years yields approximately:      - A) $2.40
+-	B) $2.50
+-	C) **$2.88 ✓**
+-	D) $3.00
+286.	Finance.com's computer investment of $50,000 generates cash flows of $25,000, $20,000, $15,000 over 3 years at 7%. TheNPV is approximately:
+-	A) -₦1,000
+-	B) ₦0
+-	C) **₦3,077.50 ✓**
+-	D) ₦5,000
+287.	Using the PV data in the Finance.com problem: Year 1 CF=$25,000 x 0.9346, Year 2 CF=$20,000 x 0.8734, Year 3 CF=$15,000 x 0.8163. What is the sum of PVs of inflows?
+-	A) $50,000
+-	B) $52,000
+-	C) **$53,077.50 ✓**      - D) $55,000
+288.	Dangote's tugboat problem: if PV = $38,610 and FV = $50,000 in 3 years, solving for r gives:      - A) 7%
+-	B) 8%
+-	C) **9% ✓**
+-	D) 10%
+289.	Mr Dappa's lottery cash flows of $2,000 (Year 1) and $5,000 (Year 2) at 6% discount rate give a total PV of:      - A) $6,000
+-	B) $6,200
+-	C) **$6,337 ✓**
+-	D) $7,000
+290.	Ada should NOT buy the land (cost ₦85,000, future value ₦91,000 in 1 year, bank rate 10%) because:      - A) The land is too cheap
+-	B) The bank rate is too high
+-	C) **The PV of land (₦82,727) < purchase price (₦85,000); bank yields ₦93,500 which is better ✓**      - D) Investing in land is always suboptimal
+291.	When compounding frequency increases from annual to daily at the same stated rate, the ending wealth:      - A) Decreases
+-	B) Stays the same
+-	C) **Increases due to more frequent reinvestment of interest ✓**      - D) Becomes unpredictable
+292.	If $1,000 is compounded quarterly at 10%, the effective annual rate is approximately:
+-	A) 10.00%
+-	B) 10.25%
+-	C) **10.38% ✓**      - D) 10.52%
+293.	The general formula for effective annual rate (EAR) given m compounding periods is:
+-	A) (r/m)^m
+-	B) **(1 + r/m)^m – 1 ✓**
+-	C) (1 + r)^m
+-	D) r x m – 1
+294.	A discount rate is used in capital budgeting to reflect:
+-	A) Only inflation
+-	B) Only risk
+-	C) **The opportunity cost of capital and riskiness of the cash flows ✓**      - D) Government interest rate policy
+---
+**SECTION C: CAPITAL STRUCTURE THEORIES — ADVANCED**
+295.	According to the Net Income (NI) approach, increasing financial leverage (debt):
+-	A) Increases the overall cost of capital and decreases firm value
+-	B) Has no effect on firm value
+-	C) **Decreases overall cost of capital and increases firm value ✓**      - D) Increases equity cost only
+296.	The NI approach assumes which critical condition?
+-	A) Cost of debt = Cost of equity
+-	B) Corporate taxes are at 50%
+-	C) **Cost of debt < cost of equity, and debt use doesn't increase investor risk perception ✓**      - D) Debt has no fixed cost
+297.	The Net Operating Income (NOI) approach argues that:
+-	A) Firm value increases with debt
+-	B) Cost of equity remains constant with leverage
+-	C) **Capital structure changes do not affect total firm value or market price of shares ✓**      - D) WACC decreases with more debt
+298.	Under the NOI approach, as debt increases:
+-	A) Cost of equity stays constant and WACC falls
+-	B) **Cost of equity rises proportionally, keeping WACC constant ✓**
+-	C) WACC increases with more debt     - D) Firm value increases
+299.	The Traditional Approach to capital structure argues that there is:
+-	A) No optimum capital structure
+-	B) **An optimum range of debt where WACC is minimized and firm value maximized ✓**
+-	C) A constant WACC regardless of leverage
+-	D) No relationship between debt and firm value
+300.	According to capital structure theory assumptions, if EBIT (operating income) is not expected to grow, then:      - A) Dividends will always increase
+-	B) Equity value must increase
+-	C) **The value of the firm depends purely on the capitalization rate applied ✓**      - D) The firm should issue more shares
+301.	In Exercise 2 (Compute market value of firm): with net operating income of Rs.1,00,000, total investment of Rs.5,00,000,and equity capitalization rate of 10% (no debt), the market value of the firm is:      - A) Rs.5,00,000
+-	B) Rs.8,00,000
+-	C) **Rs.10,00,000 ✓**
+-	D) Rs.12,00,000
+302.	When a firm uses Rs.25,000 debentures at 6% with equity cap rate 11% (NOI = Rs.1,00,000), EBIT after interest isapproximately Rs.98,500. Under NI approach, firm value:
+-	A) Stays at Rs.10,00,000
+-	B) **Increases above Rs.10,00,000 ✓**
+-	C) Falls below Rs.10,00,000     - D) Cannot be determined
+303.	The Modigliani-Miller arbitrage process (Exercise 7 — Companies X and Y) demonstrates:
+-	A) That firm value is always the same regardless of capital structure
+-	B) That investors cannot arbitrage between firms
+-	C) **That investors will switch holdings to exploit price discrepancies between levered and unlevered firms until equilibriumis restored ✓**
+-	D) That debt is always preferable to equity
+304.	In ABC Ltd. Exercise 1, the tax rate is 50% and EBIT is Rs.5,00,000. If debt is Rs.3,00,000 at 8%, interest is Rs.24,000. EBTis:
+-	A) Rs.4,50,000
+-	B) Rs.4,80,000
+-	C) **Rs.4,76,000 ✓**
+-	D) Rs.5,00,000
+305.	In ABC Ltd. Exercise 1, after paying tax of 50% on EBT of Rs.4,76,000, earnings available to equity shareholders (EAT) is:      - A) Rs.2,00,000
+-	B) **Rs.2,38,000 ✓**
+-	C) Rs.2,50,000
+-	D) Rs.3,00,000
+306.	In the context of capital structure, EBIT is synonymous with:
+-	A) Profit Before Tax
+-	B) Net Income
+-	C) **Net Operating Income (NOI) ✓**      - D) EBITDA
+307.	The Traditional Approach states Ko (WACC) behaviour as leverage increases follows which pattern?     - A) Monotonically decreasing
+-	B) Monotonically increasing
+-	C) **U-shaped — decreases to a minimum then increases ✓**      - D) Constant throughout
+308.	If market price per share falls from Rs.250 to Rs.200 when debt exceeds Rs.12,00,000 (ABC Ltd.), this reflects:
+-	A) Improved profitability
+-	B) **Increased financial risk perceived by investors beyond the optimal debt level ✓**      - C) Reduction in dividends
+-	D) Change in government policy
+---
+**SECTION D: FINANCIAL STATEMENT ANALYSIS — ADVANCED**
+309.	Which of the following statements best describes the difference between fund flow and cash flow statements?
+-	A) They are identical in purpose
+-	B) Fund flow focuses on cash only; cash flow focuses on working capital
+-	C) **Fund flow shows working capital changes; cash flow shows changes in cash and cash equivalents ✓**      - D) Neither reconciles with the balance sheet
+310.	The cash flow statement reconciles:
+-	A) Revenue with expenses
+-	B) Assets with liabilities
+-	C) **Operating, investing, and financing cash flows with changes in cash and cash equivalents ✓**      - D) Retained earnings with dividends
+311.	Trend analysis uses which base reference for computing percentages?
+-	A) Current year figures
+-	B) Industry average
+-	C) **A designated base year treated as 100 ✓**
+-	D) The most profitable year
+312.	In common size balance sheet analysis, if total assets = ₦10m and trade receivables = ₦2m, the common size percentageis:
+-	A) 10%
+-	B) 15%
+-	C) **20% ✓**
+-	D) 25%
+313.	Which analysis method is most useful for comparing a firm's performance against its own historical records over multipleyears?
+-	A) Vertical analysis
+-	B) Common size analysis
+-	C) **Horizontal/trend analysis ✓**      - D) External analysis
+314.	A current ratio < 1 signals:
+-	A) High profitability
+-	B) Adequate long-term solvency
+-	C) **Current liabilities exceed current assets — potential short-term liquidity problem ✓**      - D) Low leverage
+315.	An activity ratio (turnover ratio) measures:
+-	A) How much profit is earned per unit
+-	B) The debt-equity ratio
+-	C) **How efficiently assets are being used to generate sales ✓**      - D) Long-term debt obligations
+316.	The statement of changes in owner's equity shows:
+-	A) Cash inflows and outflows
+-	B) Long-term debt changes
+-	C) **How retained earnings are employed and changes in owner's equity ✓**      - D) Changes in fixed assets
+317.	Why is internal financial analysis considered more comprehensive than external analysis?     - A) It uses only published data
+-	B) It is easier to perform
+-	C) **It accesses internal management reports and confidential records, not just published statements ✓**      - D) It is performed by government agencies
+318.	The income statement covers:
+-	A) All-time financial position
+-	B) **One accounting period — typically one year ✓**
+-	C) The firm's asset position at a point in time     - D) Changes in equity over multiple years
+319.	Comparative profit and loss account analysis can be performed on:
+-	A) Balance sheet data only
+-	B) External information only
+-	C) **Horizontal or vertical basis to compare operational performance ✓**      - D) Cash flow data only
+320.	Which of the following best explains why common size analysis converts all figures to percentages?
+-	A) To make figures look bigger
+-	B) **To allow comparison across firms of different sizes by eliminating absolute differences ✓**      - C) To replace ratio analysis entirely
+-	D) To satisfy tax requirements
+---
+**SECTION E: SOURCES OF FINANCE — ADVANCED**
+321.	In a "Sale and Lease back" transaction, the firm simultaneously:
+-	A) Buys an asset and leases it to a third party
+-	B) **Sells an asset to raise cash and leases it back to continue using it ✓**
+-	C) Issues shares to buy an asset     - D) Converts debt into equity
+322.	Which of the following best explains why HP and leases conserve liquidity?
+-	A) They eliminate financing costs
+-	B) They increase retained earnings
+-	C) **They spread the cost of acquiring assets over time rather than requiring full upfront payment ✓**      - D) They are government-funded
+323.	In ranking sources of finance by time horizon, which of the following sequences is CORRECT?
+-	A) Debentures (short), Term loan (long), Trade credit (medium)
+-	B) **Trade credit (short), Term loan (medium), Ordinary shares (long) ✓**
+-	C) Finance lease (short), Ordinary shares (medium), Bank overdraft (long)     - D) Retained earnings (short), Debentures (medium), Trade credit (long)
+324.	An "acceptance credit" is best described as:
+-	A) A long-term bond
+-	B) **A short-term credit facility where a bank accepts liability for trade bills ✓**
+-	C) A preference share mechanism     - D) A government grant
+325.	A floating charge (in the context of loan stock/debentures) means:
+-	A) The interest rate floats with the market
+-	B) **The charge applies to a class of assets that change over time (e.g., stock in trade) ✓**      - C) The debenture is traded on the stock exchange
+-	D) The firm floats new shares
+326.	Under which condition would a company in Nigeria be restricted by legal requirements in choosing its capital structure?
+-	A) When the firm is profitable
+-	B) **When the firm is in a regulated industry, e.g., banking, which is restricted from certain funding sources ✓**      - C) When the firm pays high dividends      - D) When the firm is privately held
+327.	The key risk associated with a high proportion of long-term debt (loan stock/debentures) in a firm's capital structure is:      - A) Dilution of equity
+-	B) Reduction in dividends only
+-	C) **Increased gearing/leverage risk and potential receivership in case of default ✓**      - D) Higher equity cost only
+328.	Ordinary preference and cumulative preference shares differ primarily in:
+-	A) The voting rights attached
+-	B) **The right of cumulative preference shareholders to receive arrears of unpaid dividends before ordinary shareholders
+✓**
+-	C) Their time horizon as a source of finance     - D) Their tax treatment
+329.	Debentures represent:
+-	A) Equity ownership in a company
+-	B) **A written acknowledgment of debt, secured by fixed or floating charges ✓**
+-	C) Preference shares with fixed dividends     - D) Retained earnings of the firm
+330.	Why might a small company prefer external finance over internal sources?
+-	A) Because it has large retained earnings
+-	B) **Because it cannot generate sufficient internal funds to meet its capital requirements ✓**
+-	C) Because external finance is cheaper
+-	D) Because legal requirements mandate it
+---
+**SECTION F: ADVANCED RISK AND CORPORATE FINANCE**
+331.	The risk-return trade-off in financial decision-making implies that the financial manager must:      - A) Eliminate all financial risk
+-	B) Accept only risk-free investments
+-	C) **Maintain a proper balance between risk and return to maximize share market value ✓**      - D) Always choose the highest-return project regardless of risk
+332.	Which statement about risk-free rate is most accurate?
+-	A) It is a market-determined rate that fluctuates daily
+-	B) It includes a risk premium
+-	C) **It is obtainable from default risk-free government securities and compensates for time only ✓**      - D) It applies only to corporate bonds
+333.	In capital budgeting, the concept of a "hurdle rate" refers to:
+-	A) The dividend yield required by shareholders
+-	B) The current bank lending rate
+-	C) **The minimum acceptable rate of return that an investment must exceed to create value ✓**      - D) The rate at which debt is issued
+334.	A manager creates value for shareholders when:
+-	A) Sales revenue increases
+-	B) Net profit increases
+-	C) Employee costs are cut
+-	D) **Return on invested capital (ROIC) > hurdle rate ✓**
+335.	The CFO's role as "Chief Risk Officer" is primarily concerned with:
+-	A) Reducing all debt in the firm
+-	B) Increasing dividends to shareholders
+-	C) **Hedging financial instruments to manage and mitigate financial risks ✓**      - D) Recruiting experienced managers
+336.	In a financial planning scenario, which of the following is the LEAST relevant factor?
+-	A) Sales forecast
+-	B) Economic assumptions (interest rates, forex rates)
+-	C) **Employee satisfaction scores ✓**      - D) Pro forma financial statements
+337.	The "worst case, normal case, and best case" scenarios in financial planning represent:
+-	A) Three different companies in the same industry
+-	B) **Different states of nature used to test the robustness of a financial plan ✓**
+-	C) Three historical periods of performance     - D) Management's personal preferences
+338.	Fear of replacement due to labour competition motivates managers to:      - A) Take excessive risks
+-	B) Raise more debt
+-	C) **Perform in the interests of shareholders to avoid being replaced ✓**      - D) Increase dividend payments
+339.	How does poor managerial performance ultimately trigger disciplinary action through the market?     - A) Through government audits
+-	B) Through shareholder lawsuits only
+-	C) **Through takeovers or mergers and acquisitions (M&A) where underperforming management is replaced ✓**      - D) Through central bank intervention
+340.	Return on equity may depend more on change in expectations than realized performance because:
+-	A) Accounting earnings are always accurate
+-	B) **Stock prices are forward-looking and are driven by changes in expected future performance ✓**      - C) ROE is a backward-looking measure      - D) Past dividends determine ROE
+---
+**SECTION G: INTEGRATED AND ANALYTICAL QUESTIONS**
+341.	A firm has capital structure of 40% debt at 10% and 60% equity at 14%. What is the approximate WACC (assume no tax)?     - A) 10%
+-	B) 11%
+-	C) **12.4% ✓**
+-	D) 14%
+     *(Calculation: 0.40×10% + 0.60×14% = 4% + 8.4% = 12.4%)*
+342.	If a firm with optimum capital structure has WACC of 12% and generates EBIT of ₦600,000 perpetually, the value of thefirm is approximately:
+-	A) ₦4,000,000
+-	B) **₦5,000,000 ✓**
+-	C) ₦6,000,000     - D) ₦7,200,000
+     *(Calculation: V = EBIT/WACC = 600,000/0.12 = ₦5,000,000)*
+343.	Under the NI approach with EBIT of Rs.1,00,000, total investment Rs.5,00,000, and equity cap rate of 10% (no debt), what isthe firm value?
+-	A) Rs.5,00,000
+-	B) Rs.8,00,000
+-	C) **Rs.10,00,000 ✓**
+-	D) Rs.15,00,000
+     *(V = NOI/equity cap rate = 1,00,000/0.10 = 10,00,000)*
+344.	In the same Exercise 2, if Rs.4,00,000 debentures are raised at 7% with equity cap rate of 13%, interest = Rs.28,000. NOIafter interest = Rs.72,000. Equity value = 72,000/0.13. Total firm value = Equity + Debt. Which value is approximately correct?      - A) Rs.9,00,000
+-	B) **Rs.9,53,846 ✓**
+-	C) Rs.11,00,000     - D) Rs.8,00,000
+     *(Equity = 72,000/0.13 = Rs.5,53,846; V = 5,53,846 + 4,00,000 = Rs.9,53,846)*
+345.	The effective annual rate formula (1 + r/m)^m – 1 equals 10% when r is 10% and m=1. What does it equal when m=2 (semi-annual) at r=10%?
+-	A) 10.00%
+-	B) **10.25% ✓**
+-	C) 10.38%     - D) 10.52%
+     *(EAR = (1 + 0.10/2)^2 – 1 = (1.05)^2 – 1 = 1.1025 – 1 = 10.25%)*
+346.	If $500 is invested at 7% annually for 3 years, the FV using the compound formula is:      - A) $600
+-	B) $610
+-	C) **$612.52 ✓**
+-	D) $620
+     *(FV = 500 × (1.07)^3 = 500 × 1.2250 = $612.52)*
+347.	Present value of $10,000 received in 3 years at 8% discount rate:      - A) $8,000
+-	B) $8,500
+-	C) **$7,938 ✓**
+-	D) $8,200
+     *(PV = 10,000/(1.08)^3 = 10,000/1.2597 = $7,938)*
+348.	ABC Ltd. needs Rs.30,00,000. If debt of Rs.3,00,000 is raised at 8% and remaining Rs.27,00,000 from shares at Rs.250 each, the number of shares issued is:      - A) 10,000 shares
+-	B) 11,000 shares
+-	C) **10,800 shares ✓**
+-	D) 12,000 shares
+     *(27,00,000 / 250 = 10,800 shares)*
+349.	A common size income statement shows administration costs = ₦500,000 and sales = ₦5,000,000. The common sizepercentage of administration costs is:
+-	A) 5%
+-	B) **10% ✓**
+-	C) 15%
+-	D) 20%
+350.	A firm's current assets = ₦8m, current liabilities = ₦5m. Net Working Capital (NWC) is:      - A) ₦13m
+-	B) ₦5m     - C) ₦8m
+-	D) **₦3m ✓**
+     *(NWC = CA – CL = 8m – 5m = ₦3m)*
+---
+**SECTION H: CONCEPTUAL DEPTH AND CRITICAL THINKING**
+351.	Why does profit maximization fail to serve as an operational criterion even though it appears objective?     - A) Because it requires complex mathematical models
+-	B) **Because it cannot rank alternative courses of action in terms of economic efficiency due to its vagueness anddisregard for risk and timing ✓**
+-	C) Because shareholders do not care about profit     - D) Because it is a long-term concept
+352.	How does SWM overcome the limitations of profit maximization?
+-	A) It ignores risk entirely
+-	B) It focuses only on dividends
+-	C) **It uses NPV which accounts for timing of cash flows, risk, and magnitude, and it is unambiguous ✓**      - D) It maximizes short-term earnings
+353.	What is the fundamental reason why a corporation has "perpetual succession"?     - A) Its assets never depreciate
+-	B) **It is an artificial legal person whose existence is independent of its shareholders or directors ✓**      - C) It always generates profits
+-	D) Its debts are forgiven after 99 years
+354.	The stakeholders' view of manager role differs from SWM in that:
+-	A) It focuses exclusively on profit
+-	B) **It tries to reconcile the conflicting objectives of multiple stakeholders, which may compromise maximum shareholderwealth ✓**
+-	C) It ignores creditors and employees
+-	D) It always leads to higher dividends
+355.	Critically, what makes the NOI approach's conclusion about capital structure irrelevance controversial?     - A) It assumes zero corporate taxes which is unrealistic
+-	B) **It assumes rational investors with perfect information can arbitrage away any price differences, ignoring marketimperfections and taxes ✓**
+-	C) It assumes only equity financing     - D) It was developed in the 1960s
+356.	In the Traditional Approach, why does Ko eventually RISE after a certain debt level?
+-	A) Because interest rates fall
+-	B) **Because beyond the optimal point, financial risk increases sharply, raising the cost of equity faster than the benefit ofcheaper debt ✓**
+-	C) Because retained earnings decrease     - D) Because dividends increase
+357.	What critical information does a comparative income statement analysis reveal that a single-year analysis cannot?
+-	A) The exact share price
+-	B) **How operational performance and cost structures have changed over time ✓**      - C) The total assets of the firm      - D) The dividend payout ratio
+358.	Why does a finance lease qualify as "off-balance sheet" financing?
+-	A) The asset appears on the lessor's balance sheet only
+-	B) **Under certain accounting treatments, lease obligations may not be recorded as liabilities on the lessee's balance sheet,understating leverage ✓**
+-	C) There is no financial obligation involved
+-	D) The lease is paid from retained earnings
+359.	Jensen and Meckling (1976) defined agency costs as including monitoring costs. Monitoring costs are primarily borne by:
+-	A) Government regulators
+-	B) Creditors
+-	C) **Shareholders (principals) ✓**
+-	D) Managers
+360.	The phrase "divorce between management and ownership" implies which of the following for financial managementtheory?
+-	A) Companies cannot raise equity
+-	B) Managers always act in shareholders' best interests
+-	C) **Managers may pursue personal goals that diverge from maximizing shareholder wealth ✓**      - D) Dividends are always paid out in full
+361.	What is the significance of the "cut-off rate" in capital budgeting?     - A) It is the maximum interest rate on debt
+-	B) **It is the benchmark return against which new investment proposals are compared — projects below it are rejected ✓**      - C) It is the dividend yield required by shareholders
+-	D) It determines working capital requirements
+362.	Why must a financial manager "estimate the firm's needs for current assets" carefully?
+-	A) To maximize dividends
+-	B) **To avoid illiquidity (insufficient current assets) while also avoiding idle/unprofitable excess current assets ✓**      - C) To issue new shares
+-	D) To reduce corporate taxes
+363.	How does gearing (financial leverage) amplify both returns and risk for ordinary shareholders?     - A) It only increases risk with no return benefit      - B) It reduces the cost of equity
+-	C) **Fixed interest payments on debt mean that after paying debt holders, remaining profits (gains or losses) are magnifiedfor equity holders ✓**
+-	D) It eliminates preference dividends
+364.	What is the central criticism of the satisficing theory (Cyert & March) as a firm objective?     - A) It is too focused on shareholder wealth      - B) It ignores employee welfare
+-	C) **It is vague and does not specify what level of satisfaction is optimal, making it non-operational ✓**      - D) It considers too many variables
+365.	Which of the following best explains why a firm's capital structure decision is "closely related to the value of the firm"?
+-	A) Capital structure determines the level of dividends
+-	B) **The mix of debt and equity affects WACC, which is used to discount future cash flows — a lower WACC increases firmvalue ✓**
+-	C) Capital structure determines sales revenue
+-	D) Capital structure determines employee compensation
+366.	The concept of "financial engineering" using finance leases suggests that firms use leases to:
+-	A) Avoid all taxes
+-	B) Increase retained earnings
+-	C) **Manage their balance sheet presentation by keeping debt obligations off the balance sheet ✓**      - D) Increase shareholder wealth directly
+367.	Under what scenario might a high dividend payout HARM shareholder wealth?
+-	A) When shareholders need income
+-	B) When the firm has no profitable projects
+-	C) **When retained earnings could be reinvested in positive NPV projects that would create more wealth than the dividendpaid out ✓**
+-	D) When interest rates are low
+368.	In financial planning, what is the purpose of "pro forma statements"?
+-	A) To replace actual financial statements
+-	B) **To project future financial position and performance under different scenarios ✓**      - C) To comply with tax regulations      - D) To calculate historical ratios
+369.	Why is the "risk premium" above the risk-free rate logically required in a market economy?
+-	A) Because government mandates it
+-	B) **Because rational investors will only accept additional risk if compensated with additional expected return ✓**      - C) Because it reduces the cost of equity
+-	D) Because it is required by accounting standards
+370.	Which of the following financial decisions directly affects both the risk and return profile of a firm simultaneously?     - A) Dividend decision alone
+-	B) Liquidity decision alone
+-	C) **Investment decision — because committing to a project determines future cash flows and risk exposure ✓**      - D) Working capital management alone
+---
+**SECTION I: FINAL STRETCH — MIXED HARD QUESTIONS**
+371.	Under the NI approach, if a firm substitutes cheap debt for equity:
+-	A) WACC increases
+-	B) Firm value decreases
+-	C) **WACC decreases and firm value increases ✓**      - D) Nothing changes
+372.	Cyert and March's satisficing theory (1963) suggests that firms:
+-	A) Always maximize shareholder wealth
+-	B) Only care about profits
+-	C) **Attempt to satisfy multiple stakeholder groups rather than maximizing any single objective ✓**      - D) Minimize all costs
+373.	In the NOI approach, what happens to cost of equity (Ke) as financial leverage increases?     - A) Ke stays constant      - B) Ke decreases
+-	C) **Ke rises proportionally to offset the benefit of cheaper debt, keeping WACC constant ✓**      - D) Ke becomes equal to Kd
+374.	Which one of the following statements about cumulative preference shares is correct?     - A) They have variable dividend rates
+-	B) They are classified as short-term finance
+-	C) **Unpaid dividends accumulate and must be paid before ordinary dividends ✓**      - D) They rank after ordinary shareholders in liquidation
+375.	A firm with excessive current assets relative to current liabilities will likely have:      - A) High liquidity risk
+-	B) Insolvency risk
+-	C) **Low profitability due to idle current assets ✓**      - D) High gearing
+376.	If a project yields an IRR greater than WACC, the project should be:
+-	A) Rejected
+-	B) **Accepted ✓**
+-	C) Deferred
+-	D) Restructured
+377.	The formula V = D + E (where V = value of the firm, D = debt, E = equity) forms the basis of:
+-	A) Ratio analysis
+-	B) Financial statement analysis
+-	C) **The balance sheet model of the firm in corporate finance ✓**      - D) Common size analysis
+378.	An "optimum dividend-payout ratio" as defined in FIN 313 means:
+-	A) Always paying out 100% of profits
+-	B) Never paying dividends
+-	C) **The dividend payout that maximizes the market value of the firm's shares ✓**      - D) Paying 50% of profits as dividends
+379.	The principle that "the more a manager invests in projects with returns higher than cost of capital, the bigger the firmvalue" is related to:
+-	A) Profit maximization
+-	B) **NPV and value creation — Big Truth #2 ✓**
+-	C) Dividend decision
+-	D) Capital structure irrelevance
+380.	Why is financial management relevant to both academicians and practising managers?
+-	A) Because it deals only with mathematical computations
+-	B) **For academicians — the field is still evolving with unresolved debates; for managers — financial decisions are amongthe most crucial decisions affecting firm performance ✓**
+-	C) Because it is a compulsory course
+-	D) Because it replaced economics entirely
+381.	A firm's financing decision is considered optimum when:
+-	A) Total debt is minimized
+-	B) Total equity is maximized
+-	C) **The capital structure maximizes the market value of the firm's shares (and typically minimizes WACC) ✓**      - D) The firm has no preference shares
+382.	Which of the following correctly explains "receivership" in relation to debentures?
+-	A) The debenture holder receives dividends
+-	B) **If a firm defaults on secured debentures, a receiver may be appointed by debenture holders to recover their funds ✓**      - C) The firm buys back its debentures
+-	D) The government takes over the firm
+383.	Capital budgeting decisions are described as "capital expenditures" because:
+-	A) They involve only small amounts
+-	B) **They involve significant commitment of capital to long-term assets expected to generate future benefits ✓**      - C) They are funded only from equity
+-	D) They are short-term in nature
+384.	The "investment opportunities" reason for time preference for money means:
+-	A) Future money is always better
+-	B) **Present cash can be invested now to generate even more cash in the future ✓**      - C) Investors prefer saving to investing      - D) Interest rates are irrelevant
+385.	Under the Traditional Approach to capital structure, an "intermediate approach" integrates which views?
+-	A) Agency theory and dividend irrelevance
+-	B) **Net Income (NI) and Net Operating Income (NOI) approaches ✓**
+-	C) CAPM and APT models
+-	D) Gordon and Walter models
+386.	If a financial manager makes decisions that have positive NPV but negative social consequences, this highlights thetension between:
+-	A) Short-term and long-term profitability
+-	B) **Shareholder wealth maximization and corporate social responsibility ✓**
+-	C) Dividend policy and retained earnings     - D) Liquidity and solvency
+387.	The concept of "contingency planning" in financial planning is intended to:
+-	A) Maximize expected returns
+-	B) Eliminate uncertainty
+-	C) **Prepare the firm to respond effectively to unexpected events and avoid financial surprises ✓**      - D) Reduce dividend payments
+388.	In the context of FIN 313, why is understanding capital markets essential for the financial manager?
+-	A) To avoid raising any funds externally
+-	B) **To know how to raise funds efficiently and understand how the market values the firm's securities ✓**      - C) To eliminate equity financing
+-	D) To determine tax obligations
+389.	The phrase "efficient allocation of economic resources" in the context of wealth maximization refers to:
+-	A) Reducing waste in production
+-	B) **Directing capital to its highest-valued uses, ensuring society's scarce resources generate maximum output ✓**      - C) Minimizing employee headcount
+-	D) Maximizing government revenue
+390.	In the balance sheet model, the equation (CA – CL) + FA = E + LT expresses that:      - A) Total assets = Total equity
+-	B) Current assets must exceed long-term assets
+-	C) **Net Working Capital plus Fixed Assets equals Equity plus Long-term Debt (the firm's capital structure) ✓**      - D) Current assets equal current liabilities always
+391.	A key assumption that LIMITS the applicability of capital structure theories to the real world is:      - A) Investors are irrational
+-	B) Only equity is used
+-	C) **No corporate taxes, perfect markets, no growth in EBIT, 100% dividend payout — all unrealistic assumptions ✓**
+-	D) The firm is always profitable
+392.	The claim that "ordinary shareholders are owners of residue" has implications for their expected return. This implies:      - A) They always earn the lowest return
+-	B) They always earn the highest return
+-	C) **Their returns are uncertain and variable — they bear the highest risk, so they require the highest expected return ✓**      - D) Their returns are guaranteed by law
+393.	A financial manager implementing SWM in practice must consider all of the following EXCEPT:      - A) The NPV of investment proposals
+-	B) The appropriate capital structure
+-	C) The dividend-payout policy
+-	D) **The personal investment preferences of individual shareholders ✓**
+394.	Under the NOI approach, the total value of the firm is determined by:
+-	A) Equity capitalization rate only
+-	B) Amount of debt only
+-	C) **Capitalizing operating income (NOI/EBIT) at the overall capitalization rate (Ko), regardless of capital structure ✓**
+-	D) Dividend yield
+395.	The risk of illiquidity in extreme situations can lead to:
+-	A) Higher dividends
+-	B) Increased share price     - C) **Firm insolvency ✓**      - D) Lower gearing
+396.	In evaluating investment proposals, two critical aspects are (1) evaluating prospective profitability and (2):
+-	A) Determining dividend policy
+-	B) **Establishing a cut-off rate to compare against prospective returns ✓**      - C) Raising additional equity
+-	D) Preparing cash flow statements
+397.	Which of the following BEST explains why profit maximization developed as an objective in early 19th century business?     - A) It was government-mandated
+-	B) It suited multinational companies
+-	C) **Business was characterised by self-financing, private property, and single entrepreneurship — making owner wealthand profit maximization equivalent ✓**      - D) Capital markets did not exist
+398.	A "pro forma balance sheet" in financial planning is essentially:
+-	A) The previous year's actual balance sheet     - B) A tax document
+-	C) **A projected balance sheet showing expected asset requirements and financing arrangements ✓**      - D) An audited financial statement
+399.	The ultimate goal of integrating investment, financing, and dividend decisions is to:
+-	A) Maximize individual manager bonuses
+-	B) Satisfy all regulatory requirements     - C) Minimize all forms of risk
+-	D) **Maximize the overall market value of the firm's shares — Shareholder Wealth Maximization ✓**
+400.	Which of the following scenarios most comprehensively illustrates the risk-return trade-off, agency problems, and capitalstructure considerations simultaneously?      - A) A firm choosing between two suppliers
+-	B) **A firm deciding whether to issue high-yield bonds to finance a risky acquisition — balancing potential returns toshareholders against financial risk, while managers may be motivated by self-interest (empire building) rather than SWM ✓**      - C) A firm preparing its annual report
+-	D) A firm hiring new employees

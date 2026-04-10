@@ -1,0 +1,1021 @@
+﻿
+BUA 319 - E-COMMERCE (250 CBT PRACTICE QUESTIONS)
+
+STAGE 1: EASY (Questions 1-85)
+
+Module 1: Overview of E-Commerce
+
+1. What does "E" in E-commerce stand for?
+A) Economic
+B) Electronic
+C) Exchange
+D) Enterprise
+Answer: B
+
+2. E-commerce refers to the buying and selling of goods and services over the:
+A) Telephone
+B) Internet
+C) Television
+D) Radio
+Answer: B
+
+3. The first wave of e-commerce occurred during which period?
+A) 1990-1995
+B) 1995-2000
+C) 2000-2005
+D) 2005-2010
+Answer: B
+
+4. Which of the following is NOT a component of e-commerce?
+A) Online catalog
+B) Shopping cart
+C) Physical store
+D) Payment gateway
+Answer: C
+
+5. E-commerce eliminates which of the following traditional business barriers?
+A) Time
+B) Quality control
+C) Customer service
+D) Product variety
+Answer: A
+
+6. The term "e-commerce" was first coined in the:
+A) 1960s
+B) 1970s
+C) 1980s
+D) 1990s
+Answer: D
+
+7. Which technology enabled the growth of modern e-commerce?
+A) Fax machine
+B) World Wide Web
+C) Telegraph
+D) Typewriter
+Answer: B
+
+8. Business-to-Consumer e-commerce is abbreviated as:
+A) B2B
+B) B2C
+C) C2C
+D) C2B
+Answer: B
+
+9. The main advantage of e-commerce over traditional commerce is:
+A) Higher costs
+B) Geographic limitations
+C) 24/7 availability
+D) Limited customer reach
+Answer: C
+
+10. Which of the following is an example of e-commerce?
+A) Shopping at a mall
+B) Buying books from Amazon
+C) Purchasing from a street vendor
+D) Ordering via telephone
+Answer: B
+
+11. M-commerce refers to commerce conducted through:
+A) Mail
+B) Mobile devices
+C) Markets
+D) Manufacturers
+Answer: B
+
+12. The integration of internet technology with business processes is called:
+A) E-marketing
+B) E-business
+C) E-payment
+D) E-logistics
+Answer: B
+
+13. Which year is considered the beginning of e-commerce with the launch of Amazon and eBay?
+A) 1990
+B) 1995
+C) 2000
+D) 2005
+Answer: B
+
+14. E-commerce allows businesses to reach customers:
+A) Only locally
+B) Only nationally
+C) Only regionally
+D) Globally
+Answer: D
+
+15. The process of conducting business transactions online is known as:
+A) E-learning
+B) E-government
+C) E-commerce
+D) E-banking
+Answer: C
+
+16. Which of the following is a disadvantage of e-commerce?
+A) Increased market reach
+B) Reduced transaction costs
+C) Lack of personal touch
+D) Faster transaction processing
+Answer: C
+
+17. The first online sale is widely recognized to have occurred in:
+A) 1979
+B) 1989
+C) 1994
+D) 1999
+Answer: C
+
+18. E-commerce transactions can be conducted using:
+A) Cash only
+B) Credit cards, digital wallets, and bank transfers
+C) Barter only
+D) Checks only
+Answer: B
+
+19. The term "brick-and-click" refers to:
+A) A type of building material
+B) Businesses with both physical and online presence
+C) A construction company
+D) A payment method
+Answer: B
+
+20. Which sector was among the first to adopt e-commerce?
+A) Agriculture
+B) Travel and tourism
+C) Construction
+D) Mining
+Answer: B
+
+Module 2: Different Types of E-Commerce
+
+21. B2B e-commerce involves transactions between:
+A) Business and consumer
+B) Consumer and consumer
+C) Business and business
+D) Government and citizen
+Answer: C
+
+22. eBay is a classic example of which e-commerce type?
+A) B2B
+B) B2C
+C) C2C
+D) B2G
+Answer: C
+
+23. When a government provides services to citizens online, it is called:
+A) B2B
+B) B2C
+C) G2C
+D) C2C
+Answer: C
+
+24. Alibaba.com primarily operates in which e-commerce segment?
+A) B2C
+B) B2B
+C) C2C
+D) C2B
+Answer: B
+
+25. Consumer-to-Business (C2B) e-commerce occurs when:
+A) Businesses sell to consumers
+B) Consumers sell products to other consumers
+C) Consumers offer products or services to businesses
+D) Government sells to businesses
+Answer: C
+
+26. Which type of e-commerce involves transactions between government agencies?
+A) G2C
+B) G2B
+C) G2G
+D) B2G
+Answer: C
+
+27. Amazon.com is primarily an example of:
+A) B2B e-commerce
+B) B2C e-commerce
+C) C2C e-commerce
+D) P2P e-commerce
+Answer: B
+
+28. Peer-to-Peer (P2P) e-commerce involves:
+A) Business to government transactions
+B) Direct transactions between individuals without intermediaries
+C) Business to business transactions
+D) Consumer to business transactions
+Answer: B
+
+29. B2G e-commerce stands for:
+A) Business to Group
+B) Business to Government
+C) Buyer to Goods
+D) Brand to Global
+Answer: B
+
+30. Which platform exemplifies C2C e-commerce?
+A) Amazon
+B) eBay
+C) Alibaba
+D) Salesforce
+Answer: B
+
+31. Social commerce is a subset of:
+A) B2B e-commerce
+B) B2C e-commerce
+C) C2C e-commerce
+D) All of the above
+Answer: D
+
+32. Mobile commerce is also known as:
+A) E-business
+B) M-commerce
+C) I-commerce
+D) D-commerce
+Answer: B
+
+33. Which of the following is NOT a type of e-commerce?
+A) B2B
+B) B2C
+C) B2F (Business to Family)
+D) C2C
+Answer: C
+
+34. Dropshipping is commonly associated with which e-commerce model?
+A) B2B only
+B) B2C only
+C) Both B2B and B2C
+D) Government e-commerce
+Answer: C
+
+35. The sharing economy platforms like Uber and Airbnb represent:
+A) Traditional B2C
+B) C2C e-commerce
+C) B2B e-commerce
+D) G2C e-commerce
+Answer: B
+
+36. Which type of e-commerce focuses on transactions between businesses and their suppliers?
+A) B2C
+B) B2B
+C) C2C
+D) C2B
+Answer: B
+
+37. Online retail stores like Jumia and Konga operate primarily as:
+A) B2B platforms
+B) B2C platforms
+C) C2C platforms
+D) G2C platforms
+Answer: B
+
+38. Crowdfunding platforms represent which e-commerce type?
+A) B2B
+B) B2C
+C) C2B
+D) P2P
+Answer: C
+
+39. E-procurement is a form of:
+A) B2C e-commerce
+B) B2B e-commerce
+C) C2C e-commerce
+D) G2C e-commerce
+Answer: B
+
+40. Which e-commerce type involves consumers selling used goods to other consumers?
+A) B2B
+B) B2C
+C) C2C
+D) B2G
+Answer: C
+
+Module 3: Major Models, Drivers and Benefits of E-Commerce
+
+41. Which of the following is a major driver of e-commerce growth?
+A) Decreased internet penetration
+B) Increased cost of technology
+C) Globalization and internet accessibility
+D) Reduced consumer trust
+Answer: C
+
+42. The revenue model where businesses earn commission on transactions is called:
+A) Subscription model
+B) Transaction fee model
+C) Advertising model
+D) Sales model
+Answer: B
+
+43. Which benefit of e-commerce allows for personalized marketing?
+A) Global reach
+B) Data collection and analysis
+C) 24/7 operation
+D) Cost reduction
+Answer: B
+
+44. The "long tail" concept in e-commerce refers to:
+A) Short-term profits
+B) Selling small volumes of hard-to-find items to many customers
+C) Focusing only on best-selling products
+D) Quick inventory turnover
+Answer: B
+
+45. Reduced transaction costs are a benefit of e-commerce for:
+A) Consumers only
+B) Businesses only
+C) Both consumers and businesses
+D) Government only
+Answer: C
+
+46. Which driver has significantly contributed to m-commerce growth?
+A) Decrease in smartphone usage
+B) Increase in smartphone and mobile internet penetration
+C) Higher SMS costs
+D) Reduced mobile network coverage
+Answer: B
+
+47. The affiliate marketing model involves:
+A) Selling directly to customers
+B) Earning commission by promoting other companies' products
+C) Manufacturing products
+D) Providing logistics services
+Answer: B
+
+48. Which of the following is a social driver of e-commerce?
+A) Increased desire for online social interaction and networking
+B) Decreased social media usage
+C) Reduced online communities
+D) Less peer influence
+Answer: A
+
+49. The freemium model offers:
+A) Only paid services
+B) Basic services for free and premium features for a fee
+C) Only free services
+D) Services at cost price
+Answer: B
+
+50. E-commerce enables businesses to achieve economies of:
+A) Scope only
+B) Scale only
+C) Both scale and scope
+D) Neither scale nor scope
+Answer: C
+
+51. Which technological driver has boosted e-commerce?
+A) Slower internet speeds
+B) Advancements in payment security and encryption
+C) Less reliable web hosting
+D) Reduced computing power
+Answer: B
+
+52. The subscription revenue model involves:
+A) One-time payment for products
+B) Recurring payments for continuous access to products/services
+C) Free access to all products
+D) Pay-per-use only
+Answer: B
+
+53. Improved customer service through quick response times is a benefit of:
+A) Traditional commerce only
+B) E-commerce
+C) Barter system
+D) None of the above
+Answer: B
+
+54. Which model involves direct selling without intermediaries?
+A) Brokerage model
+B) Direct marketing model
+C) Advertising model
+D) Community model
+Answer: B
+
+55. The network effect in e-commerce means:
+A) Slower internet connection
+B) Increased value as more users join the platform
+C) Reduced user base
+D) Limited connectivity
+Answer: B
+
+56. Cost savings on physical infrastructure is a benefit of e-commerce for:
+A) Customers
+B) Businesses
+C) Government
+D) Suppliers
+Answer: B
+
+57. Which driver refers to the increasing comfort of consumers with online transactions?
+A) Technological driver
+B) Behavioral driver
+C) Economic driver
+D) Political driver
+Answer: B
+
+58. The advertising revenue model generates income through:
+A) Selling products directly
+B) Charging fees for displaying ads
+C) Subscription fees
+D) Transaction fees
+Answer: B
+
+59. E-commerce facilitates market expansion by removing:
+A) Customer feedback
+B) Geographic barriers
+C) Product variety
+D) Payment options
+Answer: B
+
+60. Which benefit allows e-commerce businesses to operate with lower inventory costs?
+A) Just-in-time inventory
+B) Bulk purchasing only
+C) No inventory management
+D) Higher storage costs
+Answer: A
+
+Module 4: Portfolio of Steps Required to Start Up an Online Business
+
+61. The first step in starting an online business is:
+A) Building a website
+B) Conducting market research and identifying a niche
+C) Buying inventory
+D) Hiring employees
+Answer: B
+
+62. A business plan for an online business should include:
+A) Only financial projections
+B) Market analysis, marketing strategy, and financial projections
+C) Only product descriptions
+D) Only competitor names
+Answer: B
+
+63. Choosing a domain name is part of which step?
+A) Market research
+B) Establishing web presence
+C) Legal registration
+D) Product sourcing
+Answer: B
+
+64. Which of the following is essential for secure online transactions?
+A) HTTP protocol
+B) SSL certificate
+C) FTP server
+D) SMTP server
+Answer: B
+
+65. Market research helps identify:
+A) Only competitors
+B) Target audience, competition, and market demand
+C) Only suppliers
+D) Only employees
+Answer: B
+
+66. Selecting an e-commerce platform like Shopify or WooCommerce occurs during:
+A) Initial planning
+B) Website development phase
+C) Marketing phase
+D) Expansion phase
+Answer: B
+
+67. A unique selling proposition (USP) defines:
+A) What makes your business different from competitors
+B) Your business location
+C) Your business name only
+D) Your employee count
+Answer: A
+
+68. Which step involves registering your business name and obtaining necessary licenses?
+A) Website design
+B) Legal formalities and registration
+C) Product photography
+D) Social media setup
+Answer: B
+
+69. Sourcing products for an online business can be done through:
+A) Only manufacturing
+B) Manufacturing, wholesale, or dropshipping
+C) Only retail arbitrage
+D) Only direct importing
+Answer: B
+
+70. Setting up payment gateways is necessary for:
+A) Website design only
+B) Accepting online payments
+C) Social media marketing
+D) Inventory management only
+Answer: B
+
+71. Which of the following is NOT a step in starting an online business?
+A) Market research
+B) Business registration
+C) Building a physical store first
+D) Website development
+Answer: C
+
+72. Identifying your target market involves:
+A) Selling to everyone
+B) Defining specific customer demographics and needs
+C) Ignoring customer preferences
+D) Focusing only on price
+Answer: B
+
+73. Competitive analysis helps you understand:
+A) Only your prices
+B) Competitors' strengths, weaknesses, and strategies
+C) Only your product features
+D) Only your marketing budget
+Answer: B
+
+74. Which platform is commonly used for building online stores without coding?
+A) Microsoft Word
+B) Shopify
+C) Notepad
+D) Excel
+Answer: B
+
+75. Logistics planning involves decisions about:
+A) Only website design
+B) Shipping, warehousing, and delivery methods
+C) Only social media posts
+D) Only email marketing
+Answer: B
+
+76. Creating a marketing budget is part of:
+A) Product development only
+B) Business planning and strategy
+C) Website coding only
+D) Customer service only
+Answer: B
+
+77. Which legal requirement is essential for online businesses in Nigeria?
+A) Only local government permit
+B) CAC registration and tax identification
+C) Only international license
+D) No registration needed
+Answer: B
+
+78. Testing your website before launch includes checking:
+A) Only the homepage
+B) Functionality, usability, and payment processing
+C) Only the logo
+D) Only the contact page
+Answer: B
+
+79. A minimum viable product (MVP) refers to:
+A) The most expensive product
+B) A basic version with core features to test the market
+C) The final product version
+D) A product with all possible features
+Answer: B
+
+80. Customer service infrastructure should be set up:
+A) After one year of operation
+B) Before launching the business
+C) Only when complaints arise
+D) Never
+Answer: B
+
+81. Which factor is crucial when choosing an e-commerce platform?
+A) Only the color scheme
+B) Scalability, security, and ease of use
+C) Only the price
+D) Only the name
+Answer: B
+
+82. Inventory management systems help with:
+A) Only marketing
+B) Tracking stock levels and automating reordering
+C) Only website design
+D) Only hiring staff
+Answer: B
+
+83. Setting up analytics tools allows you to:
+A) Only count website visitors
+B) Track user behavior and measure business performance
+C) Only send emails
+D) Only post on social media
+Answer: B
+
+84. A launch strategy should include:
+A) Only product listing
+B) Marketing campaigns, promotions, and PR activities
+C) Only website maintenance
+D) Only accounting setup
+Answer: B
+
+85. Post-launch activities include:
+A) Only resting
+B) Monitoring performance, gathering feedback, and continuous improvement
+C) Only adding products
+D) Only changing the logo
+Answer: B
+
+Module 5: Designing Components, Systems and Processes
+
+86. User Interface (UI) design focuses on:
+A) Only backend coding
+B) The visual layout and interactive elements of a website
+C) Only database management
+D) Only server configuration
+Answer: B
+
+87. User Experience (UX) design emphasizes:
+A) Only aesthetic appeal
+B) Overall user satisfaction and ease of use
+C) Only programming languages
+D) Only hosting servers
+Answer: B
+
+88. A shopping cart in e-commerce allows users to:
+A) Only browse products
+B) Select and temporarily store items for purchase
+C) Only read reviews
+D) Only contact support
+Answer: B
+
+89. Which component handles payment processing securely?
+A) Content Management System
+B) Payment Gateway
+C) Email Server
+D) FTP Client
+Answer: B
+
+90. The checkout process should be:
+A) As complicated as possible
+B) Simple, secure, and streamlined
+C) Only available to registered users
+D) Limited to cash payments
+Answer: B
+
+91. Product catalog management involves:
+A) Only adding prices
+B) Organizing product information, images, and categories
+C) Only deleting old products
+D) Only changing colors
+Answer: B
+
+92. A Content Management System (CMS) allows:
+A) Only customers to buy products
+B) Non-technical users to manage website content
+C) Only developers to code
+D) Only servers to process data
+Answer: B
+
+93. Which system tracks orders from placement to delivery?
+A) Accounting system
+B) Order Management System
+C) Email system
+D) Social media system
+Answer: B
+
+94. Customer Relationship Management (CRM) systems help:
+A) Only with accounting
+B) Manage customer interactions and data
+C) Only with inventory
+D) Only with website hosting
+Answer: B
+
+95. Mobile responsiveness means:
+A) The website only works on desktop
+B) The website adapts to different screen sizes
+C) The website loads slowly
+D) The website has no images
+Answer: B
+
+96. Search functionality on an e-commerce site allows users to:
+A) Only view the homepage
+B) Find products quickly using keywords
+C) Only contact support
+D) Only read terms and conditions
+Answer: B
+
+97. Which component ensures website security?
+A) Only the logo
+B) SSL certificates and firewalls
+C) Only the color scheme
+D) Only product descriptions
+Answer: B
+
+98. Inventory management integration prevents:
+A) Faster shipping
+B) Overselling and stockouts
+C) Customer reviews
+D) Payment processing
+Answer: B
+
+99. A recommendation engine suggests products based on:
+A) Random selection
+B) User behavior and preferences
+C) Only price
+D) Only brand name
+Answer: B
+
+100. Multi-currency support is important for:
+A) Only local businesses
+B) International e-commerce operations
+C) Only physical stores
+D) Only B2B transactions
+Answer: B
+
+Module 6: Building Organizational Web Presence and Online Marketing
+
+101. Search Engine Optimization (SEO) aims to:
+A) Decrease website visibility
+B) Improve ranking in search engine results
+C) Increase advertising costs
+D) Reduce website traffic
+Answer: B
+
+102. Social media marketing involves promoting products on:
+A) Only television
+B) Platforms like Facebook, Instagram, and Twitter
+C) Only radio
+D) Only newspapers
+Answer: B
+
+103. Email marketing is used for:
+A) Only sending spam
+B) Customer engagement, promotions, and newsletters
+C) Only website hosting
+D) Only inventory management
+Answer: B
+
+104. Pay-Per-Click (PPC) advertising means:
+A) Paying for every website visit regardless of action
+B) Paying only when users click on ads
+C) Free advertising
+D) Paying for website hosting
+Answer: B
+
+105. Content marketing involves creating:
+A) Only paid advertisements
+B) Valuable content to attract and engage audiences
+C) Only product catalogs
+D) Only legal documents
+Answer: B
+
+106. Affiliate marketing partners earn:
+A) Fixed salaries
+B) Commission for referring customers
+C) Only product samples
+D) Only recognition
+Answer: B
+
+107. Google Ads is an example of:
+A) Organic search
+B) Paid search advertising
+C) Social media marketing
+D) Email marketing
+Answer: B
+
+108. Influencer marketing leverages:
+A) Only traditional celebrities
+B) Individuals with large social media followings
+C) Only government officials
+D) Only competitors
+Answer: B
+
+109. A company blog helps with:
+A) Only entertainment
+B) SEO, customer engagement, and thought leadership
+C) Only accounting
+D) Only inventory tracking
+Answer: B
+
+110. Retargeting ads are shown to:
+A) New visitors only
+B) Users who previously visited the website
+C) Only employees
+D) Only suppliers
+Answer: B
+
+111. Mobile marketing focuses on:
+A) Only desktop users
+B) Reaching customers through mobile devices
+C) Only print media
+D) Only television
+Answer: B
+
+112. Video marketing can be conducted on:
+A) Only radio
+B) YouTube, TikTok, and Instagram
+C) Only newspapers
+D) Only billboards
+Answer: B
+
+113. Customer reviews and testimonials are forms of:
+A) Paid advertising
+B) User-generated content and social proof
+C) Only internal feedback
+D) Only competitor analysis
+Answer: B
+
+114. A landing page is designed to:
+A) Confuse visitors
+B) Convert visitors into leads or customers
+C) Only provide contact information
+D) Only display the logo
+Answer: B
+
+115. Key Performance Indicators (KPIs) in digital marketing include:
+A) Only website colors
+B) Conversion rate, traffic, and engagement metrics
+C) Only office location
+D) Only employee count
+Answer: B
+
+Module 7: Ethical Implications of Online Business
+
+116. Data privacy in e-commerce refers to:
+A) Sharing all customer data publicly
+B) Protecting customer personal information
+C) Selling customer data to competitors
+D) Ignoring data protection laws
+Answer: B
+
+117. Cookies on websites are used to:
+A) Only store passwords
+B) Track user behavior and preferences
+C) Only display images
+D) Only send emails
+Answer: B
+
+118. Transparent pricing means:
+A) Hidden fees and charges
+B) Clear disclosure of all costs
+C) Changing prices 
+119. Ethical e-commerce practices include: A) Misleading product descriptions B) Honest advertising and fair treatment of customers C) Hidden subscription terms D) Fake reviews Answer: B
+120. Cyberbullying in online business contexts involves: A) Positive customer feedback B) Harassment through digital platforms C) Only product returns D) Only shipping delays Answer: B
+121. Digital divide refers to: A) Equal access to technology B) Gap between those with and without access to digital technology C) Only fast internet D) Only expensive devices Answer: B
+122. Responsible AI in e-commerce means: A) Using AI to deceive customers B) Ethical use of artificial intelligence C) Only automating everything D) Only reducing costs Answer: B
+123. Green e-commerce focuses on: A) Increasing carbon footprint B) Environmental sustainability practices C) Only paper packaging D) Only fast shipping Answer: B
+124. Accessibility in web design ensures: A) Only beautiful websites B) Websites usable by people with disabilities C) Only fast loading D) Only mobile compatibility Answer: B
+125. Ethical sourcing means: A) Buying from any supplier B) Ensuring fair labor practices in the supply chain C) Only low-cost sourcing D) Only local sourcing Answer: B
+Module 8: Legal and Security Aspects of E-Commerce
+126. The Cybercrimes Act in Nigeria addresses: A) Only traditional crimes B) Online fraud and cyber offenses C) Only traffic violations D) Only property disputes Answer: B
+127. SSL stands for: A) Secure Sockets Layer B) Simple Security Level C) Standard Server Language D) Safe Shopping Link Answer: A
+128. Two-factor authentication (2FA) adds: A) Only convenience B) An extra layer of security beyond passwords C) Only complexity D) Only cost Answer: B
+129. Phishing is a type of: A) Legitimate marketing B) Cyber attack to steal sensitive information C) Only virus protection D) Only data backup Answer: B
+130. Digital signatures provide: A) Only decoration B) Authentication and non-repudiation C) Only formatting D) Only color Answer: B
+131. Consumer protection laws in e-commerce ensure: A) Only business rights B) Rights to information, safety, and redress for consumers C) Only government control D) Only price fixing Answer: B
+132. Encryption converts data into: A) Plain text B) Coded form to prevent unauthorized access C) Only images D) Only audio Answer: B
+133. A firewall protects: A) Only physical buildings B) Networks from unauthorized access C) Only furniture D) Only paper documents Answer: B
+134. Terms and Conditions on a website serve to: A) Only confuse users B) Define legal agreements between business and users C) Only increase loading time D) Only decorate the page Answer: B
+135. Intellectual property protection in e-commerce includes: A) Only physical property B) Copyrights, trademarks, and patents C) Only buildings D) Only cash Answer: B
+Module 9: Virtual Value Chain and E-Commerce Management
+136. The virtual value chain consists of: A) Only physical activities B) Information-based activities creating value C) Only manufacturing D) Only transportation Answer: B
+137. Primary activities in the value chain include: A) Only human resources B) Inbound logistics, operations, outbound logistics, marketing, and service C) Only accounting D) Only technology Answer: B
+138. Support activities in the value chain include: A) Only sales B) Infrastructure, HR, technology, and procurement C) Only shipping D) Only customer service Answer: B
+139. Digital transformation involves: A) Only buying computers B) Integrating digital technology into all business areas C) Only changing the logo D) Only hiring IT staff Answer: B
+140. Supply chain management in e-commerce focuses on: A) Only marketing B) Flow of goods, information, and finances C) Only accounting D) Only human resources Answer: B
+Module 10: E-Marketing and Knowledge Market Strategies
+141. E-marketing refers to: A) Only traditional advertising B) Marketing using electronic media and internet C) Only word-of-mouth D) Only billboards Answer: B
+142. Search Engine Marketing (SEM) includes: A) Only SEO B) Both SEO and paid advertising C) Only social media D) Only email Answer: B
+143. Knowledge markets involve trading: A) Only physical goods B) Information and expertise C) Only currencies D) Only real estate Answer: B
+144. Customer segmentation in e-marketing divides customers by: A) Only age B) Demographics, behavior, and preferences C) Only location D) Only income Answer: B
+145. A/B testing in e-marketing compares: A) Only prices B) Two versions to determine which performs better C) Only colors D) Only logos Answer: B
+STAGE 2: MEDIUM (Questions 146-200)
+146. Which of the following best describes the "network externality" in e-commerce platforms? A) External costs of network maintenance B) The phenomenon where a product becomes more valuable as more people use it C) Network security threats from external sources D) External marketing agencies managing networks Answer: B
+147. In the context of B2B e-commerce, "reverse auction" refers to: A) Auctions where prices increase B) Buyers post requirements and suppliers bid downward on price C) Auctions for returned goods only D) Auctions conducted in reverse chronological order Answer: B
+148. The "last mile" problem in e-commerce logistics refers to: A) The final mile of internet cable B) The final delivery step to the customer's doorstep C) The last product in inventory D) The final website page Answer: B
+149. Which revenue model does LinkedIn primarily use? A) Pure advertising B) Freemium with premium subscriptions C) Transaction fees only D) Sales commission only Answer: B
+150. Dynamic pricing in e-commerce involves: A) Fixed prices throughout the year B) Prices that change based on demand, competition, and other factors C) Only discounted prices D) Only premium pricing Answer: B
+151. The "showrooming" phenomenon refers to: A) Building physical showrooms only B) Customers examining products in-store but buying online C) Only online product displays D) Only virtual reality shopping Answer: B
+152. Which of the following is a characteristic of Web 2.0 that enabled social commerce? A) Static web pages only B) User-generated content and social interaction C) Read-only websites D) No user participation Answer: B
+153. A "walled garden" in e-commerce refers to: A) A physical store with high walls B) A closed platform controlling user access to content and applications C) A garden decoration sold online D) A security firewall only Answer: B
+154. The "bullwhip effect" in supply chain management refers to: A) A type of animal product sold online B) Increasing demand variability as you move up the supply chain C) Fast internet speed D) A marketing strategy Answer: B
+155. Which of the following is NOT a typical metric for e-commerce success? A) Conversion rate B) Customer Acquisition Cost (CAC) C) Employee parking space D) Average Order Value (AOV) Answer: C
+156. "Cross-selling" in e-commerce means: A) Selling across borders only B) Recommending complementary products to customers C) Only selling one product D) Only discounting products Answer: B
+157. The "churn rate" measures: A) Butter production B) The rate at which customers stop doing business with you C) Website loading speed D) Inventory turnover Answer: B
+158. Which payment method offers the strongest buyer protection in e-commerce? A) Wire transfer B) Credit card C) Cryptocurrency D) Cash on delivery Answer: B
+159. "Upselling" techniques involve: A) Selling damaged goods B) Encouraging customers to purchase a higher-end product than originally intended C) Only discounting items D) Only selling to new customers Answer: B
+160. The "filter bubble" in e-commerce refers to: A) A cleaning product B) Personalized search results that isolate users from diverse information C) A security feature D) A payment gateway Answer: B
+161. Which of the following best describes "omnichannel" retail? A) Using only one sales channel B) Integrated customer experience across multiple channels C) Only online sales D) Only physical stores Answer: B
+162. "Drop shipping" as a business model is characterized by: A) Holding large inventory B) Selling products shipped directly from supplier to customer C) Only manufacturing products D) Only retail stores Answer: B
+163. The "clicks-and-mortar" business model combines: A) Only online presence B) Only physical stores C) Both online and offline presence D) Only mobile apps Answer: C
+164. Which factor is most critical for reducing cart abandonment rates? A) Complicated checkout process B) Streamlined checkout with multiple payment options C) Hidden shipping costs D) Mandatory account creation Answer: B
+165. "Gamification" in e-commerce involves: A) Only selling video games B) Applying game-design elements to engage customers C) Only gambling websites D) Only children's products Answer: B
+166. The "sharing economy" is best exemplified by: A) Traditional retail stores B) Platforms like Airbnb and Uber C) Manufacturing companies D) Government services Answer: B
+167. Which of the following is a key challenge of international e-commerce? A) Too many customers B) Currency fluctuations and cross-border regulations C) Unlimited shipping options D) Universal product standards Answer: B
+168. "Dark patterns" in web design refer to: A) Dark color schemes B) User interface designs that trick users into unintended actions C) Night mode features D) Security encryption Answer: B
+169. The "flywheel effect" in e-commerce describes: A) A mechanical part B) Self-reinforcing growth cycle where improvements build momentum C) A shipping method D) A payment system Answer: B
+170. Which metric measures the percentage of visitors who complete a desired action? A) Bounce rate B) Conversion rate C) Exit rate D) Churn rate Answer: B
+171. "Headless commerce" refers to: A) Commerce without products B) Decoupling the frontend presentation layer from backend commerce functionality C) Only mobile commerce D) Only social commerce Answer: B
+172. The "paradox of choice" in e-commerce suggests: A) More choices always increase sales B) Too many options can overwhelm customers and reduce sales C) Limited choices are best D) Choices don't affect sales Answer: B
+173. Which of the following is essential for building trust in e-commerce? A) Hidden contact information B) Clear return policies and customer reviews C) No security certificates D) Unclear pricing Answer: B
+174. "API" in e-commerce stands for: A) Advanced Product Inventory B) Application Programming Interface C) Automated Payment Integration D) Advanced Purchase Information Answer: B
+175. The "halo effect" in online retail occurs when: A) Only religious products sell B) Positive experience with one product improves perception of others C) Only seasonal sales D) Only discounted items Answer: B
+176. "Crowdsourcing" in e-commerce involves: A) Only internal employees B) Obtaining input or services from a large group of people C) Only automated systems D) Only paid consultants Answer: B
+177. Which of the following is a disadvantage of pure-play e-commerce companies? A) Lower overhead costs B) Lack of physical presence for customer experience C) Global reach D) 24/7 operation Answer: B
+178. The "iceberg model" in e-commerce customer service suggests: A) Only visible issues matter B) For every complaint received, many more customers have similar issues C) Only hidden problems exist D) Only large issues are important Answer: B
+179. "SaaS" in e-commerce refers to: A) Sales as a Service B) Software as a Service C) Security as a Service D) Shipping as a Service Answer: B
+180. Which factor most influences online purchase decisions? A) Website loading speed only B) Combination of price, reviews, shipping, and website experience C) Color scheme only D) Logo design only Answer: B
+181. The "tipping point" in platform economics refers to: A) A physical location B) The critical mass where network effects become self-sustaining C) A payment method D) A shipping cost Answer: B
+182. "White label" products in e-commerce are: A) Only white-colored items B) Generic products sold under a retailer's brand name C) Only luxury goods D) Only imported products Answer: B
+183. Which of the following best describes "disintermediation"? A) Adding more middlemen B) Removing intermediaries from the supply chain C) Only online sales D) Only physical retail Answer: B
+184. The "experience curve" in e-commerce suggests: A) Costs increase with experience B) Costs decrease as cumulative experience increases C) Experience doesn't affect costs D) Only labor costs matter Answer: B
+185. "Flash sales" are characterized by: A) Year-long promotions B) Short-term, deep discounts creating urgency C) Regular pricing D) Only new products Answer: B
+186. Which of the following is a key element of conversion rate optimization (CRO)? A) Random website changes B) Data-driven improvements to increase percentage of visitors who convert C) Only increasing traffic D) Only reducing prices Answer: B
+187. The "long tail" strategy focuses on: A) Only best-selling items B) Selling many niche products with low demand individually C) Only seasonal items D) Only luxury goods Answer: B
+188. "Beacon technology" in retail is used for: A) Only lighting B) Location-based marketing and in-store navigation C) Only security D) Only payment processing Answer: B
+189. Which of the following is NOT a typical e-commerce fraud type? A) Identity theft B) Friendly fraud C) Chargeback fraud D) Customer satisfaction Answer: D
+190. "Micro-moments" in digital marketing refer to: A) Only short advertisements B) Intent-driven moments when consumers turn to devices C) Only quick purchases D) Only mobile notifications Answer: B
+191. The "zero moment of truth" (ZMOT) refers to: A) The first time a customer hears about a product B) The research phase before purchase decision C) The actual purchase moment D) Post-purchase experience Answer: B
+192. "Progressive web apps" (PWA) in e-commerce offer: A) Only desktop experience B) App-like experience through web browsers C) Only native apps D) Only mobile websites Answer: B
+193. Which of the following is a characteristic of "agile" e-commerce development? A) Rigid long-term planning B) Iterative development and quick adaptation C) No customer feedback D) Only annual updates Answer: B
+194. The "leaky bucket" theory in customer retention suggests: A) Customers naturally stay forever B) Businesses constantly lose customers and must acquire new ones C) Only new customers matter D) Retention is automatic Answer: B
+195. "Social proof" in e-commerce includes: A) Only product descriptions B) Reviews, testimonials, and user counts influencing decisions C) Only prices D) Only technical specifications Answer: B
+196. Which of the following is a benefit of cloud computing for e-commerce? A) Only higher costs B) Scalability and reduced infrastructure investment C) Only limited storage D) Only local access Answer: B
+197. The "Pareto principle" in e-commerce typically suggests: A) Equal distribution of sales B) 80% of sales come from 20% of customers C) 50/50 distribution D) Only new customers drive sales Answer: B
+198. "Blockchain" technology in e-commerce can improve: A) Only website design B) Supply chain transparency and payment security C) Only marketing D) Only customer service Answer: B
+199. Which of the following is a key consideration for mobile-first e-commerce design? A) Desktop experience only B) Touch-friendly interfaces and fast loading on mobile C) Only large screens D) Only complex navigation Answer: B
+200. "Customer lifetime value" (CLV) represents: A) Only first purchase amount B) Total revenue expected from a customer over their relationship C) Only acquisition cost D) Only annual spending Answer: B
+STAGE 3: HARD (Questions 201-250)
+201. Which of the following best explains the "winner-take-all" dynamics in platform economics? A) Equal market share distribution among competitors B) Tendency for one platform to dominate due to network effects C) Government regulation of winners D) Random selection of market leaders Answer: B
+202. The "prisoner's dilemma" in e-commerce competition refers to: A) Legal issues only B) Situation where individual rationality leads to collectively suboptimal outcomes C) Only pricing strategies D) Only marketing campaigns Answer: B
+203. In the context of e-commerce, "asymmetric information" occurs when: A) All parties have equal information B) One party has more or better information than the other C) Only technical information exists D) Only pricing is known Answer: B
+204. Which economic theory explains why e-commerce platforms subsidize one side of the market? A) Perfect competition B) Two-sided market theory C) Monopoly theory only D) Supply and demand only Answer: B
+205. The "Coase theorem" has implications for e-commerce in terms of: A) Only marketing costs B) Transaction costs and firm boundaries C) Only production costs D) Only labor costs Answer: B
+206. "Path dependence" in technology adoption means: A) Random selection of technology B) Current choices are constrained by past decisions and investments C) Only latest technology is used D) No historical impact on decisions Answer: B
+207. Which of the following best describes "rent-seeking" behavior in e-commerce platforms? A) Only renting physical space B) Attempting to gain wealth without creating value C) Only leasing equipment D) Only property management Answer: B
+208. The "Linder hypothesis" suggests that: A) Only cheap products trade internationally B) Countries with similar demand patterns trade more with each other C) Only raw materials are traded D) Distance doesn't affect trade Answer: B
+209. In e-commerce logistics, the "hub-and-spoke" model refers to: A) Only direct shipping B) Central hub distribution with spoke connections to destinations C) Only local delivery D) Only international shipping Answer: B
+210. Which of the following is a characteristic of "perfect competition" in digital markets? A) High barriers to entry B) Many sellers, homogeneous products, perfect information C) Single monopolist D) No price transparency Answer: B
+211. The "endowment effect" in behavioral economics suggests that: A) Only inherited items are valued B) People value items more when they own them C) Only purchased items matter D) Value is objective only Answer: B
+212. "Regulatory arbitrage" in e-commerce involves: A) Following all regulations strictly B) Exploiting differences between regulatory jurisdictions C) Only local compliance D) Ignoring all laws Answer: B
+213. Which of the following best explains "switching costs" in e-commerce platforms? A) Only electrical switching B) Costs incurred when changing from one platform to another C) Only website navigation D) Only payment methods Answer: B
+214. The "tragedy of the commons" in digital platforms refers to: A) Only physical resources B) Overuse of shared digital resources leading to degradation C) Only private property D) Only government resources Answer: B
+215. "First-mover advantage" in e-commerce is often offset by: A) Only lower costs B) Fast-follower advantage and changing technology C) Only marketing D) Only first-mover benefits Answer: B
+216. Which economic concept explains why e-commerce platforms offer "free" services? A) Only charity B) Cross-subsidization and data monetization C) Only losses D) Only government funding Answer: B
+217. The "principal-agent problem" in e-commerce marketplaces occurs between: A) Only employees and managers B) Platform owners and third-party sellers C) Only customers and delivery D) Only suppliers and manufacturers Answer: B
+218. "Marginal cost pricing" in digital goods is challenging because: A) Marginal costs are too high B) Marginal costs approach zero C) Only physical goods matter D) Only labor costs exist Answer: B
+219. Which of the following best describes "lock-in" effects in e-commerce? A) Only physical locks B) Customer dependence on a platform due to high
+220. The " lemons problem" (adverse selection) in online markets refers to: A) Only fruit sales B) Information asymmetry leading to market inefficiency C) Only fresh products D) Only grocery e-commerce Answer: B
+221. "Dynamic capabilities" theory in e-commerce strategy emphasizes: A) Only static resources B) Ability to integrate, build, and reconfigure competencies C) Only fixed assets D) Only current capabilities Answer: B
+222. Which of the following is a characteristic of "monopolistic competition" in e-commerce? A) Only one seller B) Many sellers with differentiated products C) Homogeneous products only D) No competition Answer: B
+223. The "resource-based view" (RBV) suggests competitive advantage comes from: A) Only market size B) Valuable, rare, inimitable, and non-substitutable resources C) Only low prices D) Only advertising Answer: B
+224. "Price discrimination" in e-commerce is facilitated by: A) Only fixed pricing B) Data analytics enabling personalized pricing C) Only uniform pricing D) Only random pricing Answer: B
+225. Which of the following best explains the "bullwhip effect" in e-commerce supply chains? A) Stable demand throughout B) Demand variability amplification upstream C) Only retail level effects D) Only manufacturing effects Answer: B
+226. The "transaction cost economics" framework helps explain: A) Only production costs B) Why firms choose markets versus hierarchies C) Only marketing costs D) Only labor costs Answer: B
+227. "Metcalfe's Law" states that the value of a network is proportional to: A) Only the number of users B) The square of the number of connected users C) Only the cost of the network D) Only the physical size Answer: B
+228. Which of the following is a "complement" in e-commerce platform strategy? A) Only competing products B) Products that increase the value of the platform C) Only substitute goods D) Only unrelated products Answer: B
+229. The "chicken-and-egg problem" in two-sided markets refers to: A) Only food delivery B) Difficulty attracting one side without the other C) Only farming D) Only grocery shopping Answer: B
+230. "Economies of scope" in e-commerce occur when: A) Only single products are sold B) Producing multiple products together is cheaper than separately C) Only large quantities matter D) Only one market is served Answer: B
+231. Which of the following best describes "vertical integration" in e-commerce? A) Only online sales B) Owning multiple stages of the supply chain C) Only retail operations D) Only marketing activities Answer: B
+232. The "hold-up problem" in e-commerce relationships occurs due to: A) Only robbery B) Relationship-specific investments and opportunistic behavior C) Only payment delays D) Only shipping issues Answer: B
+233. "Schumpeterian creative destruction" in e-commerce refers to: A) Only building new businesses B) Innovation destroying existing market structures C) Only maintaining status quo D) Only protecting incumbents Answer: B
+234. Which of the following is a "barrier to entry" in e-commerce markets? A) Only low capital requirements B) Network effects and economies of scale C) Only simple technology D) Only local markets Answer: B
+235. The "agency theory" in e-commerce governance addresses: A) Only travel agencies B) Conflicts of interest between principals and agents C) Only government agencies D) Only marketing agencies Answer: B
+236. "Penetration pricing" strategy in e-commerce involves: A) Only premium pricing B) Setting low initial prices to gain market share C) Only cost-plus pricing D) Only competitive pricing Answer: B
+237. Which of the following best explains "double marginalization" in e-commerce supply chains? A) Only single pricing B) Successive markups reducing total profits C) Only wholesale pricing D) Only retail pricing Answer: B
+238. The "experience good" characteristic of many e-commerce products means: A) Only physical inspection B) Quality can only be determined after purchase C) Only immediate consumption D) Only visible attributes Answer: B
+239. "Signaling" in e-commerce quality assurance includes: A) Only hidden information B) Actions that convey private information (e.g., warranties, branding) C) Only price signals D) Only advertising Answer: B
+240. Which of the following is a characteristic of "natural monopoly" in digital infrastructure? A) Many competitors B) High fixed costs and low marginal costs C) Only variable costs D) No economies of scale Answer: B
+241. The "moral hazard" problem in e-commerce insurance refers to: A) Only ethical issues B) Riskier behavior when protected from consequences C) Only legal hazards D) Only physical dangers Answer: B
+242. "Bundling" strategy in e-commerce pricing involves: A) Only single products B) Selling multiple products together C) Only separate sales D) Only discounts Answer: B
+243. Which of the following best describes "predatory pricing" in e-commerce? A) Only fair competition B) Pricing below cost to eliminate competitors C) Only premium pricing D) Only cost-plus pricing Answer: B
+244. The "information cascade" in e-commerce consumer behavior occurs when: A) Only independent decisions B) Individuals follow others' decisions ignoring private information C) Only random choices D) Only expert opinions matter Answer: B
+245. "Real options theory" in e-commerce investment values: A) Only certain outcomes B) Flexibility and future decision rights C) Only fixed investments D) Only immediate returns Answer: B
+246. Which of the following is a "positive externality" in e-commerce platforms? A) Only negative effects B) Benefits to users not reflected in market prices (e.g., network effects) C) Only private benefits D) Only costs Answer: B
+247. The "adverse selection" problem in peer-to-peer e-commerce is mitigated by: A) Only ignoring it B) Reputation systems and verification mechanisms C) Only random matching D) Only price adjustments Answer: B
+248. "Peak-load pricing" in e-commerce involves: A) Only flat pricing B) Higher prices during high-demand periods C) Only low-season pricing D) Only uniform pricing Answer: B
+249. Which of the following best explains the "efficiency frontier" in e-commerce operations? A) Only cost minimization B) Optimal balance between cost and service quality C) Only revenue maximization D) Only speed Answer: B
+250. The "strategic fit" concept in e-commerce business models requires alignment between: A) Only technology B) Strategy, structure, and processes C) Only marketing D) Only finance Answer: B
+SUMMARY BY MODULE
+Table
+Module
+Questions
+Topics Covered
+1. Overview of E-Commerce
+1-20
+History, definitions, scope, M-commerce
+2. Types of E-Commerce
+21-40
+B2B, B2C, C2C, B2G, C2B, P2P
+3. Models, Drivers & Benefits
+41-60
+Revenue models, drivers, long tail, benefits
+4. Starting Online Business
+61-85
+Steps from research to launch
+5. Design, Components & Systems
+86-100
+UI/UX, shopping cart, CMS, CRM
+6. Web Presence & Marketing
+101-115
+SEO, SEM, social media, content marketing
+7. Ethical Implications
+116-125
+Privacy, transparency, accessibility, green commerce
+8. Legal & Security
+126-135
+Cybercrimes, SSL, encryption, consumer protection
+9. Virtual Value Chain
+136-140
+Value chain activities, digital transformation
+10. E-Marketing & Knowledge Markets
+141-145
+SEM, segmentation, knowledge markets
+Stage 2: Medium
+146-200
+Applied concepts, strategies, metrics
+Stage 3: Hard
+201-250
+Economic theories, advanced strategies, frameworks
+

@@ -1,0 +1,1111 @@
+# BuA 399 — RESEARCH METHODS IN BUSINESS
+## EASY MODE | Questions 1–100
+### Lagos State University | Business Administration 300L
+---
+**TOPIC 1: MEANING AND NATURE OF RESEARCH**
+1. Research is best defined as:
+-	A) Reading textbooks and summarizing them
+-	B) **A systematic and scientific inquiry aimed at discovering new knowledge or verifying existing knowledge ✓**    - C) Copying information from the internet    - D) Writing a business report
+2. The word "research" literally means:
+-	A) To find something new
+-	B) **To search again — careful, systematic re-examination of a subject ✓**
+-	C) To collect data randomly
+-	D) To write an academic paper
+3. Which of the following is a characteristic of good research?
+-	A) Based on personal opinions only
+-	B) **Systematic, objective, and empirical ✓**
+-	C) Conducted without a plan
+-	D) Based on assumptions only
+4. Pure/basic research is conducted primarily to:
+-	A) Solve an immediate practical problem
+-	B) **Expand knowledge without a specific application in mind ✓**
+-	C) Help a specific company increase profits   - D) Collect data for government reports
+5. Applied research is conducted to:
+-	A) **Solve specific practical problems ✓**
+-	B) Add to theoretical knowledge only
+-	C) Explore unknown philosophical questions   - D) Satisfy personal curiosity
+6. Empirical research is based on:
+-	A) Only theoretical reasoning
+-	B) Only published books
+-	C) **Observation and data collected from the real world ✓**    - D) Expert opinions alone
+7. Qualitative research primarily involves:
+-	A) Numbers and statistical analysis
+-	B) **Non-numerical data such as words, observations, and meanings ✓**    - C) Large-scale surveys only
+-	D) Mathematical modelling
+8. Quantitative research primarily involves:
+-	A) In-depth interviews only
+-	B) Narrative descriptions
+-	C) **Numerical data and statistical analysis ✓**    - D) Focus groups only
+9. Which of the following is NOT a type of research?
+-	A) Descriptive research   - B) Exploratory research
+-	C) **Fictional research ✓**    - D) Explanatory research
+10.	Descriptive research aims to:     - A) Test a hypothesis
+-	B) Find causes of events
+-	C) **Describe characteristics of a population or phenomenon ✓**     - D) Predict future events
+11.	Exploratory research is typically used when:
+-	A) The problem is very well understood
+-	B) **Little is known about the topic and the researcher needs initial insights ✓**
+-	C) Large samples are required    - D) Statistical analysis is the primary goal
+12.	Causal/explanatory research aims to:
+-	A) Describe a population
+-	B) **Establish cause-and-effect relationships between variables ✓**
+-	C) Explore new topics without hypotheses    - D) Only collect demographic data
+13.	Research ethics requires that participants in a study must provide:
+-	A) Payment to the researcher
+-	B) **Informed consent ✓**
+-	C) Their full financial records    - D) Government identification
+14.	The term "objectivity" in research means:
+-	A) Conducting research quickly
+-	B) **Findings should not be biased by the researcher's personal views ✓**
+-	C) Using only one data source
+-	D) Working independently without supervision
+15.	Longitudinal research studies a subject:
+-	A) At one point in time
+-	B) **Over an extended period of time ✓**
+-	C) Using secondary data only    - D) Without any time frame
+16.	Cross-sectional research collects data:
+-	A) Over several years
+-	B) **At a single point in time from multiple subjects ✓**
+-	C) Only from one individual
+-	D) Without any structured method
+17.	Action research is characterized by:     - A) Purely theoretical exploration
+-	B) **Research aimed at solving a specific problem within a practical setting, often by the people in that setting ✓**     - C) Large-scale national surveys
+-	D) Research conducted only in universities
+18.	Scientific research is distinguished from common sense by being:
+-	A) Cheaper and faster
+-	B) Based on opinions
+-	C) **Systematic, rigorous, and verifiable ✓**     - D) Only conducted by scientists
+19.	The purpose of a research review is to:
+-	A) Replace original research
+-	B) **Critically evaluate and synthesize existing research on a topic ✓**     - C) Collect new primary data
+-	D) File for intellectual property rights
+20.	Which of the following is a primary source of research data?
+-	A) Published textbooks
+-	B) Journal articles
+-	C) **Original surveys conducted by the researcher ✓**     - D) Encyclopedia entries
+---
+**TOPIC 2: RESEARCH PROCESS**
+21.	The first step in the research process is:
+-	A) Data collection
+-	B) **Identifying and defining the research problem ✓**
+-	C) Writing the research report    - D) Selecting a sample
+22.	A research proposal is a document that:
+-	A) Presents the final research findings
+-	B) **Outlines the planned research — its objectives, methods, and significance ✓**     - C) Lists all references used
+-	D) Contains only the literature review
+23.	The correct sequence of the research process is:
+-	A) Data collection → Problem definition → Analysis → Literature review
+-	B) **Problem definition → Literature review → Research design → Data collection → Analysis → Report ✓**
+-	C) Report → Problem definition → Data collection → Analysis
+-	D) Analysis → Literature review → Data collection → Problem definition
+24.	A research objective states:
+-	A) The financial cost of the research
+-	B) **What the researcher intends to achieve through the study ✓**
+-	C) The sample size required
+-	D) The statistical methods to be used
+25.	A research question is:
+-	A) A question asked during a survey
+-	B) **The specific question the study aims to answer ✓**
+-	C) A question from a textbook
+-	D) A question asked by the respondents
+26.	A hypothesis is:
+-	A) A confirmed fact
+-	B) **A testable proposition or predicted relationship between variables ✓**     - C) A definition of terms
+-	D) A summary of previous research
+27.	The null hypothesis (H0) states:
+-	A) There is a significant relationship between variables
+-	B) **There is no significant relationship between the variables being studied ✓**
+-	C) The research question is unanswerable    - D) The alternative hypothesis is true
+28.	The alternative hypothesis (H1) states:
+-	A) **There IS a significant relationship between the variables ✓**
+-	B) There is no relationship between variables
+-	C) The null hypothesis is accepted    - D) More research is needed
+29.	A research variable is:
+-	A) A fixed constant in research
+-	B) **Any characteristic or attribute that can take on different values ✓**
+-	C) A type of sample
+-	D) A research objective
+30.	An independent variable is:
+-	A) The variable that is measured as an outcome
+-	B) **The variable that is manipulated or is thought to cause an effect on another variable ✓**
+-	C) A control variable only
+-	D) The sample in the research
+31.	A dependent variable is:
+-	A) The variable that is changed by the researcher
+-	B) **The variable that is measured to see if it has been affected by the independent variable ✓**     - C) A constant in the study
+-	D) The research instrument
+32.	Data analysis in research involves:
+-	A) Only writing the report
+-	B) **Processing, organizing, and interpreting collected data to draw conclusions ✓**
+-	C) Selecting the research design    - D) Writing the literature review
+33.	The research report is the:
+-	A) First step in the research process
+-	B) **Final document presenting the findings, analysis, and conclusions of the study ✓**
+-	C) The data collection instrument    - D) The sampling frame
+34.	Validity in research means:
+-	A) The research is conducted quickly
+-	B) **The research measures what it is intended to measure ✓**
+-	C) The same results can be replicated
+-	D) The sample is large enough
+35.	Reliability in research means:
+-	A) The research is valid
+-	B) **The research produces consistent results when repeated under the same conditions ✓**     - C) The researcher is trustworthy
+-	D) The data is qualitative
+---
+**TOPIC 3: FORMULATING RESEARCH TOPIC**
+36.	A good research topic should be:
+-	A) As broad and general as possible
+-	B) **Specific, researchable, and of academic or practical significance ✓**
+-	C) Based entirely on personal interest with no academic merit    - D) The same as topics already fully studied
+37.	When selecting a research topic, a researcher should consider:
+-	A) Only their personal interest
+-	B) **Feasibility, significance, data availability, and researcher expertise ✓**     - C) Only what others have not studied
+-	D) Only what is easiest to research
+38.	A research topic that is too broad should be:
+-	A) Abandoned entirely
+-	B) Submitted as-is
+-	C) **Narrowed down to a specific, manageable focus ✓**     - D) Expanded further
+39.	Which of the following is a well-formulated research topic?
+-	A) "Business in Nigeria"
+-	B) "Marketing"
+-	C) **"The Impact of Social Media Marketing on SME Sales Performance in Lagos" ✓**     - D) "Everything about finance"
+40.	Feasibility of a research topic refers to:
+-	A) How interesting the topic is
+-	B) **Whether the research can be completed given available time, resources, and data access ✓**
+-	C) Whether anyone has studied the topic before
+-	D) How complex the statistical analysis is
+---
+**TOPIC 4: STATEMENT OF THE PROBLEM**
+41.	The statement of the problem in a research study:
+-	A) Lists the methodology to be used
+-	B) **Clearly identifies the gap, issue, or challenge that the research aims to address ✓**
+-	C) Summarizes previous studies
+-	D) Presents the research findings
+42.	A good problem statement should be:
+-	A) As vague as possible to allow flexibility
+-	B) **Clear, specific, and justified with evidence of the problem's existence ✓**
+-	C) A personal opinion    - D) Based only on assumptions
+43.	A research gap refers to:
+-	A) A mistake in previous research
+-	B) **An area that has not been adequately studied or understood ✓**
+-	C) A missing page in a journal    - D) An error in data collection
+44.	The statement of the problem helps the reader understand:
+-	A) The data analysis techniques
+-	B) **Why the research is being conducted and what specific problem it addresses ✓**     - C) The sample size used
+-	D) The researcher's qualifications
+45.	Which of the following is NOT a component of a good research problem statement?    - A) Identification of the problem
+-	B) Evidence that the problem exists
+-	C) Significance of the problem
+-	D) **The researcher's personal biography ✓**
+---
+**TOPIC 5: LITERATURE REVIEW**
+46.	A literature review is:
+-	A) A list of all books ever written on a topic
+-	B) **A critical evaluation of existing research and knowledge relevant to the study ✓**
+-	C) A summary of only one article
+-	D) The researcher's personal opinions on a topic
+47.	The purpose of a literature review is to:     - A) Replace data collection
+-	B) **Show what is already known, identify gaps, and provide a theoretical foundation for the research ✓**     - C) List all references available
+-	D) Describe the research methodology
+48.	A theoretical framework in research provides:
+-	A) The statistical methods to be used
+-	B) **The theories and concepts that guide and explain the research ✓**
+-	C) The sampling design
+-	D) The research timeline
+49.	A conceptual framework:
+-	A) Is identical to a theoretical framework
+-	B) **Shows the variables in the study and their proposed relationships, often in a diagram ✓**
+-	C) Is only used in quantitative research    - D) Is a list of definitions
+50.	Secondary data in literature review comes from:
+-	A) The researcher's own surveys
+-	B) **Previously published studies, reports, and books ✓**
+-	C) Direct interviews conducted by the researcher    - D) Focus groups organized for the study
+51.	Peer-reviewed journals are preferred in literature reviews because:
+-	A) They are freely available
+-	B) **The articles have been critically evaluated by experts before publication ✓**
+-	C) They are easier to understand
+-	D) They are published by universities only
+52.	Plagiarism in research means:
+-	A) Conducting original research
+-	B) Citing sources correctly
+-	C) **Using another person's ideas or words without proper acknowledgment ✓**     - D) Summarizing an article
+53.	An annotated bibliography is:     - A) A list of only books used
+-	B) **A list of references where each entry includes a brief summary and evaluation of the source ✓**     - C) A type of research design
+-	D) A chapter in the research report
+54.	The theoretical framework in BuA 399 helps by:
+-	A) Replacing data collection
+-	B) **Anchoring the study in established theories that explain the phenomena being studied ✓**     - C) Determining the sample size     - D) Writing the conclusion
+55.	Which of the following is NOT a source for a literature review?
+-	A) Academic journals
+-	B) Textbooks
+-	C) Government reports
+-	D) **Unverified social media posts ✓**
+---
+**TOPIC 6: RESEARCH DESIGN**
+56.	Research design is:
+-	A) The physical layout of the research laboratory
+-	B) **The overall plan or blueprint for how the research will be conducted ✓**
+-	C) The cover page of the research report    - D) The list of references
+57.	Which of the following is a type of research design?
+-	A) Sampling design only
+-	B) **Experimental, descriptive, and exploratory designs ✓**
+-	C) Statistical analysis only    - D) Data collection only
+58.	An experimental research design involves:
+-	A) Only observing events as they happen
+-	B) **Manipulating one variable (independent) to observe its effect on another (dependent) ✓**     - C) Using only secondary data
+-	D) Interviewing participants only
+59.	A survey research design involves:
+-	A) Conducting experiments in a lab
+-	B) **Collecting data from a sample through questionnaires or interviews ✓**
+-	C) Only observing natural behaviour    - D) Using only published data
+60.	A case study design involves:
+-	A) Studying a large random sample
+-	B) **In-depth investigation of a single unit (person, firm, or event) ✓**
+-	C) Only quantitative data collection
+-	D) Experimental manipulation of variables
+61.	Which research design is best for establishing cause-and-effect relationships?    - A) Descriptive design
+-	B) Case study
+-	C) Survey design
+-	D) **Experimental design ✓**
+62.	Correlational research design studies:
+-	A) The effect of one variable on another
+-	B) **The relationship (positive, negative, or none) between two or more variables ✓**     - C) A single case in depth     - D) Historical events
+63.	A research instrument is:
+-	A) Laboratory equipment
+-	B) **A tool used to collect data (e.g., questionnaire, interview guide) ✓**
+-	C) The theoretical framework    - D) The research hypothesis
+64.	Triangulation in research design means:
+-	A) Using triangles in data visualization
+-	B) **Using multiple methods, sources, or investigators to improve the credibility of research ✓**
+-	C) Conducting research in three countries    - D) Having three research questions
+65.	The research design section of a report should describe:
+-	A) The findings of the study
+-	B) **How the research was planned and conducted including methods, sample, and data analysis approach ✓**     - C) The literature review
+-	D) The problem statement
+---
+**TOPIC 7: DATA COLLECTION METHODS**
+66.	Primary data is:
+-	A) Data collected from published reports
+-	B) **Data collected directly by the researcher for the specific study ✓**
+-	C) Data from the internet    - D) Data from textbooks
+67.	Secondary data is:
+-	A) Data collected through interviews
+-	B) **Data already collected by others for a different purpose but used by the current researcher ✓**     - C) Data from original surveys
+-	D) Data collected through observation
+68.	A questionnaire is a data collection method that:
+-	A) Involves watching participants
+-	B) **Uses written questions to gather information from respondents ✓**
+-	C) Only collects secondary data
+-	D) Requires laboratory experiments
+69.	A structured interview involves:
+-	A) Open-ended conversations without fixed questions
+-	B) **A predetermined set of questions asked in a consistent order ✓**
+-	C) Observing participants without speaking to them    - D) Collecting data from documents only
+70.	An unstructured interview is:
+-	A) A questionnaire with fixed questions
+-	B) **A free-flowing conversation guided by broad topics rather than fixed questions ✓**     - C) A group discussion     - D) An experiment
+71.	A focus group involves:
+-	A) Interviewing one person in depth
+-	B) **A moderated discussion with a small group of participants to explore their views on a topic ✓**
+-	C) Mailing questionnaires to respondents    - D) Collecting data from databases
+72.	Observation as a data collection method involves:
+-	A) Asking respondents questions
+-	B) **Systematically watching and recording behaviour or events ✓**
+-	C) Reading secondary sources    - D) Conducting experiments
+73.	Participant observation means the researcher:
+-	A) Only watches from a distance
+-	B) **Actively joins and participates in the group being studied ✓**
+-	C) Sends questionnaires
+-	D) Reviews published documents
+74.	Document/content analysis involves:
+-	A) Conducting experiments
+-	B) **Systematically analysing written or recorded material to identify patterns and meaning ✓**     - C) Interviewing participants     - D) Sampling populations
+75.	Closed-ended questions in a questionnaire:
+-	A) Allow respondents to answer freely
+-	B) **Provide fixed response options for respondents to choose from ✓**
+-	C) Require long essay answers
+-	D) Are used only in qualitative research
+76.	Open-ended questions in a questionnaire:     - A) Provide fixed answer choices
+-	B) Are used only in quantitative research
+-	C) **Allow respondents to answer in their own words without fixed options ✓**     - D) Are easier to analyse than closed questions
+77.	Which of the following is a major advantage of questionnaires?
+-	A) They always produce in-depth qualitative data
+-	B) **They can collect data from large samples quickly and cost-effectively ✓**
+-	C) They eliminate all bias
+-	D) They do not require analysis
+78.	A Likert scale is used to measure:
+-	A) Physical dimensions of a product
+-	B) **Attitudes or opinions on a scale (e.g., Strongly Agree to Strongly Disagree) ✓**
+-	C) Financial performance    - D) Geographical distances
+79.	An interview guide is:
+-	A) A list of survey results
+-	B) **A list of questions or topics to guide an interview ✓**
+-	C) A research report format    - D) A statistical table
+80.	Which data collection method is MOST suitable for studying sensitive personal topics?
+-	A) Large-scale questionnaire survey
+-	B) Group observation
+-	C) **In-depth interview ✓**
+-	D) Structured postal survey
+---
+**TOPIC 8: POPULATION AND SAMPLING**
+81.	A population in research refers to:
+-	A) The number of people in a country
+-	B) **The entire group of individuals, items, or events that the research aims to study ✓**
+-	C) Only human participants    - D) The sample selected for the study
+82.	A sample is:
+-	A) The entire population
+-	B) **A subset of the population selected to represent the whole ✓**
+-	C) A research question    - D) A data analysis technique
+83.	Sampling is done because:
+-	A) It is always more accurate than studying the whole population
+-	B) **It is often impractical, too costly, or impossible to study the entire population ✓**
+-	C) It eliminates all research bias    - D) It is a legal requirement
+84.	Probability sampling means:
+-	A) Only likely respondents are selected
+-	B) **Every member of the population has a known, non-zero chance of being selected ✓**
+-	C) The researcher selects whoever is convenient    - D) Selection is based on researcher judgment
+85.	Simple random sampling means:
+-	A) The researcher randomly chooses any individuals
+-	B) **Every member of the population has an equal chance of being selected ✓**
+-	C) The population is divided into groups before selection    - D) Only convenient participants are selected
+86.	Stratified sampling involves:
+-	A) Selecting participants randomly without any grouping
+-	B) **Dividing the population into subgroups (strata) and sampling from each group ✓**
+-	C) Selecting every nth member of the population    - D) Selecting whoever is most accessible
+87.	Systematic sampling involves:
+-	A) Dividing the population into strata
+-	B) **Selecting every nth individual from a list ✓**
+-	C) Selecting members of a cluster
+-	D) Using researcher judgment to select participants
+88.	Cluster sampling involves:
+-	A) Sampling from a list in systematic intervals
+-	B) **Dividing the population into clusters and randomly selecting entire clusters ✓**
+-	C) Dividing the population into strata    - D) Selecting the most accessible respondents
+89.	Non-probability sampling means:
+-	A) Every member has an equal chance of selection
+-	B) **Selection is not based on random processes — some members may have no chance of being selected ✓**     - C) Only statistical methods are used     - D) Sampling is done randomly
+90.	Convenience sampling involves:
+-	A) Systematic random selection
+-	B) **Selecting participants who are most accessible or easy to reach ✓**
+-	C) Dividing the population into strata    - D) Using probability techniques
+91.	Purposive/judgmental sampling means:
+-	A) Randomly selecting from all available participants
+-	B) **Selecting participants based on the researcher's judgment of who can best provide the needed information ✓**     - C) Selecting every 5th member of the population     - D) Using cluster groups
+92.	Snowball sampling is most useful when:
+-	A) The population is large and easily accessible
+-	B) **The population is hard to reach and participants refer the researcher to other suitable respondents ✓**     - C) All participants are known in advance     - D) Stratification is required
+93.	Sample size refers to:
+-	A) The total number of people in the population
+-	B) **The number of individuals selected from the population to participate in the study ✓**
+-	C) The number of questions in the survey    - D) The number of researchers involved
+94.	A sampling frame is:
+-	A) The structure of the questionnaire
+-	B) **The complete list of all members of the population from which a sample is drawn ✓**
+-	C) The method of data analysis    - D) A type of research design
+95.	Sampling bias occurs when:     - A) The sample is very large
+-	B) **The sample does not accurately represent the population, leading to skewed results ✓**     - C) All population members are included
+-	D) Probability sampling is used
+---
+**TOPICS 9–11: MEASUREMENTS, DATA ANALYSIS & REFERENCES**
+96.	Measurement in research refers to:
+-	A) Using a ruler to measure physical dimensions
+-	B) **The process of assigning numbers or labels to variables to represent their attributes ✓**     - C) Counting the number of respondents     - D) Estimating the research budget
+97.	The nominal scale of measurement:     - A) Ranks variables in order
+-	B) Has equal intervals between values
+-	C) Has a true zero point
+-	D) **Simply categorizes variables into named groups without any order ✓**
+98.	The ordinal scale of measurement:
+-	A) Has a true zero point
+-	B) Shows exact differences between values
+-	C) **Ranks variables in order but does not show the magnitude of difference ✓**     - D) Assigns numbers randomly
+99.	APA referencing style is commonly used in:
+-	A) Engineering reports
+-	B) **Social science and business research ✓**
+-	C) Medical journals only    - D) Legal documents
+100.	A bibliography differs from a reference list in that:
+-	A) A bibliography only includes books
+-	B) **A bibliography includes all sources consulted, even those not directly cited; a reference list only includes sources citedin the text ✓**
+-	C) They are identical
+-	D) A reference list includes all sources consulted
+ENDOFFILE
+echo "Done"# BuA 399 — RESEARCH METHODS IN BUSINESS
+## MEDIUM MODE | Questions 101–200
+### Lagos State University | Business Administration 300L
+---
+**TOPIC 1 & 2: RESEARCH NATURE AND PROCESS — INTERMEDIATE**
+101.	How does applied research differ from pure research in terms of output?
+-	A) Applied research produces more publications
+-	B) **Applied research produces actionable solutions to real problems; pure research produces theoretical knowledge ✓**      - C) Pure research is always more valuable      - D) There is no difference in output
+102.	Why is the research process described as "iterative" rather than strictly linear?
+-	A) Because each step takes the same amount of time
+-	B) **Because researchers often revisit earlier steps (e.g., refining the problem or design) as new information emerges ✓**      - C) Because data is always collected first
+-	D) Because analysis happens before data collection
+103.	What distinguishes a research question from a research objective?     - A) They are identical
+-	B) **A research question is interrogative (asks what/how/why); a research objective is declarative (states what theresearcher aims to do) ✓**
+-	C) Research objectives are broader than research questions     - D) Research questions are only used in qualitative studies
+104.	Which of the following is a correctly stated null hypothesis for a study on training and performance?     - A) "Training improves employee performance"
+-	B) "Employee performance is very high"
+-	C) **"There is no significant relationship between training and employee performance" ✓**      - D) "Training does not cost much"
+105.	The difference between a hypothesis and a research question is:
+-	A) Hypotheses are only used in qualitative research
+-	B) **A hypothesis is a specific, testable prediction; a research question is open and exploratory ✓**
+-	C) A research question always leads to a hypothesis     - D) Hypotheses are used only in experiments
+106.	Which of the following best describes a mixed-methods research approach?
+-	A) Using two qualitative methods simultaneously
+-	B) **Combining both quantitative and qualitative data collection and analysis in a single study ✓**      - C) Using two different quantitative tools
+-	D) Conducting the research in two different countries
+107.	An intervening/mediating variable:
+-	A) Is the same as an independent variable
+-	B) **Comes between the independent and dependent variable and explains the mechanism of their relationship ✓**      - C) Controls extraneous factors
+-	D) Is always controlled by the researcher
+108.	A moderating variable:
+-	A) Is the outcome variable
+-	B) Explains the mechanism of the IV-DV relationship
+-	C) **Affects the strength or direction of the relationship between the IV and DV ✓**      - D) Is controlled throughout the research
+109.	What is the significance of defining the scope and limitations of a research study?
+-	A) It is done only for word count purposes
+-	B) **It sets clear boundaries for the research and honestly acknowledges constraints, helping readers interpret findingscorrectly ✓**
+-	C) It replaces the literature review
+-	D) It eliminates the need for sampling
+110.	Why is replication important in research?
+-	A) It allows the researcher to collect more data
+-	B) **It confirms whether findings are genuine and generalizable, or the result of chance ✓**      - C) It replaces the original study
+-	D) It is only important in laboratory research
+---
+**TOPIC 3 & 4: RESEARCH TOPIC AND PROBLEM STATEMENT — INTERMEDIATE**
+111.	Which of the following research topics demonstrates the PICO framework correctly? (PICO = Population,Intervention/Issue, Comparison, Outcome)
+-	A) "Business in Lagos"
+-	B) **"The Effect of Mobile Banking Adoption (I) on Financial Inclusion (O) among Lagos Market Traders (P) Compared toNon-Mobile Banking Users (C)" ✓**
+-	C) "How banks operate"
+-	D) "Employees and their salaries"
+112.	A good research problem statement should include all of the following EXCEPT:
+-	A) The specific problem being addressed
+-	B) Evidence of the problem's existence
+-	C) The significance of addressing it
+-	D) **The complete list of statistical methods to be used ✓**
+113.	The difference between a research problem and a research topic is:
+-	A) They are the same thing
+-	B) **A research topic is the broad subject area; the research problem is the specific issue or gap within that area beinginvestigated ✓**
+-	C) A research problem is broader than a topic
+-	D) Topics are only used in qualitative research
+114.	What makes a research gap a legitimate justification for a study?
+-	A) It is any topic not yet studied
+-	B) **It is an unresolved issue, inconsistency in previous findings, or unexplored area where new knowledge would add value
+✓**
+-	C) It is a personal interest of the researcher
+-	D) It is a topic mentioned in passing in one article
+115.	In the Nigerian business research context, why might the local applicability of global studies be questioned?
+-	A) Nigerian researchers are less skilled
+-	B) **Social, cultural, economic, and institutional contexts differ significantly — findings from Western contexts may nottransfer to Nigeria ✓**
+-	C) Nigerian businesses are identical to Western firms     - D) There is no reason to question global studies
+---
+**TOPIC 5: LITERATURE REVIEW — INTERMEDIATE**
+116.	What is the difference between a systematic literature review and a narrative literature review?
+-	A) Systematic reviews are shorter
+-	B) **Systematic reviews follow a rigorous, transparent protocol with defined search criteria and quality assessment;narrative reviews are less structured ✓**      - C) Narrative reviews use more sources      - D) They are identical in method
+117.	A conceptual framework differs from a theoretical framework in that:
+-	A) A conceptual framework is always more complex
+-	B) **A conceptual framework is researcher-constructed and shows relationships between specific study variables; atheoretical framework draws on established theories ✓**
+-	C) A theoretical framework uses diagrams
+-	D) A conceptual framework uses only secondary data
+118.	Which of the following is a correct way to cite a source using APA style (7th edition) in-text?     - A) [Author, Year]
+-	B) **(Author, Year) ✓**
+-	C) Author [Year]
+-	D) {Author: Year}
+119.	Critically, what is the risk of relying too heavily on secondary sources in a literature review?
+-	A) It makes the review too long
+-	B) **The researcher may perpetuate errors, outdated findings, or biases from previous studies without critical evaluation
+✓**
+-	C) It is cheaper than primary research     - D) There is no risk
+120.	The "funnel approach" to writing a literature review means:      - A) Reviewing sources in random order
+-	B) **Starting with broad, general literature and progressively narrowing to specific studies directly relevant to the researchquestion ✓**
+-	C) Starting with the most recent studies     - D) Reviewing only Nigerian sources
+121.	Which of the following best describes an empirical gap in literature?
+-	A) A theory that has not been developed yet
+-	B) **The absence of studies testing a theory or relationship in a specific context, population, or time period ✓**      - C) A missing citation in a paper
+-	D) A topic that no academic has considered
+122.	Meta-analysis in a literature review involves:      - A) Summarizing five or more articles
+-	B) **Statistically combining results from multiple independent studies on the same topic to produce an overall estimate ✓**      - C) Writing a narrative summary
+-	D) Conducting original fieldwork
+123.	Why is it important to review recent literature (within the last 5–10 years) for a business research study?
+-	A) Because older research is always wrong
+-	B) **Because business environments, regulations, and theories evolve rapidly — older findings may no longer be valid ✓**      - C) Because databases only have recent articles      - D) Because supervisors require it
+124.	The Harvard referencing style uses which format for in-text citation?
+-	A) Footnote numbers
+-	B) **Author-date: (Surname, Year) ✓**
+-	C) Numbered reference list
+-	D) Full citation within the text
+125.	In a literature review, a "theoretical gap" refers to:      - A) Missing references in the bibliography
+-	B) **An area where existing theories do not fully explain or predict a phenomenon, calling for new theoretical development
+✓**
+-	C) A lack of data in existing studies
+-	D) An error in previous calculations
+---
+**TOPIC 6: RESEARCH DESIGN — INTERMEDIATE**
+126.	What is the key difference between a descriptive and an explanatory research design?
+-	A) Descriptive research collects more data
+-	B) **Descriptive research describes 'what is'; explanatory research explains 'why' by examining cause-and-effectrelationships ✓**
+-	C) Explanatory research is less rigorous     - D) They use the same methods
+127.	Internal validity in experimental research refers to:
+-	A) Whether findings can be generalized to the broader population
+-	B) **Whether observed changes in the dependent variable are truly caused by the independent variable, not by confoundingfactors ✓**
+-	C) Whether the instrument measures what it intends to measure     - D) Whether the same results are produced when repeated
+128.	External validity refers to:
+-	A) Whether the study is conducted outside a laboratory
+-	B) **The extent to which research findings can be generalized beyond the specific sample and setting ✓**      - C) Whether the independent variable was correctly manipulated      - D) Whether data collection was objective
+129.	A control group in an experiment:
+-	A) Receives the treatment being tested
+-	B) Is always the largest group in the study
+-	C) **Does not receive the treatment — it is used as a benchmark to compare against the experimental group ✓**      - D) Is selected using purposive sampling
+130.	Which research design is most appropriate for studying the experiences of LASU part-time students balancing work andstudies?
+-	A) Experimental design
+-	B) Large-scale quantitative survey
+-	C) **Phenomenological qualitative design — to explore lived experiences in depth ✓**      - D) Correlational design
+131.	Grounded theory as a research design is used when:
+-	A) Existing theory fully explains the phenomenon
+-	B) **The researcher aims to develop a new theory grounded in data collected from participants ✓**      - C) Only statistical analysis is required      - D) The study focuses on a single case
+132.	Ethnographic research involves:
+-	A) Studying financial records
+-	B) **Immersive, long-term observation and participation in a cultural group to understand their practices and meanings ✓**
+-	C) Conducting structured surveys
+-	D) Analysing secondary data only
+133.	What is the advantage of a longitudinal study over a cross-sectional study?
+-	A) It is cheaper and faster
+-	B) **It tracks changes and developments over time, allowing causal inferences and trend analysis ✓**      - C) It uses a larger sample
+-	D) It produces only qualitative data
+134.	A quasi-experimental design differs from a true experimental design in that:
+-	A) It does not involve data collection
+-	B) **It lacks random assignment of participants to groups, reducing the ability to control confounding variables ✓**      - C) It cannot test cause-and-effect relationships      - D) It is always qualitative
+135.	Researcher positionality in qualitative research refers to:      - A) The physical location of the researcher
+-	B) **The researcher's background, identity, and values, and how these may influence the research process and findings ✓**      - C) The position of the research question in the report      - D) The researcher's academic rank
+---
+**TOPIC 7: DATA COLLECTION — INTERMEDIATE**
+136.	What is the key difference between a structured and a semi-structured interview?
+-	A) Structured interviews collect qualitative data; semi-structured do not
+-	B) **Structured interviews use fixed questions in a set order; semi-structured use a guide but allow flexibility for follow-upprobing ✓**
+-	C) Semi-structured interviews are more formal
+-	D) There is no practical difference
+137.	Which of the following is a disadvantage of using questionnaires as a data collection tool?
+-	A) They are too expensive for large studies
+-	B) They produce too much qualitative data
+-	C) **Low response rates and inability to probe unclear answers ✓**      - D) They cannot be used for quantitative research
+138.	Triangulation improves research quality by:      - A) Reducing the sample size needed
+-	B) Eliminating the need for statistical analysis
+-	C) **Increasing credibility by cross-validating findings from multiple data sources or methods ✓**      - D) Replacing the literature review
+139.	A pilot study is conducted to:
+-	A) Collect the main research data
+-	B) **Test and refine the research instrument before the main data collection ✓**
+-	C) Analyse the collected data     - D) Review the literature
+140.	Ethical considerations in data collection include all of the following EXCEPT:      - A) Informed consent
+-	B) Confidentiality and anonymity
+-	C) **Ensuring all respondents give the same answers ✓**      - D) Right to withdraw from the study
+141.	Response bias in a survey refers to:
+-	A) The researcher selecting biased questions
+-	B) **When respondents answer in ways they think are expected (social desirability) rather than truthfully ✓**      - C) A very low response rate      - D) Errors in data entry
+142.	Content validity of a research instrument means:
+-	A) The instrument produces consistent results
+-	B) **The instrument covers all aspects of the concept it is measuring ✓**
+-	C) The instrument is easy to complete
+-	D) The instrument was used in a previous study
+143.	Construct validity means:
+-	A) The questionnaire is well-constructed physically
+-	B) **The instrument accurately measures the theoretical construct it is intended to measure ✓**      - C) The instrument is reliable
+-	D) The instrument was reviewed by experts
+144.	The difference between face validity and content validity is:
+-	A) They are identical
+-	B) **Face validity is a superficial judgment that an instrument looks like it measures what it should; content validity is arigorous expert assessment ✓**
+-	C) Content validity is less important
+-	D) Face validity involves statistical testing
+145.	In qualitative research, data saturation occurs when:      - A) The researcher has interviewed 100 participants
+-	B) **New data no longer adds new insights or themes — the researcher has sufficient depth of understanding ✓**      - C) All secondary data has been reviewed
+-	D) The questionnaire has been completed
+---
+**TOPIC 8: POPULATION AND SAMPLING — INTERMEDIATE WITH CALCULATIONS**
+146.	A researcher wants to study all 500 employees of a Lagos firm. A sample of 10% is drawn. What is the sample size?
+-	A) 5
+-	B) 10
+-	C) **50 ✓**
+-	D) 100
+     *(Calculation: 10% × 500 = 50)*
+147.	Using systematic sampling from a population of 200 with a desired sample of 40, what is the sampling interval (k)?
+-	A) 2
+-	B) 4
+-	C) **5 ✓**
+-	D) 10
+     *(Calculation: k = N/n = 200/40 = 5)*
+148.	In stratified sampling, if a population has 300 males and 200 females (total 500) and the sample size is 100, how manyfemales should be in the sample?
+-	A) 30
+-	B) **40 ✓**
+-	C) 50
+-	D) 60
+     *(Calculation: 200/500 × 100 = 40 females)*
+149.	Using the same stratified example above, how many males should be in the sample?
+-	A) 30
+-	B) 50
+-	C) **60 ✓**
+-	D) 70
+     *(Calculation: 300/500 × 100 = 60 males)*
+150.	Yamane's formula for sample size is: n = N / (1 + N(e)²). If population N = 400 and margin of error e = 5% (0.05), what is thesample size?
+-	A) 150
+-	B) **200 ✓**
+-	C) 250     - D) 300
+     *(Calculation: n = 400 / (1 + 400 × 0.0025) = 400 / (1 + 1) = 400/2 = 200)*
+151.	Which sampling method would be most appropriate for selecting students from LASU's five faculties proportionally?     - A) Simple random sampling
+-	B) Cluster sampling
+-	C) Convenience sampling
+-	D) **Proportionate stratified sampling ✓**
+152.	What is the main advantage of probability sampling over non-probability sampling?     - A) It is cheaper
+-	B) It is faster
+-	C) **It allows statistical inference — results can be generalized to the population with known confidence levels ✓**      - D) It requires no sampling frame
+153.	A researcher uses snowball sampling to study informal sector workers. The key limitation is:
+-	A) The sample is too large
+-	B) **The sample may be biased towards those known to initial participants — it may not represent all informal workers ✓**      - C) It takes too long
+-	D) It is too expensive
+154.	The difference between a census and a sample survey is:
+-	A) A census uses sampling techniques
+-	B) **A census studies the entire population; a sample survey studies only a selected subset ✓**      - C) A sample survey is always more accurate      - D) A census is only used by governments
+155.	Non-sampling error in research refers to:
+-	A) Errors caused by selecting the wrong sample size
+-	B) **Errors arising from data collection, entry, processing, or respondent behaviour — not from the sampling process itself
+✓**
+-	C) Errors in probability calculations
+-	D) Errors in defining the population
+---
+**TOPIC 9: MEASUREMENT AND SCALING — INTERMEDIATE**
+156.	The interval scale of measurement has:
+-	A) Only categories with no order
+-	B) Ranked categories only
+-	C) **Equal intervals between values but no true zero point ✓**      - D) A true zero point and equal intervals
+157.	The ratio scale of measurement:
+-	A) Has no true zero
+-	B) Only ranks variables
+-	C) Has equal intervals but no zero
+-	D) **Has equal intervals AND a true zero point, allowing all mathematical operations ✓**
+158.	Temperature measured in Celsius is an example of which scale?
+-	A) Nominal
+-	B) Ordinal
+-	C) **Interval ✓**      - D) Ratio
+159.	Weight measured in kilograms is an example of which scale?     - A) Nominal
+-	B) Ordinal
+-	C) Interval
+-	D) **Ratio ✓**
+160.	A semantic differential scale measures:
+-	A) Frequency of behaviour
+-	B) **Bipolar attitudes or perceptions using opposing adjectives on a scale (e.g., Good–Bad, Fast–Slow) ✓**      - C) Demographic characteristics      - D) Financial performance
+161.	Cronbach's Alpha is used to measure:
+-	A) The validity of the research instrument
+-	B) **The internal consistency/reliability of a multi-item scale ✓**
+-	C) The sample size adequacy
+-	D) The normality of data distribution
+162.	A Cronbach's Alpha value of 0.85 indicates:
+-	A) Poor reliability
+-	B) Moderate reliability only
+-	C) **Good/high internal consistency — items are measuring the same construct reliably ✓**      - D) The scale is invalid
+163.	The Thurstone scale is a method for:
+-	A) Measuring financial data
+-	B) **Measuring attitudes where judges rate statements and respondents select those they agree with ✓**      - C) Ranking products by popularity
+-	D) Measuring physical attributes only
+164.	The Guttman scale (scalogram) is characterized by:
+-	A) Random item ordering
+-	B) **A cumulative pattern where agreement with a higher item implies agreement with all lower items ✓**      - C) Equal intervals between responses
+-	D) Bipolar response options
+165.	Why is measurement precision important in business research?
+-	A) It increases the word count of the report
+-	B) **Imprecise measurement leads to unreliable data, which produces invalid conclusions and poor business decisions ✓**      - C) It makes the research more expensive
+-	D) It is only relevant in scientific research
+---
+**TOPIC 10: DATA ANALYSIS — INTERMEDIATE**
+166.	Descriptive statistics summarize data using:
+-	A) Only graphs
+-	B) **Measures of central tendency (mean, median, mode) and dispersion (range, variance, standard deviation) ✓**      - C) Only hypothesis tests
+-	D) Only regression analysis
+167.	The mean of the data set: 4, 6, 8, 10, 12 is:
+-	A) 7
+-	B) 9
+-	C) **8 ✓**
+-	D) 10
+     *(Calculation: (4+6+8+10+12)/5 = 40/5 = 8)*
+168.	The median of the data set: 3, 5, 7, 9, 11 is:
+-	A) 5
+-	B) **7 ✓**
+-	C) 9
+-	D) 6
+     *(Calculation: middle value of ordered set = 7)*
+169.	The mode of the data set: 2, 3, 3, 4, 5, 5, 5, 6 is:      - A) 3
+-	B) 4
+-	C) **5 ✓**
+-	D) 6
+     *(Calculation: 5 appears most frequently — 3 times)*
+170.	Standard deviation measures:
+-	A) The most frequent value in a dataset
+-	B) The middle value of a dataset
+-	C) **How spread out data values are around the mean ✓**      - D) The total sum of all values
+171.	Inferential statistics allow researchers to:
+-	A) Describe only the sample data
+-	B) **Draw conclusions and generalizations about the population based on sample data ✓**      - C) Create graphs of the data
+-	D) Clean and organize data only
+172.	A chi-square test is used to:
+-	A) Compare means of two groups
+-	B) **Test the association/independence between two categorical variables ✓**
+-	C) Measure the reliability of a scale     - D) Calculate the standard deviation
+173.	Pearson's correlation coefficient (r) measures:
+-	A) The difference between two means
+-	B) **The strength and direction of the linear relationship between two continuous variables ✓**
+-	C) The proportion of variance explained     - D) The frequency distribution of a variable
+174.	An r value of +0.85 indicates:
+-	A) A weak negative relationship
+-	B) No relationship
+-	C) A moderate positive relationship     - D) **A strong positive relationship ✓**
+175.	An r value of -0.90 indicates:
+-	A) A strong positive relationship
+-	B) No relationship
+-	C) **A strong negative relationship ✓**      - D) A moderate positive relationship
+176.	Regression analysis in business research is used to:
+-	A) Describe frequency distributions
+-	B) **Predict the value of a dependent variable based on one or more independent variables ✓**      - C) Measure internal consistency
+-	D) Test differences between groups
+177.	A p-value of 0.03 (with significance level set at 0.05) means:
+-	A) The null hypothesis is confirmed
+-	B) The result is not significant
+-	C) **The null hypothesis is rejected — the result is statistically significant ✓**      - D) More data is needed
+178.	A p-value of 0.08 (with significance level set at 0.05) means:
+-	A) The result is significant
+-	B) The null hypothesis is rejected
+-	C) **The null hypothesis is NOT rejected — the result is not statistically significant at the 5% level ✓**      - D) The relationship is strong
+179.	Thematic analysis in qualitative research involves:
+-	A) Statistical analysis of interview data
+-	B) **Identifying, analysing, and reporting patterns (themes) within qualitative data ✓**
+-	C) Converting qualitative data to numbers
+-	D) Only coding open-ended questionnaire responses
+180.	Content analysis can be used for:
+-	A) Only qualitative data
+-	B) Only quantitative data
+-	C) **Both qualitative and quantitative analysis of text, media, or communication content ✓**      - D) Only interview data
+---
+**TOPIC 11: REFERENCES — INTERMEDIATE**
+181.	In APA 7th edition, how should a journal article by two authors be cited in-text?
+-	A) (Author1 & Author2, Year) only at the end
+-	B) **(Author1 & Author2, Year) ✓**
+-	C) Author1 and Author2 (Year)     - D) [Author1, Author2: Year]
+182.	In APA 7th edition, when a source has three or more authors, the in-text citation should be:      - A) List all authors every time
+-	B) **First author et al., Year (e.g., Adeyemi et al., 2022) ✓**
+-	C) Only the year
+-	D) First and last author only
+183.	A DOI (Digital Object Identifier) in a reference list is important because:      - A) It proves the article is peer-reviewed
+-	B) **It provides a permanent, unique link to locate the digital source ✓**
+-	C) It replaces the author's name     - D) It is required only for books
+184.	How should a website source be cited in APA 7th edition reference list?
+-	A) Just the website name and URL
+-	B) **Author/Organisation. (Year). Title of webpage. URL ✓**
+-	C) URL only
+-	D) Title and date accessed only
+185.	Self-plagiarism refers to:
+-	A) Writing without citing sources
+-	B) **Reusing your own previously submitted work without proper disclosure ✓**
+-	C) Citing the same source twice     - D) Writing in your own words
+186.	A reference list in APA style is organized:
+-	A) In the order of citation in the text
+-	B) By publication date
+-	C) **Alphabetically by the first author's surname ✓**
+-	D) By topic or subject area
+187.	Paraphrasing a source and not citing it is considered:
+-	A) Acceptable research practice
+-	B) **Plagiarism ✓**
+-	C) A minor formatting error
+-	D) Acceptable only for secondary sources
+188.	An in-text citation that includes a page number is required when:
+-	A) The source is a journal article
+-	B) **Using a direct quotation from a source ✓**
+-	C) The source has multiple authors
+-	D) The source was published before 2010
+189.	The Vancouver referencing system is characterized by:
+-	A) Author-date in-text citations     - B) Alphabetical reference list
+-	C) **Numbered in-text citations that correspond to a numbered reference list in order of appearance ✓**      - D) Footnote-based citations
+190.	The MHRA referencing style is most commonly used in:
+-	A) Sciences and medicine
+-	B) **Humanities, including history and literature ✓**
+-	C) Engineering and technology
+-	D) Business and economics
+---
+**MIXED MEDIUM (191–200)**
+191.	A researcher studying the impact of microfinance on women entrepreneurs in Lagos would most appropriately use whichcombination of research design and data collection?      - A) Experimental design with lab tests
+-	B) **Mixed-methods: survey questionnaires for quantitative financial data + in-depth interviews for qualitative experiences
+✓**
+-	C) Secondary data analysis only     - D) Observation only
+192.	If a questionnaire's Cronbach's Alpha = 0.55, the researcher should:
+-	A) Proceed with data collection immediately
+-	B) Reject the entire study
+-	C) **Review and revise the items to improve internal consistency before proceeding ✓**
+-	D) Increase the sample size
+193.	A researcher wishes to determine whether there is a significant difference in academic performance between full-time andpart-time students at LASU. The appropriate statistical test is:
+-	A) Pearson correlation
+-	B) Regression analysis
+-	C) **Independent samples t-test ✓**      - D) Chi-square test
+194.	Given data: mean = 70, standard deviation = 10. What is the coefficient of variation (CV)?     - A) 7%
+-	B) 10%
+-	C) **14.3% ✓**
+-	D) 70%
+     *(Calculation: CV = (SD/Mean) × 100 = (10/70) × 100 = 14.3%)*
+195.	Variance of the dataset 2, 4, 4, 4, 5, 5, 7, 9 (mean = 5) is:
+-	A) 2
+-	B) **4 ✓**
+-	C) 6
+-	D) 8
+     *(Calculation: Sum of (x - mean)² = 9+1+1+1+0+0+4+16 = 32; Variance = 32/8 = 4)*
+196.	A scatter plot showing points closely clustered around a downward-sloping line indicates:      - A) A strong positive correlation
+-	B) No correlation
+-	C) **A strong negative correlation ✓**      - D) A weak positive correlation
+197.	Which type of research error occurs when a researcher fails to include a relevant variable in their study?     - A) Sampling error
+-	B) Data entry error
+-	C) **Specification error / omitted variable bias ✓**      - D) Response bias
+198.	In an APA reference for a textbook, which order is correct?
+-	A) Title. Author. Year. Publisher
+-	B) **Author. (Year). Title. Publisher ✓**
+-	C) Publisher. Author. Year. Title
+-	D) Year. Author. Title. Publisher
+199.	What distinguishes a pilot study from a pre-test?
+-	A) They are identical
+-	B) **A pilot study is a small-scale replica of the full study; a pre-test only checks if the instrument items are clear andunderstandable ✓**
+-	C) A pre-test involves more participants
+-	D) A pilot study is conducted after data collection
+200.	When a researcher finds that their quantitative data contradicts their qualitative findings in a mixed-methods study, thecorrect approach is to:
+-	A) Ignore the quantitative findings
+-	B) Ignore the qualitative findings
+-	C) **Report and investigate the divergence — it may reveal important nuances or lead to new insights ✓**      - D) Change the research design
+# BuA 399 — RESEARCH METHODS IN BUSINESS
+## HARD MODE | Questions 201–250
+### Lagos State University | Business Administration 300L
+---
+**ADVANCED RESEARCH PHILOSOPHY**
+201.	Ontology in research refers to:
+-	A) The study of research methods
+-	B) **The philosophical assumptions about the nature of reality and what can be known ✓**      - C) The analysis of data
+-	D) The ethical framework of research
+202.	Epistemology in research concerns:      - A) Statistical techniques
+-	B) How to write a literature review
+-	C) **The theory of knowledge — what constitutes valid knowledge and how it is acquired ✓**      - D) Sampling methods
+203.	A positivist researcher assumes that:
+-	A) Reality is subjective and constructed
+-	B) **Social reality exists independently of the observer and can be measured objectively ✓**      - C) Research cannot be objective      - D) Statistics are irrelevant
+204.	An interpretivist/constructivist researcher assumes:
+-	A) Reality is fixed and measurable
+-	B) Only quantitative methods are valid
+-	C) **Reality is socially constructed through meaning — understanding requires interpreting participants' subjectiveexperiences ✓**
+-	D) Objectivity is always achievable
+205.	Pragmatism as a research philosophy:
+-	A) Rejects both qualitative and quantitative research
+-	B) Always favours quantitative methods
+-	C) **Focuses on practical consequences — choosing methods based on what best answers the research question,justifying mixed methods ✓**
+-	D) Rejects the use of theory
+206.	The concept of reflexivity in qualitative research requires:      - A) Repeating the study multiple times
+-	B) **Continuous critical examination by the researcher of how their identity, assumptions, and position influence theresearch process and findings ✓**
+-	C) Using a reflective data analysis technique
+-	D) Reviewing literature repeatedly
+207.	Axiology in research refers to:
+-	A) The logic of research design
+-	B) **The role of values and ethics in research — what the researcher values and how values influence the research ✓**
+-	C) Statistical axioms
+-	D) The structure of the research report
+---
+**ADVANCED RESEARCH DESIGN**
+208.	Phenomenology as a research design aims to:
+-	A) Study cultural practices over time     - B) Generate theory from data
+-	C) **Understand the essence and structure of lived human experience of a particular phenomenon ✓**      - D) Conduct experiments on human behaviour
+209.	The difference between deductive and inductive research approaches is:
+-	A) Deductive uses only qualitative methods
+-	B) **Deductive tests existing theory with data (theory → hypothesis → observations); inductive builds new theory from data (observations → patterns → theory) ✓**
+-	C) Inductive always uses surveys     - D) They are identical in outcome
+210.	An abductive research approach:
+-	A) Tests pre-existing theories only     - B) Builds theory from scratch
+-	C) **Moves between inductive and deductive reasoning — starts with surprising observations and develops the bestpossible explanation ✓**
+-	D) Only uses secondary data
+211.	What is the fundamental threat to internal validity known as "history effect" in experimental research?
+-	A) The effect of researcher bias
+-	B) **External events that occur during the experiment and affect the dependent variable — not the treatment ✓**      - C) Participant dropout from the study
+-	D) The effect of repeated testing on participants
+212.	The "Hawthorne effect" is a threat to research validity because:
+-	A) Participants forget to respond
+-	B) **Participants change their behaviour simply because they know they are being observed ✓**
+-	C) The researcher changes the questions
+-	D) The data collection instrument is unreliable
+213.	Why is random assignment critical in experimental design?
+-	A) It ensures a large sample
+-	B) **It distributes confounding variables equally across groups, making the groups comparable and allowing cause-and-effect inference ✓**
+-	C) It speeds up data collection     - D) It improves external validity
+214.	A Solomon Four-Group Design is used to:
+-	A) Study four different populations simultaneously
+-	B) **Control for both testing effects and the interaction between pre-testing and the treatment ✓**      - C) Conduct four separate experiments
+-	D) Test four different hypotheses
+---
+**ADVANCED SAMPLING AND CALCULATION**
+215.	A population of 1,000 is to be sampled using Yamane's formula at e = 5%. What is the required sample size?     - A) 200
+-	B) 250
+-	C) **286 ✓**
+-	D) 333
+     *(Calculation: n = 1000 / (1 + 1000 × 0.0025) = 1000 / (1 + 2.5) = 1000/3.5 ≈ 286)*
+216.	A population of 800 is sampled using Yamane's formula at e = 10% (0.10). What is the sample size?
+-	A) 50
+-	B) 67
+-	C) **89 ✓**      - D) 100
+     *(Calculation: n = 800 / (1 + 800 × 0.01) = 800 / (1 + 8) = 800/9 ≈ 89)*
+217.	Using systematic sampling: population = 600, desired sample = 60. If the random start is 4, what is the second elementselected?
+-	A) 8
+-	B) **14 ✓**
+-	C) 10
+-	D) 20
+     *(Calculation: k = 600/60 = 10; sequence: 4, 4+10 = 14, 24...)*
+218.	A stratified sample is drawn from a company with 120 managers, 280 supervisors, and 600 workers (total=1,000). Ifsample size=100, how many workers are included?
+-	A) 30
+-	B) 50
+-	C) **60 ✓**
+-	D) 70
+     *(Calculation: 600/1000 × 100 = 60)*
+219.	In the same stratified sample above, how many managers are included?
+-	A) 8
+-	B) **12 ✓**
+-	C) 15
+-	D) 20
+     *(Calculation: 120/1000 × 100 = 12)*
+220.	Cochran's sample size formula for a proportion: n = Z²pq/e². For Z=1.96 (95% CI), p=0.5, q=0.5, e=0.05, the minimumsample size is:
+-	A) 300
+-	B) 350
+-	C) **384 ✓**
+-	D) 400
+     *(Calculation: n = (1.96)² × 0.5 × 0.5 / (0.05)² = 3.8416 × 0.25 / 0.0025 = 0.9604/0.0025 = 384.16 ≈ 384)*
+221.	Why does increasing the confidence level from 95% to 99% in sample size calculations require a larger sample?
+-	A) Because the margin of error increases
+-	B) **Because the Z-value increases (from 1.96 to 2.576), mathematically requiring more observations to achieve the higherconfidence ✓**
+-	C) Because the population increases
+-	D) Because qualitative data is needed
+---
+**ADVANCED DATA ANALYSIS AND STATISTICS**
+222.	Given scores: 55, 60, 65, 70, 75, 80, 85. The range is:
+-	A) 25
+-	B) **30 ✓**
+-	C) 35
+-	D) 40
+     *(Calculation: Range = Maximum – Minimum = 85 – 55 = 30)*
+223.	Given: mean = 50, standard deviation = 8. What is the z-score for a value of 66?
+-	A) 1.5
+-	B) **2.0 ✓**
+-	C) 2.5
+-	D) 3.0
+     *(Calculation: z = (X – μ)/σ = (66 – 50)/8 = 16/8 = 2.0)*
+224.	A z-score of 2.0 means the value is:
+-	A) Below the mean
+-	B) At the mean
+-	C) **2 standard deviations above the mean ✓**      - D) Negative
+225.	In a regression equation Y = 3 + 2X, if X = 5, what is the predicted value of Y?     - A) 10
+-	B) 12
+-	C) **13 ✓**
+-	D) 15
+     *(Calculation: Y = 3 + 2(5) = 3 + 10 = 13)*
+226.	In regression analysis, R² = 0.72 means:
+-	A) 72% of the independent variable is explained by the dependent variable
+-	B) **72% of the variance in the dependent variable is explained by the independent variable(s) ✓**      - C) The correlation coefficient is 0.72
+-	D) 28% of the model is statistically significant
+227.	A regression model gives: Sales = 500 + 30(Advertising). If advertising spend = ₦20,000, predicted sales are:      - A) ₦600,000
+-	B) ₦700,000
+-	C) **₦1,100,000 ✓**
+-	D) ₦1,200,000
+     *(Calculation: Sales = 500 + 30 × 20,000 = 500 + 600,000 = 600,500 — Note: if advertising in thousands, Sales = 500 + 30(20)
+= 500 + 600 = 1,100)*
+228.	A one-way ANOVA test is used when:
+-	A) Comparing two means from one group
+-	B) Testing association between categorical variables
+-	C) **Comparing means of three or more independent groups ✓**      - D) Measuring internal consistency
+229.	The p-value in an ANOVA is 0.001 (α = 0.05). This means:
+-	A) The means are all equal
+-	B) The result is not significant
+-	C) **There is a statistically significant difference between at least two group means ✓**
+-	D) More groups are needed
+230.	In a chi-square test, observed frequencies are 30, 20 and expected frequencies are 25, 25. The chi-square value for the firstcell is:      - A) 0.5
+-	B) **1.0 ✓**
+-	C) 1.5
+-	D) 2.0
+     *(Calculation: χ² cell = (O-E)²/E = (30-25)²/25 = 25/25 = 1.0)*
+231.	Multiple regression analysis differs from simple regression in that:
+-	A) Multiple regression uses categorical data
+-	B) **Multiple regression uses two or more independent variables to predict the dependent variable ✓**      - C) Simple regression uses more data
+-	D) Multiple regression cannot determine significance
+232.	Multicollinearity in multiple regression analysis is a problem because:
+-	A) It increases the sample size needed
+-	B) **When independent variables are highly correlated with each other, it becomes difficult to isolate the individual effect ofeach variable ✓**
+-	C) It makes the model more accurate
+-	D) It reduces R²
+233.	What does a VIF (Variance Inflation Factor) > 10 indicate in regression analysis?     - A) The model is well-specified
+-	B) The dependent variable is significant
+-	C) **Severe multicollinearity among the independent variables ✓**      - D) The sample size is too small
+234.	Factor analysis in research is used to:
+-	A) Calculate means and standard deviations     - B) Test differences between groups
+-	C) **Identify underlying latent factors that explain patterns of correlation among a large set of observed variables ✓**
+-	D) Measure reliability of a single item
+---
+**ADVANCED MEASUREMENT AND SCALING**
+235.	Face validity, content validity, construct validity, and criterion validity represent a hierarchy of evidence. Which provides theSTRONGEST evidence that an instrument measures what it claims to?
+-	A) Face validity — it looks right
+-	B) Content validity — experts agree it covers the domain
+-	C) **Construct validity — empirical evidence that the instrument relates to other variables as theoretically predicted ✓**
+-	D) Criterion validity alone
+236.	Discriminant validity in construct validity testing means:      - A) The scale measures the same thing as a similar scale
+-	B) **The scale does NOT correlate strongly with scales measuring different constructs — confirming it measuressomething unique ✓**
+-	C) The scale discriminates between demographic groups     - D) The items are ordered from easy to difficult
+237.	If a 5-item Likert scale has inter-item correlations ranging from 0.1 to 0.3, a researcher should:
+-	A) Proceed — these are acceptable
+-	B) **Investigate and likely revise items with very low correlations as they may not be measuring the same construct ✓**      - C) Reduce the scale to 3 items immediately      - D) Switch to an interval scale
+238.	The semantic differential scale and the Likert scale differ because:
+-	A) The Likert scale is more reliable
+-	B) **The semantic differential captures bipolar attitude dimensions using opposing adjectives; the Likert scale measuresagreement with statements ✓**
+-	C) They are statistically identical
+-	D) The semantic differential is only for qualitative research
+---
+**INTEGRATED AND CRITICAL QUESTIONS**
+239.	A LASU student researcher wishes to study "Factors Affecting Academic Performance Among Part-Time BuA Students."Identify the most critical methodological decision:
+-	A) Choosing the font size of the report     - B) Deciding the referencing style
+-	C) **Operationalizing "academic performance" — whether to use GPA, self-reported grades, lecturer ratings, or acombination, since this determines what is actually being measured ✓**      - D) Selecting the word processing software
+240.	A researcher reports: "The correlation between study hours and exam scores is r = 0.78 (p < 0.01)." Which of the followinginterpretations is CORRECT?
+-	A) Study hours cause higher exam scores
+-	B) 78% of exam score variance is explained by study hours
+-	C) **There is a strong positive linear relationship between study hours and exam scores, statistically significant at 1% level
+— but correlation does not imply causation ✓**
+-	D) Students who study more always score 78% and above
+241.	A researcher uses convenience sampling and finds that mobile money adoption among LASU students is 80%. Which isthe most significant limitation of this finding?      - A) The percentage is too high
+-	B) **The convenience sample may systematically over-represent tech-savvy, accessible students — the finding cannot begeneralized to all LASU students ✓**      - C) The sample size was too large
+-	D) Quantitative data should not have been used
+242.	Why would a researcher use a mixed-methods sequential explanatory design?
+-	A) To collect qualitative data first, then explain it with quantitative data
+-	B) **To first collect quantitative data to identify patterns, then use qualitative data to explain those patterns in depth ✓**      - C) To conduct quantitative and qualitative simultaneously
+-	D) To triangulate two quantitative instruments
+243.	A business research study finds R² = 0.45 in a regression model predicting employee productivity. The most accurateinterpretation is:
+-	A) 45% of employees are productive
+-	B) The model is statistically insignificant
+-	C) **45% of the variation in employee productivity is explained by the independent variables in the model — 55% remainsunexplained by other factors ✓**
+-	D) The regression coefficient is 0.45
+244.	In a study of 200 respondents, a chi-square test on gender (Male/Female) and preference for online shopping (Yes/No) gives χ² = 5.8, df = 1, critical value = 3.84 (α=0.05). The correct conclusion is:
+-	A) Fail to reject H0 — no significant association
+-	B) The test cannot be concluded
+-	C) **Reject H0 — there is a significant association between gender and online shopping preference ✓**      - D) The sample size is too small to conclude
+245.	A student includes a chapter summary, finds Cronbach's Alpha = 0.91 for their 10-item instrument, uses Yamane's formulafor n = 286 from N = 1,000, and applies multiple regression. Critically evaluate the strongest component of this methodology:      - A) The chapter summary
+-	B) The sample size alone
+-	C) The data analysis technique alone
+-	D) **The Cronbach's Alpha of 0.91, which demonstrates excellent internal consistency and is direct evidence ofmeasurement reliability — the foundation of valid quantitative findings ✓**
+246.	Which combination of research philosophy, approach, design, and method is MOST coherent for a study on "How LASUStudents Perceive the Value of Part-Time Business Education"?
+-	A) Positivism → Deductive → Experimental → Questionnaire
+-	B) Pragmatism → Abductive → Survey → Secondary data
+-	C) **Interpretivism → Inductive → Phenomenological → In-depth interviews ✓**      - D) Positivism → Inductive → Ethnographic → Observation
+247.	Explain why a p-value does NOT tell a researcher the probability that the null hypothesis is true:
+-	A) Because p-values are only used in qualitative research
+-	B) **The p-value gives the probability of obtaining results as extreme as observed IF the null hypothesis were true — it doesnot state the probability that H0 is true or false ✓**      - C) Because p-values measure effect size
+-	D) Because null hypotheses are always false
+248.	A researcher has five independent variables and 50 observations. Which problem does this create in multiple regression?
+-	A) The R² will be too low
+-	B) The degrees of freedom will be too high
+-	C) **The model is over-fitted — with too few observations per variable, the model may fit the sample data perfectly but failto generalize ✓**
+-	D) Multicollinearity becomes impossible
+249.	In assessing research quality, the criteria of "credibility, transferability, dependability, and confirmability" apply to:      - A) Quantitative research only
+-	B) Experimental research only
+-	C) **Qualitative research — as the equivalent of internal validity, external validity, reliability, and objectivity respectively ✓**      - D) Mixed-methods research only
+250.	The ultimate goal of rigorous research methodology in BuA 399 is best captured by:
+-	A) Producing the longest possible research report
+-	B) Using the most sophisticated statistical techniques     - C) Collecting the largest possible sample
+-	D) **Ensuring that research findings are trustworthy, valid, and contribute meaningful knowledge that can inform businessdecisions and academic understanding ✓**

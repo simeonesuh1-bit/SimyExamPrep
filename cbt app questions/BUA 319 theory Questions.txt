@@ -1,0 +1,127 @@
+﻿Here are **20 theory questions** based on the BUA 319 (E-commerce) course outline for your CBT app. They are structured for easy copy-paste (numbered with questions first, followed immediately by answers in a clear format). Questions draw from standard e-commerce concepts aligned with the topics, suitable for a 300-level Business Administration student at LASU.
+
+### 1. Overview of E-commerce
+**Question 1:** Define e-commerce and explain its historical evolution briefly.  
+**Answer:** E-commerce (electronic commerce) is the buying, selling, and exchange of goods, services, and information over the internet or other electronic networks using digital devices. Its history traces back to the 1970s with early electronic data interchange (EDI) systems, gained momentum in the 1990s with the World Wide Web and browsers like Mosaic, and exploded with platforms like Amazon (1995) and eBay. Today, it includes mobile and social commerce, driven by widespread internet access.
+
+**Question 2:** Discuss the importance of e-commerce in modern business.  
+**Answer:** E-commerce lowers operational costs, provides 24/7 accessibility, expands global market reach without physical stores, enables personalized customer experiences, and increases efficiency through automation. It benefits businesses by reducing overheads and consumers by offering convenience and variety.
+
+### 2. Different Types of E-commerce
+**Question 3:** List and briefly explain the main types of e-commerce business models.  
+**Answer:** The primary types are:  
+- **B2B (Business-to-Business)**: Transactions between businesses (e.g., wholesalers selling to retailers).  
+- **B2C (Business-to-Consumer)**: Businesses selling directly to individual consumers (e.g., Amazon retail).  
+- **C2C (Consumer-to-Consumer)**: Individuals selling to other individuals (e.g., eBay auctions).  
+- **C2B (Consumer-to-Business)**: Individuals offering products/services to businesses (e.g., freelancers on Upwork).  
+- **B2G (Business-to-Government)**: Businesses selling to government agencies.  
+- Others include G2C and D2C (Direct-to-Consumer).
+
+**Question 4:** Differentiate between B2C and B2B e-commerce with examples.  
+**Answer:** B2C focuses on individual consumers with impulse buys, lower order values, and emotional decisions (e.g., buying clothes on Jumia). B2B involves businesses with higher volumes, negotiated pricing, and rational decisions (e.g., a manufacturer buying raw materials online). B2B often has longer sales cycles and account management.
+
+### 3. Major Models, Drivers and Benefits of Different E-commerce Systems
+**Question 5:** Identify the major drivers of e-commerce growth.  
+**Answer:** Key drivers include widespread internet and smartphone penetration, technological advancements (e.g., secure payment gateways, AI personalization), changing consumer behavior toward convenience, globalization, and lower barriers to entry for startups. Economic factors like cost savings also drive adoption.
+
+**Question 6:** Outline the benefits and limitations of e-commerce for businesses and consumers.  
+**Answer:** Benefits: Global reach, 24/7 operations, reduced costs (no physical rent), data-driven insights, and personalized marketing. Limitations: Security risks, lack of physical interaction, high competition, logistics challenges, and potential for fraud or returns.
+
+### 4. The Portfolio of the Steps Required to Start Up an Online Business
+**Question 7:** Describe the key steps to start an online business.  
+**Answer:** 1. Research niche and validate idea. 2. Choose business model and write a plan. 3. Select and register business name/brand. 4. Choose platform (e.g., Shopify) and build website. 5. Source products or create inventory system. 6. Set up payments, shipping, and legal compliance. 7. Market the business and launch, then monitor/optimize.
+
+**Question 8:** Explain why market research is critical in the e-commerce startup process.  
+**Answer:** It helps identify demand, understand competitors, define target audience, validate product viability, and reduce risk of failure by ensuring the business meets real customer needs before investing in development.
+
+### 5. Designing, Component, System and Processes to Meet Requirements
+**Question 9:** What are the essential components of an e-commerce system design?  
+**Answer:** Key components include product catalog (with search/inventory), user authentication/shopping cart, payment processing, order management, fulfillment/shipping integration, customer database, and analytics. The system must be scalable, secure, and user-friendly.
+
+**Question 10:** Discuss the processes involved in designing an e-commerce website.  
+**Answer:** Processes include requirement gathering, UI/UX design (responsive, intuitive navigation), backend development (database, APIs), integration of payment/shipping, testing (functionality, security), and deployment with ongoing maintenance for performance.
+
+### 6. Building Organizational Web Presence and Using It to Market on Online Platform
+**Question 11:** Explain how to build a strong organizational web presence.  
+**Answer:** Create a professional, mobile-responsive website; optimize for SEO; maintain active social media profiles; claim business listings (e.g., Google My Business); produce valuable content; and engage customers through email/social channels.
+
+**Question 12:** How can an organization use its web presence for online marketing?  
+**Answer:** Through SEO for visibility, content marketing (blogs/videos), social media advertising, email campaigns, pay-per-click (PPC), and analytics to retarget users and personalize offers, driving traffic and conversions.
+
+### 7. Ethical Implications of an Online Business
+**Question 13:** What are the major ethical issues in e-commerce?  
+**Answer:** Key issues include data privacy (collecting/using customer information), transparency in marketing (avoiding misleading claims), intellectual property rights (counterfeits/piracy), fair labor in supply chains, and responsible use of AI/personalization without manipulation.
+
+**Question 14:** Discuss the ethical implications of data collection in online businesses.  
+**Answer:** Businesses must obtain consent, ensure transparency about data use, protect against breaches, and avoid exploitation. Failure leads to loss of trust, legal issues, and reputational damage.
+
+### 8. Legal and Security Issues of E-commerce
+**Question 15:** Outline the main legal issues in e-commerce.  
+**Answer:** Issues include data protection/privacy laws (e.g., GDPR equivalents), consumer protection, taxation/sales tax collection, intellectual property (copyright/trademarks), contract validity in online transactions, and jurisdiction in cross-border trade.
+
+**Question 16:** Explain key security concerns and measures in e-commerce.  
+**Answer:** Concerns: Data breaches, hacking, payment fraud, phishing. Measures: SSL encryption, PCI-DSS compliance for payments, firewalls, two-factor authentication, regular audits, and cyber insurance to protect customer data and build trust.
+
+### 9. Virtual Value Chain and E-commerce Management
+**Question 17:** Define the virtual value chain and its role in e-commerce.  
+**Answer:** The virtual value chain (proposed by Rayport and Sviokla) involves gathering, organizing, selecting, synthesizing, and distributing information to create value in the digital "marketspace," complementing the physical value chain. In e-commerce, it enables efficiency through data-driven decisions, new services, and competitive advantage.
+
+**Question 18:** How does e-commerce management differ when using the virtual value chain?  
+**Answer:** It shifts focus to information management, real-time analytics, digital coordination across partners, and creating new value from data (e.g., personalized recommendations) rather than just physical logistics.
+
+### 10. E-marketing and Knowledge Market Strategies
+**Question 19:** What is e-marketing, and outline key strategies for e-commerce.  
+**Answer:** E-marketing (electronic marketing) promotes products/services online. Strategies include SEO/SEM, content marketing, social media, email automation, influencer partnerships, personalization, and data analytics for targeted campaigns to drive traffic and sales.
+
+**Question 20:** Explain knowledge market strategies in the context of e-commerce.  
+**Answer:** These involve leveraging data and customer insights (knowledge) for targeted marketing, such as using analytics for segmentation, personalized recommendations, dynamic pricing, and building loyalty through relevant content/offers in digital marketplaces.
+. Overview of E-commerce
+Question 21: Explain the key characteristics that distinguish e-commerce from traditional commerce.
+Answer: E-commerce is characterized by digitization of transactions, global reach without physical boundaries, 24/7 availability, interactivity, personalization through data, lower transaction costs, and reliance on technology (internet, devices). Traditional commerce is limited by location, time, and physical presence.
+Question 22: Discuss how e-commerce has transformed the Nigerian business environment.
+Answer: It has enabled small businesses to reach national and global markets (e.g., via Jumia, Konga), reduced infrastructure barriers, boosted SMEs through platforms, created jobs in tech/logistics, and increased competition, while challenging traditional retail with convenience and lower prices.
+2. Different Types of E-commerce
+Question 23: Differentiate between mobile commerce (m-commerce) and social commerce as subsets of e-commerce.
+Answer: M-commerce involves buying/selling via mobile devices/apps (e.g., phone-based shopping). Social commerce integrates sales within social networks (e.g., Instagram/Facebook shops). Both are B2C-focused but m-commerce emphasizes mobility while social commerce leverages community and sharing.
+Question 24: Explain C2B and G2C e-commerce models with Nigerian examples.
+Answer: C2B: Consumers offer value to businesses (e.g., freelancers on Upwork or PiggyVest users providing data). G2C: Government provides services to citizens online (e.g., NIMC e-portal for NIN, tax payments via FIRS portal). Both reduce paperwork and increase efficiency.
+3. Major Models, Drivers and Benefits of Different E-commerce Systems
+Question 25: Identify and explain the revenue models commonly used in e-commerce systems.
+Answer: Major models include: subscription (e.g., Netflix), transaction fee (e.g., Paystack), advertising (e.g., Google), affiliate (e.g., Jumia affiliates), direct sales, and freemium. These drive income based on user engagement, volume, or data monetization.
+Question 26: Analyze the role of technology as a driver of e-commerce benefits in developing economies like Nigeria.
+Answer: Technologies like mobile money (e.g., OPay, PalmPay), cloud computing, and AI enable cost reduction, faster delivery, better customer service, and scalability. Benefits include economic inclusion for unbanked populations and SME growth despite infrastructure challenges.
+4. The Portfolio of the Steps Required to Start Up an Online Business
+Question 27: Outline the legal and regulatory steps involved in starting an online business in Nigeria.
+Answer: 1. Register with CAC (Corporate Affairs Commission). 2. Obtain Tax ID from FIRS. 3. Comply with data protection (NDPC). 4. Secure domain and hosting. 5. Get necessary permits (e.g., for food/pharma via NAFDAC). 6. Set up payment gateways compliant with CBN.
+Question 28: Why is choosing the right e-commerce platform a critical step in startup?
+Answer: It affects scalability, cost, customization, security, and integration (e.g., Shopify vs. WooCommerce). Poor choice leads to high maintenance, lost sales, or inability to handle traffic, directly impacting launch success and long-term viability.
+5. Designing, Component, System and Processes to Meet Requirements
+Question 29: Describe the role of user interface (UI) and user experience (UX) in e-commerce system design.
+Answer: UI focuses on visual elements (buttons, layout) for appeal; UX ensures intuitive navigation, fast loading, and seamless checkout to reduce cart abandonment. Together they meet customer requirements for ease and trust.
+Question 30: Explain the importance of backend systems and integration in e-commerce processes.
+Answer: Backend handles inventory, orders, payments, and databases (e.g., integrating with logistics like DHL or Paystack). It ensures real-time synchronization, automation, and scalability to meet operational requirements without downtime.
+6. Building Organizational Web Presence and Using It to Market on Online Platform
+Question 31: What is SEO and how does it contribute to building web presence?
+Answer: Search Engine Optimization improves website visibility on Google/Bing through keywords, content quality, mobile-friendliness, and backlinks. It drives organic traffic, reduces ad costs, and strengthens long-term online brand presence.
+Question 32: Discuss the use of content marketing as a tool for online platform marketing.
+Answer: Creating blogs, videos, infographics, and social posts builds trust, educates customers, and drives traffic/SEO. In Nigeria, it helps differentiate brands (e.g., local fashion blogs) and converts visitors into loyal buyers.
+7. Ethical Implications of an Online Business
+Question 33: Analyze the ethical dilemma of targeted advertising in e-commerce.
+Answer: It improves relevance and sales using customer data but raises privacy concerns and potential manipulation. Businesses must balance profit with consent and transparency to avoid exploiting vulnerabilities.
+Question 34: Explain the ethical responsibility of e-commerce businesses regarding counterfeit products.
+Answer: Platforms must prevent sale of fakes to protect intellectual property, consumer safety, and brand trust. Failure leads to legal risks and reputational damage, requiring proactive monitoring and seller verification.
+8. Legal and Security Issues of E-commerce
+Question 35: Discuss the impact of the Nigerian Data Protection Act on e-commerce operations.
+Answer: It mandates consent for data collection, secure storage, breach notification, and rights of data subjects. Compliance builds customer trust but requires investment in systems; non-compliance attracts heavy fines.
+Question 36: What are the key security measures for protecting online transactions?
+Answer: Use SSL/TLS encryption, tokenization for cards, two-factor authentication (2FA), fraud detection AI, regular penetration testing, and PCI-DSS standards to prevent hacking, identity theft, and financial loss.
+9. Virtual Value Chain and E-commerce Management
+Question 37: Compare the physical value chain and virtual value chain in e-commerce management.
+Answer: Physical value chain deals with tangible logistics (supply, production, delivery). Virtual value chain focuses on information flows (gathering/organizing/synthesizing data) to create digital value like recommendations, enabling efficiency and new revenue streams.
+Question 38: How does effective e-commerce management leverage the virtual value chain for competitive advantage?
+Answer: By using data analytics for real-time decisions, personalized services, and partner coordination. It reduces costs, speeds innovation, and creates “marketspace” opportunities beyond physical limits.
+10. E-marketing and Knowledge Market Strategies
+Question 39: Differentiate between e-marketing and traditional marketing strategies.
+Answer: E-marketing is interactive, measurable (via analytics), cost-effective, and global (SEO, email, social). Traditional is one-way, expensive, and location-bound (TV, print). E-marketing allows real-time adjustments based on data.
+Question 40: Explain knowledge market strategies and their application in e-commerce.
+Answer: These use customer data/insights for segmentation, personalization, dynamic pricing, and loyalty programs. In e-commerce, it turns knowledge into competitive edge (e.g., Netflix-style recommendations or Jumia targeted deals).

@@ -1,0 +1,1035 @@
+# BuA 313 — INNOVATION MANAGEMENT
+## EASY MODE | Questions 1–100
+### Lagos State University | Business Administration 300L
+---
+**TOPIC 1: INTRODUCTION TO INNOVATION MANAGEMENT**
+1. Innovation management is best defined as:
+-	A) The process of hiring creative employees
+-	B) **The systematic process of managing and implementing new ideas to create value ✓**
+-	C) The study of old business methods
+-	D) Managing financial resources of a firm
+2. The word "innovation" originates from the Latin word:
+-	A) "Innovo" meaning to produce
+-	B) **"Innovare" meaning to renew or change ✓**
+-	C) "Invenire" meaning to find
+-	D) "Initium" meaning to begin
+3. Which of the following best defines innovation?
+-	A) Copying a competitor's product exactly
+-	B) Spending money on research only
+-	C) **The introduction of something new or improved that creates value ✓**    - D) Maintaining existing business processes
+4. Innovation is different from invention because:
+-	A) Invention creates value; innovation does not
+-	B) **Innovation involves commercializing an idea; invention is just creating something new ✓**
+-	C) Invention is always more valuable   - D) There is no difference
+5. Which of the following is an example of product innovation?
+-	A) Changing a company's accounting system   - B) **Launching a new smartphone model ✓**
+-	C) Reducing employee salaries   - D) Changing office furniture
+6. Process innovation refers to:
+-	A) Creating a new product
+-	B) Changing the logo of a company
+-	C) **Improving the way a product or service is produced or delivered ✓**    - D) Hiring new staff
+7. Which type of innovation involves creating an entirely new market or industry?
+-	A) Incremental innovation
+-	B) Process innovation
+-	C) **Radical/Disruptive innovation ✓**
+-	D) Service innovation
+8. Incremental innovation means:
+-	A) Completely replacing existing products
+-	B) **Making small, continuous improvements to existing products or processes ✓**
+-	C) Inventing a new industry
+-	D) Changing the marketing strategy
+9. Which of the following is an example of radical innovation?
+-	A) Adding a new colour to an existing product
+-	B) Improving customer service slightly
+-	C) **The invention of the internet ✓**    - D) Reducing delivery time by one day
+10.	Disruptive innovation is a concept associated with which scholar?
+-	A) Peter Drucker
+-	B) **Clayton Christensen ✓**
+-	C) Michael Porter    - D) Philip Kotler
+11.	Which type of innovation improves an existing service without creating a new product?    - A) Product innovation
+-	B) **Service innovation ✓**
+-	C) Radical innovation
+-	D) Architectural innovation
+12.	Architectural innovation involves:
+-	A) Building new offices
+-	B) **Reconfiguring existing components in new ways to create a new product ✓**
+-	C) Replacing all employees
+-	D) Changing pricing strategies
+13.	Innovation is important to a business primarily because it:
+-	A) Reduces the number of employees
+-	B) Eliminates competition permanently
+-	C) **Helps firms remain competitive and create value in the market ✓**     - D) Guarantees profit always
+14.	Which of the following is NOT a type of innovation?
+-	A) Product innovation
+-	B) Process innovation
+-	C) **Salary innovation ✓**     - D) Service innovation
+15.	Open innovation refers to:
+-	A) Innovation done only within a firm
+-	B) **Combining internal and external ideas and paths to market ✓**
+-	C) Innovation in public companies only    - D) Making all innovations free to the public
+16.	Closed innovation means:
+-	A) Sharing ideas with competitors
+-	B) **Relying solely on internal R&D for innovation ✓**
+-	C) Using only government funding    - D) Outsourcing all innovation
+17.	The importance of innovation to the economy includes:
+-	A) Reducing GDP
+-	B) Increasing unemployment
+-	C) **Driving economic growth and improving living standards ✓**     - D) Reducing competition
+18.	Which of the following best represents the goal of innovation management?
+-	A) Hiring the most employees
+-	B) Maximizing existing profits only
+-	C) **Systematically fostering, managing, and implementing innovations to achieve business goals ✓**     - D) Eliminating research departments
+19.	Social innovation refers to:
+-	A) Innovation in social media only
+-	B) Posting business updates online
+-	C) **New solutions that meet social needs and improve community well-being ✓**     - D) Reducing corporate taxes
+20.	Sustaining innovation is designed to:
+-	A) Disrupt existing markets
+-	B) Create new industries
+-	C) **Improve products/services for existing customers in established markets ✓**     - D) Reduce the quality of products
+21.	Business model innovation involves:
+-	A) Making a new product
+-	B) **Changing how a firm creates, delivers, and captures value ✓**
+-	C) Changing the product colour
+-	D) Reducing production costs only
+22.	Which of the following is a benefit of innovation to a firm?    - A) Increased bureaucracy
+-	B) **Competitive advantage and market leadership ✓**
+-	C) Reduced customer satisfaction    - D) Higher employee turnover
+23.	A firm that fails to innovate risks:
+-	A) Becoming a market leader
+-	B) Increasing profitability
+-	C) **Losing market share to more innovative competitors ✓**     - D) Reducing costs
+24.	The term "R&D" in the context of innovation stands for:
+-	A) Revenue and Debt
+-	B) **Research and Development ✓**
+-	C) Risk and Demand
+-	D) Resources and Distribution
+25.	Which sector is most associated with continuous product innovation?
+-	A) Agriculture
+-	B) Real estate
+-	C) **Technology/IT ✓**
+-	D) Traditional retail
+---
+**TOPIC 2: IDEA GENERATION AND CREATIVITY**
+26.	Idea generation is the process of:
+-	A) Evaluating market trends only
+-	B) **Producing a large number of ideas from which the best can be selected ✓**
+-	C) Implementing existing ideas
+-	D) Managing employee performance
+27.	Brainstorming is a technique for idea generation developed by:
+-	A) Peter Drucker
+-	B) **Alex Osborn ✓**
+-	C) Edward de Bono
+-	D) Clayton Christensen
+28.	Which of the following is a rule of brainstorming?
+-	A) Evaluate every idea as it is generated
+-	B) Limit the number of participants
+-	C) **Defer judgment — no idea is criticized during the session ✓**     - D) Only managers can contribute ideas
+29.	Mind mapping is a technique used for:
+-	A) Measuring employee productivity
+-	B) **Visually organizing ideas and their relationships ✓**
+-	C) Financial forecasting    - D) Market pricing
+30.	The SCAMPER technique stands for:
+-	A) **Substitute, Combine, Adapt, Modify, Put to other uses, Eliminate, Reverse ✓**
+-	B) Select, Create, Analyze, Market, Plan, Execute, Review
+-	C) Study, Compare, Apply, Modify, Price, Evaluate, Report    - D) Sort, Classify, Arrange, Merge, Produce, Evaluate, Rate
+31.	The "S" in SCAMPER stands for:
+-	A) Study
+-	B) **Substitute ✓**
+-	C) Sort
+-	D) Scan
+32.	Lateral thinking is a creativity concept introduced by:
+-	A) Alex Osborn
+-	B) **Edward de Bono ✓**
+-	C) Peter Drucker    - D) Philip Kotler
+33.	Lateral thinking encourages people to:
+-	A) Follow only conventional logic
+-	B) Copy existing solutions
+-	C) **Think creatively from indirect and unexpected angles ✓**     - D) Avoid risk in problem-solving
+34.	The Six Thinking Hats method was created by:
+-	A) Alex Osborn
+-	B) Clayton Christensen
+-	C) **Edward de Bono ✓**     - D) Peter Drucker
+35.	The White Hat in Six Thinking Hats represents:
+-	A) Emotions and feelings
+-	B) Creativity and new ideas
+-	C) **Facts and information ✓**     - D) Caution and risk
+36.	The Green Hat in Six Thinking Hats represents:
+-	A) Facts and data
+-	B) Emotions
+-	C) Critical judgment
+-	D) **Creativity and new ideas ✓**
+37.	The Red Hat in Six Thinking Hats represents:
+-	A) Facts
+-	B) **Emotions, feelings, and intuition ✓**
+-	C) New ideas    - D) Caution
+38.	The Black Hat in Six Thinking Hats represents:     - A) Creativity
+-	B) Emotions
+-	C) **Critical judgment and caution ✓**     - D) Facts only
+39.	The Yellow Hat in Six Thinking Hats represents:
+-	A) Risk and caution
+-	B) Emotions
+-	C) **Optimism and positive thinking ✓**     - D) Facts
+40.	The Blue Hat in Six Thinking Hats represents:
+-	A) Creativity
+-	B) Emotions
+-	C) Facts
+-	D) **Process control and organization of thinking ✓**
+41.	Creative Problem Solving (CPS) is a structured method for:
+-	A) Avoiding new ideas
+-	B) Implementing old strategies
+-	C) **Finding creative solutions to complex problems ✓**     - D) Reducing innovation costs
+42.	Which of the following is a step in Creative Problem Solving (CPS)?
+-	A) Hire more staff
+-	B) Reduce R&D spending
+-	C) **Define the problem clearly before generating solutions ✓**     - D) Copy competitor strategies
+43.	The Nominal Group Technique (NGT) is a structured method where:
+-	A) Only the manager generates ideas
+-	B) **Each participant independently generates ideas which are then shared and ranked ✓**
+-	C) Ideas are generated randomly
+-	D) Teams compete against each other
+44.	Role storming is a variation of brainstorming where participants:
+-	A) Play competitive games
+-	B) **Assume different roles or personas to generate ideas from new perspectives ✓**
+-	C) Only use written ideas
+-	D) Work individually without sharing
+45.	The Delphi method involves:
+-	A) Random idea generation in a group
+-	B) Only senior management decisions
+-	C) **Structured communication among experts through rounds of questionnaires ✓**     - D) Individual creativity exercises
+46.	Which of the following is NOT a technique for idea generation?
+-	A) Brainstorming
+-	B) Mind mapping
+-	C) SCAMPER
+-	D) **Ratio analysis ✓**
+47.	Creativity in business refers to the ability to:
+-	A) Copy competitors effectively
+-	B) Reduce costs permanently
+-	C) **Generate novel and useful ideas ✓**     - D) Hire talented employees only
+48.	Which environment best supports creativity in a firm?
+-	A) A strict hierarchical environment with rigid rules
+-	B) **An open, collaborative, and psychologically safe environment ✓**
+-	C) One where only managers make decisions    - D) One with no communication between departments
+49.	TRIZ is an innovation methodology originating from:
+-	A) United States
+-	B) Japan
+-	C) **Russia/Soviet Union ✓**     - D) Germany
+50.	TRIZ stands for:
+-	A) **Theory of Inventive Problem Solving (from Russian) ✓**
+-	B) Technology and Research in Zones
+-	C) Total Resource Innovation Zone
+-	D) Technique for Rapid Idea Zoning
+---
+**TOPIC 3: PRODUCT DEVELOPMENT**
+51.	The Product Life Cycle (PLC) describes:
+-	A) The lifespan of a company
+-	B) **The stages a product goes through from introduction to decline ✓**
+-	C) The financial performance of a firm    - D) The cycle of employee careers
+52.	The correct sequence of the Product Life Cycle is:     - A) Growth → Introduction → Maturity → Decline     - B) Introduction → Decline → Growth → Maturity
+-	C) **Introduction → Growth → Maturity → Decline ✓**     - D) Maturity → Introduction → Growth → Decline
+53.	During the Introduction stage of the PLC, sales are typically:
+-	A) Very high
+-	B) Declining rapidly
+-	C) **Low and slow-growing ✓**     - D) At their peak
+54.	During the Growth stage of the PLC:
+-	A) Sales decline rapidly
+-	B) Competition disappears
+-	C) **Sales increase rapidly and profits begin to grow ✓**     - D) The product is withdrawn
+55.	The Maturity stage of the PLC is characterized by:
+-	A) Rapidly growing sales
+-	B) No competition
+-	C) **Sales growth slowing and competition intensifying ✓**     - D) Product launch activities
+56.	During the Decline stage of the PLC:     - A) Sales are at their highest
+-	B) New customers are rapidly entering
+-	C) **Sales fall significantly and profits decline ✓**     - D) The product is being re-launched
+57.	Prototyping is the process of:     - A) Writing a business plan
+-	B) Hiring product designers
+-	C) **Creating an early sample or model of a product to test its concept ✓**     - D) Marketing a finished product
+58.	Which of the following is a benefit of prototyping?
+-	A) Eliminates the need for testing
+-	B) Guarantees product success
+-	C) **Helps identify design flaws before full-scale production ✓**     - D) Reduces the need for creativity
+59.	A physical prototype is:
+-	A) A digital simulation only
+-	B) A marketing brochure
+-	C) **A tangible, physical model of the proposed product ✓**     - D) A written product specification
+60.	A digital/virtual prototype uses:
+-	A) Clay models
+-	B) Paper sketches
+-	C) **Computer software to simulate the product ✓**     - D) Physical materials only
+61.	Product testing is done to:
+-	A) Reduce innovation costs
+-	B) Replace prototyping
+-	C) **Evaluate a product's performance, safety, and market acceptance before launch ✓**     - D) Finalize the company's annual report
+62.	Alpha testing is conducted:
+-	A) By external customers in real environments
+-	B) By the government
+-	C) **Internally by the development team ✓**     - D) By shareholders
+63.	Beta testing is conducted:
+-	A) Only by the development team
+-	B) By government regulators
+-	C) **By a limited group of real users outside the firm ✓**     - D) By the board of directors
+64.	Market testing involves:
+-	A) Testing the product in the laboratory only
+-	B) **Launching the product in a limited market to assess real consumer response ✓**
+-	C) Testing employee performance    - D) Financial statement analysis
+65.	The concept of Minimum Viable Product (MVP) refers to:
+-	A) The most expensive version of a product
+-	B) **A product with just enough features to attract early adopters and validate the concept ✓**
+-	C) A product that has passed all quality tests    - D) The final version of a product
+66.	Rapid prototyping allows firms to:
+-	A) Avoid testing
+-	B) **Quickly produce models for evaluation and feedback ✓**
+-	C) Launch products without testing    - D) Reduce innovation entirely
+67.	The stage of new product development that comes just before commercialization is:
+-	A) Idea generation
+-	B) Concept testing
+-	C) **Market testing ✓**     - D) Business analysis
+68.	During which stage of the PLC is marketing expenditure typically highest?    - A) Maturity
+-	B) Decline
+-	C) **Introduction ✓**
+-	D) Growth
+69.	Product development involves:     - A) Only financial planning
+-	B) Only marketing activities
+-	C) **The entire process from idea generation to product launch ✓**     - D) Only manufacturing activities
+70.	Which of the following is the first stage in new product development?
+-	A) Prototyping
+-	B) Market testing
+-	C) **Idea generation/screening ✓**     - D) Commercialization
+71.	Which of the following best describes "concept testing"?
+-	A) Building a physical model
+-	B) Launching the product nationally
+-	C) **Presenting a product idea to consumers to assess interest and acceptance ✓**     - D) Filing for a patent
+72.	Product failure in the market can result from:
+-	A) Too much innovation
+-	B) Excessive prototyping
+-	C) **Poor market research and inadequate testing ✓**     - D) Filing too many patents
+73.	The purpose of quality testing in product development is to:
+-	A) Replace market testing
+-	B) Reduce manufacturing costs
+-	C) **Ensure the product meets required standards and specifications ✓**     - D) Eliminate the need for prototyping
+74.	3D printing is commonly used in prototyping because it:
+-	A) Is expensive and slow
+-	B) Eliminates the need for design
+-	C) **Allows rapid, cost-effective creation of physical models ✓**     - D) Only works for digital products
+75.	Which stage of the PLC typically requires a firm to consider product extension strategies?    - A) Introduction
+-	B) Growth
+-	C) **Maturity ✓**
+-	D) Decline
+---
+**TOPIC 4: INTELLECTUAL PROPERTY**
+76.	Intellectual property (IP) refers to:
+-	A) Physical assets of a company
+-	B) A company's financial assets
+-	C) **Creations of the mind such as inventions, designs, and artistic works ✓**     - D) Land and buildings owned by a firm
+77.	A trademark is:
+-	A) A legal right given to inventors
+-	B) **A sign, symbol, or logo that distinguishes the goods/services of one business from another ✓**     - C) A government licence to operate a business     - D) A type of copyright
+78.	The ™ symbol represents:
+-	A) A registered copyright
+-	B) **An unregistered trademark claim ✓**
+-	C) A registered patent    - D) A trade secret
+79.	The ® symbol represents:
+-	A) An unregistered trademark
+-	B) A patent application
+-	C) **A registered trademark ✓**     - D) A copyright claim
+80.	Copyright protects:
+-	A) Inventions and new processes
+-	B) **Original creative works such as books, music, art, and software ✓**
+-	C) Company logos only
+-	D) Business names only
+81.	The symbol © represents:
+-	A) A patent
+-	B) A trademark
+-	C) **Copyright ✓**     - D) A trade secret
+82.	Copyright protection is automatic. This means:
+-	A) You must register before protection begins
+-	B) You must pay a fee first
+-	C) **It begins as soon as the original work is created ✓**     - D) It requires government approval
+83.	A patent is a legal right granted to an inventor that:
+-	A) Protects artistic works
+-	B) Protects company logos
+-	C) **Gives exclusive rights to make, use, and sell an invention for a limited period ✓**     - D) Protects business names
+84.	In most countries, a patent lasts for:
+-	A) 5 years
+-	B) 10 years
+-	C) **20 years ✓**     - D) 50 years
+85.	A trade secret is:
+-	A) A registered trademark
+-	B) A type of copyright
+-	C) **Confidential business information that provides a competitive advantage ✓**     - D) A published patent
+86.	Which of the following is an example of a trade secret?
+-	A) A company's registered logo
+-	B) **The formula for Coca-Cola ✓**
+-	C) A published book
+-	D) A registered trademark
+87.	Intellectual property protection encourages innovation because:
+-	A) It eliminates competition
+-	B) **It ensures innovators can benefit financially from their creations ✓**
+-	C) It reduces the cost of R&D
+-	D) It guarantees market success
+88.	Which IP right protects the name and branding of a business?
+-	A) Patent
+-	B) Copyright
+-	C) **Trademark ✓**     - D) Trade secret
+89.	An inventor must apply for a patent through:
+-	A) The courts
+-	B) Their employer
+-	C) **The relevant intellectual property or patent office ✓**     - D) The stock exchange
+90.	Industrial design rights protect:
+-	A) Functional aspects of a product
+-	B) **The visual or aesthetic aspects of a product ✓**
+-	C) Brand names only
+-	D) Musical compositions
+91.	Copyright protects works for the author's lifetime plus:
+-	A) 10 years    - B) 25 years
+-	C) **70 years (in most jurisdictions) ✓**
+-	D) 100 years
+92.	Which of the following CANNOT be patented?
+-	A) A new drug formula
+-	B) A new manufacturing process
+-	C) **A mathematical theorem or natural law ✓**     - D) A new mechanical device
+93.	IP infringement refers to:
+-	A) Applying for too many patents
+-	B) **Unauthorized use of another's intellectual property rights ✓**
+-	C) Failing to register a trademark
+-	D) Sharing trade secrets within a firm
+94.	A Non-Disclosure Agreement (NDA) is used to:
+-	A) Register a trademark
+-	B) File a patent
+-	C) **Protect trade secrets and confidential business information ✓**     - D) Obtain a copyright
+95.	Licensing an IP right allows another party to:
+-	A) Own the IP permanently
+-	B) **Use the IP under agreed terms without transferring ownership ✓**
+-	C) Cancel the IP registration    - D) Modify the IP freely
+96.	Which organisation globally coordinates intellectual property rights?
+-	A) World Trade Organisation (WTO)
+-	B) United Nations (UN)
+-	C) **World Intellectual Property Organization (WIPO) ✓**     - D) International Monetary Fund (IMF)
+97.	IP protection helps businesses by:     - A) Reducing tax obligations
+-	B) Eliminating the need for marketing
+-	C) **Preventing competitors from copying their innovations ✓**
+-	D) Guaranteeing product success
+98.	A patent application must demonstrate that the invention is:
+-	A) Expensive to produce
+-	B) Already known to the public
+-	C) **New, inventive, and industrially applicable ✓**     - D) Registered as a trademark first
+99.	Which of the following is an example of copyright infringement?
+-	A) Inventing a new product
+-	B) Registering a business name
+-	C) **Reproducing and selling someone else's book without permission ✓**     - D) Applying for a patent
+100.	The purpose of IP law is to:      - A) Eliminate all competition
+-	B) Reduce government revenue
+-	C) **Balance protecting creators' rights with allowing public access to knowledge ✓**      - D) Prevent all sharing of ideas
+# BuA 313 — INNOVATION MANAGEMENT
+## MEDIUM MODE | Questions 101–200
+### Lagos State University | Business Administration 300L
+---
+**TOPIC 1: INNOVATION MANAGEMENT — INTERMEDIATE**
+101.	How does open innovation differ from closed innovation?
+-	A) Open innovation is cheaper; closed is more expensive
+-	B) **Open innovation leverages both internal and external knowledge sources; closed relies only on internal R&D ✓**      - C) Open innovation is illegal; closed innovation is standard practice      - D) There is no significant difference
+102.	Clayton Christensen's theory of disruptive innovation argues that:
+-	A) Only large firms can be disruptive
+-	B) **New entrants often disrupt incumbents by targeting overlooked customer segments with simpler, cheaper solutions
+✓**
+-	C) Disruption always comes from existing market leaders     - D) Disruption requires massive R&D investment
+103.	Which of the following best distinguishes incremental from radical innovation?
+-	A) Incremental innovation is more expensive than radical innovation
+-	B) **Incremental innovation improves existing products gradually; radical innovation creates entirely new products orindustries ✓**
+-	C) Radical innovation is always more profitable
+-	D) Incremental innovation always requires patents
+104.	Why is innovation considered essential for long-term business survival?
+-	A) Because it reduces taxes
+-	B) **Because markets, technology, and customer needs continuously change, requiring firms to adapt ✓**      - C) Because it guarantees profitability      - D) Because government mandates it
+105.	Business model innovation is particularly powerful because it:
+-	A) Only improves product quality
+-	B) **Changes the fundamental way a firm creates and captures value, often disrupting entire industries ✓**      - C) Reduces the need for IP protection      - D) Is limited to technology firms
+106.	The innovation funnel concept suggests that:
+-	A) All ideas generated must be implemented
+-	B) **Many ideas enter the process but are filtered, with only the best proceeding to development and launch ✓**      - C) Only one idea can be considered at a time      - D) Innovation happens without a process
+107.	Which statement best describes sustaining vs. disruptive innovation?
+-	A) Sustaining innovation is always more profitable than disruptive
+-	B) Disruptive innovation always targets premium customers
+-	C) **Sustaining innovation improves products for existing customers; disruptive innovation targets new/underservedmarkets ✓**
+-	D) Both types are identical in their market approach
+108.	An innovation ecosystem refers to:
+-	A) Environmental innovations only
+-	B) **A network of organizations — firms, universities, investors, government — that interact to enable innovation ✓**      - C) The internal R&D department of a firm      - D) A government innovation fund
+109.	What role does organisational culture play in innovation?
+-	A) It has no impact on innovation
+-	B) **A culture that tolerates failure, rewards creativity, and encourages risk-taking enables more innovation ✓**      - C) A rigid, hierarchical culture always produces more innovations      - D) Culture is irrelevant if funding is available
+110.	Stage-Gate process in product innovation refers to:
+-	A) Physical gates at factory entrances
+-	B) **A structured new product development process with review points (gates) between stages ✓**      - C) A marketing evaluation tool      - D) A financial analysis model
+111.	Which of the following is a challenge to innovation in developing economies like Nigeria?     - A) Too many innovative firms
+-	B) Excessive R&D funding
+-	C) **Limited access to capital, technology, and skilled human resources ✓**      - D) Excessive IP protection
+112.	The "first mover advantage" in innovation means:
+-	A) Being the last to enter a market
+-	B) Copying competitors quickly
+-	C) **Gaining competitive advantage by being the first to introduce a new innovation ✓**      - D) Having the cheapest product
+113.	What is the "Valley of Death" in innovation management?
+-	A) A failed product
+-	B) **The funding gap between R&D and commercialization where many innovations fail ✓**
+-	C) A stage in the product life cycle
+-	D) A type of market failure
+114.	Technology transfer refers to:
+-	A) Replacing old technology with new
+-	B) **The process of sharing or transferring technology from one entity (e.g., university) to another (e.g., company) ✓**      - C) Buying computers for offices
+-	D) Teaching employees to use software
+115.	Social innovation differs from commercial innovation primarily because:
+-	A) It uses more technology
+-	B) It is always funded by government
+-	C) **It is primarily aimed at solving social problems rather than generating profit ✓**      - D) It cannot be patented
+---
+**TOPIC 2: IDEA GENERATION — INTERMEDIATE**
+116.	The SCAMPER technique applied to a chair: "Put to other uses" would suggest:
+-	A) Painting the chair a new colour
+-	B) Making the chair smaller
+-	C) **Using the chair as a ladder or display stand ✓**      - D) Removing one leg from the chair
+117.	How does the Delphi Method differ from brainstorming?
+-	A) Delphi uses only one expert; brainstorming uses teams
+-	B) **Delphi involves iterative rounds of anonymous expert input; brainstorming is a free-form group session ✓**      - C) Delphi is less structured than brainstorming      - D) There is no difference
+118.	The purpose of a structured creativity technique like SCAMPER is to:
+-	A) Reduce the number of ideas generated
+-	B) Evaluate existing products only
+-	C) **Systematically prompt creative thinking by applying specific mental operations to existing concepts ✓**      - D) Replace brainstorming entirely
+119.	In Creative Problem Solving (CPS), the "Clarify" stage involves:
+-	A) Generating as many ideas as possible
+-	B) **Understanding the problem deeply — gathering data, exploring the vision, and framing the challenge ✓**      - C) Implementing the best solution      - D) Evaluating all generated ideas
+120.	The difference between divergent and convergent thinking is:
+-	A) Divergent thinking is for managers; convergent for employees
+-	B) **Divergent thinking generates many ideas; convergent thinking evaluates and selects the best ideas ✓**
+-	C) Both are identical in output
+-	D) Convergent thinking generates more ideas
+121.	Mind mapping helps creative problem solving by:
+-	A) Listing problems in order of priority only
+-	B) **Visually connecting related concepts to stimulate new associations and ideas ✓**
+-	C) Replacing the need for brainstorming     - D) Documenting financial decisions
+122.	The Nominal Group Technique (NGT) is preferred over standard brainstorming when:
+-	A) The group is very small
+-	B) **There is a need to ensure all participants contribute equally and avoid group dominance ✓**      - C) Only managers are present
+-	D) Ideas need to be generated quickly without structure
+123.	What does the "R" (Reverse) in SCAMPER involve?
+-	A) Reducing the product size
+-	B) Replacing a component
+-	C) **Reversing the order of processes or turning the product/process upside down for new perspectives ✓**      - D) Removing all components
+124.	Design Thinking as an innovation approach follows which sequence?
+-	A) Test → Prototype → Define → Empathize → Ideate
+-	B) Ideate → Empathize → Define → Prototype → Test
+-	C) **Empathize → Define → Ideate → Prototype → Test ✓**      - D) Define → Empathize → Test → Ideate → Prototype
+125.	The "Empathize" stage in Design Thinking involves:
+-	A) Building the product prototype
+-	B) Testing the solution on users
+-	C) **Deeply understanding users' needs, feelings, and experiences ✓**      - D) Generating as many ideas as possible
+126.	Why is "deferred judgment" important in brainstorming?
+-	A) It allows the manager to make all decisions
+-	B) **It prevents premature criticism from inhibiting the free flow of ideas ✓**
+-	C) It slows down the session deliberately     - D) It ensures only good ideas are shared
+127.	The role of intrinsic motivation in creativity is:      - A) To reduce idea generation
+-	B) **To drive deeper engagement and more creative output as people are motivated by genuine interest ✓**      - C) To replace financial incentives
+-	D) To limit the scope of innovation
+128.	How does psychological safety in a team affect idea generation?
+-	A) It reduces the quality of ideas
+-	B) It eliminates competition between team members
+-	C) **It enables team members to share unconventional ideas without fear of ridicule ✓**      - D) It has no impact on creativity
+129.	The TRIZ methodology addresses contradictions in innovation by:
+-	A) Avoiding any conflicting requirements
+-	B) **Providing inventive principles to resolve technical and physical contradictions in design ✓**      - C) Replacing all existing products
+-	D) Focusing only on marketing problems
+130.	In Design Thinking, the "Define" stage results in:
+-	A) A finished prototype
+-	B) A list of customer complaints
+-	C) **A clear problem statement that focuses on the user's core need ✓**      - D) A financial analysis
+---
+**TOPIC 3: PRODUCT DEVELOPMENT — INTERMEDIATE**
+131.	The Stage-Gate model in new product development (NPD) helps firms by:
+-	A) Eliminating the need for testing
+-	B) **Providing structured decision points to evaluate progress before committing further resources ✓**      - C) Speeding up production regardless of results      - D) Replacing the prototype stage
+132.	How does the Product Life Cycle (PLC) concept inform marketing strategy?
+-	A) It is irrelevant to marketing decisions
+-	B) **Different stages of the PLC require different marketing strategies (e.g., heavy promotion at introduction, differentiationat maturity) ✓**
+-	C) Marketing strategy remains constant throughout the PLC     - D) Only the decline stage requires a marketing strategy
+133.	At which PLC stage is a price-skimming strategy most appropriate?
+-	A) Decline
+-	B) Maturity
+-	C) Growth
+-	D) **Introduction — targeting early adopters willing to pay premium prices ✓**
+134.	Product line extension during the Maturity stage is intended to:
+-	A) Reduce production costs
+-	B) **Rejuvenate sales by offering variations that appeal to new or existing customers ✓**      - C) Exit the market gracefully
+-	D) Replace the declining product
+135.	Which of the following best describes the difference between alpha and beta testing?
+-	A) Alpha uses external users; beta uses internal teams
+-	B) **Alpha is conducted internally by the development team; beta involves real external users ✓**      - C) Both are identical processes
+-	D) Beta testing is conducted before alpha testing
+136.	The Minimum Viable Product (MVP) approach is associated with which innovation methodology?
+-	A) Stage-Gate process
+-	B) Traditional new product development
+-	C) **Lean Startup methodology ✓**      - D) Product Life Cycle theory
+137.	Why is rapid prototyping valuable in product development?
+-	A) It eliminates the need for market research
+-	B) It guarantees product success
+-	C) **It allows fast, iterative testing and improvement of designs before costly full-scale production ✓**      - D) It replaces beta testing
+138.	The "Build-Measure-Learn" loop is a key concept in:
+-	A) Traditional Stage-Gate development
+-	B) The Product Life Cycle theory
+-	C) **Lean Startup methodology ✓**      - D) SCAMPER technique
+139.	Which of the following is a limitation of the Product Life Cycle (PLC) model?
+-	A) It is too accurate for practical use
+-	B) **The duration of each stage is unpredictable and varies widely across products ✓**      - C) It ignores marketing entirely
+-	D) It only applies to technology products
+140.	Concurrent engineering in product development means:
+-	A) Developing one product at a time sequentially
+-	B) **Multiple development activities happening simultaneously to reduce time to market ✓**
+-	C) Outsourcing all product development     - D) Using only computer simulations
+141.	User-centred design (UCD) ensures that product development:
+-	A) Focuses primarily on reducing costs
+-	B) **Places users' needs, preferences, and behaviours at the centre of every design decision ✓**      - C) Relies only on internal team preferences      - D) Ignores customer feedback
+142.	The concept of "fail fast, fail cheap" in product development means:
+-	A) Products should always fail at launch
+-	B) **Testing ideas early and cheaply to discover failures before significant investment is made ✓**      - C) Reducing product quality deliberately      - D) Avoiding testing altogether
+143.	During the Introduction stage of the PLC, a firm typically experiences:      - A) High profits and low costs
+-	B) **High costs, low sales, and potentially negative profitability ✓**
+-	C) Strong competition and declining sales
+-	D) Market saturation and stable profits
+144.	Product testing for safety is particularly critical in which industries?     - A) Fashion and retail
+-	B) **Pharmaceuticals, food, and electronics ✓**
+-	C) Entertainment only
+-	D) Financial services only
+145.	The purpose of a focus group in product testing is to:
+-	A) Replace alpha testing
+-	B) Test technical performance only
+-	C) **Gather qualitative feedback from a representative group of target consumers ✓**      - D) Test financial viability of the product
+---
+**TOPIC 4: INTELLECTUAL PROPERTY — INTERMEDIATE**
+146.	Why is it strategically important for a firm to register its trademark?
+-	A) Because it reduces production costs
+-	B) **Because registration provides legal protection against unauthorized use and enables the firm to take legal action ✓**      - C) Because it guarantees product quality
+-	D) Because it is required for all businesses by law
+147.	How does copyright differ from a patent in terms of what it protects?
+-	A) Copyright protects inventions; patents protect artistic works
+-	B) **Copyright protects original creative expression; patents protect novel inventions and technical processes ✓**      - C) Both protect the same things
+-	D) Neither provides legal protection
+148.	The TRIPS Agreement (Trade-Related Aspects of Intellectual Property Rights) is:
+-	A) A Nigerian trade regulation
+-	B) **An international agreement under the WTO that sets minimum standards for IP protection globally ✓**      - C) A type of patent application form
+-	D) A standard for trademark registration only
+149.	Why might a company choose to keep an innovation as a trade secret rather than patenting it?
+-	A) Because patents are free
+-	B) **Because patents expire after 20 years and require public disclosure, while trade secrets can be protected indefinitely
+✓**
+-	C) Because trade secrets are registered with government     - D) Because patents cannot protect processes
+150.	Patent trolls refer to entities that:
+-	A) Invent new products aggressively
+-	B) **Acquire patents not to produce products but to sue other firms for infringement ✓**      - C) Ignore all IP laws
+-	D) Help small firms register patents
+151.	Which of the following best describes the concept of "fair use" in copyright law?
+-	A) Using any copyrighted material freely for commercial purposes
+-	B) **Limited use of copyrighted material without permission for purposes like education, criticism, or research ✓**      - C) Copying any work as long as credit is given      - D) Using copyrighted material only in Nigeria
+152.	A licensing agreement in IP management allows the licensor to:
+-	A) Transfer ownership of the IP permanently
+-	B) **Earn royalties while retaining ownership of the IP ✓**
+-	C) Sell the IP to the licensee
+-	D) Cancel the IP registration
+153.	Geographical Indications (GIs) protect:      - A) Company logos from all countries
+-	B) **Products that have a specific geographical origin with qualities linked to that origin (e.g., Champagne from France) ✓**      - C) All agricultural products globally      - D) Only technology patents
+154.	IP valuation is important for businesses because:
+-	A) It is only required for tax purposes
+-	B) **IP assets can represent significant financial value on a firm's balance sheet and in M&A deals ✓**      - C) It replaces the need for patents
+-	D) It eliminates the need for trademarks
+155.	What is the primary risk of inadequate IP protection for a Nigerian startup?
+-	A) Over-regulation
+-	B) **Competitors can copy innovations freely, eliminating competitive advantage ✓**      - C) Excessive royalty payments      - D) Loss of government grants
+156.	Patent pooling refers to:
+-	A) Multiple firms filing for the same patent
+-	B) **An arrangement where multiple patent holders agree to license patents to each other or third parties ✓**      - C) The government collecting all patents      - D) Filing a joint patent application
+157.	Which of the following is NOT a form of intellectual property?     - A) Trademark
+-	B) Copyright
+-	C) Patent
+-	D) **Bank loan ✓**
+158.	Colour trademarks allow firms to:
+-	A) Patent their product colours
+-	B) **Register a specific colour as a trademark to distinguish their brand (e.g., Cadbury purple) ✓**
+-	C) Copyright their product packaging
+-	D) Protect their manufacturing process
+159.	The Paris Convention (1883) is significant in IP because it:
+-	A) Created the WTO
+-	B) **Established the first international framework for protecting industrial property (patents, trademarks) ✓**      - C) Created copyright law      - D) Established WIPO
+160.	An assignment of IP differs from licensing because:
+-	A) Assignment is temporary; licensing is permanent
+-	B) **Assignment permanently transfers ownership of the IP; licensing only grants the right to use it ✓**      - C) They are identical
+-	D) Licensing transfers ownership; assignment does not
+---
+**MIXED MEDIUM QUESTIONS (161–200)**
+161.	Which stage of new product development involves estimating costs, revenue, and profit potential?     - A) Idea screening
+-	B) Concept development
+-	C) **Business analysis ✓**      - D) Prototyping
+162.	How does the "E" (Eliminate) in SCAMPER generate innovation?
+-	A) By adding new features
+-	B) **By removing unnecessary elements to simplify a product or process ✓**
+-	C) By combining two products
+-	D) By adapting a product for a new use
+163.	Which of the following IP rights is most relevant to protecting a mobile app's visual interface?     - A) Patent only
+-	B) Trademark only
+-	C) **Copyright and potentially trademark ✓**      - D) Trade secret only
+164.	Jugaad innovation (frugal innovation) is most associated with:
+-	A) Silicon Valley startups
+-	B) **Resource-constrained emerging markets like India and Nigeria ✓**
+-	C) Luxury goods industries
+-	D) Large multinational corporations
+165.	The "A" (Adapt) in SCAMPER asks:
+-	A) How can we eliminate this element?
+-	B) **What existing ideas, models, or processes can be adapted to solve this problem? ✓**      - C) How can we combine two ideas?
+-	D) How can we reverse the process?
+166.	Why must a new product go through both alpha AND beta testing?
+-	A) Because it is required by law
+-	B) **Because alpha catches internal/technical flaws while beta reveals how real users experience the product ✓**      - C) Because beta testing replaces market research      - D) Because alpha testing is done externally
+167.	A firm at the maturity stage of the PLC facing declining profits should consider:
+-	A) Immediately withdrawing the product
+-	B) Increasing production without changes
+-	C) **Product modification, new market development, or finding new uses ✓**      - D) Reducing IP registration
+168.	Which of the following best describes "architectural innovation"?
+-	A) Building a new factory
+-	B) Making incremental product improvements
+-	C) **Reconfiguring existing components in a new system architecture — the components may be familiar, but theircombination creates something new ✓**
+-	D) Developing a completely new component from scratch
+169.	An NDA (Non-Disclosure Agreement) is especially important during:      - A) Product launch
+-	B) **Early-stage innovation when ideas are shared with potential partners before IP registration ✓**      - C) Market testing
+-	D) PLC decline stage
+170.	The "M" (Modify/Magnify) in SCAMPER involves:
+-	A) Removing product features
+-	B) **Changing size, shape, texture, or magnifying/minimizing aspects of a product ✓**      - C) Combining two existing products
+-	D) Substituting a key component
+171.	Which of the following best explains why IP protection is particularly important in technology-driven industries?
+-	A) Technology is less valuable than physical assets
+-	B) **Technology can be easily replicated, so IP protection is the primary mechanism to preserve competitive advantage ✓**      - C) Technology industries do not need patents      - D) IP protection only applies to physical products
+172.	The Design Thinking "Prototype" stage involves:
+-	A) Testing the final product in the market
+-	B) **Creating inexpensive, scaled-down versions of the product to explore solutions ✓**      - C) Registering an IP right
+-	D) Conducting a SWOT analysis
+173.	Which innovation type best describes Airbnb's business model?
+-	A) Product innovation
+-	B) Process innovation
+-	C) **Business model and disruptive innovation ✓**      - D) Incremental innovation
+174.	The Product Life Cycle for technology products tends to be:
+-	A) Much longer than for consumer goods
+-	B) **Shorter due to rapid technological change ✓**
+-	C) The same length as all other products     - D) Indefinitely long
+175.	In NPD, "concept screening" is used to:
+-	A) Build the first prototype
+-	B) **Evaluate ideas against strategic, market, and technical criteria to eliminate weak concepts ✓**      - C) Test the product with real users      - D) Register the product trademark
+176.	What makes TRIZ unique compared to other creativity methods?
+-	A) It is based on psychological principles only
+-	B) **It is derived from systematic analysis of hundreds of thousands of patents to identify patterns of inventive problem-solving ✓**
+-	C) It focuses only on marketing innovations     - D) It requires no prior knowledge
+177.	Why is "time to market" a critical competitive factor in innovation?
+-	A) Because it reduces production costs
+-	B) **Because faster launches capture first-mover advantages and prevent competitors from filling the market gap ✓**      - C) Because it is required by patent law      - D) Because it simplifies IP registration
+178.	The "C" (Combine) in SCAMPER asks:
+-	A) How can we reduce the size?
+-	B) **What can be combined — ideas, materials, or processes — to create something new? ✓**      - C) How can we reverse the process?
+-	D) How can we substitute a component?
+179.	A patent gives the holder the right to exclude others, which primarily serves to:
+-	A) Reduce competition permanently
+-	B) **Allow the innovator to recoup R&D investment by having exclusive commercial rights for a limited period ✓**      - C) Prevent all improvements to the invention      - D) Transfer ownership to the government
+180.	The relationship between innovation and entrepreneurship is best described as:
+-	A) They are completely separate disciplines
+-	B) **Innovation is often the engine of entrepreneurship — entrepreneurs create new ventures based on innovative ideas ✓**      - C) Entrepreneurship always leads to innovation
+-	D) Innovation only occurs in large corporations
+181.	In the context of IP, "prior art" refers to:      - A) Traditional artwork
+-	B) **Any existing knowledge, publications, or patents that were publicly available before a patent application ✓**      - C) A type of trademark      - D) An old copyright
+182.	A product that is in the growth stage of the PLC will typically see:
+-	A) Declining sales and falling profits
+-	B) Maximum market saturation
+-	C) **Rapidly rising sales, entry of new competitors, and improving profitability ✓**      - D) Stable sales with no new entrants
+183.	The key difference between service innovation and product innovation is:
+-	A) Service innovation is always less valuable
+-	B) **Service innovation improves how services are delivered or creates new services; product innovation creates orimproves physical products ✓**
+-	C) They are identical
+-	D) Product innovation always requires a patent
+184.	In the context of open innovation, the term "outside-in" refers to:
+-	A) Sending internal ideas to external markets
+-	B) **Bringing external knowledge, ideas, or technologies into the firm's innovation process ✓**      - C) Only using external suppliers
+-	D) Marketing products outside the home country
+185.	Why might a firm use a joint venture to access innovation?
+-	A) To avoid all IP registration
+-	B) **To combine complementary capabilities, technologies, and resources with a partner to develop innovations neithercould achieve alone ✓**
+-	C) To reduce employee headcount
+-	D) To enter a different industry without innovation
+186.	The WIPO Madrid System is used for:
+-	A) Filing patents internationally
+-	B) **Registering trademarks in multiple countries through a single application ✓**      - C) Protecting trade secrets globally
+-	D) Negotiating IP licensing agreements
+187.	The difference between an operating licence and a franchise in the context of IP is:
+-	A) There is no difference
+-	B) **A franchise is a comprehensive business system licence including brand, processes, and ongoing support; a licencegrants specific IP use rights only ✓**      - C) A franchise does not involve IP
+-	D) A licence transfers full ownership
+188.	Which of the following statements about trade secrets is TRUE?
+-	A) Trade secrets expire after 20 years
+-	B) Trade secrets must be registered with government
+-	C) **Trade secrets can be protected indefinitely as long as they remain confidential ✓**      - D) Trade secrets are publicly disclosed
+189.	In product development, what is the purpose of a "gate review" in the Stage-Gate model?
+-	A) To begin production
+-	B) **To evaluate whether a project should continue, be modified, or be abandoned based on predefined criteria ✓**      - C) To register the product's IP rights      - D) To conduct market research
+190.	The term "innovation ambidexterity" refers to a firm's ability to:      - A) Innovate in two countries simultaneously
+-	B) **Balance exploiting existing capabilities (incremental innovation) while exploring new ones (radical innovation) ✓**      - C) Develop two products at the same time      - D) Apply for two patents simultaneously
+191.	In which stage of the PLC would a "harvesting" strategy be most appropriate?     - A) Introduction
+-	B) Growth
+-	C) Maturity
+-	D) **Decline — extracting maximum cash while minimizing investment ✓**
+192.	The PCT (Patent Cooperation Treaty) is important because it allows inventors to:      - A) Register a trademark globally
+-	B) **Seek patent protection in multiple countries simultaneously with a single application ✓**      - C) Protect trade secrets internationally      - D) Avoid paying royalties
+193.	Design sprints (developed by Google Ventures) compress product development by:
+-	A) Eliminating prototyping
+-	B) **Running a focused 5-day process to answer critical questions through prototyping and testing ✓**      - C) Replacing user testing with internal reviews      - D) Focusing only on marketing
+194.	How does IP protection support FDI (Foreign Direct Investment) in a country?
+-	A) By reducing taxes on foreign companies
+-	B) **By giving foreign investors confidence that their innovations and brand assets will be protected from local copying ✓**      - C) By eliminating trade barriers      - D) By subsidizing foreign firms
+195.	Which type of prototype is most suitable for testing user interface (UI) interactions in a mobile app?
+-	A) Physical prototype
+-	B) **Digital/interactive prototype (wireframe or clickable mockup) ✓**      - C) Paper prototype only
+-	D) Functional hardware prototype
+196.	The concept of "creative destruction" in innovation, associated with Joseph Schumpeter, means:
+-	A) Destroying existing businesses for fun
+-	B) **The process by which innovation continuously destroys old industries and creates new ones, driving economicprogress ✓**
+-	C) Reducing R&D investment
+-	D) Protecting existing businesses from competition
+197.	The "E" in the SCAMPER acronym applied to a business process could involve:
+-	A) Adding more steps to increase quality
+-	B) **Identifying and removing unnecessary steps to streamline the process ✓**      - C) Replacing all employees
+-	D) Combining two processes into one
+198.	An innovation audit helps a firm to:
+-	A) Prepare financial statements
+-	B) Register IP rights
+-	C) **Assess its current innovation capabilities, culture, and processes to identify improvement areas ✓**      - D) Launch new products immediately
+199.	Which of the following is an example of process innovation in a manufacturing firm?     - A) Launching a new product line
+-	B) Registering a new trademark
+-	C) **Adopting robotic automation to improve production speed and reduce costs ✓**      - D) Changing the company's logo
+200.	Why is user feedback during beta testing more valuable than expert evaluation alone?     - A) Because experts are not qualified
+-	B) **Because real users reveal usage patterns, pain points, and preferences that experts may not anticipate ✓**
+-	C) Because beta testing is cheaper
+-	D) Because users always prefer all product features
+# BuA 313 — INNOVATION MANAGEMENT
+## HARD MODE | Questions 201–250
+### Lagos State University | Business Administration 300L
+---
+**TOPIC 1: ADVANCED INNOVATION THEORY**
+201.	Christensen's disruptive innovation theory is often misapplied. Which of the following is the MOST accurate description oftrue disruptive innovation?
+-	A) Any innovation that improves an existing product significantly
+-	B) Any new technology that attracts premium customers
+-	C) **An innovation that initially underperforms in mainstream markets but improves over time, eventually displacingincumbents by capturing previously overlooked segments ✓**      - D) Innovation driven exclusively by large R&D budgets
+202.	The Ansoff Matrix intersects with innovation management when a firm considers:      - A) Only cost-cutting strategies
+-	B) Only market penetration
+-	C) **New product development and market diversification — both requiring innovation to enter new markets or develop newproducts ✓**
+-	D) Only existing products in existing markets
+203.	Schumpeter's "creative destruction" fundamentally challenges which conventional business belief?
+-	A) That firms should always innovate
+-	B) **That stability and continuity in industries are permanent — innovation continuously renders existing business modelsobsolete ✓**
+-	C) That innovation is always planned     - D) That small firms cannot innovate
+204.	Open innovation theory (Chesbrough, 2003) challenges the traditional view that:
+-	A) External partnerships are valuable
+-	B) **Firms should control all their R&D internally because "if it's not invented here, it's not valuable" ✓**      - C) Universities should collaborate with firms      - D) Innovation always leads to profit
+205.	The "ambidextrous organisation" concept challenges firms to simultaneously:      - A) Manage two product lines
+-	B) Operate in two countries
+-	C) **Exploit existing competencies for short-term efficiency (exploitation) while exploring new capabilities for long-termgrowth (exploration) ✓**
+-	D) Use two innovation methods
+206.	Why does radical innovation often come from new entrants rather than established firms?
+-	A) New entrants have more funding
+-	B) **Established firms suffer from "innovator's dilemma" — they are reluctant to cannibalize their own profitable products
+✓**
+-	C) New entrants have better technology always
+-	D) Established firms do not employ creative people
+207.	The National Innovation System (NIS) concept argues that:
+-	A) Only firms drive innovation in an economy
+-	B) **Innovation output depends on the interaction between firms, universities, government policies, and institutions within acountry ✓**
+-	C) Government is the sole driver of innovation
+-	D) Universities alone can drive national innovation
+208.	Which of the following BEST evaluates the strategic trade-off between first-mover and late-mover advantages?
+-	A) First movers always win; late movers always lose
+-	B) **First movers gain early market share and brand loyalty but bear high R&D costs and market development risks; latemovers learn from pioneers' mistakes and may adopt better technologies ✓**
+-	C) Late movers always benefit from cost advantages alone     - D) There is no difference in outcomes
+209.	Innovation portfolio management requires firms to balance:      - A) Only incremental innovations for stability
+-	B) Only radical innovations for growth
+-	C) **A mix of incremental, adjacent, and transformational innovations to balance short-term returns and long-term growth
+✓**
+-	D) Equal investment in all types of innovation
+210.	The "Valley of Death" problem in innovation is most effectively addressed by:
+-	A) Increasing R&D spending infinitely     - B) Avoiding all high-risk innovations
+-	C) **Securing bridge funding from venture capital, government grants, or corporate partnerships to commercializepromising innovations ✓**
+-	D) Patenting all inventions immediately
+---
+**TOPIC 2: ADVANCED IDEA GENERATION & CREATIVITY**
+211.	How does TRIZ's concept of "ideality" guide innovation?
+-	A) It suggests the ideal product is the most expensive
+-	B) **It suggests the ideal system performs its function with zero negative effects — designers should aim to eliminateharmful functions while delivering benefits ✓**      - C) It argues all designs should be minimalist      - D) It requires all solutions to be digital
+212.	In CPS (Creative Problem Solving), the distinction between "fuzzy front end" and structured development is:
+-	A) The fuzzy front end is where production happens
+-	B) **The fuzzy front end covers ambiguous early-stage opportunity identification and problem framing before formaldevelopment begins ✓**
+-	C) Structured development has no clear stages     - D) CPS does not distinguish between the two
+213.	Critically evaluate the weakness of brainstorming as an idea generation method:
+-	A) It generates too few ideas
+-	B) **Research shows that individuals brainstorming alone often generate more and better ideas than groups due toproduction blocking, evaluation apprehension, and social loafing ✓**
+-	C) It requires too much time
+-	D) It is only suitable for large groups
+214.	The concept of "analogical reasoning" in creativity involves:
+-	A) Creating completely original ideas with no prior reference
+-	B) **Drawing on solutions from unrelated domains and applying them to the current problem ✓**      - C) Using mathematical models to solve problems      - D) Copying competitor products
+215.	Why might the Delphi Method produce more reliable innovation forecasts than standard group discussions?
+-	A) Because it uses fewer participants
+-	B) **Because iterative anonymous rounds reduce groupthink, dominant personalities, and anchoring bias — producing moreindependent expert judgments ✓**
+-	C) Because it is faster than group discussions     - D) Because it does not require experts
+216.	The "C" (Combine) step in SCAMPER applied to an innovation in mobile banking would most likely produce:
+-	A) A completely new banking system
+-	B) **A product that merges financial services with social networking or commerce features ✓**      - C) A simpler version of existing banking      - D) A physical bank branch redesign
+217.	In Design Thinking, the tension between "desirability, feasibility, and viability" means:
+-	A) Only financially viable ideas should proceed
+-	B) Technology always determines the outcome
+-	C) **The best innovations must simultaneously meet user needs (desirability), be technically achievable (feasibility), and befinancially sustainable (viability) ✓**
+-	D) User research alone determines the innovation
+218.	What is the key limitation of the Stage-Gate process in highly uncertain innovation environments?
+-	A) It is too fast for complex innovations
+-	B) **Its sequential, tollgate structure assumes each stage is predictable — it struggles with iterative, rapidly changinginnovations where pivots are needed ✓**      - C) It requires too much IP registration
+-	D) It is only suitable for large firms
+---
+**TOPIC 3: ADVANCED PRODUCT DEVELOPMENT**
+219.	Why might an innovation that scores highly in beta testing still fail commercially?
+-	A) Because testing is always inaccurate     - B) Because beta users are too technical
+-	C) **Because beta tests may not fully represent the mainstream market — early adopters' feedback may not reflect mass-market needs, pricing sensitivity, or distribution barriers ✓**      - D) Because the product was not patented
+220.	The "crossing the chasm" concept (Geoffrey Moore) in product development refers to:
+-	A) Moving from idea to prototype
+-	B) **The difficulty of transitioning a product from early adopters to the mainstream majority market ✓**      - C) The transition from beta to alpha testing
+-	D) Moving from domestic to international markets
+221.	How does the diffusion of innovation theory (Everett Rogers) categorize adopters?
+-	A) Early users, average users, late users
+-	B) **Innovators, Early Adopters, Early Majority, Late Majority, Laggards ✓**
+-	C) Buyers, testers, observers, critics, rejecters
+-	D) Customers, clients, partners, competitors, regulators
+222.	A firm uses an MVP to validate its innovation hypothesis. If the MVP receives poor user response, the correct actionaccording to Lean Startup is:
+-	A) Immediately abandon the innovation
+-	B) Increase marketing spend
+-	C) **Pivot — substantially change the product, strategy, or target market based on learned insights ✓**      - D) File for a patent immediately
+223.	Which of the following best explains why concurrent engineering reduces time-to-market significantly?
+-	A) It uses cheaper materials
+-	B) **By overlapping design, engineering, manufacturing, and marketing activities instead of completing them sequentially,total development time is dramatically reduced ✓**
+-	C) It eliminates the prototype stage     - D) It uses fewer personnel
+224.	The concept of "product platform" in development strategy refers to:
+-	A) The online store where the product is sold
+-	B) **A set of shared components, processes, or knowledge from which multiple derivative products can be developedefficiently ✓**
+-	C) A stage in the product life cycle     - D) A type of prototype
+225.	In the context of the PLC, strategic "product rejuvenation" during the decline stage involves:      - A) Immediately discontinuing the product
+-	B) Reducing prices only
+-	C) **Repositioning, redesigning, or finding new markets to extend the product's commercial life ✓**      - D) Increasing advertising for the original product
+226.	Why is usability testing distinct from functionality testing in product development?
+-	A) They are identical
+-	B) **Functionality testing checks if features work as designed; usability testing evaluates whether real users can use thosefeatures effectively, efficiently, and satisfactorily ✓**      - C) Usability is tested before functionality
+-	D) Functionality testing involves external users
+---
+**TOPIC 4: ADVANCED INTELLECTUAL PROPERTY**
+227.	The doctrine of "patent exhaustion" means:
+-	A) A patent expires before 20 years if not used
+-	B) **Once a patent holder sells a product, their right to control resale of that specific item is exhausted ✓**      - C) Multiple patents cancel each other out
+-	D) Patents cannot be renewed after exhaustion
+228.	How does the concept of "evergreening" in pharmaceutical patents raise ethical concerns?
+-	A) It allows generic drugs to compete
+-	B) **It involves filing minor modifications to existing patents to extend protection beyond 20 years, blocking affordablegeneric competitors ✓**
+-	C) It reduces drug development costs     - D) It accelerates drug innovation
+229.	In Nigeria's IP framework, the Nigerian Copyright Commission (NCC) primarily oversees:      - A) Patent registrations
+-	B) Trademark registrations
+-	C) **Copyright protection including literary, musical, and artistic works ✓**      - D) Trade secret enforcement
+230.	Why do courts use the "inventive step" (non-obviousness) criterion in patent law?
+-	A) To limit the number of patents filed
+-	B) **To ensure patents are only granted for genuine inventions that go beyond what an ordinary skilled person could easilyderive — preventing monopolies over trivial improvements ✓**
+-	C) To speed up patent examination     - D) To protect trade secrets
+231.	The "doctrine of equivalents" in patent law:
+-	A) Means all patents are equal in value
+-	B) **Extends patent protection beyond the literal claim wording to cover products that perform substantially the samefunction in substantially the same way ✓**
+-	C) Allows competitors to copy patented products     - D) Only applies to trademark law
+232.	IP portfolio management is strategically important for firms because:
+-	A) It reduces R&D costs directly
+-	B) **A well-managed IP portfolio creates revenue streams through licensing, strengthens negotiating power, deterscompetitors, and supports business valuation ✓**
+-	C) It eliminates the need for R&D
+-	D) It only matters for large multinationals
+233.	The challenge of IP protection in the digital age is primarily due to:      - A) Lack of internet users
+-	B) **The ease of copying and globally distributing digital content, combined with jurisdictional challenges in enforcing IPrights across borders ✓**
+-	C) Overly strong copyright laws
+-	D) Too many patent applications
+234.	Trade dress protection (a form of trademark) can protect:
+-	A) Employee uniforms only
+-	B) **The overall commercial image of a product — its appearance, colour scheme, and packaging that identifies its source
+✓**
+-	C) Only physical product shapes
+-	D) Only registered logos
+---
+**FINAL INTEGRATED HARD QUESTIONS (235–250)**
+235.	A Nigerian tech startup has developed a unique AI algorithm. Which combination of IP strategies would BEST protect theirinnovation?
+-	A) Only trademark registration     - B) Only copyright registration
+-	C) **A combination of patent (for novel technical method), trade secret (for proprietary training data/algorithms notpatented), and copyright (for code) ✓**      - D) Only a non-disclosure agreement
+236.	Using the SCAMPER framework: a food company is told to "Reverse" its conventional restaurant model. The mostinnovative outcome would be:
+-	A) Changing the restaurant's interior design
+-	B) Reducing menu options
+-	C) **Having customers cook and the restaurant provides ingredients and guidance — a 'reverse restaurant' or cooking classmodel ✓**
+-	D) Opening a new location
+237.	Critically, why do incremental innovations tend to dominate corporate innovation portfolios despite radical innovationsoffering higher long-term returns?
+-	A) Managers prefer radical innovation
+-	B) **Incremental innovations have shorter payback periods, lower risk, and are easier to justify to shareholders — creating asystematic bias toward exploitation over exploration ✓**
+-	C) Radical innovations always fail
+-	D) Only startups pursue incremental innovation
+238.	In applying Design Thinking to a public health challenge in Lagos (e.g., poor hospital access), which step is MOST criticaland why?
+-	A) Prototype — to build solutions quickly     - B) Test — to evaluate all solutions
+-	C) **Empathize — because without deeply understanding the lived experiences, cultural context, and real barriers ofpatients, any solution risks being technically correct but practically useless ✓**      - D) Ideate — to generate the most ideas
+239.	A product achieves market success in beta testing but fails at commercial launch. The most likely explanation combiningPLC and innovation adoption theory is:      - A) The product was too innovative
+-	B) **Beta testers represented early adopters (innovators), who have different needs and risk tolerance than the earlymajority — the product failed to cross the chasm ✓**
+-	C) The price was too low
+-	D) The IP was not registered
+240.	A firm faces a TRIZ "physical contradiction" — its product must be both lightweight AND strong. The best approachaccording to TRIZ principles is to:
+-	A) Choose one property and sacrifice the other
+-	B) Use a heavier material to ensure strength
+-	C) **Resolve the contradiction by separating the requirements in time, space, or condition — e.g., a material that is strongunder load but light at rest ✓**
+-	D) Patent the contradiction to protect both options
+241.	How does the concept of "absorptive capacity" affect a firm's ability to benefit from open innovation?
+-	A) It is irrelevant to open innovation
+-	B) **Firms can only exploit external knowledge if they have sufficient internal knowledge and capabilities to recognize,assimilate, and apply it ✓**
+-	C) Only large firms have absorptive capacity
+-	D) Absorptive capacity eliminates the need for R&D
+242.	A firm at the growth stage of the PLC is considering whether to extend its patent protection. The most strategically sounddecision would be:
+-	A) Let the patent expire to attract more users
+-	B) **Actively enforce the patent and file for any legitimate improvements to sustain competitive advantage beforecompetitors enter at maturity ✓**      - C) Sell the patent immediately
+-	D) Convert the patent to a trade secret
+243.	Which of the following best integrates the concepts of MVP, Build-Measure-Learn, and open innovation?
+-	A) Build a complete product, measure sales, learn from results
+-	B) **Build the smallest testable version of an idea, measure real user responses (leveraging external feedback), learn anditerate — opening the development process to user input from the start ✓**
+-	C) Build internally, avoid external feedback, launch fully
+-	D) Measure existing products, build better ones, learn later
+244.	The product development decision to "pivot vs. persevere" in Lean Startup is based on:
+-	A) How much money has been spent
+-	B) **Validated learning from MVP experiments — if core hypotheses about customer value are disproven, pivot; if validated,persevere ✓**
+-	C) What competitors are doing
+-	D) How long the team has been working
+245.	In evaluating two competing innovation strategies — "fast follower" vs. "pioneer" — which scenario makes fast followingMORE advantageous?
+-	A) When R&D costs are very low
+-	B) When the pioneer has no IP protection
+-	C) **When the market is difficult to educate, technology is still evolving, and the pioneer bears high market developmentcosts that the follower can avoid ✓**
+-	D) When the pioneer has superior brand recognition
+246.	Why is the stage of the Product Life Cycle particularly difficult to determine in practice?
+-	A) Because it requires expensive analysis
+-	B) **Because product boundaries are unclear, different market segments may be at different PLC stages, and theboundaries between stages are subjective ✓**      - C) Because PLC theory is completely inaccurate
+-	D) Because only consultants can determine PLC stages
+247.	A company registers a trademark in Nigeria but does not register it in the EU where it plans to export. The most significantrisk is:
+-	A) No risk — Nigerian registration is sufficient
+-	B) **A "trademark squatter" may register the same mark in the EU first, blocking the firm's market entry or requiringexpensive legal action ✓**
+-	C) The firm will lose Nigerian trademark protection     - D) The trademark will automatically expire
+248.	IP rights and competition law can conflict when:
+-	A) A firm registers too many trademarks
+-	B) Copyright lasts too long
+-	C) **A dominant firm uses its IP rights (e.g., refusing to license essential patents) to exclude competitors from the market,creating an anti-competitive effect ✓**      - D) Trade secrets are too well protected
+249.	Which innovation management framework would be MOST appropriate for a traditional Lagos market trader seeking toinnovate their business model?      - A) Corporate Stage-Gate process
+-	B) **Frugal/Jugaad innovation combined with Design Thinking — leveraging constrained resources to develop low-costsolutions that meet the specific needs of local customers ✓**
+-	C) Open innovation platform
+-	D) Formal R&D department
+250.	The ultimate purpose of integrating all four BuA 313 topics — Innovation Management, Idea Generation, ProductDevelopment, and IP Protection — in a firm's strategy is to:
+-	A) Maximize patent applications
+-	B) Reduce R&D costs only
+-	C) Satisfy government regulations
+-	D) **Create a sustainable competitive advantage by systematically generating valuable ideas, developing them into market-ready products, and legally protecting the resulting innovations from imitation ✓**
