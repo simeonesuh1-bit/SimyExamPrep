@@ -801,7 +801,6 @@ export default function App() {
             setActiveSessions(prev => ({ ...prev, [u.matric]: Date.now().toString() }));
         }
         setCurrentUser(u);
-        const isAdmin = ADMINS.some(a => a.matric === u.matric);
         setScreen(isAdmin ? "admin" : "dashboard");
     };
 
