@@ -394,6 +394,12 @@ const css = `
 // ─── APP ─────────────────────────────────────────────────────────────────────
 
 export default function App() {
+    const [toast, setToast] = useState(null);
+    const showToast = useCallback((msg, type = "info") => {
+        setToast({ msg, type });
+        setTimeout(() => setToast(null), 3500);
+    }, []);
+
     const [users, setLocalUsers] = useState([]);
     const [currentUser, setLocalCurrentUser] = useState(null);
     const [authEmailState, setAuthEmailState] = useState(null);
