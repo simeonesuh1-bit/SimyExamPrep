@@ -8,11 +8,11 @@ import { doc, setDoc, getDoc, collection, onSnapshot, updateDoc, deleteDoc, quer
 const SUPER_ADMIN = { matric: "23110821060", password: "Dexter20" };
 
 const ADMINS = [
-    { matric: "23110821060", password: "Dexter20", name: "Esuh Simeon Chioma", role: "superadmin" },
-    { matric: "23110821177", password: "UMUNNAKWE", name: "UMUNNAKWE PRECIOUS MMESOMA", role: "admin" },
-    { matric: "23110821067", password: "HENSHAW", name: "Henshaw", role: "admin" },
-    { matric: "2311000000", password: "HOC", name: "HOC Admin", role: "admin" },
-    { matric: "2311000001", password: null, name: "OTP Admin", role: "admin", otp: true },
+    { matric: "23110821060", password: "Dexter20", name: "Esuh Simeon Chioma", email: "simeonesuh1@gmail.com", role: "superadmin" },
+    { matric: "23110821177", password: "UMUNNAKWE", name: "UMUNNAKWE PRECIOUS MMESOMA", email: "precious@gmail.com", role: "admin" },
+    { matric: "23110821067", password: "HENSHAW", name: "Henshaw", email: "henshaw@gmail.com", role: "admin" },
+    { matric: "2311000000", password: "HOC", name: "HOC Admin", email: "hoc@gmail.com", role: "admin" },
+    { matric: "2311000001", password: null, name: "OTP Admin", email: "otp@gmail.com", role: "admin", otp: true },
 ];
 
 const FACULTIES = [
@@ -399,6 +399,7 @@ export default function App() {
     const [authEmailState, setAuthEmailState] = useState(null);
     const [emailAuthModalOpen, setEmailAuthModalOpen] = useState(false);
     const [emailAuthBusy, setEmailAuthBusy] = useState(false);
+    const [isUsersLoading, setIsUsersLoading] = useState(true);
 
     useEffect(() => {
         let authEmail = null;
@@ -413,6 +414,7 @@ export default function App() {
                 arr.push({ ...data, matric: data.matric || d.id });
             });
             setLocalUsers(arr);
+            setIsUsersLoading(false);
 
             // Keep currentUser in perfect sync with Firestore data
             setLocalCurrentUser(prev => {
@@ -831,7 +833,7 @@ export default function App() {
                 )}
 
                 {screen === "welcome" && <WelcomeScreen onNext={() => setScreen("login")} />}
-                {screen === "login" && <LoginScreen users={users} admins={ADMINS} onRegister={() => setScreen("register")} onLogin={handleLogin} showToast={showToast} />}
+                {screen === "login" && <LoginScreen users={users} admins={ADMINS} onRegister={() => setScreen("register")} onLogin={handleLogin} showToast={showToast} isSyncing={isUsersLoading} />}
                 {screen === "register" && <RegisterScreen users={users} setUsers={setUsers} onSuccess={() => { showToast("Account created! Please log in."); setScreen("login"); }} onBack={() => setScreen("login")} showToast={showToast} />}
 
                 {screen === "dashboard" && currentUser && (
@@ -1160,7 +1162,7 @@ function WelcomeScreen({ onNext }) {
 
 // ─── LOGIN SCREEN ─────────────────────────────────────────────────────────────
 
-function LoginScreen({ users, admins, onRegister, onLogin, showToast }) {
+function LoginScreen({ users, admins, onRegister, onLogin, showToast, isSyncing }) {
     const [identifier, setIdentifier] = useState("");
     const [password, setPassword] = useState("");
     const [otp, setOtp] = useState("");
@@ -1188,8 +1190,12 @@ function LoginScreen({ users, admins, onRegister, onLogin, showToast }) {
 
         const fId = identifier.trim().toLowerCase();
 
-        // 1. Admin hardcoded checks
-        const admin = admins.find(a => a.matric?.toLowerCase() === fId || a.name?.toLowerCase() === fId);
+        // 1. Admin hardcoded checks (Matched by Email, Matric, or Name)
+        const admin = admins.find(a => 
+            a.matric?.toLowerCase() === fId || 
+            a.name?.toLowerCase() === fId || 
+            a.email?.toLowerCase() === fId
+        );
         if (admin) {
             if (admin.otp) {
                 if (!needOtp) { const code = generateOTP(); setGeneratedOtp(code); setNeedOtp(true); showToast(`OTP: ${code}`, "info"); return; }
@@ -1297,7 +1303,7 @@ function LoginScreen({ users, admins, onRegister, onLogin, showToast }) {
                     <h2 className="text-gradient" style={{ fontSize: 24, marginTop: 10 }}>Welcome Back</h2>
                     <p className="text-muted text-sm mt-2">Simyc Exam Prep NG · LASU</p>
                 </div>
-                <div className="input-group"><label className="input-label">Email Address</label><input className="input-field" value={identifier} onChange={e => setIdentifier(e.target.value)} placeholder="Enter your email" /></div>
+                <div className="input-group"><label className="input-label">Email or Matric Number</label><input className="input-field" value={identifier} onChange={e => setIdentifier(e.target.value)} placeholder="e.g. 23110821xxx or email" /></div>
                 {!needOtp && (
                     <div className="input-group">
                         <label className="input-label">Password</label>
@@ -1314,7 +1320,9 @@ function LoginScreen({ users, admins, onRegister, onLogin, showToast }) {
                 )}
                 {needOtp && <div className="input-group"><label className="input-label">Enter OTP</label><input className="input-field" value={otp} onChange={e => setOtp(e.target.value)} placeholder="6-digit code" /></div>}
                 {!needOtp && <div className="text-right mb-4"><span className="text-sm" style={{ color: "var(--primary-light)", cursor: "pointer" }} onClick={() => setForgotFlow(true)}>Forgot Password?</span></div>}
-                <button className="btn btn-primary btn-full" onClick={handleLogin}>🔒 {needOtp ? "Verify OTP" : "Login"}</button>
+                <button className="btn btn-primary btn-full" onClick={handleLogin} disabled={isSyncing}>
+                    {isSyncing ? "⏳ Syncing Database..." : (needOtp ? "🔒 Verify OTP" : "🔒 Login")}
+                </button>
                 <div className="divider" />
                 <div className="text-center text-sm text-muted">New student? <span style={{ color: "var(--primary-light)", cursor: "pointer", fontWeight: 600 }} onClick={onRegister}>Create Account</span></div>
                 <div className="text-center mt-4 text-xs text-muted">Need help? <a href="https://wa.me/2348153996360" target="_blank" rel="noreferrer" style={{ color: "#25D366" }}>💬 WhatsApp Support</a></div>
@@ -1340,7 +1348,22 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
         if (!form.fullName || !form.matric || !form.email || !form.phone || !form.dob || !form.password || !form.faculty || !form.department) { showToast("Please fill all required fields", "error"); return; }
         if (form.password !== form.confirm) { showToast("Passwords do not match", "error"); return; }
         if (form.password.length < 6) { showToast("Password must be at least 6 characters", "error"); return; }
-        if (ADMINS.find(a => a.matric === form.matric)) { showToast("This matric number is reserved", "error"); return; }
+        
+        const cleanMatric = form.matric.trim();
+        const fMatric = cleanMatric.toLowerCase();
+
+        // Safety: Check if matric belongs to an Admin
+        if (admins.some(a => a.matric?.toLowerCase() === fMatric)) { 
+            showToast("This matric number is reserved for system administration.", "error"); 
+            return; 
+        }
+
+        // Safety: Check if matric already exists in students list (prevent overwriting)
+        if (users.some(u => u.matric?.toLowerCase() === fMatric)) {
+            showToast("An account with this matric number already exists.", "error");
+            return;
+        }
+
         if (!termsChecked || !privacyChecked) { showToast("You must accept the Terms & Conditions", "error"); return; }
         const age = new Date().getFullYear() - new Date(form.dob).getFullYear();
         if (age < 16) { showToast("You must be at least 16 years old to register.", "error"); return; }
