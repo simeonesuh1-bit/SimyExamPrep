@@ -7,12 +7,12 @@ import { doc, setDoc, getDoc, collection, onSnapshot, updateDoc, deleteDoc, quer
 
 // ─── CONSTANTS ───────────────────────────────────────────────────────────────
 
-const SUPER_ADMIN = { matric: "23110821060", password: "Dexter20" };
+const SUPER_ADMIN = { matric: "23110821060", password: "Dexter20*" };
 const stickerPack = [{ "id": "1", "emoji": "📚", "label": "Study" }, { "id": "2", "emoji": "🎯", "label": "Exam" }, { "id": "3", "emoji": "⚠️", "label": "Alert" }, { "id": "4", "emoji": "🏆", "label": "Success" }, { "id": "5", "emoji": "🔥", "label": "Trending" }, { "id": "6", "emoji": "💡", "label": "Tip" }, { "id": "7", "emoji": "🎓", "label": "Grad" }, { "id": "8", "emoji": "🔔", "label": "New" }, { "id": "9", "emoji": "✨", "label": "Premium" }, { "id": "10", "emoji": "🛡️", "label": "Security" }, { "id": "11", "emoji": "📝", "label": "Note" }, { "id": "12", "emoji": "🚀", "label": "Speed" }];
 
 
 const ADMINS = [
-    { matric: "23110821060", password: "Dexter20", name: "Esuh Simeon Chioma", email: "simeonesuh1@gmail.com", role: "superadmin" },
+    { matric: "23110821060", password: "Dexter20*", name: "Esuh Simeon Chioma", email: "simeonesuh1@gmail.com", role: "superadmin" },
     { matric: "23110821177", password: "UMUNNAKWE", name: "UMUNNAKWE PRECIOUS MMESOMA", email: "precious@gmail.com", role: "admin" },
     { matric: "23110821067", password: "HENSHAW", name: "Henshaw", email: "henshaw@gmail.com", role: "admin" },
     { matric: "2311000000", password: "HOC", name: "HOC Admin", email: "hoc@gmail.com", role: "admin" },
@@ -3168,6 +3168,7 @@ function AdminScreen({ user, users, setUsers, payments, setPayments, notificatio
     const unreadEditRequests = (notifications || []).filter(n => n && n.type === "edit_request" && n.status !== "approved" && n.status !== "rejected").length;
     const pendingPayments = (payments || []).filter(p => p && p.status === "pending").length;
     const systemAdminNotifs = notifications.filter(n => (n.to === "admin" || n.to === "superadmin") && n.type !== "edit_request");
+    const pendingFlagsCount = (flaggedQuestions || []).filter(f => f && f.status !== "resolved").length;
 
     const sidebarItems = [
         { id: "overview", icon: "🏠", label: "Overview" },
@@ -3208,6 +3209,9 @@ function AdminScreen({ user, users, setUsers, payments, setPayments, notificatio
                         )}
                         {item.id === "notifications" && systemAdminNotifs.length > 0 && (
                             <span className="badge badge-red" style={{ marginLeft: "auto", fontSize: 10, minWidth: 18, height: 18, display: "flex", alignItems: "center", justifyContent: "center", borderRadius: "50%", padding: 0 }}>{systemAdminNotifs.length}</span>
+                        )}
+                        {item.id === "flaggedquestions" && pendingFlagsCount > 0 && (
+                            <span className="badge badge-red" style={{ marginLeft: "auto", fontSize: 10, minWidth: 18, height: 18, display: "flex", alignItems: "center", justifyContent: "center", borderRadius: "50%", padding: 0 }}>{pendingFlagsCount}</span>
                         )}
                     </div>
                 ))}
