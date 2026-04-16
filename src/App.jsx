@@ -1056,6 +1056,7 @@ export default function App() {
                         maintenanceMode={maintenanceMode} setMaintenanceMode={setMaintenanceMode}
                         plans={plans} setPlans={setPlans}
                         questions={questions} setQuestions={setQuestions}
+                        flaggedQuestions={flaggedQuestions}
                         setLightboxPhoto={setLightboxPhoto}
                     />
                 )}
@@ -3091,8 +3092,8 @@ function AdminFlaggedQuestions({ flaggedQuestions, questions, showToast }) {
     return (
         <div>
             <h2 className="text-gradient mb-6" style={{ fontSize: 22 }}>🚩 Reported Question Errors</h2>
-            {flaggedQuestions.filter(f => f.status !== "resolved").length === 0 && <p className="text-muted">No pending reports. All good! ✨</p>}
-            {flaggedQuestions.filter(f => f.status !== "resolved").map(f => (
+            {(flaggedQuestions || []).filter(f => f && f.status !== "resolved").length === 0 && <p className="text-muted">No pending reports. All good! ✨</p>}
+            {(flaggedQuestions || []).filter(f => f && f.status !== "resolved").map(f => (
                 <div key={f.id} className="card p-5 mb-4 border-warning">
                     <div className="flex justify-between items-start mb-2">
                         <div>
@@ -3155,7 +3156,7 @@ function AdminFlaggedQuestions({ flaggedQuestions, questions, showToast }) {
 
 // ─── ADMIN SCREEN ─────────────────────────────────────────────────────────────
 
-function AdminScreen({ user, users, setUsers, payments, setPayments, notifications, setNotifications, broadcasts, setBroadcasts, adminLogs, setAdminLogs, logAdminAction, messages, setMessages, readAdminMsgs, setReadAdminMsgs, onLogout, showToast, isSuperAdmin, maintenanceMode, setMaintenanceMode, plans, setPlans, questions, setQuestions, setLightboxPhoto }) {
+function AdminScreen({ user, users, setUsers, payments, setPayments, notifications, setNotifications, broadcasts, setBroadcasts, adminLogs, setAdminLogs, logAdminAction, messages, setMessages, readAdminMsgs, setReadAdminMsgs, onLogout, showToast, isSuperAdmin, maintenanceMode, setMaintenanceMode, plans, setPlans, questions, setQuestions, flaggedQuestions, setLightboxPhoto }) {
     const [section, setSection] = useState("overview");
 
     const unreadTotal = (messages || []).filter(m => m.type === "user_to_admin" && m.id && (readAdminMsgs || []).includes(m.id)).length;
