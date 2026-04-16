@@ -3071,13 +3071,15 @@ function AdminFlaggedQuestions({ flaggedQuestions, questions, showToast }) {
     const [editForm, setEditForm] = useState(null);
 
     const openEdit = (flag) => {
-        const q = questions.find(q => (q._docId || q.id) === flag.questionId);
-        if (!q) { showToast("Question not found in database", "error"); return; }
+        if (!flag || !flag.questionId || !questions) return;
+        const q = (questions || []).find(q => (q?._docId || q?.id) === flag.questionId);
+        if (!q) { showToast("Original question not found in database", "error"); return; }
         setEditingQ({ ...q, flagId: flag.id });
         setEditForm({ ...q });
     };
 
     const saveEdit = async () => {
+        if (!editingQ || !editingQ.flagId || !editForm) return;
         try {
             const qId = editingQ._docId || editingQ.id;
             await updateDoc(doc(db, "questions", qId), editForm);
@@ -3085,48 +3087,51 @@ function AdminFlaggedQuestions({ flaggedQuestions, questions, showToast }) {
             showToast("Question corrected and resolved!", "success");
             setEditingQ(null);
         } catch (e) {
+            console.error(e);
             showToast("Failed to save correction", "error");
         }
     };
 
+    const pendingFlags = (flaggedQuestions || []).filter(f => f && f.status !== "resolved");
+
     return (
         <div>
             <h2 className="text-gradient mb-6" style={{ fontSize: 22 }}>🚩 Reported Question Errors</h2>
-            {(flaggedQuestions || []).filter(f => f && f.status !== "resolved").length === 0 && <p className="text-muted">No pending reports. All good! ✨</p>}
-            {(flaggedQuestions || []).filter(f => f && f.status !== "resolved").map(f => (
-                <div key={f.id} className="card p-5 mb-4 border-warning">
+            {pendingFlags.length === 0 && <p className="text-muted">No pending reports. All good! ✨</p>}
+            {pendingFlags.map(f => (
+                <div key={f?.id || Math.random()} className="card p-5 mb-4 border-warning">
                     <div className="flex justify-between items-start mb-2">
                         <div>
-                            <span className="badge badge-yellow mb-2">{f.course}</span>
-                            <div style={{ fontWeight: 700, fontFamily: "Syne" }}>{f.userName} ({f.userMatric})</div>
+                            <span className="badge badge-yellow mb-2">{f?.course || "Unknown Course"}</span>
+                            <div style={{ fontWeight: 700, fontFamily: "Syne" }}>{f?.userName || "Student"} ({f?.userMatric || "N/A"})</div>
                         </div>
-                        <div className="text-xs text-muted">{formatDate(f.time)}</div>
+                        <div className="text-xs text-muted">{f?.time ? formatDate(f.time) : "-"}</div>
                     </div>
-                    <p className="bg-black/20 p-3 rounded-lg text-sm mb-3 italic">"{f.questionText}"</p>
+                    <p className="bg-black/20 p-3 rounded-lg text-sm mb-3 italic">"{f?.questionText || "Question text missing"}"</p>
                     <div className="p-3 bg-warning/10 border-warning/20 border rounded-lg text-sm mb-4">
-                        <strong>Student Remark:</strong> {f.comment || "No comment provided."}
+                        <strong>Student Remark:</strong> {f?.comment || "No comment provided."}
                     </div>
                     <div className="flex gap-2">
                         <button className="btn btn-primary btn-sm" onClick={() => openEdit(f)}>🔧 Edit & Resolve</button>
-                        <button className="btn btn-ghost btn-sm" onClick={() => updateDoc(doc(db, "flagged_questions", f.id), { status: "resolved" })}>Dismiss</button>
+                        <button className="btn btn-ghost btn-sm" onClick={() => { if (f?.id) updateDoc(doc(db, "flagged_questions", f.id), { status: "resolved" }); }}>Dismiss</button>
                     </div>
                 </div>
             ))}
 
-            {editingQ && (
-                <div className="modal-overlay">
+            {editingQ && editForm && (
+                <div className="modal-overlay" onClick={() => setEditingQ(null)}>
                     <div className="card modal p-6" style={{ maxWidth: 600, width: "90%", maxHeight: "90vh", overflowY: "auto" }} onClick={e => e.stopPropagation()}>
                         <h3 className="text-gradient mb-4">🔧 Correct Question</h3>
                         <div className="input-group">
                             <label className="input-label">Question Text</label>
-                            <textarea className="input-field" rows={4} value={editForm.question} onChange={e => setEditForm({ ...editForm, question: e.target.value })} />
+                            <textarea className="input-field" rows={4} value={editForm.question || ""} onChange={e => setEditForm({ ...editForm, question: e.target.value })} />
                         </div>
-                        {editForm.type === "objective" && (
+                        {editForm.type === "objective" && editForm.options && (
                             <div className="grid-2" style={{ gap: 15 }}>
                                 {editForm.options.map((opt, i) => (
                                     <div key={i} className="input-group">
                                         <label className="input-label">Option {String.fromCharCode(65 + i)}</label>
-                                        <input className="input-field" value={opt} onChange={e => {
+                                        <input className="input-field" value={opt || ""} onChange={e => {
                                             const newOpts = [...editForm.options];
                                             newOpts[i] = e.target.value;
                                             setEditForm({ ...editForm, options: newOpts });
@@ -3137,11 +3142,11 @@ function AdminFlaggedQuestions({ flaggedQuestions, questions, showToast }) {
                         )}
                         <div className="input-group">
                             <label className="input-label">Correct Answer ({editForm.type === "objective" ? "A, B, C, or D" : "Exact Text"})</label>
-                            <input className="input-field" value={editForm.answer} onChange={e => setEditForm({ ...editForm, answer: e.target.value })} />
+                            <input className="input-field" value={editForm.answer || ""} onChange={e => setEditForm({ ...editForm, answer: e.target.value })} />
                         </div>
                         <div className="input-group">
                             <label className="input-label">Explanation</label>
-                            <textarea className="input-field" rows={2} value={editForm.explanation} onChange={e => setEditForm({ ...editForm, explanation: e.target.value })} />
+                            <textarea className="input-field" rows={2} value={editForm.explanation || ""} onChange={e => setEditForm({ ...editForm, explanation: e.target.value })} />
                         </div>
                         <div className="flex gap-2 mt-4">
                             <button className="btn btn-success btn-full" onClick={saveEdit}>✅ Save & Resolve</button>
