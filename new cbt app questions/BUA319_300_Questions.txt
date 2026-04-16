@@ -1,0 +1,2431 @@
+================================================================
+   BUA 319 – E-COMMERCE
+   300 CBT QUESTIONS WITH ANSWERS
+   Divided into: EASY | MEDIUM | HARD | TRICKY
+================================================================
+
+================================================================
+                        EASY MODE (75 Questions)
+================================================================
+
+QUESTION 1
+Q: What does E-Commerce stand for?
+A. Electronic Computing
+B. Electronic Commerce
+C. Electronic Communication
+D. Electronic Connectivity
+ANSWER: B
+
+QUESTION 2
+Q: E-commerce is also known as:
+A. Virtual commerce
+B. Digital commerce
+C. Internet commerce
+D. Mobile commerce
+ANSWER: C
+
+QUESTION 3
+Q: Which of the following is an example of an e-commerce website?
+A. Microsoft Word
+B. Adobe Photoshop
+C. Amazon
+D. Google Docs
+ANSWER: C
+
+QUESTION 4
+Q: Which of the following best describes e-commerce?
+A. Buying and selling goods only in physical stores
+B. Buying and selling goods and services using the internet
+C. Exchanging goods by barter through the internet
+D. Advertising products on television
+ANSWER: B
+
+QUESTION 5
+Q: What does B2B stand for in e-commerce?
+A. Business to Buyer
+B. Browser to Business
+C. Business to Business
+D. Buyer to Business
+ANSWER: C
+
+QUESTION 6
+Q: What does B2C stand for in e-commerce?
+A. Business to Consumer
+B. Buyer to Consumer
+C. Business to Credit
+D. Browser to Customer
+ANSWER: A
+
+QUESTION 7
+Q: What does C2C stand for in e-commerce?
+A. Company to Corporation
+B. Credit to Consumer
+C. Customer to Customer
+D. Company to Consumer
+ANSWER: C
+
+QUESTION 8
+Q: What does C2B stand for in e-commerce?
+A. Consumer to Bank
+B. Consumer to Business
+C. Credit to Business
+D. Customer to Buyer
+ANSWER: B
+
+QUESTION 9
+Q: Which of the following is an example of a C2C platform?
+A. Amazon
+B. Jumia
+C. OLX
+D. Shopify
+ANSWER: C
+
+QUESTION 10
+Q: Which country is seen as a global leader in m-commerce?
+A. United States
+B. China
+C. Japan
+D. South Korea
+ANSWER: C
+
+QUESTION 11
+Q: What does M-Commerce stand for?
+A. Media Commerce
+B. Manual Commerce
+C. Mobile Commerce
+D. Market Commerce
+ANSWER: C
+
+QUESTION 12
+Q: M-Commerce is also referred to as:
+A. First generation e-commerce
+B. Next generation e-commerce
+C. Advanced e-commerce
+D. Basic e-commerce
+ANSWER: B
+
+QUESTION 13
+Q: Which of these is NOT one of the 5Cs of e-commerce?
+A. Collaboration
+B. Communication
+C. Competition
+D. Commerce
+ANSWER: C
+
+QUESTION 14
+Q: The 5C model of e-commerce includes Commerce, Collaboration, Communication, Connection, and:
+A. Conversion
+B. Computation
+C. Consumer
+D. Credit
+ANSWER: B
+
+QUESTION 15
+Q: Which feature of e-commerce allows businesses to send customised messages to individuals?
+A. Ubiquity
+B. Personalization
+C. Universal Standard
+D. Rich Content
+ANSWER: B
+
+QUESTION 16
+Q: Which feature of e-commerce means it is accessible from anywhere at any time?
+A. Personalization
+B. Rich Content
+C. Ubiquity
+D. Universal Standard
+ANSWER: C
+
+QUESTION 17
+Q: What does WWW stand for?
+A. World Wide Wireless
+B. World Wide Web
+C. Wide Web World
+D. Wide Wireless Web
+ANSWER: B
+
+QUESTION 18
+Q: Who developed the World Wide Web?
+A. Bill Gates
+B. Mark Zuckerberg
+C. Tim Berners-Lee
+D. Steve Jobs
+ANSWER: C
+
+QUESTION 19
+Q: In what year was the World Wide Web developed?
+A. 1969
+B. 1985
+C. 1995
+D. 1990
+ANSWER: D
+
+QUESTION 20
+Q: What does HTTP stand for?
+A. HyperText Transfer Process
+B. HyperText Transfer Protocol
+C. HyperText Transmission Protocol
+D. High Transfer Text Protocol
+ANSWER: B
+
+QUESTION 21
+Q: What does URL stand for?
+A. Uniform Resource Locator
+B. Universal Resource Link
+C. Uniform Retrieval Location
+D. Universal Retrieval Locator
+ANSWER: A
+
+QUESTION 22
+Q: What does HTML stand for?
+A. HyperText Marking Language
+B. High Text Markup Language
+C. HyperText Markup Language
+D. HyperText Management Language
+ANSWER: C
+
+QUESTION 23
+Q: What is the first computer network ever created called?
+A. TCP/IP
+B. INTERNET
+C. ARPANET
+D. WWW
+ANSWER: C
+
+QUESTION 24
+Q: In what year was ARPANET created?
+A. 1975
+B. 1990
+C. 1969
+D. 1985
+ANSWER: C
+
+QUESTION 25
+Q: What does SSL stand for?
+A. Secure System Layer
+B. Secure Socket Layer
+C. Standard Socket Link
+D. System Security Layer
+ANSWER: B
+
+QUESTION 26
+Q: Which of the following is NOT a benefit of e-commerce?
+A. Wider reach
+B. Cheaper cost
+C. Mandatory face-to-face interaction
+D. Saves time and energy
+ANSWER: C
+
+QUESTION 27
+Q: A shopping cart in e-commerce is:
+A. A physical trolley used in supermarkets
+B. Software that keeps record of products selected for purchase
+C. A delivery vehicle for online orders
+D. A payment gateway for online stores
+ANSWER: B
+
+QUESTION 28
+Q: Which of the following is an example of a B2C website?
+A. OLX
+B. Jiji
+C. Jumia
+D. Fiverr
+ANSWER: C
+
+QUESTION 29
+Q: Which platform is a well-known example of the C2B model?
+A. Amazon
+B. Jiji
+C. OLX
+D. Fiverr
+ANSWER: D
+
+QUESTION 30
+Q: Drop-shipping involves:
+A. Selling products directly from the manufacturer to the buyer
+B. Marketing and selling items that will be delivered by a third party
+C. A retailer buying goods in bulk and reselling
+D. A consumer selling used items to another consumer
+ANSWER: B
+
+QUESTION 31
+Q: What does D2C mean in e-commerce?
+A. Data to Consumer
+B. Direct to Consumer
+C. Delivery to Consumer
+D. Digital to Consumer
+ANSWER: B
+
+QUESTION 32
+Q: Private labelling means:
+A. A business applies its brand name to a generic product from a distributor
+B. A business makes a deal with a manufacturer to create a unique product exclusively
+C. A business sells products directly without any intermediary
+D. A business resells used goods to consumers
+ANSWER: B
+
+QUESTION 33
+Q: White labelling means:
+A. A business makes a deal with the manufacturer for exclusive products
+B. A business applies its brand name to a generic product purchased from a distributor
+C. A business resells goods from another brand
+D. A business manufactures its own products
+ANSWER: B
+
+QUESTION 34
+Q: What is a product catalogue?
+A. A list of customers who have purchased from a business
+B. A document listing details of products or services offered by a business
+C. A record of all transactions made on an e-commerce platform
+D. A software used to track customer orders
+ANSWER: B
+
+QUESTION 35
+Q: What is order processing?
+A. The activities ensuring placed orders reach customers at the right time
+B. The process of manufacturing products for sale
+C. The act of delivering goods to a warehouse
+D. The stage of advertising products online
+ANSWER: A
+
+QUESTION 36
+Q: Which of the following is a key disadvantage of e-commerce?
+A. Wider reach
+B. No closing hour
+C. Security threats such as hacking
+D. Lower transaction costs
+ANSWER: C
+
+QUESTION 37
+Q: What does ERP stand for?
+A. Electronic Retail Programme
+B. Enterprise Resource Planning
+C. Electronic Resource Processing
+D. Enterprise Retail Platform
+ANSWER: B
+
+QUESTION 38
+Q: What does CRM stand for?
+A. Customer Retail Management
+B. Customer Relationship Module
+C. Customer Resource Management
+D. Commerce Resource Management
+ANSWER: C
+
+QUESTION 39
+Q: What does SCM stand for?
+A. Supply Chain Management
+B. Secure Commerce Management
+C. Sales Chain Module
+D. System Commerce Management
+ANSWER: A
+
+QUESTION 40
+Q: Which payment method involves paying cash when goods are delivered?
+A. Bank payment
+B. E-cash
+C. Cash-on-delivery
+D. Smart card
+ANSWER: C
+
+QUESTION 41
+Q: Which of the following is a traditional payment method for e-commerce?
+A. E-cash
+B. Smart cards
+C. Bank payments
+D. Encrypted credit cards
+ANSWER: C
+
+QUESTION 42
+Q: What is a domain name?
+A. The physical address of a business
+B. The name/address users use to locate a website
+C. The username of a website's administrator
+D. The IP address of a server
+ANSWER: B
+
+QUESTION 43
+Q: What does TLD stand for in domain name registration?
+A. Top Level Domain
+B. Transfer Level Directory
+C. Top Link Domain
+D. Total Level Domain
+ANSWER: A
+
+QUESTION 44
+Q: What does ".ng" represent in a domain name?
+A. Generic top-level domain
+B. Country code for Nigeria
+C. Country code for Niger
+D. Network gateway
+ANSWER: B
+
+QUESTION 45
+Q: What is web hosting?
+A. Designing the layout of a website
+B. Computers/organisations providing services to host websites on the internet
+C. Registering a domain name for a website
+D. Writing code for a website
+ANSWER: B
+
+QUESTION 46
+Q: Which of the following is a component of a shopping cart software?
+A. Search Engine and Database
+B. Storefront and Administration
+C. Browser and Server
+D. Domain and Hosting
+ANSWER: B
+
+QUESTION 47
+Q: What does HTTPS indicate about a website?
+A. The website has a physical store
+B. The website is a government website
+C. The website uses a secure protocol for transactions
+D. The website is a mobile-only site
+ANSWER: C
+
+QUESTION 48
+Q: What does a "cookie" do in e-commerce?
+A. Encrypts financial transactions
+B. Enables websites to identify and remember users
+C. Processes payments automatically
+D. Blocks unauthorized access to websites
+ANSWER: B
+
+QUESTION 49
+Q: Which of the following is an example of a hosted shopping cart?
+A. OpenCart
+B. Magento
+C. Shopify
+D. WooCommerce
+ANSWER: C
+
+QUESTION 50
+Q: What does PayPal serve as in e-commerce?
+A. A web hosting service
+B. A domain registrar
+C. An open source shopping cart and payment gateway
+D. A product catalogue tool
+ANSWER: C
+
+QUESTION 51
+Q: DSTV subscription is an example of which business model?
+A. Drop-shipping
+B. Subscription
+C. White labelling
+D. Wholesaling
+ANSWER: B
+
+QUESTION 52
+Q: Which of the following is a popular example of a B2B company?
+A. Jiji
+B. Xero
+C. OLX
+D. Fiverr
+ANSWER: B
+
+QUESTION 53
+Q: Which of these helps create and strengthen a universal supply chain in the 5C model?
+A. Communication
+B. Computation
+C. Commerce
+D. Collaboration
+ANSWER: C
+
+QUESTION 54
+Q: What does "phishing" mean in the context of e-commerce security?
+A. Using fishing bots to monitor website traffic
+B. Creating fake websites to steal sensitive user information
+C. Hacking into a bank's server to steal funds
+D. Sending spam emails to customers
+ANSWER: B
+
+QUESTION 55
+Q: Which of the following is NOT an example of an electronic payment innovation?
+A. E-cash
+B. Smart cards
+C. Bank deposit
+D. E-checks
+ANSWER: C
+
+QUESTION 56
+Q: What does the "S" in HTTPS represent?
+A. System
+B. Software
+C. Secure
+D. Server
+ANSWER: C
+
+QUESTION 57
+Q: A secure server protects against which of the following?
+A. Slow internet connections
+B. Loss or modification of personal information
+C. Low website traffic
+D. Poor product catalogues
+ANSWER: B
+
+QUESTION 58
+Q: Which of the following is one of the key elements of an e-business solution?
+A. Social media marketing
+B. Mobile advertising
+C. Knowledge Management
+D. Brand identity
+ANSWER: C
+
+QUESTION 59
+Q: What does the internet technology's "universal standard" feature mean for e-commerce?
+A. All businesses must follow the same pricing model
+B. The same internet standard is used worldwide
+C. All e-commerce sites must look the same
+D. Governments must regulate all e-commerce activities
+ANSWER: B
+
+QUESTION 60
+Q: Who created ARPANET?
+A. Tim Berners-Lee
+B. The Pentagon's Advanced Research Projects Agency
+C. IBM Corporation
+D. Microsoft Corporation
+ANSWER: B
+
+QUESTION 61
+Q: What is the purpose of a search engine in an e-commerce website?
+A. To process payment transactions
+B. To help customers search and find products quickly
+C. To host the website online
+D. To manage inventory levels
+ANSWER: B
+
+QUESTION 62
+Q: Which of the following is NOT a facility that supports e-commerce?
+A. Mobile phones
+B. Social media
+C. Fax machines
+D. E-commerce shopping carts
+ANSWER: C
+
+QUESTION 63
+Q: What does ICT stand for?
+A. Information and Communication Technology
+B. Internet and Computing Tools
+C. Integrated Commerce Technology
+D. Information and Computer Transmission
+ANSWER: A
+
+QUESTION 64
+Q: Which of the following best describes "Business to Administration" e-commerce?
+A. Government buying from businesses
+B. Exchange of data between businesses and government via the internet
+C. Exchange of data between consumers and businesses
+D. Government selling to consumers via the internet
+ANSWER: B
+
+QUESTION 65
+Q: What does "Consumer to Administration" e-commerce involve?
+A. Businesses submitting documents to consumers
+B. Electronic transaction between individuals and government
+C. Banks providing services to businesses
+D. Government providing goods to businesses
+ANSWER: B
+
+QUESTION 66
+Q: Which of the following is an example of Consumer to Administration e-commerce?
+A. A business paying corporate tax to the government online
+B. A consumer buying goods from Amazon
+C. Payment of health services online by individuals
+D. A business advertising products to consumers
+ANSWER: C
+
+QUESTION 67
+Q: What is the main purpose of the "Checkout" step in an online shopping cart?
+A. To register a new user account
+B. To allow customers to complete and pay for their selected items
+C. To display products to customers
+D. To track the delivery of an order
+ANSWER: B
+
+QUESTION 68
+Q: What does "Business Digitalization" mean in the context of e-commerce features?
+A. Printing digital receipts for customers
+B. Using internet and ICT tools to link information and connect all business stakeholders
+C. Moving a business from urban to rural areas
+D. Automating delivery vehicles with digital technology
+ANSWER: B
+
+QUESTION 69
+Q: Which of the following is an example of a C2C platform?
+A. Konga
+B. Jiji
+C. Jumia
+D. Amazon
+ANSWER: B
+
+QUESTION 70
+Q: What is the correct full form of "gTLD"?
+A. Global Transfer Level Domain
+B. Generic Top-Level Domain
+C. Government Top-Level Domain
+D. General Transfer Link Domain
+ANSWER: B
+
+QUESTION 71
+Q: Which of the following is NOT a type of shopping cart?
+A. Open source shopping cart
+B. Licensed shopping cart
+C. Encrypted shopping cart
+D. Hosted shopping cart
+ANSWER: C
+
+QUESTION 72
+Q: What protocol is used with SSL to secure e-commerce websites?
+A. FTP
+B. HTTP
+C. HTTPS
+D. TCP/IP
+ANSWER: C
+
+QUESTION 73
+Q: What is the most commonly used security protocol for online transactions?
+A. TCP/IP
+B. HTTP
+C. SSL
+D. URL
+ANSWER: C
+
+QUESTION 74
+Q: Which of the following correctly describes the "Collaboration" component in the 5C model?
+A. Sharing digital resources among businesses for scale
+B. Facilitating the internet's interrelationships among businesses and individuals beyond space and time limits
+C. Enabling businesses to showcase their products online
+D. Providing a marketplace for buyers and sellers to transact
+ANSWER: B
+
+QUESTION 75
+Q: What is the role of a payment gateway in e-commerce?
+A. To manufacture and deliver products
+B. To securely authorize online payments
+C. To register domain names for websites
+D. To manage inventory in a warehouse
+ANSWER: B
+
+
+================================================================
+                       MEDIUM MODE (75 Questions)
+================================================================
+
+QUESTION 76
+Q: Which of the following correctly distinguishes e-commerce from e-business?
+A. E-commerce is broader than e-business
+B. E-business focuses only on buying and selling, while e-commerce is broader
+C. E-commerce is a particular form of e-business
+D. E-business and e-commerce are exactly the same thing
+ANSWER: C
+
+QUESTION 77
+Q: Which of the three primary processes enhanced in e-business involves procurement, ordering, and replenishment of stocks?
+A. Customer-focused processes
+B. Internal management processes
+C. Production processes
+D. Administrative processes
+ANSWER: C
+
+QUESTION 78
+Q: Which primary e-business process includes promotional and marketing efforts, selling over the internet, and customer support?
+A. Internal management processes
+B. Production processes
+C. Administrative processes
+D. Customer-focused processes
+ANSWER: D
+
+QUESTION 79
+Q: Which primary e-business process includes employee services, training, and video-conferencing?
+A. Customer-focused processes
+B. Internal management processes
+C. Production processes
+D. Administrative processes
+ANSWER: B
+
+QUESTION 80
+Q: Compared to e-commerce, e-business is considered more generic because it:
+A. Focuses only on buying and selling of products
+B. Refers only to digital marketing activities
+C. Also covers servicing customers and collaborating with partners, distributors and suppliers
+D. Applies only to large corporations
+ANSWER: C
+
+QUESTION 81
+Q: Which of the following is NOT a key element of an e-business solution?
+A. Customer Resource Management (CRM)
+B. Enterprise Resource Planning (ERP)
+C. Digital Advertising Network (DAN)
+D. Supply Chain Management (SCM)
+ANSWER: C
+
+QUESTION 82
+Q: In the C2B model, who creates value that businesses consume?
+A. Corporations
+B. Distributors
+C. Individuals (consumers)
+D. Government agencies
+ANSWER: C
+
+QUESTION 83
+Q: B2B e-commerce is considered the largest form of e-commerce and requires:
+A. Very little security
+B. High level of security in exchanging data
+C. Minimal internet connectivity
+D. Face-to-face negotiations
+ANSWER: B
+
+QUESTION 84
+Q: In a Business to Business (B2B) transaction, which parties are typically involved?
+A. Manufacturers, wholesalers, and retailers
+B. Individual customers and businesses
+C. Government and businesses
+D. Consumers and freelancers
+ANSWER: A
+
+QUESTION 85
+Q: What does the "Connection" component of the 5C model enable?
+A. Unlimited product reviews on any platform
+B. Incorporation of different software platforms of different collaborating businesses
+C. Real-time delivery tracking of ordered goods
+D. Sharing multimedia content across social platforms
+ANSWER: B
+
+QUESTION 86
+Q: The "Computation" component of the 5C model refers to:
+A. The calculation of taxes in e-commerce
+B. Large-scale sharing of resources facilitated by internet technology
+C. The automation of delivery vehicles
+D. The use of data analytics for marketing
+ANSWER: B
+
+QUESTION 87
+Q: Which feature of e-commerce allows integration of video, audio, and text in a business's online presence?
+A. Personalization
+B. Ubiquity
+C. Rich Content
+D. Universal Standard
+ANSWER: C
+
+QUESTION 88
+Q: Which of the following best describes the "ease of interaction" feature of e-commerce?
+A. Businesses can send automated emails to customers without their consent
+B. Clients interact with businesses from the comfort of their homes without visiting a store
+C. Products can be designed and customised by customers digitally
+D. Businesses can process millions of transactions simultaneously
+ANSWER: B
+
+QUESTION 89
+Q: Which industries are affected by m-commerce according to the lecture notes?
+A. Agriculture, manufacturing, retail, and energy
+B. Financial services, telecommunications, service/retail, and information services
+C. Education, healthcare, real estate, and entertainment
+D. Mining, construction, aviation, and banking
+ANSWER: B
+
+QUESTION 90
+Q: What distinguishes m-commerce from regular e-commerce?
+A. M-commerce requires a desktop computer
+B. M-commerce uses handheld wireless devices such as phones and PDAs
+C. M-commerce only works with a broadband connection
+D. M-commerce is limited to banking transactions
+ANSWER: B
+
+QUESTION 91
+Q: What does a "tracking pixel" do in e-commerce?
+A. It encrypts credit card information during transactions
+B. It displays product images dynamically on a webpage
+C. It tracks user activities through an invisible image loaded on a webpage or email
+D. It filters spam emails from customer inboxes
+ANSWER: C
+
+QUESTION 92
+Q: What is "browser fingerprinting" used for?
+A. Displaying browser compatibility warnings to users
+B. Creating a unique identification for a device that can be tracked across the web
+C. Encrypting user passwords stored in a browser
+D. Clearing cookies from a user's browser automatically
+ANSWER: B
+
+QUESTION 93
+Q: What are "web beacons" also known as?
+A. Flash cookies
+B. Dynamic cookies
+C. Ultrasound cross-device tracking (uXDT)
+D. Zombie cookies
+ANSWER: C
+
+QUESTION 94
+Q: Which of the following correctly describes "analytics cookies"?
+A. Cookies that allow the website to perform basic functions
+B. Third-party cookies that collect and analyse user data to provide insight about user behaviour
+C. Cookies used to target visitors for advertisement
+D. Cookies that store users' credit card details for faster checkout
+ANSWER: B
+
+QUESTION 95
+Q: Which of the following describes "marketing cookies"?
+A. Cookies that ensure websites perform normal functions
+B. Cookies that collect and analyse statistical data about users
+C. Cookies used to track user behaviour to determine what products they are likely to buy
+D. Cookies that encrypt browsing activity to protect user privacy
+ANSWER: C
+
+QUESTION 96
+Q: What is the purpose of a "Secure Server" in e-commerce?
+A. To speed up delivery of ordered goods
+B. To protect customer's personal information against loss, modification or malicious use
+C. To manage inventory in the merchant's warehouse
+D. To display product reviews and ratings
+ANSWER: B
+
+QUESTION 97
+Q: Which e-commerce security requirement ensures that only authenticated users with appropriate permissions can perform operations?
+A. Confidentiality
+B. Integrity
+C. Authorization
+D. Availability
+ANSWER: C
+
+QUESTION 98
+Q: Which security requirement ensures information is not altered by an unauthorized person during storage or transmission?
+A. Availability
+B. Confidentiality
+C. Non-Repudiation
+D. Integrity
+ANSWER: D
+
+QUESTION 99
+Q: What does "Non-Repudiation" mean in e-commerce security?
+A. Ensuring data is accessible to all users at all times
+B. Preventing the sender from denying they sent a message, and the recipient from denying receipt
+C. Ensuring only authorized users can access data
+D. Encrypting data transmitted between users and servers
+ANSWER: B
+
+QUESTION 100
+Q: Which security requirement ensures information is always accessible to authorized users whenever needed?
+A. Integrity
+B. Confidentiality
+C. Availability
+D. Non-Repudiation
+ANSWER: C
+
+QUESTION 101
+Q: What is the function of "Auditability" as an e-commerce security requirement?
+A. Ensuring data is encrypted by authorized users only
+B. Ensuring authenticated users have permission to perform specific operations
+C. Ensuring data is recorded in a manner that allows auditing for integrity
+D. Preventing unauthorized modification of stored data
+ANSWER: C
+
+QUESTION 102
+Q: What is a "Third Party Payment" gateway in e-commerce?
+A. A gateway where customers pay businesses directly via bank transfer
+B. A payment system where another body acts as an intermediary between merchants and consumers
+C. A payment gateway operated by a government institution
+D. A manual payment system for offline transactions
+ANSWER: B
+
+QUESTION 103
+Q: What is an Internet Merchant Account (IMA)?
+A. An account for international wire transfers only
+B. A bank account issued to enable merchants to accept credit card payments online
+C. A customer's personal savings account linked to an e-commerce platform
+D. An account provided by the government for online tax payments
+ANSWER: B
+
+QUESTION 104
+Q: What is Manual Payment Processing in e-commerce?
+A. Processing payments using automated bots online
+B. Customers manually delivering cash to the merchant's office
+C. A payment option where customers order online but credit cards are processed manually
+D. A payment method where only debit cards are accepted
+ANSWER: C
+
+QUESTION 105
+Q: Which of the following is one of the factors to consider when choosing a payment gateway?
+A. The colour scheme of the payment gateway's website
+B. The number of employees the service provider has
+C. Credibility of the service provider
+D. The location of the payment gateway's headquarters
+ANSWER: C
+
+QUESTION 106
+Q: What is the role of the "Administration" component in shopping cart software?
+A. It displays products to customers and processes their payments
+B. It is the part only accessible to the merchant for managing the web store
+C. It handles delivery and logistics for orders placed
+D. It sends promotional emails to registered customers
+ANSWER: B
+
+QUESTION 107
+Q: Which of the following is a function of a shopping cart?
+A. Registering new domain names for merchants
+B. Designing product images for merchants
+C. Protecting customer identity and financial information from theft
+D. Creating social media profiles for businesses
+ANSWER: C
+
+QUESTION 108
+Q: According to a 2009 Nielsen Company study, what percentage of respondents found consumer opinions posted online to be reliable?
+A. 50%
+B. 60%
+C. 80%
+D. 70%
+ANSWER: D
+
+QUESTION 109
+Q: What is "shopping cart abandonment"?
+A. When customers return goods after delivery
+B. When merchants delete products from their online store
+C. When customers select items in a cart but fail to complete the purchase
+D. When a shopping cart software crashes permanently
+ANSWER: C
+
+QUESTION 110
+Q: Which of the following is NOT a reason for shopping cart abandonment?
+A. The checkout process taking too long
+B. Bad return policies
+C. Products being too expensive
+D. Website crashing during checkout
+ANSWER: C
+
+QUESTION 111
+Q: What is the SLD (Second Level Domain) in the URL "google.com"?
+A. .com
+B. www
+C. google
+D. http
+ANSWER: C
+
+QUESTION 112
+Q: What does the domain registrar do after a successful domain name registration?
+A. Designs the website for the business owner
+B. Provides price and duration options and a registration contract agreement
+C. Hosts the website automatically for free
+D. Assigns a permanent IP address to the business
+ANSWER: B
+
+QUESTION 113
+Q: What is the purpose of Search Engine Optimization (SEO) in e-commerce?
+A. To process customer payments securely
+B. To host a website on a reliable server
+C. To improve a website's visibility and ranking in search engine results
+D. To design visually appealing product catalogue pages
+ANSWER: C
+
+QUESTION 114
+Q: How does a search engine work according to the lecture notes?
+A. Downloading, distributing, and displaying
+B. Crawling, indexing, and ranking
+C. Filtering, sorting, and listing
+D. Searching, cataloguing, and delivering
+ANSWER: B
+
+QUESTION 115
+Q: Which methodology phase involves identifying the aims and objectives of the business and gathering essential information?
+A. Design
+B. Testing
+C. Analysis/Planning
+D. Implementation
+ANSWER: C
+
+QUESTION 116
+Q: Which methodology phase handles the type of database management system, security mechanisms, and the website's logo and colours?
+A. Analysis/Planning
+B. Design
+C. Building the Website
+D. Testing
+ANSWER: B
+
+QUESTION 117
+Q: What programming knowledge is most needed during the "Building the Website" phase?
+A. Python and Java
+B. SQL and PHP
+C. HTML and CSS
+D. JavaScript and Ruby
+ANSWER: C
+
+QUESTION 118
+Q: Which phase of website methodology involves uploading files to the server and performing SEO?
+A. Design
+B. Analysis/Planning
+C. Building the Website
+D. Testing the System
+ANSWER: D
+
+QUESTION 119
+Q: What is "cross-selling" in e-commerce catalogue development?
+A. Selling goods across international borders
+B. Identifying popular, related, and previously purchased products to suggest to customers
+C. Offering discounts on bulk purchases
+D. Allowing customers to exchange one product for another
+ANSWER: B
+
+QUESTION 120
+Q: What is the key advantage of using professional product photographs in an e-commerce catalogue?
+A. It reduces the need for product descriptions
+B. It eliminates the need for a shopping cart
+C. It generates relevant search engine traffic and aids customer understanding
+D. It allows businesses to charge higher prices for products
+ANSWER: C
+
+QUESTION 121
+Q: What is the correct order of the online purchasing process flowchart as stated in the notes?
+A. Checkout > Shipping > Billing > Payment > Confirmation
+B. Shopping Cart > Checkout > Billing > Shipping Information > Shipping Method > Preview Order > Payment > Confirmation
+C. Payment > Checkout > Billing > Shopping Cart > Confirmation
+D. Preview Order > Shopping Cart > Billing > Checkout > Payment > Confirmation
+ANSWER: B
+
+QUESTION 122
+Q: What are the two phases involved in payment processing with credit or debit cards?
+A. Verification and Delivery
+B. Authentication and Transfer
+C. Authorization and Settlement
+D. Validation and Confirmation
+ANSWER: C
+
+QUESTION 123
+Q: What does "Authorization" mean in payment processing?
+A. Transferring funds from the shopper's account to the merchant
+B. Determining the validity of the buyer's card and checking for sufficient funds
+C. Encrypting the customer's card details during the transaction
+D. Confirming that the goods have been delivered to the customer
+ANSWER: B
+
+QUESTION 124
+Q: What does "Settlement" mean in payment processing?
+A. Determining the validity of a buyer's card
+B. Issuing a refund to a dissatisfied customer
+C. Transferring funds from the shopper's account to the merchant's account
+D. Confirming the delivery address of an order
+ANSWER: C
+
+QUESTION 125
+Q: What is a dynamic pricing model in e-commerce?
+A. Where product prices are fixed and clearly displayed to customers
+B. Where prices are not fixed but determined by factors like auctions or market conditions
+C. Where customers negotiate prices directly with the seller in real time
+D. Where discounts are automatically applied to returning customers
+ANSWER: B
+
+QUESTION 126
+Q: What is a "fixed pricing method" in online purchasing?
+A. Prices that change depending on customer profiles
+B. Prices that are displayed alongside products and remain constant
+C. Prices determined through auctioning
+D. Prices negotiated between buyers and sellers before purchase
+ANSWER: B
+
+QUESTION 127
+Q: What is the purpose of "customer tracking" in e-commerce?
+A. To monitor employees' performance in an online store
+B. To manage the delivery of ordered goods from warehouses
+C. To collect and organise customer information for sales and marketing purposes
+D. To track the movement of goods through a supply chain
+ANSWER: C
+
+QUESTION 128
+Q: What is a "first-party cookie" in e-commerce tracking?
+A. A cookie placed by someone other than the website being visited
+B. A cookie placed by the website that a user is currently visiting
+C. A cookie installed by government regulators on commercial websites
+D. A cookie that only works on mobile devices
+ANSWER: B
+
+QUESTION 129
+Q: What does the GDPR require regarding tracking pixels?
+A. All websites must disable tracking pixels permanently
+B. Tracking pixels must be limited to government websites only
+C. User consent must be obtained before activation of tracking pixels on a webpage
+D. Tracking pixels must be made visible to users on all webpages
+ANSWER: C
+
+QUESTION 130
+Q: What is the role of a "payment card" in e-commerce?
+A. A physical card used only for in-store purchases
+B. An electronic card containing data related to payment
+C. A government-issued identification used for online shopping
+D. A loyalty card that offers discounts on repeat purchases
+ANSWER: B
+
+QUESTION 131
+Q: Which of the following is a concern related to "confidentiality" issues in shopping carts?
+A. Customers being unable to find products using the search engine
+B. Shopping cart software crashing during checkout
+C. Websites tracking consumer shopping habits and using their information for unsolicited advertising
+D. Merchants receiving fake product reviews from competitors
+ANSWER: C
+
+QUESTION 132
+Q: What is "identity maintenance" as a role of customer service in e-commerce?
+A. Verifying the identity of customers before they make a purchase
+B. Maintaining the company's originality and true image to build buyer trust
+C. Ensuring customers use real names when registering on the platform
+D. Preventing unauthorized persons from accessing customer profiles
+ANSWER: B
+
+QUESTION 133
+Q: What is "relationship maintenance" in e-commerce customer service?
+A. Updating the website's terms and conditions regularly
+B. Keeping products in stock to ensure timely delivery
+C. Building a good professional relationship and trust in the brand with customers
+D. Sending automated email receipts after every purchase
+ANSWER: C
+
+QUESTION 134
+Q: What are the two main components of a shopping cart software?
+A. Server and Database
+B. Catalogue and Checkout
+C. Storefront and Administration
+D. Domain and Hosting
+ANSWER: C
+
+QUESTION 135
+Q: What type of e-commerce enables consumers to buy and sell used goods like furniture or mobile phones among themselves?
+A. B2B
+B. B2C
+C. C2B
+D. C2C
+ANSWER: D
+
+QUESTION 136
+Q: What is the primary purpose of an e-catalog in an e-commerce webstore?
+A. To process and manage customer payments online
+B. To present all required product information to customers
+C. To track delivery timelines for placed orders
+D. To manage employee roles and responsibilities in an online store
+ANSWER: B
+
+QUESTION 137
+Q: What is the role of "cookies" in the functioning of a shopping cart?
+A. They encrypt payment data sent between the shopper and the merchant
+B. They enable the shopping cart to track selected items by storing data on the user's computer
+C. They prevent unauthorized access to the merchant's administration panel
+D. They automatically apply promotional discounts to selected products
+ANSWER: B
+
+QUESTION 138
+Q: What is the significance of the padlock icon or "https" in a browser address bar?
+A. It indicates the website is a government-approved site
+B. It shows the website offers free delivery on all orders
+C. It shows the website has a secure connection protecting user information
+D. It confirms the business has a physical store location
+ANSWER: C
+
+QUESTION 139
+Q: What is a "security audit" in e-commerce?
+A. A financial audit of all payments processed by an online store
+B. A review of policies, security access, and procedures to uncover vulnerabilities in security architecture
+C. A customer satisfaction survey about the store's security features
+D. An automated scan of all products listed on an e-commerce website
+ANSWER: B
+
+QUESTION 140
+Q: What is a "security policy" in the context of e-commerce?
+A. A list of products that are restricted from being sold online
+B. A statement specifying stakeholders' responsibilities and acceptable behaviour regarding security
+C. A contract between a business and its customers regarding refund policies
+D. A government regulation that controls how businesses operate online
+ANSWER: B
+
+QUESTION 141
+Q: Which of the following is a benefit of e-commerce to sellers?
+A. Mandatory investment in physical store infrastructure
+B. Reduced transaction costs as they don't need to pay rent for a physical store
+C. Limited reach to local markets only
+D. Increased face-to-face interaction with customers
+ANSWER: B
+
+QUESTION 142
+Q: What does "Business to Administration" e-commerce typically involve?
+A. Businesses buying products from government agencies
+B. Legal documents, social security, fiscal measures, and government-level advertising
+C. Consumers filing tax returns online
+D. Government officials purchasing goods from local businesses
+ANSWER: B
+
+QUESTION 143
+Q: What is the effect of e-commerce in leveling the playing field between businesses?
+A. It forces small businesses to merge with larger ones
+B. It enables small and medium enterprises to compete with large capital-rich businesses
+C. It restricts large businesses from entering the online market
+D. It requires all businesses to use the same platform for selling
+ANSWER: B
+
+QUESTION 144
+Q: What is the purpose of a "communication strategy" for an e-commerce website?
+A. Managing the technical infrastructure of the website
+B. Overseeing security protocols for online transactions
+C. Using marketing, advertising, and search engines to drive traffic and customer attention to products
+D. Designing the layout and colour scheme of the website
+ANSWER: C
+
+QUESTION 145
+Q: In e-commerce catalogue development, why is it important to create original content?
+A. It increases the delivery speed of ordered goods
+B. It improves SEO and avoids placing the site in supplemental search results
+C. It reduces the cost of hosting the website
+D. It automates the order processing system
+ANSWER: B
+
+QUESTION 146
+Q: What is the "storefront" in a shopping cart system?
+A. The physical office of the e-commerce business
+B. The part of the web store only accessible to the merchant
+C. The part of the web store that customers can access, including product and checkout pages
+D. The software used by the merchant to manage inventory
+ANSWER: C
+
+QUESTION 147
+Q: What is the purpose of a "security risk assessment" in e-commerce?
+A. To identify the cost of setting up an e-commerce website
+B. To identify the level of security required for each of the firm's assets
+C. To evaluate the profitability of the online store
+D. To assess the quality of the products sold on the platform
+ANSWER: B
+
+QUESTION 148
+Q: What does the "Authenticity" security requirement ensure in e-commerce?
+A. Information is accessible to all users at any time
+B. Data is encrypted and can only be read by authorized users
+C. A mechanism is in place to authenticate users before granting access to information
+D. Transactions are recorded for audit purposes
+ANSWER: C
+
+QUESTION 149
+Q: What does "Encryption" as an e-commerce security requirement ensure?
+A. Information is available to the authorized users at all times
+B. Users are authenticated before gaining access to information
+C. Information is encrypted and can only be decrypted by an authorized user
+D. Data is recorded in a manner that makes auditing possible
+ANSWER: C
+
+QUESTION 150
+Q: What is the function of TCP/IP in internet connectivity?
+A. To design web pages and manage website content
+B. To allow users to link various branches of networks to ARPANET
+C. To encrypt financial transactions between merchants and customers
+D. To manage domain name registration globally
+ANSWER: B
+
+
+================================================================
+                        HARD MODE (75 Questions)
+================================================================
+
+QUESTION 151
+Q: According to the lecture notes, which organization created ARPANET and in what year?
+A. IBM Corporation in 1975
+B. Pentagon's Advanced Research Projects Agency in 1969
+C. Tim Berners-Lee's team in 1990
+D. Microsoft Corporation in 1985
+ANSWER: B
+
+QUESTION 152
+Q: What was the original purpose of ARPANET when it was created?
+A. To provide a commercial communication platform for businesses
+B. To provide secure and survivable communication for defense-related research organizations in the US
+C. To enable academic institutions to share research papers globally
+D. To develop the first internet search engine
+ANSWER: B
+
+QUESTION 153
+Q: What prompted the creation of ARPANET according to the lecture notes?
+A. The need for a faster commercial communication network
+B. The fear that an attack could destroy all information stored in a single computer
+C. The desire to create a global internet for public use
+D. A government mandate to digitise all communication channels
+ANSWER: B
+
+QUESTION 154
+Q: In the context of website development, what does the Top Level Domain (TLD) refer to?
+A. The main brand name portion of a domain (e.g., "google" in google.com)
+B. The protocol prefix of a URL (e.g., "http")
+C. The last part of the domain name written after the dot (e.g., ".com")
+D. The full URL including all subdirectories
+ANSWER: C
+
+QUESTION 155
+Q: Which of the following correctly lists examples of generic Top-Level Domains (gTLDs)?
+A. .ng, .jp, .my
+B. .gov, .edu, .mil
+C. .com, .org, .net
+D. .uk, .us, .ca
+ANSWER: C
+
+QUESTION 156
+Q: What is the SLD in domain name registration, and which part does it represent in "google.com"?
+A. The protocol prefix; "http" in google.com
+B. The country code; ".com" in google.com
+C. The second to last part before the TLD; "google" in google.com
+D. The full URL path after the domain name
+ANSWER: C
+
+QUESTION 157
+Q: During SLD registration, what important step must be performed to ensure uniqueness?
+A. A security audit of the website's hosting server
+B. A trademark search to ensure the name is not already registered by another entity
+C. A domain name encryption to prevent cybersquatting
+D. A government approval process for commercial domain names
+ANSWER: B
+
+QUESTION 158
+Q: In the context of the e-business model, what does a "shared digital business infrastructure" include?
+A. Shared office spaces and physical distribution centres
+B. Broadband/wireless networks, content creation technologies, and information management systems
+C. Government policies regulating digital commerce activities
+D. Shared employee contracts and human resource management systems
+ANSWER: B
+
+QUESTION 159
+Q: What are the three ways a search engine works as described in the lecture notes?
+A. Filtering, sorting, and displaying
+B. Crawling, indexing, and ranking
+C. Downloading, storing, and retrieving
+D. Scanning, listing, and delivering
+ANSWER: B
+
+QUESTION 160
+Q: What is the role of "crawlers" (also called spiders) in a search engine?
+A. To display ranked search results on a user's screen
+B. To scour the internet to pull out code or content that matches the URL or search terms used
+C. To encrypt website content for secure access
+D. To block websites from appearing in search results if they violate policies
+ANSWER: B
+
+QUESTION 161
+Q: What does "indexing" do in a search engine, according to the lecture notes?
+A. It displays relevant search results to the user in order of importance
+B. It enables the downloading and storing of all discovered data into the search engine's database for easy retrieval
+C. It filters out irrelevant or harmful websites from search results
+D. It creates a unique identifier for each user visiting a website
+ANSWER: B
+
+QUESTION 162
+Q: According to the lecture notes, what are the five main phases of the e-commerce website methodology?
+A. Research, Planning, Development, Launch, Marketing
+B. Analysis/Planning, Design, Building, Testing, Implementation and Maintenance
+C. Conceptualisation, Design, Coding, Testing, Deployment
+D. Requirements, Prototype, Development, Quality Assurance, Release
+ANSWER: B
+
+QUESTION 163
+Q: What specific activities take place during the "Testing the System" phase of website development?
+A. Designing the logo and colour scheme of the website
+B. Writing all HTML and CSS code for the website
+C. Checking that HTML and CSS meet the latest web development standards, uploading files to the server, and performing SEO
+D. Conducting market research to identify the target audience
+ANSWER: C
+
+QUESTION 164
+Q: What does the lecture describe as the "backbone" of most e-commerce webstores?
+A. The payment gateway
+B. The secure server
+C. The shopping cart
+D. The e-catalog
+ANSWER: D
+
+QUESTION 165
+Q: What information is typically included in an e-catalog's product database?
+A. Merchant's bank account details and tax identification numbers
+B. Price, product identification number, image/video, and product alternatives
+C. Customer names, addresses, and purchase history
+D. Website hosting details and domain registration records
+ANSWER: B
+
+QUESTION 166
+Q: What does a "shopping list" provide within the shopping cart system?
+A. A static display of all products available on the e-commerce store
+B. Dynamic behaviour to the shopping cart by allowing users to track their selected items
+C. A history of all completed purchases by the customer
+D. A comparison of prices across different e-commerce platforms
+ANSWER: B
+
+QUESTION 167
+Q: What is the key limitation of an open source shopping cart compared to hosted shopping carts?
+A. It is more expensive because it requires a monthly subscription fee
+B. It limits the number of products a merchant can list on their store
+C. It requires developer skills and the setup and maintenance process is not straightforward
+D. It cannot integrate with any third-party payment gateways
+ANSWER: C
+
+QUESTION 168
+Q: What is the main characteristic of a "Licensed shopping cart"?
+A. It is freely available and requires no licensing fee
+B. It is managed entirely by the company that developed it
+C. It is owned by the business owner and acquired to host on their own server
+D. It provides free web hosting along with the shopping cart software
+ANSWER: C
+
+QUESTION 169
+Q: According to the notes, what are examples of licensed shopping carts?
+A. Shopify and BigCommerce
+B. PayPal and Venmo
+C. OpenCart, Magento, and WooCommerce
+D. Amazon Pay and Apple Pay
+ANSWER: C
+
+QUESTION 170
+Q: What makes a hosted shopping cart different from open source and licensed shopping carts?
+A. It requires the merchant to download and install software on their local computer
+B. It consists of both shopping cart software and web hosting, and merchants manage their store through a web-based interface without downloading software
+C. It requires a one-time investment for lifetime usage
+D. It is operated and maintained entirely by the merchant's internal IT team
+ANSWER: B
+
+QUESTION 171
+Q: What does the lecture note describe as the most common type of third-party payment?
+A. Venmo
+B. Apple Pay
+C. PayPal
+D. Amazon Pay
+ANSWER: C
+
+QUESTION 172
+Q: In the third-party payment model, what happens if there is a dispute over a transaction?
+A. The service provider automatically refunds the customer
+B. The merchant is immediately penalized and banned from the platform
+C. The funds may be withheld for a longer period pending resolution of the dispute
+D. The transaction is reversed and the goods are returned to the merchant
+ANSWER: C
+
+QUESTION 173
+Q: What does an Internet Merchant Account (IMA) require merchants to obtain?
+A. A single IMA that covers all types of payment cards
+B. A separate IMA for each type of payment card they intend to accept (e.g., Verve, VISA, Mastercard)
+C. A government-issued license for each country they sell in
+D. A unique IMA for each product category in their online store
+ANSWER: B
+
+QUESTION 174
+Q: What does the lecture note identify as common security threats to e-commerce?
+A. Power outages, slow internet, and outdated product catalogues
+B. Fraudulent credit card use, identity theft, phishing, spam, computer viruses, and ransomware
+C. Poor website design, incorrect pricing, and shipping delays
+D. Employee theft, inventory mismanagement, and regulatory non-compliance
+ANSWER: B
+
+QUESTION 175
+Q: Which of the following most accurately describes the role of SSL in an e-commerce transaction?
+A. SSL manages inventory and product databases for online stores
+B. SSL encrypts all data between the shopper's browser and the shop's server, making it difficult for third parties to decode the information
+C. SSL verifies that the customer's delivery address is valid before processing payment
+D. SSL processes payment card transactions on behalf of merchants
+ANSWER: B
+
+QUESTION 176
+Q: How does HTTPS differ from HTTP in terms of e-commerce security?
+A. HTTPS is faster than HTTP for loading web pages
+B. HTTPS only works on mobile browsers, while HTTP works on all devices
+C. HTTPS is enhanced with SSL, making it difficult for unauthorized persons to access transactions between customers and webstore servers
+D. HTTPS restricts access to e-commerce websites to verified users only
+ANSWER: C
+
+QUESTION 177
+Q: What is the significance of "Confidentiality" as an e-commerce security requirement?
+A. It ensures that information is accessible to all users whenever needed
+B. It ensures information is not accessible to unauthorized individuals during storage, processing, and transmission
+C. It prevents unauthorized users from modifying stored data
+D. It ensures that all users are authenticated before accessing information
+ANSWER: B
+
+QUESTION 178
+Q: What is the difference between "Authorization" and "Authenticity" as e-commerce security requirements?
+A. Authenticity verifies user identity; Authorization ensures the authenticated user has permission to perform specific operations
+B. Authorization verifies user identity; Authenticity ensures the authenticated user has permission to perform specific operations
+C. Both Authenticity and Authorization perform the same function
+D. Authorization is only relevant for payment processing, while Authenticity applies to all data
+ANSWER: A
+
+QUESTION 179
+Q: Which of the following best describes the technical challenge of "heterogeneous ICT systems" in e-commerce?
+A. The difficulty in designing websites that are compatible with all screen sizes
+B. The challenge of ensuring ICT systems of different organizations can work together effectively
+C. The problem of processing multiple currencies in international transactions
+D. The challenge of maintaining customer data across multiple platforms
+ANSWER: B
+
+QUESTION 180
+Q: According to the lecture, what economic challenge relates to measuring the success of e-commerce activities?
+A. How to determine which products are most popular with customers
+B. How to measure success of e-commerce activities and whether costs will be compensated through revenues
+C. How to reduce shipping costs to international customers
+D. How to attract more investors to fund e-commerce ventures
+ANSWER: B
+
+QUESTION 181
+Q: What does the lecture note identify as the key principle of e-commerce referred to as "strategic positioning"?
+A. The physical location of a business's headquarters
+B. A company's ability to determine emerging opportunities and utilise human capital to make the most of them through an e-business strategy
+C. The strategic placement of advertising banners on high-traffic websites
+D. Positioning a brand's products at the top of search engine results
+ANSWER: B
+
+QUESTION 182
+Q: According to the lecture, what does the integration of ICT in business specifically enhance?
+A. Physical distribution networks and logistics operations
+B. Productivity, greater customer participation, mass customization, and cost reduction
+C. Government regulation compliance and legal documentation
+D. Manual labour efficiency and factory output
+ANSWER: B
+
+QUESTION 183
+Q: What is the key difference between "white labelling" and "private labelling" in e-commerce?
+A. White labelling involves selling original products, while private labelling involves generic products
+B. White labelling involves applying a brand to a generic product bought from a distributor, while private labelling involves a deal with a manufacturer for an exclusively produced product
+C. Private labelling is cheaper than white labelling
+D. White labelling gives exclusive rights to a single seller, while private labelling allows multiple sellers
+ANSWER: B
+
+QUESTION 184
+Q: In the context of e-commerce types, what is "wholesaling" as described in the lecture notes?
+A. A retailer buying goods from a manufacturer and selling them exclusively online
+B. A retailer carrying out business processes like a wholesaler by offering discounts for bulk purchases
+C. A distributor selling goods directly to consumers without a retailer
+D. A business that sells goods in large quantities to governments only
+ANSWER: B
+
+QUESTION 185
+Q: What is the "Communication" component of the 5C model specifically referring to?
+A. Internet technology that enables businesses to deliver customized messages to individual customers
+B. Internet technology and the WWW providing an interactive medium for self-expression and self-presentation
+C. The capability of the internet to connect businesses to government agencies
+D. The ability of e-commerce platforms to handle customer complaints online
+ANSWER: B
+
+QUESTION 186
+Q: According to the lecture, what happens to the distinction between traditional markets and the global electronic marketplace as internet technologies develop?
+A. Traditional markets grow larger and more dominant
+B. The distinctions are gradually being narrowed down
+C. Electronic markets become completely separate from traditional markets
+D. Traditional markets adopt stricter regulations to compete
+ANSWER: B
+
+QUESTION 187
+Q: What is the definition of e-commerce as provided by Lallana, Quimbo, and Andam (2000) in the lecture notes?
+A. The buying and selling of goods using handheld wireless devices
+B. The use of electronic communications and digital information processing in business transactions to create, transform, and redefine relationships for value creation
+C. The exchange of products and services between manufacturers and retailers through digital platforms
+D. The use of social media to promote and sell products to consumers worldwide
+ANSWER: B
+
+QUESTION 188
+Q: According to the lecture, what are the relevant components of an e-business model?
+A. Product development, marketing, logistics, and customer service
+B. Shared digital infrastructure, sophisticated operations model, e-business management model, and policy/regulatory/social systems
+C. CRM, ERP, SCM, Knowledge Management, and e-Markets
+D. Domain registration, web hosting, content creation, and payment processing
+ANSWER: B
+
+QUESTION 189
+Q: What does the lecture note state about the importance of content originality in e-commerce catalogue development?
+A. Original content reduces website hosting costs significantly
+B. Original content improves SEO and avoids the site appearing in supplemental search results
+C. Original content is only important for large e-commerce platforms like Amazon
+D. Original content is required by law for all registered businesses
+ANSWER: B
+
+QUESTION 190
+Q: According to the lecture, what should be done during catalogue development to aid customer decision-making regarding a product like a lady's shoe on Jumia?
+A. Only the price and availability should be displayed
+B. The maker, sizes, colours, type of heels, material, and other relevant purchase decision details should be highlighted
+C. A video review by a celebrity should be included for each product
+D. Only a single high-resolution photograph of the product is sufficient
+ANSWER: B
+
+QUESTION 191
+Q: What does the lecture note state about the consumer in a C2C model regarding transaction rules?
+A. The platform sets all rules, and consumers must comply
+B. The government regulates all pricing and transaction conditions in C2C commerce
+C. The consumer that's selling sets their own prices and rules, while the buying party checks if the terms are favorable
+D. A middleman negotiates terms between the buying and selling consumer
+ANSWER: C
+
+QUESTION 192
+Q: According to the lecture, what is the relationship between internet technology and e-commerce's "Business Digitalization" feature?
+A. Business digitalization involves using physical stores alongside internet platforms for sales
+B. Business digitalization comprehensively uses internet and ICT tools to link information and connect all stakeholders seamlessly
+C. Business digitalization focuses on replacing all employees with automated systems
+D. Business digitalization requires businesses to acquire government digital certification
+ANSWER: B
+
+QUESTION 193
+Q: What does the lecture note identify as a key advantage of e-commerce relating to pricing for sellers?
+A. Sellers can charge significantly higher prices than physical stores because of convenience
+B. Sellers can lower transaction costs by eliminating rent for a physical store, enabling them to maximise profit
+C. Sellers receive government subsidies for transitioning to e-commerce
+D. Sellers benefit from guaranteed minimum sales volumes on e-commerce platforms
+ANSWER: B
+
+QUESTION 194
+Q: What does the lecture describe as the role of "web beacons" in bridging the physical and digital world?
+A. They display product images dynamically on an e-commerce website
+B. They emit high-pitch inaudible sounds from devices accessing a webpage, allowing nearby devices to react and provide insights for product suggestions
+C. They track physical delivery vehicles to provide real-time location updates
+D. They send push notifications to customers who have previously visited a website
+ANSWER: B
+
+QUESTION 195
+Q: What does the lecture state about the importance of customer service in managing an e-commerce website?
+A. Customer service is only important after a sale has been completed
+B. Customer service will bring about customer satisfaction and automatically boost business sales and improve turnover
+C. Customer service is less important than product variety in driving e-commerce success
+D. Customer service can be replaced entirely by automated chatbots without any impact on sales
+ANSWER: B
+
+QUESTION 196
+Q: In the context of online purchasing, what is the primary purpose of a web store?
+A. To display government regulatory guidelines for e-commerce businesses
+B. To serve as a platform where goods and services are provided for sale to targeted customers
+C. To manage logistics and supply chain operations for businesses
+D. To process employee payroll for e-commerce companies
+ANSWER: B
+
+QUESTION 197
+Q: What does the lecture identify as the most common and most accepted means of payment for e-commerce transactions, which also poses a significant security risk?
+A. Cash on delivery
+B. Bank transfer
+C. Credit card
+D. E-check
+ANSWER: C
+
+QUESTION 198
+Q: What does the lecture note say about the evolution of e-catalogs from early to recent versions?
+A. Early e-catalogs were dynamic, while recent ones have become static
+B. Early e-catalogs were static text-based presentations from paper catalogs; recent catalogs are dynamic, customizable, and possibly integrated with shopping carts and payment systems
+C. Early e-catalogs required no internet access, while recent ones are fully cloud-based
+D. Early e-catalogs were only accessible to registered users, while recent ones are open to all visitors
+ANSWER: B
+
+QUESTION 199
+Q: What does the lecture note state about manual credit card processing in terms of its limitation?
+A. It requires the merchant to have an account with every card provider
+B. It is limited to stores with a few numbers of online orders
+C. It cannot process Visa or Mastercard transactions
+D. It only works for domestic transactions within a single country
+ANSWER: B
+
+QUESTION 200
+Q: According to the lecture, what is the concern parties involved in online payment processing?
+A. Customer, merchant, delivery company, and government
+B. Customer, merchant, issuing bank, merchant acquiring bank, credit/debit card network, and payment service provider
+C. Customer, merchant, third-party auditor, and central bank
+D. Customer, merchant, insurance company, and customs officer
+ANSWER: B
+
+QUESTION 201
+Q: What does the lecture note say about the role of "automation of business processes" as a feature of e-commerce?
+A. It increases the cost of managing an e-commerce business
+B. It increases delivery speed
+C. It eliminates the need for any human involvement in the business
+D. It only applies to payment processing in e-commerce
+ANSWER: B
+
+QUESTION 202
+Q: According to the lecture, what happens to a merchant in a third-party payment system to receive their funds?
+A. Funds are transferred automatically without any action from the merchant
+B. The merchant must make a request to the service provider, who then verifies the transaction before releasing the funds
+C. The merchant receives funds directly from the customer's bank account
+D. The merchant must submit a government-approved invoice before receiving payment
+ANSWER: B
+
+QUESTION 203
+Q: What does the lecture note say about website style in creating and maintaining a successful web presence?
+A. The website should prioritize content quantity over visual design
+B. The website should have a good interface, responsive design, and use graphic tools like Adobe Fireworks or Photoshop for easy navigation
+C. The website should be minimalist with no images or multimedia
+D. The website style should follow government-prescribed templates for e-commerce businesses
+ANSWER: B
+
+QUESTION 204
+Q: What is the primary security concern highlighted in the lecture regarding shopping carts?
+A. Shopping carts are too slow for processing large numbers of transactions
+B. Shopping carts consume too much server bandwidth, slowing down websites
+C. Due to physical inability to inspect goods, there is risk of substandard goods; phishing creates false websites to steal sensitive information; and stolen cards lead to repudiation issues
+D. Shopping carts require excessive maintenance and are prone to software obsolescence
+ANSWER: C
+
+QUESTION 205
+Q: What does the lecture note state about the two main phases of e-payment card processing?
+A. Validation and Confirmation
+B. Authorization (validity and funds check) and Settlement (funds transfer from shopper to merchant)
+C. Verification and Delivery
+D. Authentication and Reconciliation
+ANSWER: B
+
+QUESTION 206
+Q: According to the lecture, what is the process flow described for "Lolu's Cuisine" as an example of order processing?
+A. Order > Payment > Preparation > Delivery
+B. Check menu > State order, quantity, and delivery location > Check delivery timeframes > Finalize and pay > Rider calls and delivers
+C. Browse catalogue > Add to cart > Checkout > Confirmation > Delivery
+D. Register > Login > Order > Pay > Track > Receive
+ANSWER: B
+
+QUESTION 207
+Q: What does the lecture note state about the main purpose of an EC website?
+A. To host a company's human resources and payroll management system
+B. To present products and services from catalogs to customers and facilitate online purchase
+C. To process business-to-government tax submissions
+D. To manage the company's supply chain and inventory system
+ANSWER: B
+
+QUESTION 208
+Q: What additional cost concern related to shopping carts is highlighted by the lecture, particularly for international purchases?
+A. Currency conversion fees charged by the customer's bank
+B. Brokerage and duties fees that are not included until the delivery point
+C. Government import taxes that are added before checkout
+D. Merchant platform subscription fees charged to the customer
+ANSWER: B
+
+QUESTION 209
+Q: What does the lecture note state about the role of social media in e-commerce?
+A. Social media is only useful for large businesses with dedicated marketing teams
+B. Social media is listed as one of the incorporated facilities to support e-commerce and e-business
+C. Social media replaces the need for a dedicated e-commerce website
+D. Social media is a government-regulated tool used only for B2G commerce
+ANSWER: B
+
+QUESTION 210
+Q: What does the lecture note state about the importance of branding in creating a successful web presence?
+A. Branding is only relevant for physical products and not applicable to online stores
+B. The web presence is a true reflection of the website; branding includes the overall packaging from product quality to customer service, including consistent logos and printed materials
+C. Branding should focus only on social media promotion rather than website design
+D. Branding is a one-time activity that does not require continuous attention
+ANSWER: B
+
+QUESTION 211
+Q: According to the lecture, what role does "rich content" play as a feature of e-commerce?
+A. It allows businesses to store customer data more efficiently
+B. It allows integration of various forms of content such as video, audio, or a combination of these
+C. It ensures all e-commerce websites have the same content standards globally
+D. It enables businesses to produce physical catalogues for distribution to customers
+ANSWER: B
+
+QUESTION 212
+Q: What does the lecture state about the role of advertisers and content providers in B2C e-commerce?
+A. They exclusively manage the product catalogue and pricing strategy of the business
+B. They assist in marketing to ensure businesses reach intended audiences using digital news, photos, music, videos, and artworks
+C. They regulate the terms and conditions of all B2C transactions
+D. They provide the software infrastructure for B2C e-commerce platforms
+ANSWER: B
+
+QUESTION 213
+Q: What does the lecture note say about the "Wider Range of Audience" feature of e-commerce?
+A. E-commerce limits businesses to serving only customers within their country
+B. With the internet as the backbone of e-commerce, transactions can occur across national boundaries in a more convenient and cost-effective form
+C. E-commerce requires businesses to have physical offices in every country they serve
+D. The wider range of audience feature only applies to B2B e-commerce
+ANSWER: B
+
+QUESTION 214
+Q: What economic challenge regarding employees is mentioned in relation to e-commerce development?
+A. Whether e-commerce will reduce the number of employees needed by businesses
+B. How to redesign business processes in terms of employee change
+C. Whether e-commerce platforms should employ dedicated delivery staff
+D. How to train employees to use advanced programming languages for e-commerce
+ANSWER: B
+
+QUESTION 215
+Q: What does the lecture note state about the concern of "trust" as a disadvantage of e-commerce?
+A. Trust is easily established through government certification of e-commerce platforms
+B. People have trust issues with entrusting money or details via the internet, as e-commerce usually has no physical store, making tracing difficult or impossible
+C. Trust is only a concern for consumers in developing countries
+D. Trust issues are eliminated once a business obtains an SSL certificate
+ANSWER: B
+
+QUESTION 216
+Q: What is the definition of an "online shop" as given in the lecture notes?
+A. A government-registered digital marketplace accessible only to verified buyers
+B. A website through which customers place orders and make payments through channels approved by the shop
+C. A mobile application used exclusively for buying and selling second-hand goods
+D. A subscription-based service that delivers curated products to customers monthly
+ANSWER: B
+
+QUESTION 217
+Q: According to the lecture, what is a key advantage of online shops relating to product reviews?
+A. Reviews are written exclusively by employees to ensure quality control
+B. Candid reviews and opinions from consumers worldwide are available, helping improve business processes
+C. All reviews are verified by third-party auditors before being published
+D. Product reviews are only displayed to premium subscribers of the online platform
+ANSWER: B
+
+QUESTION 218
+Q: What does the lecture describe as a key advantage of online shops for merchants relating to security?
+A. Merchants can track every customer's physical location during delivery
+B. Merchants face a lower risk of robbery as they operate with warehouses instead of regular shelves and counters
+C. Merchants receive government insurance against online fraud automatically
+D. Merchants can view all customer banking details for secure transaction processing
+ANSWER: B
+
+QUESTION 219
+Q: What does the lecture note state about the "process flow" in order processing and why it is important?
+A. It is used to create product catalogues for marketing purposes
+B. It keeps costs low, reduces stress, and ensures smooth running of e-commerce operations by having necessary information already set out
+C. It is a mandatory government requirement for all registered e-commerce businesses
+D. It is used to track the physical movement of goods in a supply chain
+ANSWER: B
+
+QUESTION 220
+Q: What is the purpose of setting website goals according to the lecture notes?
+A. To meet government regulations for e-commerce businesses
+B. To guide decision-making, reach goals, and maximise web presence
+C. To determine the prices of products listed on the website
+D. To identify which programming language should be used for website development
+ANSWER: B
+
+QUESTION 221
+Q: What does the lecture note state about the "target audience" step in creating a successful website?
+A. The target audience determines the country where the domain name should be registered
+B. Once the audience is known, priorities and decisions for website relevancy can be set, and content can be made appealing to them
+C. The target audience determines the server hosting provider to be used for the website
+D. The target audience step is only relevant for B2C e-commerce businesses
+ANSWER: B
+
+QUESTION 222
+Q: According to the lecture, what is the importance of "consistency" in maintaining a successful web presence?
+A. Consistency means keeping the same design template without any updates
+B. Focusing on content, meeting customer needs, and making needed information available enhances web presence and improves productivity
+C. Consistency requires all products to be listed at the same price
+D. Consistency means posting the same content on all social media platforms
+ANSWER: B
+
+QUESTION 223
+Q: What does the lecture note specifically mention about the role of "Integrity" as an EC security requirement?
+A. It ensures data is encrypted by authorized users only
+B. It is the assurance that information stored or transmitted over a network is not altered by an unauthorized person
+C. It ensures information is accessible to authorized users at all times
+D. It ensures that the sender cannot deny having sent a message
+ANSWER: B
+
+QUESTION 224
+Q: What does the lecture describe as a concern with cookies in e-commerce relating to privacy?
+A. Cookies slow down website performance significantly
+B. Cookies can be used for user profiling and targeted marketing, and third-party cookies may monitor user behaviour across the web
+C. Cookies automatically share user passwords with third-party websites
+D. Cookies prevent users from accessing websites that are blocked in their country
+ANSWER: B
+
+QUESTION 225
+Q: What specific multimedia software tools does the lecture note mention for e-commerce website design?
+A. Microsoft Word and Excel
+B. Adobe Flash and Fireworks
+C. Google Docs and Slides
+D. CorelDraw and Inkscape
+ANSWER: B
+
+
+================================================================
+                       TRICKY MODE (75 Questions)
+================================================================
+
+QUESTION 226
+Q: E-commerce and e-business are the same thing. Which of the following best explains why this statement is INCORRECT?
+A. E-business focuses on external transactions only, while e-commerce covers internal processes
+B. E-commerce focuses only on buying and selling, while e-business covers broader activities including customer servicing and collaboration with partners
+C. E-commerce is a broader term than e-business, covering all digital business processes
+D. E-business is limited to government transactions, while e-commerce covers the private sector
+ANSWER: B
+
+QUESTION 227
+Q: A company that builds a website, registers a domain, hosts it, markets its products through email and social media, and uses SSL is BEST described as engaged in:
+A. M-commerce only
+B. B2G commerce
+C. E-business
+D. E-banking
+ANSWER: C
+
+QUESTION 228
+Q: Which of the following statements about B2B e-commerce is CORRECT?
+A. B2B involves final consumers purchasing goods directly from businesses
+B. B2B requires low-level security because only verified companies are involved
+C. B2B involves only companies transacting with each other without final consumer involvement, and it is the largest form of e-commerce
+D. B2B is a smaller form of e-commerce compared to B2C
+ANSWER: C
+
+QUESTION 229
+Q: A freelance web developer who offers services to businesses through an online platform is BEST classified under which e-commerce type?
+A. B2C
+B. B2B
+C. C2C
+D. C2B
+ANSWER: D
+
+QUESTION 230
+Q: Which of the following CORRECTLY describes what makes m-commerce different from traditional e-commerce?
+A. M-commerce requires a subscription fee, while e-commerce is free
+B. M-commerce is exclusively for banking transactions
+C. M-commerce uses handheld wireless devices and does not always require internet, such as in mobile banking
+D. M-commerce is only available in developed countries like Japan and the USA
+ANSWER: C
+
+QUESTION 231
+Q: A customer adds shoes to their cart, proceeds to checkout, enters billing details, selects a shipping method, previews the order, makes payment, and receives confirmation. Which step comes IMMEDIATELY after entering billing details?
+A. Payment
+B. Preview Order
+C. Shipping Information
+D. Confirmation
+ANSWER: C
+
+QUESTION 232
+Q: Which of the following is NOT a primary process enhanced in e-business as described by Lallana et al. (1997)?
+A. Production processes
+B. Customer-focused processes
+C. Internal management processes
+D. Regulatory compliance processes
+ANSWER: D
+
+QUESTION 233
+Q: "Cookies" in an e-commerce context can be best described as WHICH of the following?
+A. A malicious program installed by hackers to steal user passwords
+B. A government-mandated data collection tool for online businesses
+C. A small piece of software installed on a user's computer by a website to track visitors and understand how they use the site
+D. A type of encrypted payment token used during online checkout
+ANSWER: C
+
+QUESTION 234
+Q: Which of the following statements about "third-party cookies" is CORRECT?
+A. Third-party cookies are placed by the website the user is currently visiting
+B. Third-party cookies are only used to store the user's login information
+C. Third-party cookies are placed by someone other than the website being visited and may be used for ads, analysis, or behaviour monitoring
+D. Third-party cookies are mandated by GDPR for all e-commerce websites
+ANSWER: C
+
+QUESTION 235
+Q: A student claims that "browser fingerprinting" stops working if the user blocks cookies. Is this claim correct?
+A. Yes, browser fingerprinting relies entirely on cookies to function
+B. No, browser fingerprinting works irrespective of whether cookies are blocked or not
+C. Yes, but only on mobile browsers
+D. No, but it only works on government-approved e-commerce websites
+ANSWER: B
+
+QUESTION 236
+Q: Which of the following BEST describes the difference between "Authorization" and "Authenticity" as EC security requirements?
+A. Both perform the same function of verifying user identity before granting access
+B. Authenticity authenticates user identity; Authorization ensures the authenticated user has permission to perform specific operations on the system
+C. Authorization authenticates user identity; Authenticity ensures the authenticated user has permission to perform specific operations
+D. Authenticity applies only to payment processing; Authorization applies to all other operations
+ANSWER: B
+
+QUESTION 237
+Q: Which of the following would NOT be an example of a "Customer-focused process" in e-business?
+A. Processing customers' purchase orders and payments
+B. Marketing and promotional efforts online
+C. Employee training and internal information-sharing
+D. Customer support services
+ANSWER: C
+
+QUESTION 238
+Q: A business purchases generic snack products from a distributor and then places its own brand name on them before selling. This is an example of:
+A. Private labelling
+B. Drop-shipping
+C. White labelling
+D. Wholesaling
+ANSWER: C
+
+QUESTION 239
+Q: A food business approaches a manufacturer to exclusively produce chips for them, with the exclusive right to be the only seller of that product. This is an example of:
+A. White labelling
+B. Drop-shipping
+C. Subscription model
+D. Private labelling
+ANSWER: D
+
+QUESTION 240
+Q: Which of the following is the MOST accurate description of "drop-shipping"?
+A. A model where consumers sell directly to businesses
+B. A model where a retailer ships goods bought in bulk to customers
+C. A model where goods marketed by the seller are delivered by a third party (manufacturer or supplier) to the consumer
+D. A model where businesses deliver goods without charging shipping fees
+ANSWER: C
+
+QUESTION 241
+Q: Which of the following correctly identifies ALL five 5Cs of e-commerce?
+A. Consumer, Commerce, Communication, Computation, Credit
+B. Commerce, Collaboration, Communication, Connection, Computation
+C. Commerce, Customer, Credit, Connection, Computation
+D. Collaboration, Communication, Connection, Computation, Conversion
+ANSWER: B
+
+QUESTION 242
+Q: A web store URL starts with "http://" instead of "https://". What does this indicate?
+A. The website is hosted on a government server and is fully secure
+B. The website is a mobile-optimized e-commerce store
+C. The website does NOT have SSL security, meaning transactions may not be fully secure
+D. The website is a B2B platform that does not require SSL
+ANSWER: C
+
+QUESTION 243
+Q: Which of the following statements about SSL is INCORRECT?
+A. SSL encrypts data between the shopper's browser and the shop's server
+B. SSL makes it difficult for third parties to decode information like credit card numbers
+C. SSL stands for Secure Socket Layer
+D. SSL is only required for government websites, not commercial e-commerce sites
+ANSWER: D
+
+QUESTION 244
+Q: "Non-Repudiation" in e-commerce security means:
+A. Users cannot access a website without multi-factor authentication
+B. The sender cannot deny sending a message, and the recipient cannot deny receiving it
+C. All transactions are publicly visible to all users on the platform
+D. Merchants cannot process refunds after a transaction is completed
+ANSWER: B
+
+QUESTION 245
+Q: Which of the following CORRECTLY describes how "Settlement" differs from "Authorization" in payment card processing?
+A. Authorization transfers funds to the merchant; Settlement checks the card's validity
+B. Authorization checks card validity and fund availability; Settlement transfers funds from the shopper's account to the merchant
+C. Both Authorization and Settlement serve the same function
+D. Settlement verifies the delivery address; Authorization processes the payment
+ANSWER: B
+
+QUESTION 246
+Q: A merchant who uses PayPal to process payments from customers is using which type of payment processing?
+A. Manual Credit Card Processing
+B. Internet Merchant Account (IMA)
+C. Third Party Payment Processing
+D. Encrypted Direct Transfer
+ANSWER: C
+
+QUESTION 247
+Q: Which of the following is NOT one of the types of shopping cart payment gateways described in the lecture?
+A. IMA (Internet Merchant Account)
+B. TTP (Third Party Payment)
+C. MPP (Manual Payment Processing)
+D. EPP (Electronic Payment Protocol)
+ANSWER: D
+
+QUESTION 248
+Q: The lecture states that a "hosted shopping cart" differs from an "open source shopping cart" in which key way?
+A. Hosted carts require downloading software; open source carts do not
+B. Hosted carts provide web hosting along with the software; open source carts require separate hosting and technical setup by the user
+C. Hosted carts are free to use; open source carts charge a licensing fee
+D. Hosted carts are only for large enterprises; open source carts are for small businesses
+ANSWER: B
+
+QUESTION 249
+Q: Which of the following represents the correct structure of a URL?
+A. Protocol, colon (:), and two slashes (//), such as http://www.google.com
+B. Domain name followed by a hashtag (#), such as google.com#search
+C. Country code followed by the domain name, such as ng.google
+D. Brand name followed by a colon, such as google:search
+ANSWER: A
+
+QUESTION 250
+Q: In domain naming, ".com", ".org", and ".net" are referred to as:
+A. Country code Top-Level Domains (ccTLDs)
+B. Second Level Domains (SLDs)
+C. Generic Top-Level Domains (gTLDs)
+D. Subdomain classifications
+ANSWER: C
+
+QUESTION 251
+Q: Which of the following statements about open source shopping carts is TRUE?
+A. Open source shopping carts charge a monthly subscription fee
+B. Open source shopping carts are managed entirely by the company that developed them
+C. Open source shopping carts are free to own, modify, and use, but require developer skills and Ad-ons for higher-level functions
+D. Open source shopping carts provide web hosting together with the shopping cart software
+ANSWER: C
+
+QUESTION 252
+Q: A student says "e-commerce removes all geographical barriers, meaning there are no restrictions on buying and selling from anywhere in the world." According to the lecture, is this accurate?
+A. No, e-commerce still has restrictions in countries with no internet access
+B. Yes, the lecture confirms that e-commerce removes geographical barriers and enables buying and selling from any part of the world
+C. Partially; e-commerce removes only local barriers but not international ones
+D. No, the lecture states that e-commerce is limited to countries with government-approved digital frameworks
+ANSWER: B
+
+QUESTION 253
+Q: Which of the following is INCORRECTLY classified as a technical challenge of e-commerce?
+A. Ensuring ICT systems of different organisations can work together
+B. Protecting ICT systems from destruction, damage, or manipulation
+C. How to adopt or change the business model after introducing e-commerce
+D. Whether payment procedures and modules are secure enough
+ANSWER: C
+
+QUESTION 254
+Q: What is the CORRECT order of the five phases of e-commerce website development methodology?
+A. Design > Analysis > Building > Testing > Implementation
+B. Analysis/Planning > Design > Building the Website > Testing > Implementation and Maintenance
+C. Planning > Building > Testing > Design > Implementation
+D. Research > Design > Coding > Launch > Maintenance
+ANSWER: B
+
+QUESTION 255
+Q: A merchant wants to ensure each customer has a unique online experience with product suggestions tailored to their browsing history. Which feature of e-commerce does this BEST demonstrate?
+A. Universal Standard
+B. Rich Content
+C. Personalization/Customization
+D. Business Digitalization
+ANSWER: C
+
+QUESTION 256
+Q: Which of the following is the BEST example of "Business Digitalization" as a feature of e-commerce?
+A. A business creating a printed product catalogue for distribution to customers
+B. Comprehensively using the internet and ICT to link information and connect all stakeholders of the business seamlessly
+C. A business hiring more sales representatives to expand its physical presence
+D. A business setting up an automated telephone response system for customer inquiries
+ANSWER: B
+
+QUESTION 257
+Q: Which of the following is NOT a step in creating and maintaining a successful web presence as described in the lecture?
+A. Setting website goals
+B. Identifying the target audience
+C. Registering a trademark for the business name
+D. Branding
+ANSWER: C
+
+QUESTION 258
+Q: "Phishing" in the context of e-commerce security is BEST described as:
+A. A process of collecting consumer reviews to improve product quality
+B. A technique for encrypting sensitive user data during online transactions
+C. The creation of false websites designed to fool users into providing sensitive information to malicious parties
+D. A government monitoring system for tracking illegal e-commerce activities
+ANSWER: C
+
+QUESTION 259
+Q: Which of the following represents a challenge associated with BOTH shopping cart abandonment AND general e-commerce disadvantages?
+A. Wider audience reach
+B. Lower transaction costs
+C. Security and fraud issues
+D. 24/7 availability of the online store
+ANSWER: C
+
+QUESTION 260
+Q: The lecture mentions that "words are good, image is better" in catalogue development. Which of the following BEST captures the meaning of this statement?
+A. E-commerce businesses should replace all text descriptions with images only
+B. Professional photographs with well-crafted descriptions of products can generate relevant search engine traffic and aid customer understanding better than text alone
+C. Image-only catalogues are the legal requirement for all e-commerce businesses
+D. Businesses that use images instead of text are more likely to attract government contracts
+ANSWER: B
+
+QUESTION 261
+Q: Which of the following is INCORRECTLY listed as a benefit of an e-commerce website?
+A. Ease and convenience
+B. Time and cost saving
+C. Mandatory investment in expensive multimedia production equipment
+D. Consistency of information
+ANSWER: C
+
+QUESTION 262
+Q: Which of the following correctly identifies examples of payment gateways for shopping carts?
+A. Shopify, BigCommerce, and OpenCart
+B. Magento, WooCommerce, and OpenCart
+C. PayPal, Mollie, Square, Venmo, Apple Pay, and Amazon Pay
+D. OLX, Jiji, and Jumia
+ANSWER: C
+
+QUESTION 263
+Q: According to the lecture, which of the following accurately describes the role of "crawlers" or "spiders" in e-commerce marketing?
+A. They encrypt browsing data to protect customer privacy on e-commerce sites
+B. They monitor competitor pricing to help businesses adjust their prices dynamically
+C. They scour the internet to pull out code or content matching the URL or search terms and catalog websites in the search engine index
+D. They process payment card transactions on behalf of e-commerce merchants
+ANSWER: C
+
+QUESTION 264
+Q: A student confuses "Confidentiality" with "Integrity" in EC security. Which statement CORRECTLY distinguishes the two?
+A. Confidentiality ensures data is not altered by unauthorized persons; Integrity ensures data is accessed only by authorized persons
+B. Integrity ensures data is not altered by unauthorized persons; Confidentiality ensures data is accessed only by authorized persons
+C. Both Confidentiality and Integrity serve the same function in EC security
+D. Confidentiality applies only to payment data; Integrity applies to all other forms of data
+ANSWER: B
+
+QUESTION 265
+Q: A business is concerned about protecting its online store from cyber-attacks. According to the lecture, which of the following is NOT a recommended measure for minimizing security threats?
+A. Conducting a security risk assessment
+B. Developing a security policy
+C. Disabling all customer accounts to prevent unauthorized access
+D. Performing regular security audits
+ANSWER: C
+
+QUESTION 266
+Q: In e-commerce, "Auditability" as a security requirement is BEST described as:
+A. Ensuring only authorized users can access a system
+B. Ensuring data is encrypted and decrypted by authorized users only
+C. Ensuring data is recorded in a manner that allows auditing for integrity
+D. Ensuring the sender cannot deny having sent a message
+ANSWER: C
+
+QUESTION 267
+Q: Which of the following CORRECTLY identifies what the GDPR requires regarding tracking pixels?
+A. All websites must remove tracking pixels permanently
+B. Tracking pixels must be replaced with web beacons
+C. User consent must be obtained before activation of a tracking pixel on a webpage
+D. Tracking pixels are only permitted on government-operated websites
+ANSWER: C
+
+QUESTION 268
+Q: A product on an e-commerce store has no fixed price — instead, its price is determined through bidding. According to the lecture, this is an example of:
+A. Fixed pricing method
+B. White labelling
+C. Dynamic pricing model
+D. Subscription pricing
+ANSWER: C
+
+QUESTION 269
+Q: Which of the following statements about M-commerce is INCORRECT according to the lecture notes?
+A. M-commerce uses handheld devices such as cellular telephones and PDAs
+B. M-commerce is also referred to as next generation e-commerce
+C. M-commerce always requires an internet connection to function
+D. Japan is seen as a global leader in m-commerce
+ANSWER: C
+
+QUESTION 270
+Q: A business tells its customers that the total delivery cost will only be revealed at the final checkout stage. According to the lecture, this relates to which shopping cart problem?
+A. Shopping cart abandonment due to a slow checkout process
+B. Lack of total disclosure, as the total cost including shipping fees is not shown upfront
+C. Confidentiality issues due to the business monitoring customer shopping habits
+D. Security and fraud issues because customers cannot verify the payment gateway
+ANSWER: B
+
+QUESTION 271
+Q: Which of the following scenarios BEST describes the C2C model of e-commerce?
+A. A supermarket chain selling groceries through its own website to individual customers
+B. A software company licensing its accounting tool to other businesses
+C. A consumer selling a used smartphone to another consumer through Jiji
+D. A freelance designer offering logo design services to businesses through Fiverr
+ANSWER: C
+
+QUESTION 272
+Q: The lecture notes state that "e-commerce coupled with the appropriate strategy and policy approach enables small and medium scale enterprises to compete with large and capital-rich businesses." What concept does this reflect?
+A. Strategic positioning and the leveling effect of e-commerce
+B. The monopolistic advantage of large e-commerce businesses
+C. The inability of small businesses to sustain e-commerce operations
+D. The government's role in regulating digital commerce for fairness
+ANSWER: A
+
+QUESTION 273
+Q: A business that sells its products to architects and interior designers is BEST classified as which type of e-commerce?
+A. B2C
+B. C2B
+C. B2G
+D. B2B
+ANSWER: D
+
+QUESTION 274
+Q: Which of the following is NOT a role of customer service in managing an e-commerce website as described in the lecture?
+A. Identity maintenance
+B. Relationship maintenance
+C. Product manufacturing oversight
+D. Sound and improved communication and technical skills
+ANSWER: C
+
+QUESTION 275
+Q: According to the lecture, which of the following BEST describes the "Communication" component of the 5C model, as opposed to the "Collaboration" component?
+A. Communication involves sharing physical resources, while Collaboration enables interrelationships between businesses
+B. Communication provides an interactive medium for self-expression and self-presentation (like reviews and product showcases), while Collaboration supports interrelationships among businesses and individuals beyond space and time
+C. Both Communication and Collaboration serve the same function within the 5C model
+D. Communication is limited to internal business teams, while Collaboration involves external customers only
+ANSWER: B
+
+QUESTION 276
+Q: A student says that "e-banking plays no role in e-commerce." According to the lecture, is this correct?
+A. Yes, e-banking and e-commerce operate completely independently
+B. No, a more developed e-banking environment encourages a shift from traditional payment modes to electronic alternatives, thereby supporting the e-commerce loop
+C. Yes, e-banking is classified under m-commerce, not e-commerce
+D. No, but e-banking only supports B2G e-commerce activities
+ANSWER: B
+
+QUESTION 277
+Q: Which of the following statements about the Internet Merchant Account (IMA) is CORRECT?
+A. One IMA covers all types of payment cards accepted by a merchant
+B. IMA is a government-issued account for large corporations only
+C. Merchants obtain a separate IMA for each type of payment card (e.g., Verve, VISA, Mastercard), and funds are automatically deposited into the right merchant account
+D. IMA is only applicable for B2B e-commerce transactions
+ANSWER: C
+
+QUESTION 278
+Q: According to the lecture, what does the "Availability" security requirement ensure in e-commerce?
+A. That information is not altered by unauthorized individuals
+B. That information is encrypted by authorized users only
+C. That data and EC transactions are accessible to authorized users whenever and wherever needed
+D. That all user accounts are protected with multi-factor authentication
+ANSWER: C
+
+QUESTION 279
+Q: A student is asked to identify which of the following is a "production process" in e-business. Which option is CORRECT?
+A. Selling products over the internet to customers
+B. Employee training and internal information-sharing
+C. Processing customers' purchase orders and payments
+D. Procurement, ordering, and replenishment of stocks
+ANSWER: D
+
+QUESTION 280
+Q: The lecture describes B2C e-commerce as relying on various means to reach individuals. Which of the following is listed as one of these means?
+A. Direct mail in physical envelopes
+B. Radio and television advertisements
+C. Newsletters, email lists, and instant messaging
+D. Billboard advertising in major cities
+ANSWER: C
+
+QUESTION 281
+Q: A student claims that the "Universal Standard" feature of e-commerce means that the internet works differently in different countries. According to the lecture, is this correct?
+A. Yes, internet standards vary by country based on government regulations
+B. No, the universal standard means the internet technology is the same worldwide — not different in the UK and different in Nigeria
+C. Partially; the standard is the same for developed countries but differs for developing nations
+D. Yes, because each country has its own country code domain that changes how the internet operates
+ANSWER: B
+
+QUESTION 282
+Q: A company uses electronic applications to share information between production and sales forces, improving sales force productivity. This is an example of which primary e-business process?
+A. Production processes
+B. Customer-focused processes
+C. Administrative control processes
+D. Internal management processes
+ANSWER: D
+
+QUESTION 283
+Q: Which of the following most accurately identifies the difference between a "tracking pixel" and "browser fingerprinting" as user tracking techniques?
+A. Tracking pixels work only on mobile devices; browser fingerprinting works only on desktops
+B. Tracking pixels use invisible images to monitor user activity; browser fingerprinting collects highly specific system information to create a unique identifier that persists even if cookies are blocked
+C. Browser fingerprinting uses invisible images to track users; tracking pixels create a unique device identity
+D. Both techniques are identical in function and differ only in the type of data they collect
+ANSWER: B
+
+QUESTION 284
+Q: In the domain name "www.konga.com", what is the SLD?
+A. www
+B. .com
+C. konga
+D. www.konga
+ANSWER: C
+
+QUESTION 285
+Q: Which of the following CORRECTLY describes the relationship between HTTP and HTTPS in e-commerce?
+A. HTTPS is a completely different protocol unrelated to HTTP
+B. HTTPS is HTTP enhanced with Secure Socket Layer (SSL) to protect transactions between customers and webstore servers
+C. HTTP is the secure version of HTTPS
+D. HTTPS is only used for government websites, while HTTP is used for commercial e-commerce sites
+ANSWER: B
+
+QUESTION 286
+Q: A merchant sets up a store on Shopify and starts selling immediately without downloading any software. This is an example of which type of shopping cart?
+A. Open source shopping cart
+B. Licensed shopping cart
+C. Manual payment cart
+D. Hosted shopping cart
+ANSWER: D
+
+QUESTION 287
+Q: Which of the following is INCORRECTLY associated with the "open source shopping cart"?
+A. It requires developer skills
+B. It is free to own and modify with no licensing fee
+C. It provides web hosting along with the shopping cart software
+D. It requires the download and installation of software on a website
+ANSWER: C
+
+QUESTION 288
+Q: A business uses the internet exclusively for managing internal employee services, training, and video-conferencing. This is BEST described as which type of e-business activity?
+A. Customer-focused processes
+B. Production processes
+C. Administrative compliance
+D. Internal management processes
+ANSWER: D
+
+QUESTION 289
+Q: Which of the following BEST explains why e-commerce is described as removing the need for face-to-face interaction?
+A. E-commerce allows businesses to replace all staff with automated systems
+B. Electronic channels like email, live chats, and instant messaging are used for customer enquiries and business responses
+C. E-commerce businesses are legally exempt from providing physical customer support
+D. E-commerce platforms use artificial intelligence to simulate face-to-face interactions
+ANSWER: B
+
+QUESTION 290
+Q: According to the lecture, which of the following is CORRECTLY identified as an economic challenge of e-commerce development?
+A. Whether payment procedures and modules are secure enough
+B. Whether ICT systems are heterogeneous enough to operate together
+C. Whether business protocols and procedures are acceptably standardized among actors, and how to measure success through revenues
+D. Whether the available technical support is sufficiently updated
+ANSWER: C
+
+QUESTION 291
+Q: A company that sells goods to other businesses online without involving end consumers is engaging in which type of e-commerce?
+A. C2B
+B. B2C
+C. C2C
+D. B2B
+ANSWER: D
+
+QUESTION 292
+Q: Which of the following is NOT a technique for tracking customer information in e-commerce as described in the lecture?
+A. Cookies
+B. Tracking Pixel
+C. Web Beacons
+D. Firewall monitoring
+ANSWER: D
+
+QUESTION 293
+Q: A merchant's website displays a lock icon in the browser address bar. According to the lecture, what does this indicate?
+A. The website is operated by a government agency
+B. The website is in maintenance mode and not accepting orders
+C. The website has a secure connection, indicating SSL is in use
+D. The website has been verified by the domain registrar as authentic
+ANSWER: C
+
+QUESTION 294
+Q: Which of the following BEST describes the "Computation" component of the 5C model, distinguishing it from the "Connection" component?
+A. Computation focuses on enabling different business software platforms to work together; Connection focuses on resource sharing
+B. Computation involves large-scale sharing of resources facilitated by internet technology to ease business processes; Connection enables the incorporation of different software platforms of collaborating businesses
+C. Both Computation and Connection serve the same function within the 5C model
+D. Computation involves the use of algorithms for pricing; Connection involves customer relationship management
+ANSWER: B
+
+QUESTION 295
+Q: The lecture states that "the most common reason for shopping cart abandonment is that most people are just browsing for options." Which of the following additional reasons is CORRECTLY listed in the lecture notes?
+A. Prices being too low, making customers suspicious of product quality
+B. Website loading too slowly due to excessive product images
+C. Bad return policies dissuading customers from buying
+D. Merchants charging a registration fee before customers can proceed to checkout
+ANSWER: C
+
+QUESTION 296
+Q: A student asks whether e-commerce websites can include reviews and ratings for products. According to the lecture, which answer is MOST accurate?
+A. Reviews are only available on B2B platforms
+B. Reviews are prohibited on most e-commerce platforms due to legal concerns
+C. Yes, complaints are addressed quickly and consumers can see reviews of other consumers before purchasing, which builds trust and improves service
+D. Reviews are only accessible to premium members of an e-commerce platform
+ANSWER: C
+
+QUESTION 297
+Q: According to the lecture, which of the following correctly describes the role of "e-catalog" as part of a shopping cart system?
+A. It processes and records all payment transactions on an e-commerce platform
+B. It is an essential part of an e-commerce webstore made up of all required information to present products to customers, serving as the backbone of most e-commerce webstores
+C. It manages delivery logistics and shipment tracking for ordered products
+D. It stores the merchant's financial records and tax documents
+ANSWER: B
+
+QUESTION 298
+Q: The lecture mentions that B2C businesses use "newsletters, email lists, and instant messaging" to reach individuals. A student claims this means B2C businesses never use advertisers. According to the lecture, is this correct?
+A. Yes, B2C businesses exclusively rely on direct communication channels
+B. No, advertisers and content providers can also assist in the marketing process to reach intended audiences using digital content
+C. Yes, using advertisers is only applicable to B2B commerce
+D. No, but advertisers are only used by large B2C companies like Amazon
+ANSWER: B
+
+QUESTION 299
+Q: According to the lecture, the fear of what specific event prompted the creation of ARPANET, and what solution was developed?
+A. Fear of communication interception led to the creation of encrypted email systems
+B. Fear of an attack destroying all information in a single computer led to storing information across multiple interconnected computers
+C. Fear of industrial espionage led to the creation of a government-only communication network
+D. Fear of power outages led to the creation of battery-powered communication servers
+ANSWER: B
+
+QUESTION 300
+Q: A student argues that "necessary cookies" and "marketing cookies" serve the same purpose. According to the lecture, which of the following CORRECTLY distinguishes the two?
+A. Necessary cookies track user behaviour to determine products they are likely to buy; marketing cookies allow the website to perform its basic functions
+B. Necessary cookies allow the website to perform its normal functions; marketing cookies track user behaviour to determine what products the customer is likely to buy for advertisement targeting
+C. Both necessary and marketing cookies collect and analyse statistical user data
+D. Marketing cookies are required by law, while necessary cookies are optional
+ANSWER: B
+
+================================================================
+               END OF BUA 319 E-COMMERCE CBT QUESTIONS
+            Total Questions: 300
+            Easy: Q1–Q75 | Medium: Q76–Q150
+            Hard: Q151–Q225 | Tricky: Q226–Q300
+================================================================

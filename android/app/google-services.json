@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532316551206",
+    "project_id": "examprepng-f5299",
+    "storage_bucket": "examprepng-f5299.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532316551206:android:c818c554ba722622394ee7",
+        "android_client_info": {
+          "package_name": "com.simyexamprep.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk2GZWSkG_rLVDKCgyNw5uXJBjSWps1UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

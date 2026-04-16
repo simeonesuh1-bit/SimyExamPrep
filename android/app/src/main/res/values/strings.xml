@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Simyc Exam Prep</string>
+    <string name="title_activity_main">Simyc Exam Prep</string>
+    <string name="package_name">com.simyexamprep.app</string>
+    <string name="custom_url_scheme">com.simyexamprep.app</string>
+</resources>

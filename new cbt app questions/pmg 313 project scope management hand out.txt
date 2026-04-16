@@ -1,0 +1,1037 @@
+PROJECT SCOPE MANAGEMENT  
+PMG 313 
+COURSE CONTENTS 
+1.	Overview of scope 
+2.	Steps of scope management 
+3.	Processes in scope management.  
+4.	Project scope vs product scope,  
+5.	Scope management and technique or methods 
+6.	Importance of scope management.  
+7.	Work breakdown structure  
+8.	impact of Change management on scope.  
+9.	Comparison between traditional, Modern (PRINCE 2, PMP, DUCAP and Agile) change management approaches.  
+10.	Change in management approach 
+11.	Requirement gathering  
+12.	Scope creep, 
+13.	Scope validation  
+14.	Work breakdown structure large projects 
+15.	Plan scope management 
+16.	Controlling scope.  
+17.	Benefits of project scope management. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER ONE 
+CONCEPT OF PROJECT SCOPE MANAGEMENT  
+What is project 
+“A project refers to a value creation undertaking based on a specific, which is completed in a given or agreed timeframe and under constraints, including resources and external circumstances." (Project Management Association of Japan)  
+“A project is a temporary Endeavour undertaken to create a unique product, service or result in order to achieve an outcome." (Australian Institute of Project Management)  
+Temporary endeavor: the temporary nature of projects indicate that a project has a definite beginning and end. Temporary does not necessarily mean a project has a short duration. The end of the project is reached when the project objectives are met or cannot be met; funding no longer available; needs for the project no longer exist; resources no longer available; and project terminated for legal cause or convenience. 
+Projects are temporary, but their deliverables may exist beyond the end of the project.  
+Unique Product, Service or Result: projects are undertaken to fulfill objectives by producing deliverables. An objective is defined as an outcome toward which work is to be directed, a strategic position to be attained, a purpose to be achieved, a result to be obtained, a product to be produced, or a service to be performed. A deliverable is defined as any unique and verifiable product, result or capability to perform a service that is required to be produced to complete a process, phase or project. Deliverables may be tangible or intangible.   
+Common project terms 
+i. Deliverables: Tangible ‘things’ that the project produces  ii. Milestones: Dates by which major activities are performed.  iii. Tasks: Also called Actions. Activities undertaken during the project  iv. Risks: Potential problems that may arise  
+v. Issues: Risks that have happened  vi. Gantt Chart: A specific type of chart showing time and tasks. Usually created by a Project Management program like MS Project.  
+vii. Stakeholder: Any person or group of people who may be affected by your project. 
+Project Objectives 
+The project objectives are specific, measurable criteria that help determine project success. Common practice requires cost, schedule, and quality criteria to be explicitly identified and agreed upon by the key stakeholders. Success criteria are defined as early as possible in the project's life cycle. Failure to document complete project objectives often leads to scope creep, and ultimately, project failure. 
+Project objectives must include at least these three items: i. Cost; ii. Schedule; and iii. Quality measures. 
+Project objectives should include: 
+i. An attribute; e.g., cost; ii. A metric; e.g., Nigeria Naira, United States (US) dollars; and iii. An absolute or relative value; e.g., less than 1.5 million. 
+The best type of objective clearly states the project's impact on the bottom line. This may be expressed in terms such as: 
+i. Increased margins; ii. Higher net revenues; iii. Reduced turnaround time; and iv. Reduced cost of sales. 
+For a number of reasons, it may not always be possible for the objectives to impact the bottom line. Other criteria to be considered include the impact the project will have on: 
+i. Efficiency and effectiveness; ii. Error rates; iii. Reduced turnaround time to service a customer request; iv. Reduced cost of providing service; 
+v. Quality impact; and vi. Improved customer satisfaction. 
+Objectives are stated in tangible, measurable terms that should leave no room for disagreement as to whether or not the criteria have been met. Some project managers use the 
+SMART criteria to help define project objectives. 
+These guidelines indicate that project objectives should be: 
+➢	Specific; 
+➢	Measurable; 
+➢	Assignable; 
+➢	Realistic; and 
+➢	Time-framed. 
+Project Management  
+“The application of knowledge, skills, tools and techniques to project objectives to meet stakeholder needs and expectations”.  
+“Project management is the planning, organizing, directing, and controlling of company resources for a relatively short-term objective that has been established to complete specific goals and objectives”  
+What Is Scope? 
+Scope refers to the combined objectives and requirements needed to complete a project. The term is often used in project management as well as in consulting. Properly defining the scope of a project allows managers to estimate costs and the time required to finish the project. That's what makes scope management such an important part of a business—it saves both time and money. There are generally two different types of scope in project management. These are project and product scope. 
+Definition of scope 
+With regards to scope definition, the detailed description of the project is prepared here, and so are the detailed descriptions of major deliverables. The intent of the scope and the parameters are set, along with the reviews of the supporting documents to ensure that the project and the stated goals are insync. The results will then highlight the needs and expectations of stakeholders (Burke, 2011: 118). This involves dividing the deliverables which are stated in the scope statement. The components are divided to improve the accuracy with regards to cost, resource estimates and time. It will also help to create performance reference point, control and will create clear assignment responsibilities (Knipe et. al., 2010: 84).  
+  
+ 
+Figure. Scope Definition Process (PMBOK, 2013)  
+The outputs of collect requirements are inputs at this stage. Historical information about other previous projects also can be used. Omissions or even errors of previous projects provide useful information at this stage. Lessons leant from previous stages are crucial also, because they are used as a corrective measure for other similar projects (Knipe et. al., 2010; Richardson & Butler, 2006).  
+Understanding Scope 
+Scope is a term used in project management. Project management involves the planning and organization of a company's resources to complete a specific task, event, or action and is usually a one-time event. Scope describes the required processes and resources to complete a project or produce a product. By identifying and recognizing different variables of a project through scope management, companies are able to save money. 
+ 
+Scope management 
+Scope management is a fundamental project management process that involves identifying and controlling what is included and what is not in a project, ensuring it meets all objectives and deliverables. It includes key activities such as scope planning, scope definition, creating a work breakdown structure (WBS), scope verification, and scope control. Effective scope management helps prevent scope creep, ensures stakeholder alignment, and maintains project timelines and budgets. 
+The concept of Scope Management is pivotal in the field of project management and business studies. It involves the processes needed to ensure that a project's scope is precisely defined and mapped, including all necessary tasks and deliverables. Understanding scope management is essential for anyone aiming to succeed in managing projects effectively. 
+Scope Definition is one of the most important processes in any project, because effective Scope Definition provides a common understanding of the project scope among all project stakeholders and describes the project's major objectives. It involves developing the project scope statement that will be the source of future project decisions, including the criteria to determine if the project is successful. 
+Scope Management: The detailed process involved in defining, controlling, and validating a project’s scope to ensure successful project execution and final delivery. 
+Example 
+Consider a company launching a new software product. The scope management process would include defining the software’s features, setting deadlines, and allocating resources required for development. Any additional adjustments to the software's specifications after development begins would need to go through the scope control process to prevent scope creep. 
+Key Elements of Scope Management: 
+•	Plan Project Scope Management: Develop a plan for managing the project scope.  
+•	Collect Requirements: Gather and document all requirements from stakeholders.  
+•	Define Project Scope: Clearly define the project's boundaries, deliverables, and objectives.  
+•	Create WBS: Break down the project into smaller, manageable components.  
+•	Validate Scope: Ensure that the project deliverables meet the defined scope.  
+•	Control Scope: Manage changes to the project scope.  
+ 
+Components of Scope Management 
+Scope management is comprised of several critical components that together form a comprehensive approach to managing a project's scope: 
+•	Scope Planning: This involves creating a detailed plan to assist in managing, controlling, and defining a project's scope. 
+•	Scope Definition: Specifies the project boundaries, deliverables, features, and functions. 
+•	Work Breakdown Structure (WBS): A deliverable-oriented breakdown of a project into smaller components. 
+•	Scope Verification: The process of formalizing acceptance of the completed project deliverables. 
+•	Scope Control: Monitoring the project’s scope and controlling changes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER TWO 
+PROJECT SCOPE MANAGEMENT STEPS 
+Managing scope means from the start that you and the stakeholders have a clear line of communication. You must know their vision to know what they’re expecting in a project. That way, when change happens you can direct it to meet the project’s goals while keeping the project on track. But that’s just the beginning. 
+To manage the scope of the project, you have to do five things: 
+1. Define the Project Scope 
+Defining the scope of a project consists of identifying the work that’ll be performed. To do so, you must first outline the main goals and objectives of the project and think about the activities required to achieve them. Then, once you have an idea of what your project should accomplish, you can use a work breakdown structure to break down the project into a set of tasks. A work breakdown structure (WBS) is a planning tool that helps project managers visualize the tasks required to complete a project, prioritize them and identify deliverables and dependencies. 
+Once the scope of a project has been determined, it needs to be managed through a process known as project scope management. Project management software helps you manage scope. ProjectManager, award-winning project management software that has robust Gantt charts, helps you to create a project plan, where all of your scoped tasks are scheduled with assignees and deadlines. Plus, our Gantt charts feature progress bars that update in real time as team members complete their tasks, so you have utmost transparency. You can also set a baseline to track your planned effort against your actual effort in real time to avoid scope creep. Get started with ProjectManager today for free. 
+ 
+ProjectManager has Gantt charts to manage scope and avoid scope creep.  
+Once you’ve defined the project tasks that’ll be executed, you should consider what won’t be included in your project scope, which is known as project exclusions. Determining that is just as important as defining the scope. That will help you avoid any misunderstandings with project stakeholders when submitting a project proposal. It’s also important to note any important constraints such as costs that might affect the project scope. 
+2. Write a Project Scope Statement 
+Once you’ve defined your project scope, you can write a project scope statement, also known as a project scope document, which describes the following elements: 
+•	Project goals & objectives: The project requirements or acceptance criteria. 
+•	Project deliverables: The outcomes of project tasks. 
+•	Project exclusions & constraints: As a project manager you need to explain what cannot be done and why. 
+•	Project assumptions: Some initial assumptions that the project management team has before executing the work. 
+•	Project milestones: These mark important moments in your project life cycle, such as the end of a phase. 
+•	Scope baseline: Your original scope as you planned it. The scope baseline allows you to compare actual results against what it’s in your scope statement. 
+The scope statement is also a guideline for the project manager. It helps them make decisions about change requests throughout the project life cycle. Change is an inevitable part of any project, no matter how thorough your project plan is, so you want to include the likelihood of change in your scope statement to better manage it later. 
+3. Create a Scope Management Plan 
+The scope management plan is a document that describes the guidelines and procedures on how the scope will be defined, tracked and adjusted. The scope management plan is an important component of the overall project plan. While there’s not a one-size-fitsall method to create a scope management plan, it should: 
+•	Include the scope statement 
+•	Show the work breakdown structure that was used to define the project scope 
+•	Describe the scope baseline 
+•	Explain who are the team members and what their roles and responsibilities are 
+•	Establish acceptance criteria for project deliverables 
+•	Describe what are the major milestones and project phases 
+•	Explain what change control procedures will be used to change the project scope 4. Define a Scope Baseline to Control the Scope 
+A scope baseline describes the project scope that was approved by both the project stakeholders and the project management team. It’s used during the project execution phase to ensure the project scope is executed as planned. 
+5. Monitor and Control your Project Scope During the Project Life Cycle 
+Besides creating project documents, most project managers use project management software tools like Gantt charts, kanban boards and project dashboards to keep track of their project scope. For example, ProjectManager’s Gantt charts allow you to create a visual project schedule where you can add tasks, link their dependencies and set due dates. 
+Project Scope Template 
+Defining the scope of a project can be challenging for both new and experienced project managers alike. For this reason, we’ve created a free project scope template for Word to facilitate this process. Download it for free now to get started quickly. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER THREE 
+PROCESSES IN SCOPE MANAGEMENT 
+Scope management involves several processes that help ensure a project's scope is clearly defined, managed, and controlled. Here are the key processes in steps: 
+1. Plan Scope Management: Develop a scope management plan to define how the project scope will be defined, validated, and controlled. 
+-	Define how the scope will be managed 
+-	Identify stakeholders and their requirements 
+-	Develop a scope management plan 
+2. Collect Requirements: Gather requirements from stakeholders through interviews, surveys, focus groups, etc. 
+-	Gather and document stakeholder requirements 
+-	Identify project constraints and assumptions 
+-	Develop a requirements management plan 
+3. Define Scope: Create a detailed project scope statement that outlines what is included and excluded from the project. 
+-	Develop a detailed project scope statement 
+-	Identify project boundaries and deliverables 
+-	Document project exclusions 
+4. Create Work Breakdown Structure (WBS): Break down the total scope into manageable components (tasks or deliverables). 
+-	Break down the project scope into smaller tasks 
+-	Identify and organize work packages 
+-	Develop a WBS dictionary 
+5. Validate Scope: Formalize acceptance of completed deliverables with stakeholders or clients. 
+-	Formally accept the project scope 
+-	Ensure scope meets stakeholder requirements 
+-	Obtain stakeholder sign-off 
+6. Control Scope: Monitor and manage scope changes through change control processes to avoid scope creep. 
+-	Monitor and control scope changes 
+-	Assess impact of changes on project timeline, budget, and resources 
+-	Update scope management plan and project documents 
+These processes help ensure the project scope is managed effectively, reducing the risk of scope creep and ensuring the project meets stakeholder expectations. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER FOUR 
+PROJECT SCOPE VS PRODUCT SCOPE 
+Product Scope Definition 
+The product of the project is the final deliverable or outcome of the project. This item must be explicitly described so that all stakeholders know what is to be accomplished and what the product will do. The form and substance of the product's characteristics may vary, but the detail must be sufficient for effective planning. 
+For example, when a team develops a new satellite, they must deliver a product that meets certain design limitations and performance capabilities. It will usually have to fit within a defined volume, have a center of gravity within a small tolerance of a specified point above the launch vehicle, and be able to tolerate a large range of operating temperatures as it travels through the atmosphere and then orbits through arcs while alternatively exposed to sunlight and then complete darkness. 
+Product scope identifies the characteristics and functions of a product or service. These characteristics include physical features such as size and materials, as well as functional specifications. Functional considerations include what the product is designed to do and its purpose or end-use. 
+Product scope focuses on the result or the actual offering. This is the final product or service. Product scope may also refer to a service or other item for customer use. Product scope often considers how to evaluate whether the object is on track for completion and whether it meets the expected outcome.  
+Project Scope Conversely, the project scope encompasses all the work needed to deliver a product or service. In short, the project scope describes how the mission will be accomplished. It includes identifying and documenting the project's goals, deliverables, tasks, project members, deadlines, and milestones. Documentation consists of the scope statement, statement of work, and a breakdown of the work structure.  
+The project scope also outlines the project's limits by specifying what is not included within the scope of the plan. It can incorporate information about the project's budget or available resources. Information regarding the project schedule, as well as the assignment of tasks, may also be included in the project scope. Workgroups will often be assigned listing the internal or external personnel who will be involved with the project. 
+A project scope defines the objectives that a project is set up to achieve within a certain time frame under certain budget. A product scope specifies the features, the deliverables, the price, the target market and the intro date of the final product. Wikipedia describes these two terminologies in this way to reveal their correlations. 
+i.	Project Scope: the work that needs to be accomplished to deliver a product, service or results with the specified features and functions 
+ii.	Product scope: the features and functions that characterize a product, service or result. 
+In other words, product scope decides the end goal, and project scope specifies the mechanism to realize such goal. More succinctly, product scope clarifies the WHAT, and the project scope expounds on the HOW. Naturally project is the object that encapsulates and manages all needed works in a carefully timed and controlled manner to attained the project objectives which is one of the three outcomes from project scoping. 
+ 
+ 
+CHAPTER FIVE 
+SCOPE MANAGEMENT TECHNIQUES 
+Mastering various scope management techniques can greatly enhance a project's success rate. These methods ensure that the details of the project are comprehensible and achievable while preventing unnecessary workload. Implementing these techniques effectively aligns the project deliveries with its initial goals. 
+Key Techniques in Scope Management 
+Understanding and applying key techniques are vital components of successful scope management: 
+•	Requirements Collection: Gathering and documenting necessary project requirements from stakeholders. 
+•	Scope Definition: Clearly outlining the project's boundaries and deliverables. 
+•	Stakeholder Engagement: Involving stakeholders and ensuring their needs are considered through regular communication. 
+•	Scope Baseline: Establishing a baseline for scope against which all future project tasks are measured. 
+•	Change Control System: Managing any changes in scope through a formal control system to avoid scope creep. 
+Example 
+During the development of a marketing campaign, a company uses requirements collection to learn the client’s expectations. Stakeholder engagement ensures client feedback is incorporated throughout, and any changes to the campaign scope follow a strict change control system to maintain budget and timeline constraints. 
+Tools and Techniques of Scope definition   
+The Work Breakdown Structures (WBS): Work Breakdown Structures of other previously developed projects are a useful tool. They can also be re-used in many organisations if the projects are similar.  A method of decomposition can be employed where larger deliverables can be subdivided into smaller components. This is done in order to obtain sufficient details for future projects initiatives. Decomposition has some activities which include the identification of major project deliverables. The major process here is that elements should be defined in terms of how they will also be managed (Sliger & Broderick, 2008; Richardson & Butler, 2006).  
+Expert judgment:  Where experts are a group or individuals with specialised knowledge, or training. These may come in the form of other units in the organisation, as consultants, stakeholders or technical associations. They assist with the analysis of information needed to develop the scope statement and help with technical details (Knipe et. al., 2010).  
+ Product analysis: Projects may have deliverables of a product or a service. Product analysis will only be for those that have products as a deliverable. This is an effective tool which helps in methods of translating high level product descriptions to tangible deliverables, as each application has accepted methods. The methods may involve but are not limited to systems analysis, product breakdown and value analysis (PMBOK, 2013).  
+Alternatives generation: This is a technique used for gathering as many potential options as possible. This will help to identify different approaches to execute project work using various approaches such as brainstorming and analysis alternatives.  
+Facilitated workshops: Key members with varying expectations and areas of expertise will help with the cross-functional, and mutual understanding of project objectives and limitations.  The outputs expected after the stage are Project scope statements, product scope descriptions, acceptance criteria, deliverables and exceptions.   
+Project scope statement: This is considered the heart of the scope management process. It mirrors the effort of the project team in generating a document and approval of all limitations, before going to the development phase (Pinto, 2016).  It involves the description of the project scope, the major deliverables, including assumptions and limitations. It includes detailed descriptions of deliverables and provides the collective understanding of project scope among stakeholders. The details regarding the exclusions assist the project management team on how to control the overall scope (PMBOK, 2013).  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER SIX 
+IMPORTANCE OF SCOPE MANAGEMENT 
+The significance of Scope Management cannot be overstated, as it is essential for ensuring that a project remains on track and within budget. Without proper scope management, projects can easily face delays, increased costs, and decreased quality of output. It is a critical skill in business studies and project management disciplines. 
+•	Prevents Scope Creep: Helps to avoid uncontrolled changes to the project's scope, which can lead to delays and increased costs. 
+•	Saves Time and Money: By defining and controlling the scope, project teams can avoid unnecessary work and stay on track. 
+•	Improves Project Success: Clear scope management contributes to a higher probability of project success by ensuring that the project delivers the intended outcomes.  
+Why Scope Management Matters 
+Effective scope management plays a pivotal role in project execution and is essential for the following reasons: 
+•	Defines Clear Objectives: Establishing a well-defined project scope helps in setting clear objectives and boundaries, enabling all team members to understand what is expected from the project. 
+•	Minimizes Risks: It helps in identifying potential risks early, allowing for better planning and risk mitigation strategies. 
+•	Facilitates Communication:Byhavingadefinedscope, communication between stakeholders and team members improves, reducing misunderstandings and conflicts. 
+•	Controls Project Costs: Clear scope management helps in controlling project costs by identifying unnecessary additions which can lead to scope creep. 
+•	Ensures Deliverable Quality: Proper management ensures that project deliverables meet the set quality standards by keeping everything aligned with the initial plan. 
+Imagine a construction project aimed at building a school. The initial plan outlines the number of classrooms, facilities like a library, and a playground. If the scope management process isn't stringent, stakeholders might continually add new requirements, like more amenities or classrooms, beyond the budget and timeline originally set. A well-managed scope prevents this overextension, ensuring the project proceeds smoothly and within the set constraints. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER SEVEN 
+WORK BREAKDOWN STRUCTURE 
+A work breakdown structure is a ranked method for breaking down a project into smaller components. It’s a tool used in project management to help define and control a project’s scope. Also, is a tool that helps you organize your project by hierarchy. With a WBS, you break down deliverables into sub-deliverables to visualize projects and outline key dependencies. Every work breakdown structure is made up of a few parts:  
+•	A project baseline or scope statement, which includes a project plan, description, and name  
+•	Project stakeholders 
+•	An organized project schedule 
+•	Project deliverables and supporting subtasks 
+Project managers use work breakdown structures to help teams to break down complex project scopes, visualize projects and dependency-related deliverables, and give team members a visual project overview as opposed to a list of to-dos.  From there, you’ll organize your structure based on the hierarchical levels of subdeliverables. Your project might also include phases based on the work needed and the overall project timeline.   
+Types of WBS 
+The two (2) types of WBS 
+1.	Deliverable-based work breakdown structure: This is a deliverableoriented hierarchical decomposition of the work. If that's a mouthful, don't worry—essentially, this basically means that you’ll look at the overarching project scope and break your work down into deliverables that support it. 
+This approach is best for shorter projects with a really clear outcome. For example, developing your annual revenue report. 
+2.	Phase-based work breakdown structure: Here, you use project phases to create work packages that house groups of tasks. These task groups are then completed in stages. You’ll want to use a phase-based WBS for longer projects with less defined outcomes. For example, you want to boost retention by 20% over the next three years. 
+The three levels of work breakdown structure 
+Levels of a work breakdown structure help separate tasks by dependencies. Since projects can differ so significantly, the levels of your work breakdown structure will too. While most projects do have some form of dependencies, it’s possible you’ll come across projects that don’t require sub-dependencies.  
+There are three main levels of dependencies, though your structure could require more or fewer than that. Each level is connected to a parent task, with the work needed to complete the parent task organized into dependencies.   
+Let’s take a look at the three highest level dependencies within a work breakdown structure.  
+Level 1: The parent task: The first level of a work breakdown structure is the most simplified form of the project since it contains the parent task. This is usually the same as the project objective.  
+Let’s say, for instance, that your project team is working on revamping your website design. The first level of your WBS might look something like this: 
+•	Launch new website design 
+As you can see, it’s simple and straightforward. Level one is the basic objective and the first step of your many project management phases. The work needed to complete this objective will come later in levels two and three.  
+Level 2: Dependencies and tasks: From there, your breakdown structure will get a bit more complicated depending on the scope of the project. Level two of your WBS will include subtasks, otherwise known as dependencies, of the parent task.  For example, let’s look at what tasks might be needed to launch a new website design.  
+•	Host a creative brainstorming session 
+•	Revamp brand guidelines 
+•	Create messaging framework 
+•	Redesign your logo 
+•	Add new photography  
+While slightly more granular than level one, level two is still a high-level overview of the dependencies needed to complete the project objective.  
+Level 3: Subtasks: In the third level of the WBS, break these dependencies down even further into more manageable components called sub-dependencies. At this stage, the lowest level of the project lifecycle, you’re defining the most detailed tasks. These actionable tasks will simplify the path to completing all your required deliverables. Continuing the above example, here are the level three tasks you could use for a new site design:  
+•	Choose brand colors 
+•	Build a brand mood board 
+•	Assign UX designers 
+•	Build a mockup design 
+•	Review and approve mockups 
+•	Schedule a brand photoshoot 
+•	Resize and edit pictures 
+As you can see, the work needed to complete the project objective is becoming much clearer. You may even choose to add additional levels to your WBS, depending on how specific you want your visual to be.  
+What’s included in a work breakdown structure? 
+A work breakdown structure is essentially a condensed project plan organized in a visual hierarchy. That means it contains everything that a successful project charter has, which includes WBS elements such as objectives, deliverables, timelines, and key stakeholders.  
+To create your own breakdown structure, you first need to know what to put in one. Thankfully, we’ve got you covered. Let’s take a look at some of the key pieces to include in your work breakdown structure. 
+How to create a work breakdown structure 
+Now comes the fun part. Since a work breakdown structure is in the form of a visual hierarchy, there are a number of ways to create yours. The best part is that you get to pick which method is right for you and your team.  
+ 
+Common visual methods that teams use include timelines, Kanban boards, and calendars. Depending on the software you use, some features may look slightly different in each. Let’s dive into these three methods in order to provide a deeper understanding of how you can create a work breakdown structure in each.  
+i. Timelines (or Gantt charts) 
+A Gantt chart is a visual aid used to schedule, plan, and track the project progress. It consists of two main parts: a task list on the left side and a timeline on the right side. The task list includes details such as task names, start and end dates, milestones, and the individuals or project teams responsible. The Gantt chart timeline uses horizontal bars to represent the duration of each task, showing when a task begins and ends. Timelines are great tools to visualize work in a fun and colorful way. They’re also great at providing the necessary functionality for a WBS. Here are some of the functions you get using a timeline, also known as a flowchart or Gantt chart: 
+•	Import traditional spreadsheets 
+•	Track progress 
+•	Adjust tasks 
+•	Connect tasks by dependencies 
+•	Adjust deadline shifts 
+•	Assign task owners 
+•	Store unscheduled tasks 
+•	Adjust color tracking 
+•	Section by levels 
+•	Filter and sort tasks 
+You can start your WBS in a number of ways, including by importing an existing spreadsheet or building it directly in timeline software. Timelines are different from Kanban boards and calendars due to the visual layout and adjustable functionality. 
+It’s really up to your preference to determine which visual is right for your team.  
+  
+Note: A Gantt chart created using Microsoft Project (MSP).  
+(1)	the critical path is in red,  
+(2)	the slack is the black lines connected to non-critical activities,  
+(3)	since Saturday and Sunday are not work days and are thus excluded from the schedule, some bars on the Gantt chart are longer if they cut through a weekend. 
+ 
+ii. Kanban boards  
+A Kanban board is a project management tool used to visually represent the project workflow. It consists of Kanban cards arranged into columns, where each card represents one task. 
+Kanban boards are similar to timelines but differ in the way they’re visually organized. Instead of being organized in a horizontal line, they’re designed to look like boards. Kanban software can help with the following to keep your projects on track: 
+•	Track progress 
+•	Adjust tasks 
+•	Connect tasks by dependencies 
+•	Adjust deadline shifts 
+•	Plot workflows 
+•	Communicate in one place 
+•	Plan product roadmaps 
+A Kanban board is another great option for building out your WBS, and it’s one of the most frequently used tools for day-to-day resource management needs. One of the best things about this tool is that you can see task details up front. This makes it a great option if you’re unable to create a WBS dictionary. 
+The best way to get started with this method is to start building your hierarchy within your Kanban board.  
+ 
+ 
+ 
+ 
+Example of kanban board in New Product Development (NPD) process 
+To Do 	In Progress 	Testing 	Complete 
+ 	 	 	 
+ 
+ 
+ 
+ 
+ 
+iii. Calendars 
+The third option for creating a WBS of your own is by using team calendar software. Calendar software tools help in managing schedules, from simple personal planning to complex team coordination, with popular options like Google Calendar (great for general use/teams), Microsoft Outlook Calendar (for MS users), and AIpowered schedulers like Reclaim.ai, Calendly, and Motion, which automate booking and optimize time. Key features often include sync across devices, integration with other apps (Gmail, Zoom), scheduling links, and AI for smart task management and meeting optimization.  While not as commonly used for breakdown structures as the previous options, they’re a great tool to visualize projects. They’re also especially helpful for switching between day, week, and month views for large projects. 
+Calendars are great tools for creating a WBS and they give you a different visual experience from the options above. To start your structure using a calendar, you can import an existing spreadsheet or start building a new project within your calendar software. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER EIGHT 
+IMPACT OF CHANGE MANAGEMENT ON SCOPE 
+The requirements document is only a starting point. What happens when someone wants to change something? 
+It is unrealistic to think that nothing will change. What you need to prevent scope creep is managed, controlled change on your project. For that, you’ll need a change management plan that defines the procedures of the change control process that must be followed when the project plan needs to be changed. In most cases, project managers need to adjust the schedule, budget and scope. 
+At a minimum, you should use a change request form to control changes made to your project scope. A change control process is very straightforward. Essentially, someone suggests a change via a change request, it is reviewed, approved or rejected and if it is approved, then incorporated into the project plan. Use a change log to keep track of all these changes. 
+ 
+Managing changes in plans is an essential aspect of project management. Here are some steps to help you manage changes in plans: 
+Step 1: Assessing the Change 
+i.	Evaluate the impact: Assess the impact of the change on the project scope, timeline, budget, and resources. 
+ii.	Determine the cause: Identify the reason for the change, whether it's due to internal or external factors. 
+iii.	Gather information: Collect relevant data and documentation to support the change request. 
+Step 2: Documenting the Change 
+i.	Create a change request: Document the change request, including the reason for the change, the impact on the project, and the proposed solution. 
+ii.	Update project documents: Revise project documents, such as the project charter, scope statement, and project schedule, to reflect the change. 
+iii.	Notify stakeholders: Inform stakeholders about the change, including team members, sponsors, and customers. 
+Step 3: Analyzing and Approving the Change 
+i.	Conduct impact analysis: Assess the potential impact of the change on the project, including the benefits, risks, and costs. 
+ii.	Evaluate alternatives: Consider alternative solutions to the change request, if applicable. 
+iii.	Obtain approval: Secure approval from the relevant stakeholders, including the project sponsor and team members. Step 4: Implementing the Change 
+i.	Update project plans: Revise project plans, including the project schedule, budget, and resource allocation, to reflect the change. 
+ii.	Communicate the change: Inform team members and stakeholders about the change and its impact on the project. 
+iii.	Monitor and control: Continuously monitor and control the project to ensure that the change is implemented successfully. 
+Step 5: Reviewing and Documenting Lessons Learned 
+i.	Conduct a post-implementation review: Evaluate the effectiveness of the change and identify lessons learned. 
+ii.	Document lessons learned: Record lessons learned and best practices for future reference. 
+iii.	Improve processes: Refine project management processes and procedures to prevent similar changes from occurring in the future. 
+Change management has a direct impact on project scope in several ways: 
+1. Scope Creep Control 
+-	Impact: Without proper change: management, unauthorized or unmanaged changes can lead to scope creep, causing delays and cost overruns. 
+-	Solution: Change management introduces formal approval processes to control and document changes. 
+2. Scope Revalidation 
+-	Impact: Approved changes may require updating the scope statement and Work Breakdown Structure (WBS). 
+-	Solution: Reassessing the scope ensures alignment with new goals or stakeholder needs. 
+3. Stakeholder Alignment 
+-	Impact: Unmanaged changes can lead to confusion or dissatisfaction among stakeholders. 
+-	Solution: A structured change management process keeps all stakeholders informed and aligned. 
+4. Impact on Time and Cost 
+-	Impact: Changes to scope often affect project timelines and budgets. 
+-	Solution: Evaluating impacts through change management allows for realistic reforecasting. 
+5. Quality Assurance 
+-	Impact: Frequent scope changes without proper review may compromise quality. 
+-	Solution: Change management helps maintain quality standards by ensuring each change is evaluated for impact on deliverables. 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER NINE 
+A COMPARISON TABLE BETWEEN TRADITIONAL AND MODERN PROJECT MANAGEMENT APPROACHES (PRINCE2, PMP, AGILE) 
+s/n 	Criteria 	Traditional Approach            	Modern Approaches (PRINCE2, 
+PMP, Agile)                                          
+1 	Methodology Type  	 Waterfall (Linear, 
+Sequential)                        	PRINCE2/PMP: Process-based & 
+Structured, Agile: Iterative & 
+Adaptive 
+2 	Flexibility to 
+Change 	Low – Changes 
+discouraged after planning    	PRINCE2/PMP: Controlled change, Agile: High flexibility, embraces change 
+3 	Planning Style 	Heavy upfront planning        	PRINCE2/PMP: Detailed planning with flexibility 
+Agile: Adaptive, continuous 
+planning                     
+4 	Delivery Approach 	Final delivery at project 
+end                         	PRINCE2/PMP: Stage-based delivery, Agile: Incremental and 
+continuous delivery       
+5 	Stakeholder 
+Involvement 	Minimal after planning phase 	PRINCE2/PMP: Stakeholders 
+consulted at stage gates, Agile: Constant stakeholder involvement       
+6 	Documentation 	Extensive and rigid 
+documentation                     	PRINCE2/PMP: Structured but flexible, Agile: Lightweight, valuedriven documentation    
+7 	Risk Management 	Reactive and often addressed late 	PRINCE2/PMP: Proactive and documented, Agile: Risk managed through iterations and continuous feedback     
+8 	Scope 
+Management 	Fixed scope, changes are 
+costly                       	PRINCE2/PMP: Change managed through formal processes, Agile: Scope evolves based on feedback       
+9 	Team Structure 	Hierarchical, commandand-control 	PRINCE2/PMP: Defined roles and responsibilities, Agile: Crossfunctional, self-organizing teams         
+10 	Best Use Cases 	Predictable, lowcomplexity projects (e.g. 
+construction) 	PRINCE2/PMP: Large, complex 
+projects (e.g. infrastructure), Agile: 
+Fast-paced, evolving projects (e.g. 
+software) 
+ 
+ 
+ 
+CHAPTER TEN  
+CHANGE IN MANAGEMENT APPROACH 
+Control Scope   
+All projects are prone to some changes in scope during their life cycle. The scope control system is designed to manage such changes in the scope process. The process can also be called configuration management system. Scope change control is defined as factors which influences scope changes to ensure that changes are beneficial. The thrust is to determine that the change has occurred, and to manage them when they occur (Burke, 2011).  
+   
+Figure 2.8. Control scope flow diagram (PMBOK, 2016)  
+  
+While scope management looks straight forward as reported by  ( PMBOK, 2016) on the diagram, there is the possibility of a few loopholes as it is just one size fits all.  PMBOK and Knipe et al prescribed a standard method for different projects, especially IT projects that are fast paced and have a lot of changes that need to be completed.  This, when compared to other projects such as construction, or manufacturing, which is more repetitive.  Hence, there is a need to look at management challenges to scope creep, as this may be caused by the scope management as well.  
+ 
+Steps to Develop a Practical Approach to Scope Definition and Change Control 
+Step 1: Be Lean 
+Trying to introduce any type of structure or control in an organization or environment that has been absent of controls can present a significant challenge. Before a project management organization can address scope change control, they must implement a process to define scope. Getting organizational decision makers to accept the project management precepts/principles is not overly difficult, but changing organizational behavior to leverage these principles is another matter altogether. The more change we attempt to introduce into an environment, the more difficulty that environment has in adapting to, accepting, and embracing that change. To avoid the natural resistance to excessive change, a logical approach is to limit the scope of change and focus on immediate needs. Focus on the foundation and basics. Why have a complex, highly mature process if you are not consistently performing the basics well? 
+Step 2: Define Preliminary Scope 
+What is immediately needed for an organization without processes for capturing the business objectives associated with project requests is to define a structured approach for documenting, evaluating, and approving the preliminary scope of work. Note that approving the scope of work involves more than shaking heads, shaking hands, or a casual agreement on broad, subjective criteria. Approvals, in project management, imply documented endorsements. More simply, these are signatures that provide evidence of agreement and a foundation on which to build. It is important to emphasize to stakeholders and sponsors unfamiliar with our profession's structured approach to managing projects that accepting a preliminary scope of work does not mean that you are locked in for the remainder of execution. Nothing could be farther from the truth. Instead, you are protecting their interests by beginning to set boundaries upon which effective planning can begin. In other words, you are increasing the probability (remember the research) that the project will be successful. 
+Step 3: Develop an Understanding of What Final Acceptance Means to the Project Sponsor or Sponsors 
+How do we know when we have arrived at a destination? When traveling, we know our trip is complete when we arrive at the place that we intended to reach. Likewise, we know that a project is complete when we have delivered on the business objectives identified in the project charter, right? Well, yes … and then some. The “and them some” is the focus of scope change control. How does your organization define final sponsor acceptance? The recommended approach is to define sponsor acceptance for stakeholders using plain language. Sponsor acceptance is therefore defined as the formal recognition that the objectives defined in the original agreed upon scope of work, plus the objectives agreed upon in all of the formally approved change requests, have been met. This plain definition helps to avoid the differing perceptions around what was wanted versus what was documented. 
+Step 4: Define, Document, and Communicate a Structured Approach to Requesting, Evaluating, and Approving Change Requests 
+What is a change request? Some schools of thought suggest that changes are limited to requests for additional features, deliverables, or work. Although this paper is focused on these types of change requests, or scope change requests, it is important to note that any change that has the potential to impact expectations should follow a formalized change request, approval, and communication process. Remember, aggressively managing expectations is our best opportunity to influence our stakeholder's perception of value. Scope, budget, schedules, and risks are typically interdependent and directly influence our stakeholder perceptions. Also, remember that the most effective change control processes include risk assessments that evaluate the potential risks of either approving or disapproving a change request. 
+Keep in mind that too much bureaucracy, too much analysis, or too much unnecessary paperwork will give stakeholders an incentive to circumvent your process. If you want your stakeholders to avoid, ignore, or completely bypass your process, include a great deal of “administrivia.” “Administrivia” is the new word for trivial administrative process. Remember, our profession's focus is on delivery and business results, not just adherence to a predefined process. Taking a lean approach to scope change request documentation can help influence acceptance of this sometimes painful but vital process for capturing change. 
+Process tip: Determine early (either as an enterprise standard or for your specific project) what the tripwires and associate levels of authority are for approving a requested change. What level of change can be approved internally? For example, a change with an impact of less than 1 week schedule delay or budget impact of under $10,000 may be approved by the project manager. What needs to be escalated to the project sponsor? What needs to be reviewed by a change control board or governance council? Determining these decision points in advance can remove a great deal of the mystique around how to manage change. 
+Ensure that everyone understands the difference between the natural decomposition process and identifying new work that must be accomplished to deliver on a previously agreed upon business objective and work associated with new or modified deliverables. Remember that omissions and errors in planning may lead to schedule and budget changes, but are usually not scope changes. 
+Step 5: Document and Validate the Full Scope of Work (Create the Work Breakdown Structure) 
+A great approach for defining all of the work required to complete a project is to start with the desired end state and associated expected benefits. What work is required to provide those benefits? What work is required to reach the approved end-state goals (or business objectives)? Plan to the level of detail necessary to manage the work effectively. Decomposing work packages beyond the level required for effective management is considered administrivia. Note that defining and communicating the processes for final sponsor acceptance and requesting changes both come before traditional decomposition. Why? Terrific question! The natural planning processes that we follow in breaking down business objectives into definable work packages can be a catalyst for change requests. We want to communicate up front that change is not free and that additional requests will need to be formally requested, documented, agreed upon, and approved before being included in the project scope of work. 
+Step 6: Manage Change 
+Your foundation is laid, you have documented the preliminary scope, you have defined processes for sponsor acceptance, you have defined and documented scope change request processes, and you have developed your WBS; now the only thing left for you to do is to manage according to your policies and plan. You also have to manage the change requests that are guaranteed to come too! Scope change control protects the project manager, and the performing organization, from scope creep and contributes to managing stakeholder expectations. 
+A question that frequently comes up among practitioners is “What do I do when my leadership does not allow me to define, document, and manage change?” This is a real, practical question that deserves a response. The instinctive tactic is to communicate the necessity for a structured approach to documenting and managing scope. However, as our peers will often admit, this is not always sufficient to get the support we need to set organizational policy. We can attempt to implement these processes without formalization, or we might just “do it anyway.” This can be an effective approach for demonstrating their value, but can also be perceived as a self-protective measure instead of a process used to increase the likelihood of project success. People can be leery of someone else documenting requests, justifications, and so on, for their needs. Ensure that you share the information and provide an explanation as to why this approach is designed to ensure that you are managing to their expectations. In general, people find it difficult not to accept altruistic approaches to meeting their needs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER ELEVEN  
+REQUIREMENT GATHERING PROCESS 
+This is the process of identifying and documenting what stakeholders needs and expect from a project or products  
+The project requirements define what standards and specifications the deliverables of the project must satisfy, including how the work is performed. For example, the organization may be governed by ISO9000 quality standards, in which case all processes used by the project team must conform to strict process documentation, test, and audit requirements. 
+The specifics of the product's capabilities are also documented as requirements; these are the minute elements of the project scope. Later, the deliverables will be evaluated to determine whether they adequately address the defined requirements. Any requirements that are not addressed by one or more deliverables are evaluated as "missing," and any elements of the deliverables that do more than the requirements stipulate are assessed as "extra," and must be eliminated. Those that were incorrectly implemented are defined as "wrong," and must be corrected before the deliverable can be accepted. 
+To discover information in requirements engineering it contains a number of overlapping steps: 
+1.	Inception, in which the nature and scope of the system is defined. 
+2.	Elicitation, in which the requirements for the software are initially gathered. 
+3.	Elaboration, in which the gathered requirements are refined. 
+4.	Negotiation, in which the priorities of each requirement are determined, the essential requirements are noted, and, importantly, conflicts between the requirements are resolved. 
+5.	Specification, in which the requirements are gathered into a single product, being the result of the requirements engineering. 
+6.	Validation, in which the quality of the requirements (i.e., are they unambiguous, consistent, complete, etc.), and the developer's interpretation of them, are assessed. 
+7.	Management, in which the changes that the requirements must undergo during the project's lifetime are managed. 
+Requirements engineering will usually result in one or more work products being produced. These products, taken together, represent the software's specification (see the specification step previously mentioned, and detailed below). These work products, however, do not have to be formal, written documents — indeed, the work products can be a set of models, a formal mathematical specification, a collection of use cases or user stories, or even a software prototype. 
+Note 
+These steps are overlapping for a variety of reasons. You should be able to notice that some of them, such as management, must occur throughout the communication and modelling activities. Negotiation will also occur at each of the various requirements engineering steps. More importantly, a process model which understands that requirements may be (initially) poorly understood, and that they may change through the project's lifetime, will also iteratively collect and detail the use cases (consider the unified process model from the previous chapter). This iterative process will forcefully overlap all of these steps. 
+ The steps in detail 
+1. Inception 
+The requirements engineering process begins by examining the problem which the software/project should solve and gaining an understanding of both the problem's nature and the nature of the desired solution. 
+This should be done in a context-free manner, that is, a manner which does not presume to know anything concerning the problem, the customers, the users, and the requested solution. The following questions may be asked: 
+•	Who is requesting the project? 
+•	Who will use the project? 
+•	What is the benefit that the project will bring? 
+It is important to identify the stakeholders in the project. Stakeholders are the people who will find benefit in the project and the product/service being developed. They may include: 
+i. Customers ii. End users 
+iii. Business operations managers iv. Product managers 
+v. Advertising and marketing staff vi. Project engineers vii. Support engineers 
+Each of the stakeholders will have a different view on what the software product should do and on what the software engineers should focus on. This might be on creating “sexy” features (from the marketing department), staying within budgets and deadlines (from managers), maintainability (from support engineers) and so on. Out of these views, the requirements engineer should determine which requirements there are a consensus on, and on which requirements the stakeholders disagree. Resolving disagreements between stakeholders makes up the negotiation step. 
+Something to consider during inception is the effectiveness of the communication between the requirements engineer and the customers. This may be done by, for example, asking the customer if they feel that they have been asked appropriate questions concerning their problems, and if the person communicating with the requirements engineer feels that they are (or are not) the person who should be answering the engineer's questions. 
+2. Elicitation 
+This step is concerned with identifying the overall problem the project is attempting to solve, proposing solutions, negotiating between the differing approaches to solving the problem, and finally specifying a basic set of requirements. 
+This can be done by calling a meeting between all of the stakeholders. It is important to nominate someone to act as a facilitator, who will guide the meeting. Each of the attendees should bring to the meeting a list of: 
+•	objects that make up the system's operating environment 
+•	objects used by the system (such as those things which make up the input to the system) 
+•	objects produced by the system 
+•	the services that interact with these objects 
+•	various constraints, such as time and budget constraints, interoperability constraints, performance restraints, usability constraints, and so on. 
+ 
+Requirements elicitation and analysis  
+•Software engineers work with a range of system stakeholders to find out about the application domain, the services that the system should provide, the required system performance, hardware constraints, other systems, etc.  
+•Stages include:  
+–Requirements discovery,  
+–Requirements classification and organization,  
+–Requirements prioritization and negotiation,  
+–Requirements specification.  
+ 
+Figure: The requirements elicitation and analysis process 
+  
+ 
+Process activities  
+1.	Requirements discovery: Interacting with stakeholders to discover their requirements. Domain requirements are also discovered at this stage.  
+2.	Requirements classification and organization: Groups related requirements and organises them into coherent clusters.  
+3.	Prioritization and negotiation: Prioritizing requirements and resolving requirements conflicts.  
+4.	Requirements specification: Requirements are documented and input into the next round of the spiral.  
+ 
+Problems of requirements elicitation  
+1.	Stakeholders don’t know what they really want.  
+2.	Stakeholders express requirements in their own terms.  
+3.	Different stakeholders may have conflicting requirements.  
+4.	Organisational and political factors may influence the system requirements.  
+5.	The requirements change during the analysis process. New stakeholders may emerge and the business environment change.  
+The most important tool for gathering project requirements is an elicitation plan. This plan ensures that the best methods are used to gather requirements from the stakeholders and allows the team to document the methods they will use to ensure that they cover all possible sources.5 The plan need not be long and complicated, but the detail level must be consistent with the risk and complexity of the project. This can be determined by the type of project, number of stakeholder groups, experience of the team, and so forth. 
+Why spend time to document a plan to gather requirements? Many teams make the mistake of diving into requirements discussions with a small set of stakeholders who they think have the information they need, and with whom they have an established relationship. Jumping in without a comprehensive and holistic view of who has a material interest in the project can lead to missing stakeholders and therefore missing requirements. The opposite is also true. It is impossible to interview everyone, so identifying key contributors and then narrowing down the list to the “right” stakeholders who can provide a well-rounded understanding of the requirements can save the team precious time. Interviews, focus groups, and surveys are better conducted if the right stakeholders are thoughtfully identified and approached. 
+  
+Figure: Simple Elicitation Plan Template 
+Figure above provides a template for a simplified elicitation plan. If appropriate, based on the size of the project, or if the team has experience with a similar project, feel  free to add or delete topics that are pertinent to your project. Again, the elicitation plan can be as simple or as broad as you like based on the needs of the team and the value from a deeper discussion. Be mindful that you are focused only on gathering project requirements. This is not an overall project plan; this is a specific plan to elicit requirements. 
+Techniques to Elicit Requirements 
+Interviews. Usually one-on-one or in small groups (three to four people) where key stakeholders are invited to attend a requirements elicitation meeting and asked questions to uncover needs, wants, and desires. The key questions should be determined prior to meeting with them based on the type of requirements you are looking for. There are a lot of ways to ask questions; generally, you want to ask openended questions to get them started and then follow up with probing questions to uncover requirements. 
+Facilitated discussions. Larger groups (five to ten people) come together with a facilitator trained on how to elicit requirements. The goal is to gather requirements faster than if you spent time interviewing each stakeholder independently. 
+Surveys or questionnaires. Used best when you want to gather requirements from a lot of stakeholders who are geographically dispersed. It is best if an expert in surveys or questionnaires develops the questions so you get the information needed. 
+Prototyping. Build an initial version of the solution; demonstrate it in the spirit of learning more about what features the users like and don’t like. Use the feedback to make changes to the prototype, and show it to the users again. 
+This repetitive process allows real-time feedback and a better understanding of the requirements. 
+Use cases. Think of use cases as stories that are easier for users to describe and understand. These are best used for the functionality (what the system must do) rather than how it will behave. Remember, use cases are not requirements; however, they are very helpful to get to detailed functional requirements. 
+Change requests. Ask to see the log showing what customers and end users are asking to be fixed on current solutions. System enhancements and bug reports are all good sources for possible requirements. 
+Observation. Watching users perform their jobs can be very helpful in understanding the current process from start to finish. Asking questions to better understand where they get frustrated or wish the solution did something different are excellent areas to find requirements. 
+Brainstorming session. Use a brainstorming session to help discover requirements for solutions that have not been developed before. Invite domain and subject matter experts into a session and let them brainstorm what they think the solution might look like. Allow enough time for the “good stuff” to come out, then ask them to prioritize those ideas they think are the best to go forward with. Use the highest-priority ideas as a basis for the initial set of the requirements. 
+Benefits 
+Spending adequate time to get a complete understanding of what it is going to take to gather requirements for a project can be of significant value. 
+Following are four benefits gained by taking the time to develop an elicitation plan, even if it is only a few pages and at a high level: 
+■ Guarantee you will spend time with the “right” stakeholders. Without a wellthought-out plan, you may begin gathering requirements, only to find out later that you have missed important stakeholders or gathered information from stakeholders who were not able to provide the right feedback. 
+■ Use the right technique to gather requirements. Spending time to identify the correct elicitation technique (interview, focus group, prototype, etc.) will help ensure that you deliver the best possible set of requirements. Many requirements teams start with interviews with the existing users.7 However, many unique solutions do not have current users, so there is a visualization leap required. When users are asked to help design a solution they have never seen or used, an interview may prove to be an ineffective way to gather a list of requirements. A prototype would produce better insight, but time to create, test, and then deliver a prototype requires planning to do it right. Without a solid elicitation plan, what was thought to take a few days could turn into several weeks. 
+■ Assign the right resources, armed with the right amount of time to gather requirements. Often, gathering requirements is seen as a “second job” that has to be completed in conjunction with other responsibilities. Taking time to create a plan helps to ensure that the right people will be involved in gathering requirements, that their time will be used wisely, and that adequate up-front requirements gathering will be performed. 
+■ Gain agreement from top managers on the requirements elicitation effort (time, resources, and cost). By documenting what resources and time it is going to take to gather requirements, senior leaders can guide the project manager on what compromises and decisions will need to be made. For example, if an elicitation plan shows five focus groups are planned at a cost of $50k, senior leaders can approve this cost before the focus groups are formed and scheduled, rather than be surprised at the end. 
+An elicitation plan can be as simple as one page. Or it can be quite lengthy (eight to ten pages) depending on how comprehensive and complex the project is. The main thing to remember is that it is a specific plan to gather requirements, not an overall project plan. Use this plan to augment the overall project plan with more details on the resources, time, and effort needed to effectively and efficiently gather project requirements. 
+3. Elaboration 
+This step involves expanding on the requirements defined in the previous two steps, and from these requirements producing an analysis model, which is a technical model of the software and its functions. The construction of analysis models will be discussed in detail in the following two chapters. 
+4. Negotiation 
+This step involves negotiating between the various stakeholders in order to remove any conflict in the requirements. A useful technique for resolving these conflicting requirements is to provide each of the stakeholders with a finite number of priority points. They may then allocate points between the conflicting requirements as they see fit. The overall importance of any requirement can then be determined by the number of priority points that it has received. 
+5. Specification 
+The specification step produces the final product of the requirements engineering process. It describes the software, both its functions and constraints. The specification need not be a written document, but could also be a graphical model (such as those produced using the UML), software prototype or formal model, or a collection of these. 
+6. Validation 
+This step is concerned with ensuring that the gathered requirements in the software specification meet certain standards of quality. For example, have the requirements been written to the proper level of abstraction, or do they provide too much technical detail for the given stage of development? 
+Is the requirement necessary, or something not essential to the software? Are the requirements unambiguous? Do requirements contradict other requirements? A useful action during validation is to ensure that each requirement has a source attributed to it. In this way, if more information is required, the requirements engineers know who to contact. 
+ 
+ 
+Requirements validation  
+1.	Concerned with demonstrating that the requirements define the system that the customer really wants.  
+2.	Requirements error costs are high so validation is very important–Fixing a requirements error after delivery may cost up to 100 times the cost of fixing an implementation error.  
+ 
+Requirements checking  
+1.Validity: Does the system provide the functions which best support the customer’s needs?  
+2.	Consistency: Are there any requirements conflicts?  
+3.	Completeness: Are all functions required by the customer included?  
+4.	Realism: Can the requirements be implemented given available budget and technology  
+5.	Verifiability: Can the requirements be checked?  
+ 
+Requirements validation techniques  
+1.	Requirements reviews: Systematic manual analysis of the requirements.  
+2.	Prototyping: Using an executable model of the system to check requirements. 
+Covered  
+3.	Test-case generation: Developing tests for requirements to check testability.  
+ 
+7. Management 
+Requirements change over time; requirements management is concerned with controlling and tracking change in the requirements. 
+Requirements management proceeds by associating requirements with various aspects of the software engineering process. As these aspects are changed, the requirements associated with them can be easily identified and changed. As these requirements are changed, all aspects of development associated with the modified requirements can be examined, and in this way the changes can more easily be propagated through the project. 
+Such an association between requirements and aspects of the project can be done using a table: each row in the table represents a specific requirement, each column an aspect of the software project. The entries mark whether a requirement is associated with that aspect. 
+1.	Requirements management is the process of managing changing requirements during the requirements engineering process and system development.  
+2.	New requirements emerge as a system is being developed and after it has gone into use.  
+3.	You need to keep track of individual requirements and maintain links between dependent requirements so that you can assess the impact of requirements changes. You need to establish a formal process for making change proposals and linking these to system requirements.  
+ 
+Changing requirements  
+1.	The business and technical environment of the system always changes after installation. –New hardware may be introduced, it may be necessary to interface the system with other systems, business priorities may change (with consequent changes in the system support required), and new legislation and regulations may be introduced that the system must necessarily abide by.  
+2.	The people who pay for a system and the users of that system are rarely the same people. –System customers impose requirements because of organizational and budgetary constraints. These may conflict with end-user requirements and, after delivery, new features may have to be added for user support if the system is to meet its goals.  
+3.	Large systems usually have a diverse user community, with many users having different requirements and priorities that may be conflicting or contradictory.  –The final system requirements are inevitably a compromise between them and, with experience, it is often discovered that the balance of support given to different users has to be changed.  
+ 
+Requirements evolution 
+  
+ 
+Requirements management planning  
+1.	Establishes the level of requirements management detail that is required.  
+2.	Requirements management decisions: – 
+(i)	Requirements identification Each requirement must be uniquely identified       so that it can be cross-referenced with other requirements.  
+(ii)	A change management process This is the set of activities that assess the       impact and cost of changes.  
+(iii)	Traceability policies These policies define the relationships between each        requirement and between the requirements and the system design that        should be recorded.  
+(iv)	Tool support Tools that may be used range from specialist requirements         management systems to spreadsheets and simple database systems.  
+ 
+Requirements change management  
+1.	Deciding if a requirement change should be accepted –Problem analysis and change specification  
+2.	During this stage, the problem or the change proposal is analyzed to check that it is valid. This analysis is fed back to the change requestor who may respond with a more specific requirements change proposal, or decide to withdraw the request.  
+–Change analysis and costing  
+3.	The effect of the proposed change is assessed using traceability information and general knowledge of the system requirements. Once this analysis is completed, a decision is made whether or not to proceed with the requirements change.  
+–Change implementation  
+4.	The requirements document and, where necessary, the system design and implementation, are modified. Ideally, the document should be organized so that changes can be easily implemented.  
+ 
+  
+ 
+ 
+ 
+CHAPTER TWELVE 
+SCOPE CREEP 
+Scope creep happens when your project begins to expand beyond what it was originally intended to do. Discover how to deal with it using smart planning and knowing how to respond when it does happen. 
+Scope creep occurs when any parts of a project's scope—such as deliverables, budget, timeline, or resources—begin to change after the project has started. This can lead to projects going over budget, extending beyond their deadlines, and increasing overall project risk. Understanding and managing scope creep is crucial for project managers to ensure project success and maintain control over project boundaries. 
+What is scope creep in project management? 
+Scope outlines a project's boundaries—what must be completed, to whom it must be delivered, the budget, timeline, and resources. Scope creep occurs when any of the scope elements begin to change once the project has started. 
+For example, let’s say a project to add three new features to a software program grows into a project to add five new features, or a construction project to renovate a building needs to include updates to the foundation after some flaws are discovered. Both of these instances would be considered scope creep. 
+Scope creep can cause a project to go over budget, extend beyond its deadline, and sometimes increase project risk. Sometimes, scope creep is uncontrollable, and part of being an effective project manager is knowing how best to deal with inevitable changes. 
+Trying to prevent it before it happens and knowing how to handle it when it does is key to setting up a successful project. 
+What are the risks of scope creep? 
+Scope creep can have a domino effect, negatively impacting multiple aspects of your project. Some of the main risks include: 
+i. Project delays ii. Missed deadlines iii. Going over budget iv. Decreased quality 
+v. Reduced team morale vi. Increased project risk vii. Resource stain 
+viii. Stakeholder dissatisfaction ix. Project failure 
+What is a famous example of scope creep? 
+Scope creep can happen in small and large projects. One classic example is the Denver International Airport’s intention to automate its baggage handling system for its three terminals in 1995. The project took around sixteen months longer than planned. It went over budget by $560 million despite the deliverables falling far short of the original scope—only one baggage system at one terminal was automated for only one airline.  
+These drastic consequences were said to be caused by a few factors. First, when evaluators estimated that the project would take four years, city officials insisted on sticking to the original two-year timeline, jeopardizing the chances of the project being completed with successful delivery. Secondly, airlines were not asked for feedback until the project had begun, which meant that including their new requests caused the project planners to backtrack and lose valuable time and resources. 
+Main Causes of Scope Creep 
+Scope creep is a risk that’s inherent to any project and it can occur for many different causes. Here are some of the most frequent reasons why projects are affected by scope creep. 
+i. 	Poorly Defined Project Scope 
+A poorly defined scope for a project can make it difficult to determine the project’s scope or keep it focused. This can happen when a project’s statement of work is vague or incomplete and lack timelines, objectives and terms of reference. 
+ii. 	Unsupervised Changes to the Project Plan 
+Making changes to the project plan without using control methods will lead to scope creep. A change request can also lead to scope creep, too. That’s because changes impact the project timeline, budget, costs and resource allocation. 
+iii. 	Unrealistic Project Schedule 
+Not taking the time to understand how much time a project will take is going to create scope creep. Projects always take longer than anticipated because of stakeholders adding more deliverables or other issues pushing back deadlines. The most control occurs when a realistic project schedule has been made by knowing the tasks needed to complete the project and their duration, the project schedule is aligned with resource capacity and task dependencies are identified. 
+iv. 	Subpar Project Execution 
+Project teams can either take too long to execute tasks, in which case they might produce deliverables that don’t meet the acceptance criteria. Badly executed tasks might generate additional work. Poor task prioritization, lack of communication and uncontrolled changes can all play a part in why a project is poorly executed. 
+v. 	Absence of Project Controls 
+In most cases, the absence of project control measures results in teams drifting away from the project scope baseline for a variety of reasons. Project managers must establish procedures or use tools like project management software to keep a close eye on the team’s progress and project KPIs. 
+Some common causes of scope creep 
+Many factors can cause scope creep. Some of the most common include: 
+i.	Unclear scope definition: Projects spelled out solely in business terms or lacking specific details can create unclear expectations and misinterpretations. 
+ii.	Not having formal scope or requirements management: This can happen if the project’s decision-makers step back after setting out the initial scope. Involving important decision-makers throughout the process becomes important here. 
+iii.	Unclear requirements: If requirements are too high-level and unclear, or new stakeholders appear and add their own requirements, scope creep can occur. 
+iv.	Lack of sponsorship and stakeholder involvement: Disinterested stakeholders or sponsors can lead to less communication, which can then cause scope creep. 
+v.	Project length: The longer a project lasts, the more chances exist for business changes to occur, stakeholders to change priorities, and competitors to change the playing field. Larger projects can be broken down into smaller subprojects to minimize project length. 
+
+How to Avoid Scope Creep 
+Don’t let the scope creeper cripple your project. Here are seven actions that will help avoid scope creep, or at least prevent it. 
+1. Document the Project Requirements 
+The most important thing to avoid scope creep is to document your project requirements. A clear definition of the project requirements allows you to define the scope of your project. Talk to all the project stakeholders and users to work out exactly what they want from the project. Write it down. Manage conflicts. Say one stakeholder wants their new website to be blue and a client wants it to be green, find someone to arbitrate and make a final decision. Prioritize requirements, as it may not be possible to do them all. 
+It can be time-consuming to record everything the stakeholders say, but once you have done so, capture all the requirements in a document. This document is known as a requirements management plan, and it should contain all the information needed to manage the project requirements such as how they will be tracked and the process to change them. Share that document online so everyone can easily see it. 
+ 
+ 
+ 
+the requirements and how they will be achieved, in the form of tasks, activities and milestones. This is commonly made on a Gantt chart. 
+You can cross-reference your project schedule against your requirements management plan document to ensure you have not forgotten anything. Once you have outlined the schedule, make sure you have planned for some contingency. As noted above, change does happen. Project scope creep only occurs if changes were not handled as defined in your change management plan. 
+6. Verify the Project Scope with the Stakeholders 
+It’s important to check that you have properly understood the stakeholder requirements. What you think the project sponsor means about the project deliverables might not be what he or she meant. Often people talk at cross purposes without realizing it. Take the time to go back to your stakeholders such as clients, investors or project sponsors and share the requirements documentation with them. You can also show them your project schedule and ensure that all the elements they expected to see are represented in the task list. 
+You may find that they’ve changed their mind about things like product features, or delivery times. It’s important to make sure that you adjust your project plan early during the planning process to mitigate the risk of scope creep, rather than finding out later once the project has started. 
+You can also use these discussions to talk to your sponsor and stakeholders about the change control process. Explain how you will manage changes to the project plan and what approval you will need from them to proceed. This is a useful moment to remind them that they can have pretty much whatever they want – if they are prepared to pay for it and for the project to take longer if they include new requirements! 
+If the stakeholders are “too busy” to want to get detailed with the schedule at this stage, gently remind them what stage you’re in. Sometimes, poor communication means key stakeholders were not informed of what the requirements-gathering process ended! 
+Stakeholder analysis template  
+7. Engage the Project Team Members 
+When your project stakeholders are happy, don’t neglect to make sure your project team members are happy as well. They need to know about the change control process, and how it will affect them. They need to be guardians and protectors of the project scope, not agents of change. 
+Sometimes project team members want to be helpful and will agree to change something without applying the formal change management process. Explain that they cannot say yes to changes without the change being approved because that would affect the project plan and could cause scope creep. If they want to help a stakeholder, the best thing to do is to explain the change control process and offer to help with documenting the change. 
+Scope creep is a real problem on projects, especially when the project manager, the team and the stakeholders don’t understand the impact that changes can have on the resources, the budget and the schedule. Fortunately, it does not need to be a major issue if you are clear about the initial project scope and you carefully manage changes to your project plan during the lifecycle of your project. 
+Ways to avoid scope creep 
+Preventing scope creep involves meticulous project planning from the outset. This includes setting SMART goals, creating a robust change control process, involving all relevant stakeholders in the planning phase, and breaking down large projects into manageable subprojects. When scope creep does occur, it's crucial to assess its impact on the project’s constraints and prioritize accordingly to mitigate its effects. 
+1. Prevent scope creep before your project begins: A big part of keeping scope creep from happening involves good project planning. This entails: 
+i.	Setting well-defined goals: Goals should be SMART—specific, measurable, attainable, relevant, and time-bound. Ensure everybody on the team knows requirements, deliverables, and other details. 
+ii.	Creating a change control process: Sometimes, change is inevitable. This means that you can plan for it as best as you can. Set up a system where changes can be requested by team members, approved by relevant parties, and recorded.  
+iii.	Involving all relevant stakeholders in the planning phase: Looping in the stakeholders of a project during the planning phase helps you understand what each stakeholder expects and requires, allowing you to set realistic goals that the stakeholders agree on. Make a schedule to communicate with stakeholders and sponsors to keep them involved throughout the project—for example, by making plans to send out daily updates on the project’s progress or setting up weekly meetings. 
+iv.	Breaking down large projects into subprojects: As mentioned above, the longer a project is, the more scope creep can occur. If you’re tackling a large project, consider breaking it into smaller projects so that you have a clear map of immediate needs and details aren’t overlooked. 
+2. Address scope creep when it happens: Not all scope creep is bad—in fact, it’s often inevitable. To make decisions for your project once you’ve identified that scope creep has happened, determine the consequences and identify your priorities. 
+i.	Determine the consequences: Think about how this affects your project. One way to approach this is to consider the project management triangle. This model shows that the outcome's quality is determined by three constraints— scope, budget, and time. It can be summed up by the saying, “Good, fast, and cheap: pick two.” If you don’t want the quality of the project to suffer, changing one of these constraints will result in a change in one or both of the others. Will the scope creep extend the expected timeline of your project? Will it increase the cost? Knowing how it will affect your resources is important in determining how to deal with it. 
+ii.	Pick your priorities: Once you’ve determined how scope creep will affect your project, decide which constraints are your priorities. If a client has a firm launch date for a product, you’ll want to prioritize time, which might mean you’ll have to increase your budget. If the budget is non-negotiable, consider extending the timeline for the project. If you expand the scope but wish to maintain the original cost and timeline for the project, keep in mind that the quality of the finished product might suffer. 
+ 
+ 
+ 
+ 
+ 
+CHAPTER THIRTEEN 
+SCOPE VALIDATION 
+This process also known as scope verification.  This is the formal acceptance of the project scope by stakeholders (Richardson & Butler, 2006). This involves customer reviews and sign-offs on some key deliverable; this creates a space where scope creep finds its way into the project.  Scope validation should be done throughout the project life cycle; this is done to minimize known or unknown scope changes as this will test if all the work to be done or being done is within scope still Schwalbe (2014). Validation is the process of confirming whether the right requirements have been specified. Scope validation is the process of formally accepting completed project deliverables to ensure they meet the defined requirements. 
+It is difficult to create a good project scope statement and WBS for a project. It is even more difficult, especially on IT projects, to verify the project scope and minimize scope changes. Some project teams know from the start that the scope is very unclear and that they must work closely with the project customer to design and produce various deliverables. In this case, the project team must develop a process for scope validation that meets unique project needs. Careful procedures must be developed to ensure that customers are getting what they want and that the project team has enough time and money to produce the desired products and services. and location, and updating the data after performing the physical inventory and receiving inputs from department managers. Our project sponsor will send a notice to all department managers to communicate the importance of this project and this particular task. In addition to general hardware and software upgrades, the project sponsors will ask the department managers to provide information for any unique requirements they might have that could affect the upgrades. This task also includes updating the inventory data for network hardware and software. After updating the inventory database, we will send an e-mail to each department manager to verify the information and make changes online as needed. Department managers will be responsible for ensuring that their people are available and cooperative during the physical inventory. Completing this task is dependent on WBS Item Number 2.1, Physical Inventory, and must precede WBS Item Number 3.0, Hardware and Software Acquisition. 
+Even when the project scope is fairly well defined, many IT projects suffer from scope creep—the tendency for project scope to keep getting bigger and bigger. There are many horror stories about IT projects failing due to problems such as scope creep, including a few classic examples in the following What Went Wrong? feature. For this reason, it is very important to verify the project scope with users throughout the life of the project and develop a process for controlling scope changes. 
+Scope creep can also be a good thing, if managed well.  
+Scope validation involves formal acceptance of the completed project deliverables. This acceptance is often achieved by a customer inspection and then sign-off on key deliverables. To receive formal acceptance of the project scope, the project team must develop clear documentation of the project’s products and procedures to evaluate whether they were completed correctly and satisfactorily. Management specialists identify and document the functional and physical characteristics of the project’s products, record and report the changes, and audit the products to verify conformance to requirements. To minimize scope changes, it is crucial to do a good job of configuration management and validating project scope. 
+The project management plan, project documents, verified deliverables, and work performance data are the main inputs for scope validation. The main tools for performing scope validation are inspection and decision-making techniques. The customer, sponsor, or user inspects the work after it is delivered and decides if it meets requirements. 
+The main outputs of scope validation are accepted deliverables, change requests, work performance information, and project documents updates. For example, suppose that Kim’s team members deliver upgraded computers to users as part of the IT upgrade project. Several users might complain because the computers did not include special keyboards, they need for medical reasons. Appropriate people would review this change request and take appropriate corrective action, such as getting sponsor approval for purchasing the special keyboards. 
+Methods of validation are classified under three categories: 
+i.	Review techniques: These techniques are either formal or informal. Formal reviews follow a more structured process, which includes walkthroughs and inspections. Informal reviews are mainly about sending a document for the reviewer’s analysis, which works well with requirements’ draft versions. 
+ii.	Exploratory techniques: These are the design thinking development approaches and include prototyping, elicitation and validation, A/B testing, and alpha and beta testing. 
+iii.	Sample development: This belongs to static validation, just like in review techniques. A set of requirements is provided to developers during sample development, the development team creates work products like designs, architecture, code, test cases, manuals, etc. 
+We can use these methods for the validation of both systems and ourselves. The set of requirements comes in different forms for different versions of validation, but the tools for validation stay the same. According to IREB, validation is the process of confirming that the document requirement matches the stakeholder’s needs and desires. Or in other words, confirming whether the right requirements have been specified. 
+Key Aspects of Scope Validation: 
+1.	Purpose: 
+-	To get formal approval from the client or key stakeholders on deliverables. 
+-	Helps confirm the project is on the right track and avoids rework. 
+2.	Inputs: 
+-	Verified deliverables (from quality control) 
+-	Scope statement 
+-	Requirements documentation    - Work Breakdown Structure (WBS) 
+3.	Tools & Techniques: 
+-	Inspection (review, audits, walkthroughs) 
+-	User acceptance testing (UAT)    - Demonstrations or presentations 
+4.	Outputs: 
+-	Accepted deliverables 
+-	Change requests (if the deliverable needs modification) 
+-	Documented decisions 
+5.	Example: After building a prototype bus stop shelter in an urban transport project, stakeholders inspect and formally sign off if it meets agreed specs. 
+Note: Scope validation is different from quality control. Quality checks if the product meets specs; validation checks if it’s acceptable to the client. 
+ 
+ 
+ 
+  
+Figure. Validate Scope flow diagram (PMBOK, 2013)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER FOURTEEN 
+WORK BREAKDOWN STRUCTURE OF LARGE PROJECT 
+Practical demonstration of applying a Work Breakdown Structure (WBS) in a large construction project—e.g., Building a University Lecture Hall Complex. 
+1. Project Goal 
+Deliver a fully functional 1,000-capacity lecture hall. 
+2. Level 1: Major Project Phases 
+-	1.0 Project Initiation 
+-	2.0 Design and Planning 
+-	3.0 Construction 
+-	4.0 Furnishing and Equipment 
+-	5.0 Testing and Commissioning 
+-	6.0 Project Closure 
+3. Level 2–3: Breakdown of Major Components 
+2.0 Design and Planning 
+-	2.1 Site survey 
+-	2.2 Architectural design 
+-	2.3 Structural design 
+-	2.4 Electrical & mechanical plans 
+-	2.5 Permits and approvals 
+3.0 Construction 
+-	3.1 Site preparation 
+-	3.1.1 Clearing and excavation 
+-	3.1.2 Foundation laying 
+-	3.2 Building structure 
+-	3.2.1 Framing 
+-	3.2.2 Roofing 
+-	3.3 Utilities 
+-	3.3.1 Electrical wiring 
+-	3.3.2 Plumbing 
+-	3.4 Exterior and interior finishing 
+-	3.4.1 Wall finishing 
+-	3.4.2 Painting 
+4.0 Furnishing and Equipment 
+-	4.1 Seating installation 
+-	4.2 Air conditioning 
+-	4.3 Sound and multimedia systems 
+5.0 Testing and Commissioning 
+-	5.1 Electrical safety testing 
+-	5.2 Plumbing testing 
+-	5.3 Sound system test - 5.4 Handover inspection 
+4. Benefits of WBS in Practice: 
+-	Clear task allocation 
+-	Improved budgeting and scheduling 
+-	Progress tracking and accountability 
+-	Risk identification at component levels This practical WBS guides managers in organizing, assigning, and monitoring complex projects effectively. 
+Practical Demonstrations of Work Breakdown Structure (WBS) for different  Large Projects 
+A Work Breakdown Structure (WBS) is a hierarchical decomposition of the project scope into smaller, manageable tasks.  
+The graphical structure of the WBS is an easy way to identify the project components and relationships of those components; however, the WBS can be displayed in another format as well: The Tree format. 
+Both formats are acceptable. The graphical format is at times easier to understand, but can take up considerable space in a report. 
+The tree is not as easy to understand but is more easily incorporated into a report format. 
+Note the WBS codes and the structure of the Levels in the Tree format mirror the graphical format. The content has not changed; only the way the content is presented has changed. 
+Here are some practical demonstrations of WBS for large projects: 
+1.	ACME HOUSING CORPORATION 
+1.1	New home Construction 
+1.1.1Concrete 
+1.1.1.1	Pour Foundation 
+1.1.1.2	Install patio 
+1.1.1.3	Pour Stairway 
+1.1.2	Framing 
+1.1.2.1	Frame Exterior Walls 
+1.1.2.2	Frame Interior walls 
+1.1.2.3	Install Rooting Trusses 
+1.1.3	Plumbing 
+1.1.3.1	Frame Exterior Lines 
+1.1.3.2	Install Gas lines 
+1.1.3.3	Install B/K Fixtures 
+1.1.4	Electrical 
+1.1.4.1	Install wiring 
+1.1.4.2	Install Outlets/switches 
+1.1.4.3	Install Fixtures 1.1.5 Interior 
+1.1.5.1	Install Drywall 
+1.1.5.2	Install tiles 
+1.1.5.3	Painting 
+1.1.6 Roofing 
+1.1.6.1	Install Felt 
+1.1.6.2	Install shingles 
+1.1.6.3	Install vents 
+2. CONSTRUCTION PROJECT 
+-	Project Name: New Office Building Construction 
+-	Level 1: 
+-	Planning and Design 
+-	Site Preparation 
+-	Construction     - Testing and Commissioning 
+-	Level 2 (Construction): 
+-	Foundation Work 
+-	Structural Frame 
+-	Electrical and Plumbing 
+-	HVAC and Insulation 
+-	Finishing Work 
+-	Level 3 (Finishing Work): 
+-	Flooring 
+-	Painting 
+-	Installation of Doors and Windows 
+-	Fixtures and Fittings 
+3. SOFTWARE DEVELOPMENT PROJECT 
+-	Project Name: E-commerce Website Development 
+-	Level 1: 
+-	Requirements Gathering 
+-	Design and Prototyping 
+-	Development     - Testing and Deployment - Level 2 (Development): 
+-	Front-end Development 
+-	Back-end Development 
+-	Database Design and Integration 
+-	API Development 
+-	Level 3 (Front-end Development): 
+-	User Interface Design 
+-	User Experience Development 
+-	Front-end Coding 
+4. EVENT PLANNING PROJECT 
+-	Project Name: Annual Music Festival 
+-	Level 1: 
+-	Planning and Coordination 
+-	Venue Selection and Management 
+-	Marketing and Promotion 
+-	Logistics and Operations 
+-	Level 2 (Logistics and Operations): 
+-	Stage and Sound Management 
+-	Security and Crowd Control 
+-	Food and Beverage Management 
+-	Ticketing and Registration 
+-	Level 3 (Stage and Sound Management): 
+-	Stage Design and Setup 
+-	Sound System Installation and Testing 
+-	Lighting and Visual Effects 
+These demonstrations illustrate how a WBS can be applied to different types of large projects, breaking down the project scope into smaller, manageable tasks and activities. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER FIFTEEN 
+PROJECT SCOPE MANAGEMENT PLAN (UPDATES) 
+There may be a need to update the project scope management plan during an iteration of the Scope Definition process to incorporate any requested changes that were approved from the Integrated Change Control process. 
+Project Scope Statement 
+The project scope statement describes the project's deliverables and the work needed to create those deliverables. The project scope statement guides the project team in making decisions about which requirements from stakeholders are within the approved scope, and which must be treated as change requests. 
+The project scope statement is a concise document describing the project and the value it has for the company. The detail used in defining the project's requirements and deliverables will exert tremendous leverage in controlling the project's scope and the accuracy of the remaining project planning deliverables. However, excessive detail can even be counterproductive as project participants become overwhelmed with the level of work required to compare related and interdependent project requirements, and to maintain them as changes are incorporated. 
+The project scope statement defines boundaries by answering the following questions about the project: 
+i.	What does the project consist of and not consist of? 
+ii.	Why is the project necessary? iii. What business value will the project provide when it is done? 
+One of the greatest challenge project teams face is determining an accurate scope and budget. 
+Through progressive elaboration, project teams often develop progressively more sophisticated versions of the project scope statement that are appropriate for the next stage of project work. 
+Project Scope Statement Contributors 
+Having a project scope statement ensures that the project manager, management, and customers have the same understanding of the project. The project scope statement is also valuable for briefing the project team. 
+A number of individuals (the project stakeholders) participate in the drafting and approval of the project scope statement. These include the following: 
+i. Project team members; ii. Project manager iii. Resource managers iv. Functional managers; 
+v. Customers; and vi. Senior management. 
+Plan Scope Management   
+Plan scope management refers to the process of creating the scope management plan, which outlines how the scope will be defined, controlled and validated (Knipe et. al., 2010). The project scope management plan is the only output of the scope planning process. The document describes the process which will be followed in the definition, documentation, verification, acceptance, competed deliverables, controlling and the management of requests for changes that may be needed for the scope (Sliger & Broderick, 2008).  
+The planning process provides parameters and a path on which scope will be managed throughout the project. The inputs to this process are the project management plan, the project charter, enterprise environmental facts and organisational process assets.  The tools in this process are the meetings and expert judgments. The outputs include a scope management plan and a requirements management plan (PMBOK, 2013). It should be understood that outputs of previous stage are regarded as inputs to the preceding stage.   
+Plan Scope management inputs  
+The project management plan forms a capsule version of all the project activities.  It includes what will be achieved, how will it be measured and reported and who will be involved.  This may probably be the chief communication document for the whole project. Project management plan identifies all stakeholders involved and the budgetary issues (Haugun, 2011).  
+According to Haugun (2011) a project charter serves as a document which explains the project.  It is used to create organisational ground rules and the context as to the preparation for the implementation phase. It also provides the means to communicate and manage the purpose of the project to stakeholders and to show management support. The project charter also describes the required support from management and the level of authority of the project manager. It can be used as an optional contract between a project manager and his superiors. The parameters of each assignment are established and resources to be used also are established.  This document is produced by the project manager but is reviewed by senior management and may also be reviewed by the customer (Haugun, 
+2011).   
+According to PMBOK (2013) the inputs for a project charter involve amount other things for example project statements of work which is simply a description of what needs to be delivered by the project. In external (outsourced) projects it can come from the customer.  This includes business needs, product scope descriptions, and strategic planning.  It also involve with business cases which may only be relevant to internal projects, as this is a document to determine if the project is worthy of an investment for the business. This may include the market demand, organisational needs, technological advancements, any legal requirements, ecological impacts or social needs.  
+Agreements are used to define intentions for a project. These may vary from a memorandum of understandings and the service level agreement contracts or even letters of intent. Some may be in the form of emails or verbal agreements. In the case of outsourced projects contracts are the best form of agreements (Meredith & Mantel, 2012).  
+Some organisations have several templates and registers for contracts and tools for assessment to assist in the running of projects. There are some other forms of assets in lessons learned and organisational knowledge base.  Anything that the organisation acquired in order to be used in managing the project, is part of the process asset. Plans that are formal or informal, as well as procedures, policies and guidelines are very crucial in the planning stage (Dwevedi, 2012). Any artifacts used are also included and the lessons learned, along with historical information. This is the process that is done throughout the project life cycle and can be grouped into processes, procedures and corporate procedure base (PMBOK, 2013).  
+Tools and Techniques of Plan Scope Management Phase  
+This involves mainly two tools, expert judgment and meetings. Expert judgment is where; experts are regarded as an asset of an organisation. Their opinions are very crucial for planning estimations and they may be stakeholders, or even customers. Expert judgment is therefore considered important in the planning phase of every activity.  It serves time during the planning phase and it assists in the unearthing of possible risks during the implementation phase. It also improves the quality of estimates, and improves the forecast.  Complex projects mostly rely on expert judgment, because the specialists who make accurate unbiased decisions are very important to any competitive organisation (Rajagopalan, 2015). Meetings involve almost all stakeholders meeting to deliberate and develop a scope management plan which is clear and highlighting the inclusions and exlusions (Schwalbe, 2014).  
+ 
+   Plan Scope Management Outputs  
+The Scope Management Plan provides the scope framework for the project. This plan documents the roles and responsibilities in relation to project scope, scope definition, scope verification, scope change control and the project’s work breakdown structure. All communications pertaining to project scope must adhere to the Scope Management Plan (Knipe et. al., 2010: 84).   
+Requirements Management Plan is a part of project management planning which showcases how requirements get to be analysed, documented and managed.  The phase to phase relationship is considered here and the project manager chooses the most effective relationship for the project. Afterwhich, it is documented in the requirements management plan. The other parts  of requirements plan are based on the relationships (PMBOK, 2013:110).  
+Collection Of Requirements For Project Scope  
+This process involves both the identification and documentation of stakeholder needs as well as stakeholder requirements. It also involves the management of the needs and requirements. Collect requirements is a stage where the stakeholder needs are determined and requirements are managed to meet the project objectives. 
+  
+Figure. Collect requirements process (Knipe et. al., 2010)  
+All this will be documented also at this stage. This serves as an input to the defining and managing project scope stage. In any project active stakeholder involvement includes the disintegration of needs into requirements and determining. The documenting and managing of product requirements service or project results is also very important.  Requirements comprise of competencies that must be met by the product or should be in the product service.  Not only that but the result should justify the agreement and any formally imposed specifications (PMBOK, 2013).  Requirements include documented and quantified needs of the customer, the sponsor, or the stakeholders. These requirements will have to be analysed and documented in enough detail to be incorporated in the scope baseline, and measured during execution. This is the basis of the Work breakdown structure (WBS). It is from these requirements that the schedule, cost and quality are based upon (Monnappa, 2012).  
+Some of the outputs of the preceding phase are considered as inputs to this phase. In this case the outputs in the planning phase that is the project charter and scope management plan, are included in the inputs.  
+Scope management Plan  	Provides clarity on what requirements needs to be collected, and how a project team will determine that.  
+Requirements Management Plan  	provides the processes which will be used throughout, and to document and define the stakeholder needs.  
+Stakeholder management plan  	this is merely to understand the stakeholder engagements and communication requirements.  As well as to determine the level of their participation in requirements activities  
+Project Charter  	this is used to provide product descriptions, or services, and project results to help in developing detailed requirements.    
+Stakeholder Register  	his is used to provide information regarding the stakeholders who can provide information on requirements. This will also capture crucial requirements and critical expectations that stakeholders may have for the project  
+Table. Source: PMBOK, 2013)  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER SIXTEEN 
+CONTROLLING SCOPE 
+Controlling project scope involves monitoring the status of the project scope and managing any changes to the scope baseline. 
+Key Activities in Controlling Scope: 
+1.	Compare Actual Work with Scope Baseline: Use the scope statement and Work Breakdown Structure (WBS) to track progress. 
+2.	Monitor Scope Creep: Identify and prevent unauthorized changes or additions to the project. 
+3.	Implement a Change Control Process: Review, approve/reject, and document all scope change requests using a Change Control Board (CCB). 
+4.	Update Project Documents: Reflect approved changes in the scope statement, WBS, and schedule. 
+5.	Communicate Changes: Ensure all stakeholders are informed of any scope adjustments and their implications. 
+6.	Tools & Techniques: 
+-	Variance analysis 
+-	Performance measurement (e.g., Earned Value Management) 
+-	Requirements traceability matrix 
+Outcome: Effective scope control helps ensure that the project: 
+-	Stays aligned with objectives 
+-	Avoids delays and cost overruns 
+-	Delivers only what was agreed upon 
+As you learned in previous Chapter when you studied integrated change control, change is inevitable on projects, especially changes to the scope of IT projects. Scope control involves managing changes to the project scope while keeping project goals and business strategy in mind. Users often are not sure how they want screens to look or what functionality they will need to improve business performance. Developers are not exactly sure how to interpret user requirements, and they also have to deal with constantly changing technologies. 
+The goal of scope control is to influence the factors that cause scope changes, to ensure that changes are processed according to procedures developed as part of integrated change control, and to manage changes when they occur. You cannot do a good job of controlling scope if you do not first do a good job of collecting requirements, defining scope, and validating scope. How can you prevent scope creep when you have not agreed on the work to be performed and your sponsor has not validated that the proposed work is acceptable? You also need to develop a process for soliciting and monitoring changes to project scope. Stakeholders should be encouraged to suggest changes that will benefit the overall project and discouraged from suggesting unnecessary changes. 
+The project management plan, project documents, work performance data, and organizational process assets are the main inputs to scope control. An important tool for performing scope control is data analysis, including variance analysis.  
+Variance is the difference between planned and actual performance. For example, if a supplier was supposed to deliver five special keyboards and you received only four, the variance would be one keyboard. The outputs of scope control include work performance information, change requests, project management plan updates, and project documents updates. 
+Demonstrate the ability to plan, control, and deliver three classroom building projects at Lasu as a project manager: 
+1. Project Planning 
+a. Define Project Scope: Construct 3 fully equipped classrooms with seating capacity for 60 students each, including whiteboards, lighting, fans, and power supply. 
+- Completion timeline: 6 months. 
+b. Work Breakdown Structure (WBS): Decompose the project into manageable sizes - Site preparation 
+-	Foundation work 
+-	Structural work 
+-	Roofing 
+-	Electrical and plumbing 
+-	Finishing (plastering, painting, tiling) 
+-	Furniture and fittings 
+-	Final inspection and handover 
+c. Resource & Budget Planning: 
+-	Prepare cost estimates for materials, labor, and equipment. 
+-	Assign engineers, foremen, and subcontractors. 
+d. Timeline (Schedule): 
+-	Gantt chart created to map each phase with milestones. 
+-	Each building staggered slightly to optimize resource usage. 
+2. Project Control 
+a. Progress Monitoring: 
+-	Weekly site inspections and progress reports. 
+-	Use project management software (e.g. MS Project or Primavera). 
+b. Risk Management: 
+-	Identify risks: weather delays, labor shortages, material inflation. 
+-	Mitigation: contingency planning and flexible procurement. 
+c. Scope & Quality Control: 
+-	Implement quality checks at every stage (materials testing, structural checks). 
+-	Ensure work aligns with agreed architectural and engineering specifications. d. Cost Control: 
+-	Monitor spending vs. budget. 
+-	Approve only necessary variation orders. 
+3. Project Delivery 
+a. Milestone Reviews: 
+- Each classroom is delivered in phases for review before full handover. 
+b. Stakeholder Communication: 
+- Weekly updates to LASU management. - Regular site walkthroughs with stakeholders. 
+c. Final Handover: 
+-	Conduct testing, inspections, and snagging. 
+-	Deliver project documentation and warranties. 
+Conclusion 
+By applying structured planning (WBS, schedules), tight control (progress tracking, quality checks), and stakeholder engagement, I would ensure that the 3 classroom projects are delivered on time, within budget, and to expected quality standards fully functional and ready for academic use. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER SEVENTEEN 
+BENEFITS OF PROJECT SCOPE MANAGEMENT 
+ 
+Project Scope Management is a fundamental component of project management that involves defining and controlling what is and is not included in a project. It ensures that the project team and stakeholders have a clear understanding of the project boundaries, deliverables, and objectives. When implemented effectively, project scope management brings a range of benefits that contribute to the successful completion of projects. 
+1.	Clear Definition of Project Objectives: One of the key benefits of project scope management is the establishment of clear project objectives and deliverables. This clarity helps guide the project team, ensuring that everyone is working towards the same goals. It minimizes ambiguity and aligns the project’s direction with organizational needs and stakeholder expectations. 
+2.	Improved Planning and Resource Management: With a clearly defined scope, project managers can create more accurate schedules, allocate resources efficiently, and plan effectively. This prevents resource overload and ensures that time, cost, and human resources are used judiciously throughout the project lifecycle. 
+3.	Prevention of Scope Creep: Scope creep occurs when changes are made to a project without proper control or approval, often leading to delays and cost overruns. Scope management includes processes for change control, which helps prevent unauthorized or unnecessary changes that can derail the project. 
+4.	Enhanced Cost and Time Control: A well-defined scope allows for precise budgeting and scheduling. It provides a baseline for measuring performance and controlling deviations. This leads to better financial management, reduced wastage, and timely delivery of the project. 
+5.	Increased Stakeholder Satisfaction: Scope management ensures that stakeholder requirements are identified, documented, and validated. By involving stakeholders in scope definition and validation, it increases transparency and builds trust, which ultimately leads to greater stakeholder satisfaction. 
+6.	Better Communication and Coordination: Having a clear scope facilitates effective communication among project teams, clients, and other stakeholders. Everyone understands their roles, responsibilities, and what is expected, reducing misunderstandings and enhancing teamwork. 
+7.	Stronger Quality Assurance: Scope management provides a clear understanding of project deliverables, making it easier to develop quality standards and acceptance criteria. This ensures that the final output meets the required quality expectations and reduces the risk of rework. 
+8.	Simplified Monitoring and Evaluation: When the scope is well documented, it becomes easier to track progress and evaluate project performance. It allows for comparison against original objectives and helps in identifying variances early for corrective actions. 
+9.	Better Risk Management: Understanding the scope of a project allows for better identification of potential risks related to time, cost, and quality. This proactive approach to risk enables mitigation strategies to be put in place before issues arise. 
+10.	Foundation for Successful Project Closure: Scope management not only guides the project throughout its execution but also ensures proper project closure. It helps verify that all deliverables have been completed, all requirements met, and all changes approved, leading to successful handover and documentation. 
+Conclusion 
+Project Scope Management plays a critical role in ensuring project success. By providing structure, clarity, and control, it helps project managers deliver within time, cost, and quality constraints. It also ensures that stakeholder needs are met, risks are minimized, and project objectives are achieved efficiently. Without effective scope management, projects are vulnerable to delays, budget overruns, and stakeholder dissatisfaction. 
+ 

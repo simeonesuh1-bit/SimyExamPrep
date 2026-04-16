@@ -1,11 +1,15 @@
-import { useState, useEffect, useRef, useCallback } from "react";
+import { EMERGENCY_MODE, REAL_QUESTIONS } from "./emergencyData";
+import { useState, useEffect, useRef, useCallback, useMemo } from "react";
+
 import { auth, db } from "./firebase";
 import { signInWithEmailAndPassword, createUserWithEmailAndPassword, onAuthStateChanged, signOut, sendPasswordResetEmail, updateEmail, reauthenticateWithCredential, EmailAuthProvider, fetchSignInMethodsForEmail } from "firebase/auth";
-import { doc, setDoc, getDoc, collection, onSnapshot, updateDoc, deleteDoc, query, where, getDocs } from "firebase/firestore";
+import { doc, setDoc, getDoc, collection, onSnapshot, updateDoc, deleteDoc, query, where, getDocs, writeBatch } from "firebase/firestore";
 
 // ─── CONSTANTS ───────────────────────────────────────────────────────────────
 
 const SUPER_ADMIN = { matric: "23110821060", password: "Dexter20" };
+const stickerPack = [{ "id": "1", "emoji": "📚", "label": "Study" }, { "id": "2", "emoji": "🎯", "label": "Exam" }, { "id": "3", "emoji": "⚠️", "label": "Alert" }, { "id": "4", "emoji": "🏆", "label": "Success" }, { "id": "5", "emoji": "🔥", "label": "Trending" }, { "id": "6", "emoji": "💡", "label": "Tip" }, { "id": "7", "emoji": "🎓", "label": "Grad" }, { "id": "8", "emoji": "🔔", "label": "New" }, { "id": "9", "emoji": "✨", "label": "Premium" }, { "id": "10", "emoji": "🛡️", "label": "Security" }, { "id": "11", "emoji": "📝", "label": "Note" }, { "id": "12", "emoji": "🚀", "label": "Speed" }];
+
 
 const ADMINS = [
     { matric: "23110821060", password: "Dexter20", name: "Esuh Simeon Chioma", email: "simeonesuh1@gmail.com", role: "superadmin" },
@@ -39,14 +43,69 @@ const DEFAULT_PLANS = [
 ];
 
 const COURSES = [
-    { code: "PMG313", name: "Project Scope Management", department: "Business Administration", level: "300" },
-    { code: "FIN313", name: "Financial Management", department: "Business Administration", level: "300" },
-    { code: "EHR305", name: "Compensation and Benefit Management", department: "Business Administration", level: "300" },
-    { code: "BUA399", name: "Research Methods", department: "Business Administration", level: "300" },
-    { code: "BUA319", name: "E-Commerce", department: "Business Administration", level: "300" },
-    { code: "BUA317", name: "Entrepreneurship for Managers", department: "Business Administration", level: "300" },
-    { code: "BUA313", name: "Innovation Management", department: "Business Administration", level: "300" },
-    { code: "BUA303", name: "Management Theory", department: "Business Administration", level: "300" },
+    {
+        "code": "PMG313",
+        "name": "Project Scope Management",
+        "department": "Business Administration",
+        "level": "300",
+        "summary": "Focuses on defining and controlling what is and is not included in the project."
+    },
+    {
+        "code": "FIN313",
+        "name": "Financial Management",
+        "department": "Business Administration",
+        "level": "300",
+        "summary": "Managing organization funds, capital budgeting, and financing decisions."
+    },
+    {
+        "code": "EHR305",
+        "name": "Human Resource Management",
+        "department": "Business Administration",
+        "level": "300",
+        "summary": "Focuses on strategic workforce planning, recruitment, performance appraisal, and compensation."
+    },
+    {
+        "code": "BUA399",
+        "name": "Research Methods",
+        "department": "Business Administration",
+        "level": "300",
+        "summary": "Systematic process of data collection and analysis."
+    },
+    {
+        "code": "BUA319",
+        "name": "E-Commerce",
+        "department": "Business Administration",
+        "level": "300",
+        "summary": "Buying and selling goods using the internet."
+    },
+    {
+        "code": "BUA317",
+        "name": "Entrepreneurship for Managers",
+        "department": "Business Administration",
+        "level": "300",
+        "summary": "Identifying opportunities and managing venture growth."
+    },
+    {
+        "code": "BUA313",
+        "name": "Innovation Management",
+        "department": "Business Administration",
+        "level": "300",
+        "summary": "Managing the pipeline from idea to commercialization."
+    },
+    {
+        "code": "BUA303",
+        "name": "Management Theory",
+        "department": "Business Administration",
+        "level": "300",
+        "summary": "Evolution of management thought and various schools of management."
+    },
+    {
+        "code": "BUS331",
+        "name": "Business Industrial Visit",
+        "department": "Business Administration",
+        "level": "300",
+        "summary": "Practical exposure to corporate entities."
+    }
 ];
 
 const TERMS = `TERMS AND CONDITIONS — SIMYC EXAM PREP NG
@@ -73,53 +132,13 @@ Users must not attempt to hack the platform, share credentials, or use automated
 Your personal data is collected for account management only. We do not sell or share your data.
 
 8. DISCLAIMER
-Questions are for practice purposes only. We do not guarantee questions will appear in actual exams.
+Questions are for practice purposes only. We do not guarantee questions will appear in the actual exam.
+`;
 
-9. TERMINATION
-We reserve the right to suspend accounts that violate these terms.
+const SAMPLE_QUESTIONS = [];
 
-10. CONTACT
-simycesuh@gmail.com | WhatsApp: +234 815 399 6360`;
 
-const SAMPLE_QUESTIONS = [
-    // PMG313 - Easy
-    { id: 1, course: "PMG313", topic: "Project Scope Management", type: "objective", difficulty: "easy", question: "Which process involves defining and documenting stakeholders' needs to meet project objectives?", options: ["A. Collect Requirements", "B. Define Scope", "C. Create WBS", "D. Control Scope"], answer: "A", explanation: "Collect Requirements determines, documents, and manages stakeholder needs." },
-    { id: 2, course: "PMG313", topic: "Project Scope Management", type: "objective", difficulty: "easy", question: "WBS stands for:", options: ["A. Work Budget Summary", "B. Work Breakdown Structure", "C. Work Benefit Schedule", "D. Work Balance Sheet"], answer: "B", explanation: "WBS = Work Breakdown Structure — a hierarchical decomposition of project scope." },
-    { id: 3, course: "PMG313", topic: "Project Scope Management", type: "objective", difficulty: "medium", question: "Scope creep refers to:", options: ["A. Planned scope changes", "B. Unauthorized scope changes", "C. Scope reduction", "D. Budget increase"], answer: "B", explanation: "Scope creep is the uncontrolled expansion of project scope without approval." },
-    { id: 4, course: "PMG313", topic: "Project Scope Management", type: "fill", difficulty: "medium", question: "The ________ defines the project boundaries and deliverables.", answer: "Project Scope Statement", explanation: "The Project Scope Statement documents what is and is not included in the project." },
-    { id: 5, course: "PMG313", topic: "Project Scope Management", type: "objective", difficulty: "hard", question: "Which document formally authorizes a project?", options: ["A. Project Scope Statement", "B. Project Charter", "C. WBS Dictionary", "D. Stakeholder Register"], answer: "B", explanation: "The Project Charter formally authorizes the project." },
-    { id: 6, course: "PMG313", topic: "Project Scope Management", type: "objective", difficulty: "hard", question: "Validated deliverables are an output of which process?", options: ["A. Define Scope", "B. Control Scope", "C. Validate Scope", "D. Create WBS"], answer: "C", explanation: "Validate Scope formalizes acceptance of completed deliverables." },
-    { id: 7, course: "PMG313", topic: "Project Scope Management", type: "theory", difficulty: "hard", question: "Explain the difference between product scope and project scope.", answer: "Product scope = features of the product. Project scope = work needed to deliver it.", explanation: "Both must align for successful delivery." },
-    // FIN313 - Various difficulty
-    { id: 8, course: "FIN313", topic: "Financial Management", type: "objective", difficulty: "easy", question: "Working capital is defined as:", options: ["A. Total assets minus total liabilities", "B. Current assets minus current liabilities", "C. Fixed assets minus long-term liabilities", "D. Total revenue minus total expenses"], answer: "B", explanation: "Working capital = Current Assets - Current Liabilities." },
-    { id: 9, course: "FIN313", topic: "Financial Management", type: "objective", difficulty: "easy", question: "Which ratio measures a company's ability to pay short-term obligations?", options: ["A. Debt ratio", "B. Return on equity", "C. Current ratio", "D. Gross margin"], answer: "C", explanation: "Current ratio = Current Assets / Current Liabilities." },
-    { id: 10, course: "FIN313", topic: "Financial Management", type: "fill", difficulty: "medium", question: "NPV discounts future cash flows at the ________ rate.", answer: "discount", explanation: "NPV uses the discount rate to bring future values to present value." },
-    { id: 11, course: "FIN313", topic: "Financial Management", type: "objective", difficulty: "medium", question: "Depreciation is best described as:", options: ["A. Cash outflow", "B. Non-cash expense", "C. Revenue reduction", "D. Tax payment"], answer: "B", explanation: "Depreciation is a non-cash expense allocating asset cost over its useful life." },
-    { id: 12, course: "FIN313", topic: "Financial Management", type: "objective", difficulty: "hard", question: "Which of these is NOT a source of long-term finance?", options: ["A. Debentures", "B. Retained earnings", "C. Bank overdraft", "D. Ordinary shares"], answer: "C", explanation: "Bank overdraft is a short-term finance source." },
-    // BUA303 - Various difficulty
-    { id: 13, course: "BUA303", topic: "Management Theory", type: "objective", difficulty: "easy", question: "Frederick Taylor is known for:", options: ["A. Human Relations Theory", "B. Scientific Management", "C. Systems Theory", "D. Contingency Theory"], answer: "B", explanation: "Taylor developed Scientific Management, focusing on efficiency." },
-    { id: 14, course: "BUA303", topic: "Management Theory", type: "objective", difficulty: "easy", question: "Maslow's Hierarchy places ________ at the highest level.", options: ["A. Safety needs", "B. Social needs", "C. Esteem needs", "D. Self-actualization"], answer: "D", explanation: "Self-actualization represents full personal potential." },
-    { id: 15, course: "BUA303", topic: "Management Theory", type: "objective", difficulty: "medium", question: "Henri Fayol's 14 principles include:", options: ["A. Unity of command", "B. Theory X and Y", "C. Scientific method", "D. Systems approach"], answer: "A", explanation: "Unity of command: each employee receives orders from one superior." },
-    { id: 16, course: "BUA303", topic: "Management Theory", type: "objective", difficulty: "hard", question: "The Hawthorne studies led to:", options: ["A. Scientific Management", "B. Human Relations Movement", "C. Bureaucratic Theory", "D. Contingency Theory"], answer: "B", explanation: "Hawthorne studies showed human factors affect productivity." },
-    // BUA317
-    { id: 17, course: "BUA317", topic: "Entrepreneurship", type: "objective", difficulty: "easy", question: "An entrepreneur is best defined as:", options: ["A. A government employee", "B. Someone who creates and manages a business", "C. A bank manager", "D. A stock trader"], answer: "B", explanation: "Entrepreneurs create and manage businesses, taking on financial risks." },
-    { id: 18, course: "BUA317", topic: "Entrepreneurship", type: "objective", difficulty: "medium", question: "Which of the following is NOT a characteristic of an entrepreneur?", options: ["A. Risk-taking", "B. Innovation", "C. Risk aversion", "D. Leadership"], answer: "C", explanation: "Entrepreneurs are risk-takers, not risk-averse." },
-    // BUA313
-    { id: 19, course: "BUA313", topic: "Innovation Management", type: "objective", difficulty: "easy", question: "Innovation management refers to:", options: ["A. Managing employee conflicts", "B. Managing the process of innovation in organizations", "C. Managing financial assets", "D. Managing supply chains"], answer: "B", explanation: "Innovation management handles the process of bringing new ideas to market." },
-    { id: 20, course: "BUA313", topic: "Innovation Management", type: "objective", difficulty: "medium", question: "Disruptive innovation typically:", options: ["A. Improves existing products", "B. Creates new markets or displaces existing ones", "C. Reduces employee count", "D. Increases regulatory compliance"], answer: "B", explanation: "Disruptive innovation creates new markets or displaces established ones." },
-    // BUA319
-    { id: 21, course: "BUA319", topic: "E-Commerce", type: "objective", difficulty: "easy", question: "E-Commerce stands for:", options: ["A. Electronic Communication", "B. Electronic Commerce", "C. Extended Commerce", "D. Enhanced Commerce"], answer: "B", explanation: "E-Commerce = Electronic Commerce — buying/selling via the internet." },
-    { id: 22, course: "BUA319", topic: "E-Commerce", type: "objective", difficulty: "medium", question: "B2B e-commerce refers to:", options: ["A. Business to Browser", "B. Business to Business", "C. Buyer to Business", "D. Business to Buyer"], answer: "B", explanation: "B2B = Business to Business transactions online." },
-    // BUA399
-    { id: 23, course: "BUA399", topic: "Research Methods", type: "objective", difficulty: "easy", question: "A hypothesis is:", options: ["A. A proven fact", "B. A testable prediction or statement", "C. A research conclusion", "D. A data collection tool"], answer: "B", explanation: "A hypothesis is a testable statement made before research." },
-    { id: 24, course: "BUA399", topic: "Research Methods", type: "objective", difficulty: "medium", question: "Quantitative research uses:", options: ["A. Interviews only", "B. Numerical data and statistics", "C. Observations only", "D. Case studies"], answer: "B", explanation: "Quantitative research collects numerical data for statistical analysis." },
-    // EHR305
-    { id: 25, course: "EHR305", topic: "Compensation & Benefits", type: "objective", difficulty: "easy", question: "Compensation management refers to:", options: ["A. Managing employee grievances", "B. Managing pay and benefits for employees", "C. Managing company assets", "D. Managing customer relations"], answer: "B", explanation: "Compensation management covers all aspects of employee pay and benefits." },
-    { id: 26, course: "EHR305", topic: "Compensation & Benefits", type: "objective", difficulty: "medium", question: "Which is NOT a type of employee benefit?", options: ["A. Health insurance", "B. Pension plan", "C. Stock options", "D. Office furniture"], answer: "D", explanation: "Office furniture is a workplace resource, not an employee benefit." },
-    // BUS331
-    { id: 27, course: "BUS331", topic: "Business Industrial Visit", type: "objective", difficulty: "easy", question: "The primary purpose of an industrial visit is:", options: ["A. Tourism", "B. Practical exposure to business operations", "C. Entertainment", "D. Sports activities"], answer: "B", explanation: "Industrial visits expose students to real-world business operations." },
-    { id: 28, course: "BUS331", topic: "Business Industrial Visit", type: "objective", difficulty: "medium", question: "A report after an industrial visit should include:", options: ["A. Only photographs", "B. Observations, findings and recommendations", "C. A list of employees", "D. Company financial statements"], answer: "B", explanation: "A good industrial visit report covers observations, findings and recommendations." },
-];
+
 
 // ─── UTILITY ─────────────────────────────────────────────────────────────────
 
@@ -276,6 +295,7 @@ const css = `
   .badge-green { background:rgba(22,163,74,0.18); color:#4ade80; border:1px solid rgba(22,163,74,0.3); }
   .badge-red { background:rgba(220,38,38,0.18); color:#f87171; border:1px solid rgba(220,38,38,0.3); }
   .badge-yellow { background:rgba(245,158,11,0.18); color:#fbbf24; border:1px solid rgba(245,158,11,0.3); }
+  .badge-purple { background:rgba(168,85,247,0.18); color:#a855f7; border:1px solid rgba(168,85,247,0.3); }
   .notif-bell { position:relative; cursor:pointer; padding:8px; border-radius:10px; transition:background 0.2s; }
   .notif-bell:hover { background:var(--card); }
   .notif-count { position:absolute; top:2px; right:2px; background:var(--danger); color:#fff; font-size:9px; font-weight:800; width:16px; height:16px; border-radius:50%; display:flex; align-items:center; justify-content:center; }
@@ -312,6 +332,46 @@ const css = `
   .stat-label{font-size:11px;color:var(--text-muted);margin-top:4px;text-transform:uppercase;letter-spacing:0.5px}
   .stat-card-clickable{cursor:pointer;transition:all 0.2s}
   .stat-card-clickable:hover{border-color:var(--primary-light);transform:translateY(-3px);box-shadow:0 8px 24px rgba(37,99,235,0.2)}
+  /* Social UI */
+  .social-online{width:10px;height:10px;border-radius:50%;background:#4ade80;box-shadow:0 0 8px #4ade80}
+  .social-offline{width:10px;height:10px;border-radius:50%;background:#64748b}
+  .chat-bubble{max-width:80%;padding:12px 16px;border-radius:18px;font-size:14px;line-height:1.5;position:relative;margin-bottom:8px}
+  .chat-me{background:var(--primary);color:#fff;align-self:flex-end;border-bottom-right-radius:4px}
+  .chat-them{background:var(--card);border:1px solid var(--card-border);color:var(--text);align-self:flex-start;border-bottom-left-radius:4px}
+  .chat-time{font-size:10px;opacity:0.6;margin-top:4px}
+  .search-result{display:flex;align-items:center;gap:12px;padding:12px;border-radius:12px;background:rgba(255,255,255,0.03);border:1px solid var(--card-border);margin-bottom:10px;transition:all 0.2s}
+  .search-result:hover{border-color:var(--primary-light);background:rgba(37,99,235,0.05)}
+  .pulse-online { animation: pulse-green 2s infinite; }
+  .chat-layout{display:grid;grid-template-columns:280px 1fr;height:600px;background:rgba(15,23,42,0.6);border-radius:18px;overflow:hidden;border:1px solid var(--card-border)}
+  .chat-sidebar{background:rgba(30,41,59,0.5);border-right:1px solid var(--card-border);display:flex;flex-direction:column;width:280px}
+  .chat-main{display:flex;flex-direction:column;background:rgba(15,23,42,0.4)}
+  .chat-list-item{padding:14px;border-bottom:1px solid rgba(255,255,255,0.05);cursor:pointer;transition:all 0.2s;display:flex;align-items:center;gap:12px}
+  .chat-list-item:hover{background:rgba(37,99,235,0.1)}
+  .chat-list-item.active{background:rgba(37,99,235,0.2);border-left:4px solid var(--primary)}
+  @media (max-width: 768px) { .chat-layout{grid-template-columns:1fr;height:80vh} .chat-sidebar{display:block;width:100%} .chat-main{display:none} .chat-main.active{display:flex;position:fixed;inset:0;z-index:1000} }
+  /* Billboard Hall of Fame */
+  .billboard { background: linear-gradient(135deg, #0f172a, #151c2c); border: 2px solid rgba(37,99,235,0.22); border-radius: 20px; padding: 30px; position: relative; overflow: hidden; margin-bottom: 24px; text-align: center; }
+  .billboard::before { content: ""; position: absolute; inset: 0; background: radial-gradient(circle at top, rgba(37,99,235,0.1), transparent); pointer-events: none; }
+  .podium-container { display: flex; align-items: flex-end; justify-content: center; gap: 15px; margin: 20px 0 0; }
+  .podium-item { flex: 1; display: flex; flex-direction: column; align-items: center; max-width: 120px; }
+  .podium-bar { width: 100%; border-radius: 12px 12px 0 0; display: flex; align-items: flex-start; justify-content: center; padding-top: 10px; font-weight: 900; color: white; transition: height 1s ease-out; }
+  .podium-gold { height: 110px; background: linear-gradient(to top, #d97706, #fbbf24); box-shadow: 0 0 25px rgba(251,191,36,0.4); border: 1px solid rgba(255,255,255,0.2); animation: gold-glow-pillar 3s ease-in-out infinite alternate; }
+  @keyframes gold-glow-pillar { 0% { box-shadow: 0 0 15px rgba(251,191,36,0.3), inset 0 0 5px rgba(255,255,255,0.2); } 100% { box-shadow: 0 0 50px rgba(251,191,36,0.9), inset 0 0 15px rgba(255,255,255,0.5); transform: translateY(-2px); } }
+  @keyframes silver-glow-pillar { 0% { box-shadow: 0 0 10px rgba(156,163,175,0.2), inset 0 0 3px rgba(255,255,255,0.1); } 100% { box-shadow: 0 0 35px rgba(156,163,175,0.6), inset 0 0 10px rgba(255,255,255,0.3); transform: translateY(-1px); } }
+  @keyframes bronze-glow-pillar { 0% { box-shadow: 0 0 8px rgba(180,83,9,0.2), inset 0 0 2px rgba(255,255,255,0.1); } 100% { box-shadow: 0 0 25px rgba(180,83,9,0.5), inset 0 0 8px rgba(255,255,255,0.2); transform: translateY(-0.5px); } }
+  .podium-silver { height: 85px; background: linear-gradient(to top, #4b5563, #9ca3af); border: 1px solid rgba(255,255,255,0.1); animation: silver-glow-pillar 3s ease-in-out infinite alternate 0.5s; }
+  .podium-bronze { height: 65px; background: linear-gradient(to top, #7c2d12, #b45309); border: 1px solid rgba(255,255,255,0.1); animation: bronze-glow-pillar 3s ease-in-out infinite alternate 1s; }
+  .podium-name { font-size: 11px; font-weight: 700; color: var(--text); margin-top: 8px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%; }
+  .podium-score { font-size: 10px; color: var(--primary-light); font-weight: 800; }
+  .podium-crown { font-size: 32px; filter: drop-shadow(0 0 8px rgba(251,191,36,0.6)); margin-bottom: 4px; }
+  .rank-badge { width: 24px; height: 24px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 800; }
+  .rank-1 { background: #fbbf24; color: #78350f; }
+  .rank-2 { background: #9ca3af; color: #1f2937; }
+  .rank-3 { background: #b45309; color: #fff; }
+  .rank-other { background: var(--card-border); color: var(--text-muted); }
+  .leaderboard-row { display: flex; align-items: center; gap: 12px; padding: 12px 16px; border-bottom: 1px solid rgba(255,255,255,0.05); transition: background 0.2s; }
+  .leaderboard-row:hover { background: rgba(37,99,235,0.05); }
+  .leaderboard-row.me { background: rgba(37,99,235,0.12); border-left: 3px solid var(--primary); }
   .floating{animation:float 3s ease-in-out infinite alternate;display:inline-block}
   .floating-delay{animation:float 3s ease-in-out 1.5s infinite alternate;display:inline-block}
   @keyframes float{from{transform:translateY(0)}to{transform:translateY(-12px)}}
@@ -329,6 +389,37 @@ const css = `
   .broadcast-red{background:rgba(220,38,38,0.18);border-bottom:1px solid rgba(220,38,38,0.35);color:#f87171}
   .broadcast-yellow{background:rgba(245,158,11,0.18);border-bottom:1px solid rgba(245,158,11,0.35);color:#fbbf24}
   .broadcast-green{background:rgba(22,163,74,0.18);border-bottom:1px solid rgba(22,163,74,0.35);color:#4ade80}
+  /* Broadcast Ticker */
+  .broadcast-ticker { 
+    background: rgba(15, 23, 42, 0.9); 
+    border-bottom: 1px solid var(--card-border); 
+    height: 38px;
+    display: flex;
+    align-items: center;
+    overflow: hidden; 
+    white-space: nowrap; 
+    position: relative;
+    z-index: 99;
+    backdrop-filter: blur(10px);
+  }
+  .ticker-wrap { 
+    display: inline-block; 
+    white-space: nowrap;
+    animation: ticker-scrolling 50s linear infinite; 
+    padding-left: 100%;
+  }
+  .ticker-item { 
+    display: inline-block; 
+    padding: 0 400px; 
+    color: var(--primary-light); 
+    font-size: 13px; 
+    font-weight: 700; 
+    font-family: 'Syne', sans-serif;
+  }
+  @keyframes ticker-scrolling {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+  }
   .profile-avatar-large{width:90px;height:90px;border-radius:50%;background:var(--gradient);border:3px solid rgba(96,165,250,0.4);display:flex;align-items:center;justify-content:center;font-size:36px;overflow:hidden;cursor:pointer;position:relative;margin:0 auto 12px}
   .profile-avatar-large img{width:100%;height:100%;object-fit:cover}
   .profile-avatar-overlay{position:absolute;inset:0;background:rgba(0,0,0,0.5);display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity 0.2s;border-radius:50%;font-size:20px}
@@ -361,6 +452,14 @@ const css = `
   .diff-easy{background:rgba(22,163,74,0.18);color:#4ade80;border:1px solid rgba(22,163,74,0.3)}
   .diff-medium{background:rgba(245,158,11,0.18);color:#fbbf24;border:1px solid rgba(245,158,11,0.3)}
   .diff-hard{background:rgba(220,38,38,0.18);color:#f87171;border:1px solid rgba(220,38,38,0.3)}
+  .diff-tricky{background:rgba(168,85,247,0.18);color:#a855f7;border:1px solid rgba(168,85,247,0.3)}
+  @keyframes pulse-green { 0% { box-shadow: 0 0 0 0 rgba(74, 222, 128, 0.7); } 70% { box-shadow: 0 0 0 8px rgba(74, 222, 128, 0); } 100% { box-shadow: 0 0 0 0 rgba(74, 222, 128, 0); } }
+  @keyframes pulse-gold { 0% { box-shadow: 0 0 0 0 rgba(251, 191, 36, 0.8); } 70% { box-shadow: 0 0 0 12px rgba(251, 191, 36, 0); } 100% { box-shadow: 0 0 0 0 rgba(251, 191, 36, 0); } }
+  .pulse-gold { animation: pulse-gold 2.5s infinite; border: 2px solid #fbbf24 !important; }
+  @keyframes pulse-silver { 0% { box-shadow: 0 0 0 0 rgba(156, 163, 175, 0.6); } 70% { box-shadow: 0 0 0 10px rgba(156, 163, 175, 0); } 100% { box-shadow: 0 0 0 0 rgba(156, 163, 175, 0); } }
+  @keyframes pulse-bronze { 0% { box-shadow: 0 0 0 0 rgba(180, 83, 9, 0.5); } 70% { box-shadow: 0 0 0 10px rgba(180, 83, 9, 0); } 100% { box-shadow: 0 0 0 0 rgba(180, 83, 9, 0); } }
+  .pulse-silver { animation: pulse-silver 2.5s infinite 0.3s; border: 2px solid #9ca3af !important; }
+  .pulse-bronze { animation: pulse-bronze 2.5s infinite 0.6s; border: 2px solid #b45309 !important; }
   /* Penalty countdown */
   .penalty-banner{padding:20px;background:rgba(220,38,38,0.12);border:1px solid rgba(220,38,38,0.3);border-radius:14px;text-align:center;margin-bottom:12px}
   @media(max-width:768px){
@@ -470,6 +569,15 @@ export default function App() {
 
         return () => { unsubUsers(); unsubAuth(); };
     }, []);
+
+    // Presence Heartbeat
+    useEffect(() => {
+        if (!currentUser?.matric || currentUser.role === "superadmin") return;
+        const heartbeat = () => syncUserToFirestore({ ...currentUser, lastSeen: new Date().toISOString() });
+        heartbeat(); // Run immediately
+        const interval = setInterval(heartbeat, 120000); // Pulse every 2 mins
+        return () => clearInterval(interval);
+    }, [currentUser?.matric]);
 
     // If admin approves an email change, we can only update Firebase Auth email on the student's own device.
     // This modal prompts the student to re-authenticate and updates auth email to match Firestore.
@@ -754,11 +862,7 @@ export default function App() {
     useEffect(() => {
         const unsubQuestions = onSnapshot(collection(db, "questions"), async (snap) => {
             if (snap.empty) {
-                // If firestore is completely empty, seed it with SAMPLE_QUESTIONS
-                for (const q of SAMPLE_QUESTIONS) {
-                    const qId = q.id ? q.id.toString() : Math.random().toString(36).substr(2, 9);
-                    await setDoc(doc(db, "questions", qId), { ...q, id: qId });
-                }
+                // Firestore is empty - ready for new upload
             } else {
                 const arr = [];
                 snap.forEach(d => {
@@ -824,7 +928,7 @@ export default function App() {
         if (!confirmLogout) {
             setConfirmLogout(true);
             showToast("Tap Sign Out again to confirm", "warning");
-            setTimeout(() => setConfirmLogout(false), 4000);
+            setTimeout(() => setConfirmLogout(false), 8000);
             return;
         }
         setConfirmLogout(false);
@@ -839,7 +943,7 @@ export default function App() {
     const handleLogin = (u) => {
         const isAdmin = ADMINS.some(a => a.matric === u.matric);
         const isSuperAdmin = u.matric === SUPER_ADMIN.matric;
-        
+
         // Exempt ALL admins from duplicate login check to prevent lock-outs
         if (!isAdmin && !isSuperAdmin) {
             if (activeSessions[u.matric]) {
@@ -853,7 +957,8 @@ export default function App() {
         setScreen(isAdmin ? "admin" : "dashboard");
     };
 
-    const activeBroadcast = broadcasts.find(b => b.active);
+    const staticBroadcast = broadcasts.find(b => b.active && (b.type === "static" || !b.type));
+    const tickerBroadcasts = broadcasts.filter(b => b.active && b.type === "ticker");
     const isAdmin = currentUser && ADMINS.some(a => a.matric === currentUser.matric);
 
     // Maintenance mode — block non-admins
@@ -880,9 +985,21 @@ export default function App() {
                     <div className="blob blob1" /><div className="blob blob2" /><div className="blob blob3" />
                 </div>
 
-                {activeBroadcast && (
-                    <div className={`broadcast broadcast-${activeBroadcast.color}`}>
-                        📢 {activeBroadcast.message}
+                {staticBroadcast && (
+                    <div className={`broadcast broadcast-${staticBroadcast.color}`}>
+                        📢 {staticBroadcast.message}
+                    </div>
+                )}
+
+                {tickerBroadcasts.length > 0 && (
+                    <div className="broadcast-ticker">
+                        <div className="ticker-wrap">
+                            {tickerBroadcasts.map((b, i) => (
+                                <span key={i} className="ticker-item">
+                                    {b.sticker} {b.message}
+                                </span>
+                            ))}
+                        </div>
                     </div>
                 )}
 
@@ -1245,9 +1362,9 @@ function LoginScreen({ users, admins, onRegister, onLogin, showToast, isSyncing 
         const fId = identifier.trim().toLowerCase();
 
         // 1. Admin hardcoded checks (Matched by Email, Matric, or Name)
-        const admin = admins.find(a => 
-            a.matric?.toLowerCase() === fId || 
-            a.name?.toLowerCase() === fId || 
+        const admin = admins.find(a =>
+            a.matric?.toLowerCase() === fId ||
+            a.name?.toLowerCase() === fId ||
             a.email?.toLowerCase() === fId
         );
         if (admin) {
@@ -1270,7 +1387,7 @@ function LoginScreen({ users, admins, onRegister, onLogin, showToast, isSyncing 
                 const rawId = identifier.trim();
                 // Try local state first (case-insensitive matric)
                 targetUser = users.find(x => x.matric?.toLowerCase() === fId);
-                
+
                 // If not in local state, query Firestore case-insensitively
                 if (!targetUser) {
                     const q = query(collection(db, "users"), where("matric", "in", [rawId, rawId.toUpperCase(), rawId.toLowerCase()]));
@@ -1374,7 +1491,7 @@ function LoginScreen({ users, admins, onRegister, onLogin, showToast, isSyncing 
                 )}
                 {needOtp && <div className="input-group"><label className="input-label">Enter OTP</label><input className="input-field" value={otp} onChange={e => setOtp(e.target.value)} placeholder="6-digit code" /></div>}
                 {!needOtp && <div className="text-right mb-4"><span className="text-sm" style={{ color: "var(--primary-light)", cursor: "pointer" }} onClick={() => setForgotFlow(true)}>Forgot Password?</span></div>}
-                <button className="btn btn-primary btn-full" onClick={handleLogin} disabled={isSyncing}>
+                <button className="btn btn-primary btn-full" onClick={handleLogin}>
                     {isSyncing ? "⏳ Syncing Database..." : (needOtp ? "🔒 Verify OTP" : "🔒 Login")}
                 </button>
                 <div className="divider" />
@@ -1388,7 +1505,7 @@ function LoginScreen({ users, admins, onRegister, onLogin, showToast, isSyncing 
 // ─── REGISTER SCREEN ──────────────────────────────────────────────────────────
 
 function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
-    const [form, setForm] = useState({ fullName: "", matric: "", email: "", phone: "", dob: "", password: "", confirm: "", faculty: "", department: "", level: "100" });
+    const [form, setForm] = useState({ fullName: "", matric: "", email: "", phone: "", dob: "", password: "", confirm: "", faculty: "", department: "", level: "100", gender: "" });
     const [termsChecked, setTermsChecked] = useState(false);
     const [privacyChecked, setPrivacyChecked] = useState(false);
     const [showTermsText, setShowTermsText] = useState(false);
@@ -1400,20 +1517,20 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
     const depts = FACULTIES.find(f => f.name === form.faculty)?.departments || [];
 
     const handleRegister = async () => {
-        if (!form.fullName || !form.matric || !form.email || !form.phone || !form.dob || !form.password || !form.faculty || !form.department) { 
-            showToast("Please fill all required fields", "error"); 
-            return; 
+        if (!form.fullName || !form.matric || !form.email || !form.phone || !form.dob || !form.password || !form.faculty || !form.department || !form.gender) {
+            showToast("Please fill all required fields, including gender", "error");
+            return;
         }
         if (form.password !== form.confirm) { showToast("Passwords do not match", "error"); return; }
         if (form.password.length < 6) { showToast("Password must be at least 6 characters", "error"); return; }
-        
+
         const cleanMatric = form.matric.trim();
         const fMatric = cleanMatric.toLowerCase();
 
         // Safety: Check if matric belongs to an Admin
-        if (ADMINS.some(a => a.matric?.toLowerCase() === fMatric)) { 
-            showToast("This matric number is reserved for system administration.", "error"); 
-            return; 
+        if (ADMINS.some(a => a.matric?.toLowerCase() === fMatric)) {
+            showToast("This matric number is reserved for system administration.", "error");
+            return;
         }
 
         // Safety: Check if matric already exists
@@ -1422,9 +1539,9 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
             return;
         }
 
-        if (!termsChecked || !privacyChecked) { 
-            showToast("You must accept BOTH Terms & Conditions AND Privacy Policy", "error"); 
-            return; 
+        if (!termsChecked || !privacyChecked) {
+            showToast("You must accept BOTH Terms & Conditions AND Privacy Policy", "error");
+            return;
         }
 
         const age = new Date().getFullYear() - new Date(form.dob).getFullYear();
@@ -1436,7 +1553,7 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
         try {
             // 1. Firebase Auth Creation
             const userCredential = await createUserWithEmailAndPassword(auth, cleanEmail, form.password);
-            
+
             // 2. Prepare Firestore Document
             const { confirm, ...firestoreData } = form;
             const newUser = {
@@ -1444,6 +1561,7 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
                 ...firestoreData,
                 email: cleanEmail,
                 matric: form.matric.trim(),
+                gender: form.gender,
                 role: "student",
                 registeredAt: new Date().toISOString(),
                 questionsAttempted: 0,
@@ -1500,11 +1618,21 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
                             {depts.map(d => <option key={d}>{d}</option>)}
                         </select>
                     </div>
-                    <div className="input-group">
-                        <label className="input-label">Level</label>
-                        <select className="input-field" value={form.level} onChange={e => set("level", e.target.value)}>
-                            {["100", "200", "300", "400", "500", "600"].map(l => <option key={l}>{l}</option>)}
-                        </select>
+                    <div className="grid-2">
+                        <div className="input-group">
+                            <label className="input-label">Level</label>
+                            <select className="input-field" value={form.level} onChange={e => set("level", e.target.value)}>
+                                {["100", "200", "300", "400", "500", "600"].map(l => <option key={l}>{l}</option>)}
+                            </select>
+                        </div>
+                        <div className="input-group">
+                            <label className="input-label">Gender *</label>
+                            <select className="input-field" value={form.gender} onChange={e => set("gender", e.target.value)}>
+                                <option value="">Select Gender</option>
+                                <option value="Male">Male</option>
+                                <option value="Female">Female</option>
+                            </select>
+                        </div>
                     </div>
                     <div className="grid-2">
                         <div className="input-group">
@@ -1558,7 +1686,37 @@ function DashboardScreen({ user, setCurrentUser, users, setUsers, notifications,
     const [showNotifs, setShowNotifs] = useState(false);
     const [courseSearch, setCourseSearch] = useState("");
     const [courseFilter, setCourseFilter] = useState("all");
+    const [section, setSection] = useState("main");
     const profilePic = user.profilePic;
+    const [missingGender, setMissingGender] = useState(false);
+
+    useEffect(() => {
+        if (!user.gender || user.gender === "") {
+            setMissingGender(true);
+        }
+    }, [user.gender, setMissingGender]);
+
+    const updateGender = async (g) => {
+        try {
+            await updateDoc(doc(db, "users", user.matric), { gender: g });
+            setCurrentUser(prev => ({ ...prev, gender: g }));
+            setUsers(prev => prev.map(u => u.matric === user.matric ? { ...u, gender: g } : u));
+            setMissingGender(false);
+            showToast("Profile updated!", "success");
+        } catch (e) {
+            showToast("Failed to update gender", "error");
+        }
+    };
+    const topScorers = useMemo(() => {
+        const scores = users.map(u => {
+            const h = u.cbtHistory || [];
+            if (!h.length) return null;
+            const best = Math.max(...h.map(x => (x.score || 0)));
+            return { name: (u.fullName || u.name || "").split(" ")[0], score: Math.round(best), profilePic: u.profilePic, lastSeen: u.lastSeen };
+        }).filter(s => s && s.score > 0).sort((a, b) => b.score - a.score).slice(0, 3);
+        if (scores.length < 3) return scores;
+        return [scores[1], scores[0], scores[2]]; // Order: Silver, Gold, Bronze
+    }, [users]);
     const setProfilePic = (pic) => setCurrentUser(prev => ({ ...prev, profilePic: pic }));
 
     const userNotifs = notifications.filter(n => n.to === user.matric || n.to === "all");
@@ -1602,9 +1760,9 @@ function DashboardScreen({ user, setCurrentUser, users, setUsers, notifications,
         if (!file) return;
         if (file.size > 1 * 1024 * 1024) { showToast("Image must be under 1MB", "error"); return; }
         const reader = new FileReader();
-        reader.onload = (ev) => { 
-            setProfilePic(ev.target.result); 
-            showToast("Profile picture updated and synced!", "success"); 
+        reader.onload = (ev) => {
+            setProfilePic(ev.target.result);
+            showToast("Profile picture updated and synced!", "success");
         };
         reader.readAsDataURL(file);
     };
@@ -1646,8 +1804,10 @@ function DashboardScreen({ user, setCurrentUser, users, setUsers, notifications,
             <div style={{ display: "flex", background: "rgba(15,23,42,0.6)", borderBottom: "1px solid var(--card-border)", padding: "0 20px", overflowX: "auto" }}>
                 {[
                     { id: "home", label: "🏠 Home" },
+                    { id: "leaderboard", label: "🏆 Leaderboards" },
                     { id: "profile", label: "👤 Profile" },
                     { id: "messages", label: <span>💬 Messages {unreadMsgs > 0 && <span className="badge badge-red" style={{ fontSize: 10, padding: "2px 6px", verticalAlign: "middle" }}>{unreadMsgs}</span>}</span> },
+                    { id: "social", label: "🌐 Simyc Connect" },
                 ].map(t => (
                     <div key={t.id} onClick={() => { setTab(t.id); if (t.id === "messages") { const ids = myMessages.filter(m => m.to === user.matric).map(m => m.id); setReadMessages(prev => [...new Set([...prev, ...ids])]); } }} style={{ display: "flex", alignItems: "center", padding: "12px 16px", cursor: "pointer", fontSize: 13, fontWeight: 600, fontFamily: "Syne, sans-serif", color: tab === t.id ? "var(--primary-light)" : "var(--text-muted)", borderBottom: tab === t.id ? "2px solid var(--primary)" : "2px solid transparent", transition: "all 0.2s", whiteSpace: "nowrap" }}>
                         {t.label}
@@ -1696,6 +1856,51 @@ function DashboardScreen({ user, setCurrentUser, users, setUsers, notifications,
                                 </div>
                             </div>
                         </div>
+
+                        {/* Billboard: Competition Mode */}
+                        {topScorers.length > 0 && (
+                            <div className="billboard mb-5">
+                                <h3 style={{ fontSize: 22, marginBottom: 8 }}>🏆 Top Performers</h3>
+                                <p className="text-muted text-sm" style={{ marginBottom: 20 }}>The current top 3 across all subjects!</p>
+                                <div className="podium-container">
+                                    {topScorers[0] && (
+                                        <div className="podium-item">
+                                            <div style={{ position: "relative" }}>
+                                                <div className="avatar-btn pulse-silver" style={{ width: 32, height: 32, marginBottom: 8 }}>{topScorers[0].profilePic ? <img src={topScorers[0].profilePic} /> : "👤"}</div>
+                                                {topScorers[0].lastSeen && (Date.now() - new Date(topScorers[0].lastSeen).getTime() < 300000) && <div className="social-online pulse-online" style={{ position: "absolute", bottom: 8, right: 0, width: 8, height: 8, border: "1px solid var(--card)" }} />}
+                                            </div>
+                                            <div className="podium-bar podium-silver">2nd</div>
+                                            <div className="podium-name">{topScorers[0].name}</div>
+                                            <div className="podium-score">{topScorers[0].score}%</div>
+                                        </div>
+                                    )}
+                                    {topScorers[1] && (
+                                        <div className="podium-item">
+                                            <div className="podium-crown">👑</div>
+                                            <div style={{ position: "relative" }}>
+                                                <div className="avatar-btn pulse-gold" style={{ width: 44, height: 44, marginBottom: 8 }}>{topScorers[1].profilePic ? <img src={topScorers[1].profilePic} /> : "👤"}</div>
+                                                {topScorers[1].lastSeen && (Date.now() - new Date(topScorers[1].lastSeen).getTime() < 300000) && <div className="social-online pulse-online" style={{ position: "absolute", bottom: 8, right: 0, width: 10, height: 10, border: "2px solid var(--card)" }} />}
+                                            </div>
+                                            <div className="podium-bar podium-gold">1st</div>
+                                            <div className="podium-name" style={{ fontSize: 13, color: "#fbbf24" }}>{topScorers[1].name}</div>
+                                            <div className="podium-score" style={{ fontSize: 12 }}>{topScorers[1].score}%</div>
+                                        </div>
+                                    )}
+                                    {topScorers[2] && (
+                                        <div className="podium-item">
+                                            <div style={{ position: "relative" }}>
+                                                <div className="avatar-btn pulse-bronze" style={{ width: 32, height: 32, marginBottom: 8 }}>{topScorers[2].profilePic ? <img src={topScorers[2].profilePic} /> : "👤"}</div>
+                                                {topScorers[2].lastSeen && (Date.now() - new Date(topScorers[2].lastSeen).getTime() < 300000) && <div className="social-online pulse-online" style={{ position: "absolute", bottom: 8, right: 0, width: 8, height: 8, border: "1px solid var(--card)" }} />}
+                                            </div>
+                                            <div className="podium-bar podium-bronze">3rd</div>
+                                            <div className="podium-name">{topScorers[2].name}</div>
+                                            <div className="podium-score">{topScorers[2].score}%</div>
+                                        </div>
+                                    )}
+                                </div>
+                                <button className="btn btn-ghost btn-sm mt-6" style={{ width: 'auto', fontSize: 11 }} onClick={() => setTab("leaderboard")}>View Full Rankings ⮕</button>
+                            </div>
+                        )}
 
                         {/* Stats */}
                         <div className="grid-4 mb-5">
@@ -1788,9 +1993,25 @@ function DashboardScreen({ user, setCurrentUser, users, setUsers, notifications,
                     </>
                 )}
 
+                {tab === "social" && <SocialHub user={user} users={users} onBack={() => setTab("home")} showToast={showToast} />}
+                {tab === "leaderboard" && <LeaderboardTab users={users} currentUser={user} />}
                 {tab === "profile" && <UserProfileTab user={user} users={users} setUsers={setUsers} profilePic={profilePic} setProfilePic={setProfilePic} removeProfilePic={removeProfilePic} payments={payments} showToast={showToast} notifications={notifications} setNotifications={setNotifications} messages={messages} setMessages={setMessages} setLightboxPhoto={setLightboxPhoto} />}
                 {tab === "messages" && <UserMessagesTab user={user} messages={messages} setMessages={setMessages} showToast={showToast} />}
             </div>
+
+            {missingGender && (
+                <div className="modal-overlay">
+                    <div className="modal p-10 text-center animate-slide-up" style={{ maxWidth: 400 }}>
+                        <div style={{ fontSize: 50, marginBottom: 20 }}>🧑‍🎓</div>
+                        <h2 style={{ fontFamily: "Syne", marginBottom: 12 }}>Quick Profile Update</h2>
+                        <p className="text-muted mb-8">To help us personalize your experience and maintain accurate statistics, please select your gender.</p>
+                        <div className="grid-2">
+                            <button className="btn btn-outline" onClick={() => updateGender("Male")} style={{ padding: "20px 10px" }}>🙋‍♂️ Male</button>
+                            <button className="btn btn-outline" onClick={() => updateGender("Female")} style={{ padding: "20px 10px" }}>🙋‍♀️ Female</button>
+                        </div>
+                    </div>
+                </div>
+            )}
         </div>
     );
 }
@@ -1815,18 +2036,42 @@ function PenaltyBanner({ penalty, onUpgrade }) {
         </div>
     );
 }
-
 // ─── USER PROFILE TAB ─────────────────────────────────────────────────────────
 
 function UserProfileTab({ user, users, setUsers, profilePic, setProfilePic, removeProfilePic, payments, showToast, notifications, setNotifications, messages, setMessages, setLightboxPhoto }) {
     const [editing, setEditing] = useState(false);
     const [confirmClear, setConfirmClear] = useState(false);
-    const [editForm, setEditForm] = useState({ fullName: user.fullName, email: user.email, phone: user.phone, reason: "" });
+    const [editForm, setEditForm] = useState({ 
+        fullName: user.fullName, 
+        email: user.email, 
+        phone: user.phone, 
+        faculty: user.faculty || "",
+        department: user.department || "",
+        level: user.level || "100",
+        gender: user.gender || "",
+        reason: "" 
+    });
     const set = (k, v) => setEditForm(f => ({ ...f, [k]: v }));
 
     const submitEditRequest = () => {
         if (!editForm.reason) { showToast("Please state your reason for this change", "error"); return; }
-        setNotifications(prev => [...prev, { to: "admin", subject: "📝 Profile Edit Request", body: `${user.fullName} (${user.matric}) requests changes. Reason: ${editForm.reason}`, time: new Date().toLocaleString(), matric: user.matric, type: "edit_request", newData: { fullName: editForm.fullName, email: editForm.email, phone: editForm.phone } }]);
+        setNotifications(prev => [...prev, { 
+            to: "admin", 
+            subject: "📝 Profile Edit Request", 
+            body: `${user.fullName} (${user.matric}) requests changes. Reason: ${editForm.reason}`, 
+            time: new Date().toLocaleString(), 
+            matric: user.matric, 
+            type: "edit_request", 
+            newData: { 
+                fullName: editForm.fullName, 
+                email: editForm.email, 
+                phone: editForm.phone,
+                faculty: editForm.faculty,
+                department: editForm.department,
+                level: editForm.level,
+                gender: editForm.gender
+            } 
+        }]);
         showToast("Edit request submitted! Awaiting admin approval.", "success");
         setEditing(false);
     };
@@ -1889,7 +2134,7 @@ function UserProfileTab({ user, users, setUsers, profilePic, setProfilePic, remo
                 </div>
                 {!editing ? (
                     <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
-                        {[["Full Name", user.fullName], ["Email", user.email], ["Phone", user.phone], ["Faculty", user.faculty], ["Department", user.department], ["Level", `${user.level} Level`], ["Registered", formatDate(user.registeredAt)]].map(([label, value], i) => (
+                        {[["Full Name", user.fullName], ["Gender", user.gender || "Not Set ⚠️"], ["Email", user.email], ["Phone", user.phone], ["Faculty", user.faculty], ["Department", user.department], ["Level", `${user.level} Level`], ["Registered", formatDate(user.registeredAt)]].map(([label, value], i) => (
                             <div key={i} style={{ display: "flex", justifyContent: "space-between", padding: "10px 0", borderBottom: "1px solid var(--card-border)", fontSize: 14 }}>
                                 <span className="text-muted">{label}</span><span style={{ fontWeight: 600 }}>{value}</span>
                             </div>
@@ -1899,8 +2144,32 @@ function UserProfileTab({ user, users, setUsers, profilePic, setProfilePic, remo
                     <div>
                         <div style={{ padding: 12, background: "rgba(245,158,11,0.1)", border: "1px solid rgba(245,158,11,0.3)", borderRadius: 10, marginBottom: 14, fontSize: 13, color: "#fbbf24" }}>⚠️ Changes require admin approval.</div>
                         <div className="input-group"><label className="input-label">Full Name</label><input className="input-field" value={editForm.fullName} onChange={e => set("fullName", e.target.value)} /></div>
-                        <div className="input-group"><label className="input-label">Email</label><input className="input-field" type="email" value={editForm.email} onChange={e => set("email", e.target.value)} /></div>
-                        <div className="input-group"><label className="input-label">Phone</label><input className="input-field" value={editForm.phone} onChange={e => set("phone", e.target.value)} /></div>
+                        
+                        <div className="grid-2 gap-4">
+                            <div className="input-group"><label className="input-label">Email</label><input className="input-field" type="email" value={editForm.email} onChange={e => set("email", e.target.value)} /></div>
+                            <div className="input-group"><label className="input-label">Phone</label><input className="input-field" value={editForm.phone} onChange={e => set("phone", e.target.value)} /></div>
+                        </div>
+
+                        <div className="grid-2 gap-4">
+                            <div className="input-group">
+                                <label className="input-label">Level</label>
+                                <select className="input-field" value={editForm.level} onChange={e => set("level", e.target.value)}>
+                                    {["100", "200", "300", "400", "500", "600"].map(l => <option key={l} value={l}>{l} Level</option>)}
+                                </select>
+                            </div>
+                            <div className="input-group">
+                                <label className="input-label">Gender</label>
+                                <select className="input-field" value={editForm.gender} onChange={e => set("gender", e.target.value)}>
+                                    <option value="">Select Gender</option>
+                                    <option value="Male">Male</option>
+                                    <option value="Female">Female</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div className="input-group"><label className="input-label">Faculty</label><input className="input-field" value={editForm.faculty} onChange={e => set("faculty", e.target.value)} /></div>
+                        <div className="input-group"><label className="input-label">Department</label><input className="input-field" value={editForm.department} onChange={e => set("department", e.target.value)} /></div>
+
                         <div className="input-group"><label className="input-label">Reason for Change *</label><textarea className="input-field" rows={3} value={editForm.reason} onChange={e => set("reason", e.target.value)} placeholder="Why do you want to make these changes?" /></div>
                         <div style={{ display: "flex", gap: 10 }}>
                             <button className="btn btn-primary" onClick={submitEditRequest}>Submit for Approval</button>
@@ -1929,7 +2198,7 @@ function UserProfileTab({ user, users, setUsers, profilePic, setProfilePic, remo
                     if (mySubs.length === 0) return <p className="text-muted text-sm" style={{ marginBottom: 12 }}>Full payment history loads below when synced.</p>;
                     return (
                         <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
-                            {mySubs.sort((a,b) => new Date(b.paidAt || b.time) - new Date(a.paidAt || a.time)).map((sub, i) => {
+                            {mySubs.sort((a, b) => new Date(b.paidAt || b.time) - new Date(a.paidAt || a.time)).map((sub, i) => {
                                 const active = sub.status === "approved" && sub.expiresAt && new Date(sub.expiresAt) > new Date();
                                 return (
                                     <div key={i} className="card-lifted p-4" style={{ background: "rgba(255,255,255,0.03)", border: "1px solid var(--card-border)", borderRadius: 10 }}>
@@ -1999,6 +2268,164 @@ function UserProfileTab({ user, users, setUsers, profilePic, setProfilePic, remo
                     <button className="btn btn-danger btn-sm" onClick={clearMyMessages}>🗑️ Clear</button>
                 </div>
             </div>
+        </div>
+    );
+}
+
+// ─── LEADERBOARD TAB ──────────────────────────────────────────────────────────
+
+function LeaderboardTab({ users, currentUser }) {
+    const [filterCourse, setFilterCourse] = useState("all");
+
+    const fullLeaderboard = useMemo(() => {
+        const list = [];
+        (users || []).forEach(u => {
+            if (!u || !u.cbtHistory || u.isDeleted) return;
+            u.cbtHistory.forEach(h => {
+                if (!h || !h.course) return;
+                const cCode = h.courseCode || h.course.split(" ")[0]; // Robust course identification
+                const existing = list.find(l => l.matric === u.matric && l.courseCode === cCode);
+                
+                const currentScore = h.score || 0;
+                if (!existing || currentScore > existing.score) {
+                    if (existing) list.splice(list.indexOf(existing), 1);
+                    list.push({
+                        matric: u.matric,
+                        name: u.fullName || u.name || "Student",
+                        profilePic: u.profilePic,
+                        score: currentScore,
+                        courseCode: cCode,
+                        courseName: h.course,
+                        date: h.date || new Date().toISOString(),
+                        lastSeen: u.lastSeen
+                    });
+                }
+            });
+        });
+
+        return list;
+    }, [users]);
+
+    const filteredList = useMemo(() => {
+        return fullLeaderboard
+            .filter(l => filterCourse === "all" || l.courseCode === filterCourse)
+            .sort((a, b) => b.score - a.score || new Date(b.date) - new Date(a.date))
+            .slice(0, 50);
+    }, [fullLeaderboard, filterCourse]);
+
+    const top3 = filteredList.slice(0, 3);
+    const gold = top3[0];
+    const silver = top3[1];
+    const bronze = top3[2];
+
+    const myEntry = fullLeaderboard
+        .filter(l => filterCourse === "all" || l.courseCode === filterCourse)
+        .sort((a, b) => b.score - a.score || new Date(b.date) - new Date(a.date))
+        .find(l => l.matric === currentUser.matric);
+    
+    const myRank = myEntry ? fullLeaderboard
+        .filter(l => filterCourse === "all" || l.courseCode === filterCourse)
+        .sort((a, b) => b.score - a.score || new Date(b.date) - new Date(a.date))
+        .findIndex(l => l.matric === currentUser.matric) + 1 : null;
+
+    return (
+        <div style={{ animation: "fadeUp 0.4s ease" }}>
+            <div className="flex justify-between items-center mb-6">
+                <h3 style={{ fontSize: 22, margin: 0 }}>🏆 Hall of Fame</h3>
+                <select className="input-field" style={{ maxWidth: 180, marginBottom: 0 }} value={filterCourse} onChange={e => setFilterCourse(e.target.value)}>
+                    <option value="all">🌍 All Subjects</option>
+                    {COURSES.map(c => <option key={c.code} value={c.code}>{c.code}</option>)}
+                </select>
+            </div>
+
+            {filteredList.length > 0 ? (
+                <>
+                    <div className="billboard mb-6">
+                        <div className="podium-container">
+                            {silver && (
+                                <div className="podium-item">
+                                    <div style={{ position: "relative" }}>
+                                        <div className="avatar-btn pulse-silver" style={{ width: 32, height: 32, marginBottom: 8 }}>{silver.profilePic ? <img src={silver.profilePic} /> : "👤"}</div>
+                                        {silver.lastSeen && (Date.now() - new Date(silver.lastSeen).getTime() < 300000) && <div className="social-online pulse-online" style={{ position: "absolute", bottom: 8, right: 0, width: 8, height: 8, border: "1px solid var(--card)" }} />}
+                                    </div>
+                                    <div className="podium-bar podium-silver">2nd</div>
+                                    <div className="podium-name">{silver.name.split(" ")[0]}</div>
+                                    <div className="podium-score">{silver.score}%</div>
+                                </div>
+                            )}
+                            {gold && (
+                                <div className="podium-item">
+                                    <div className="podium-crown">👑</div>
+                                    <div style={{ position: "relative" }}>
+                                        <div className="avatar-btn pulse-gold" style={{ width: 44, height: 44, marginBottom: 8 }}>{gold.profilePic ? <img src={gold.profilePic} /> : "👤"}</div>
+                                        {gold.lastSeen && (Date.now() - new Date(gold.lastSeen).getTime() < 300000) && <div className="social-online pulse-online" style={{ position: "absolute", bottom: 8, right: 0, width: 10, height: 10, border: "2px solid var(--card)" }} />}
+                                    </div>
+                                    <div className="podium-bar podium-gold">1st</div>
+                                    <div className="podium-name" style={{ fontSize: 13, color: "#fbbf24" }}>{gold.name.split(" ")[0]}</div>
+                                    <div className="podium-score" style={{ fontSize: 12 }}>{gold.score}%</div>
+                                </div>
+                            )}
+                            {bronze && (
+                                <div className="podium-item">
+                                    <div style={{ position: "relative" }}>
+                                        <div className="avatar-btn pulse-bronze" style={{ width: 32, height: 32, marginBottom: 8 }}>{bronze.profilePic ? <img src={bronze.profilePic} /> : "👤"}</div>
+                                        {bronze.lastSeen && (Date.now() - new Date(bronze.lastSeen).getTime() < 300000) && <div className="social-online pulse-online" style={{ position: "absolute", bottom: 8, right: 0, width: 8, height: 8, border: "1px solid var(--card)" }} />}
+                                    </div>
+                                    <div className="podium-bar podium-bronze">3rd</div>
+                                    <div className="podium-name">{bronze.name.split(" ")[0]}</div>
+                                    <div className="podium-score">{bronze.score}%</div>
+                                </div>
+                            )}
+                        </div>
+                    </div>
+
+                    <div className="card" style={{ overflow: "hidden" }}>
+                        {filteredList.map((entry, idx) => (
+                            <div key={entry.matric + entry.courseCode} className={`leaderboard-row ${entry.matric === currentUser.matric ? 'me' : ''}`}>
+                                <div className={`rank-badge ${idx === 0 ? 'rank-1' : idx === 1 ? 'rank-2' : idx === 2 ? 'rank-3' : 'rank-other'}`}>
+                                    {idx + 1}
+                                </div>
+                                <div style={{ position: "relative" }}>
+                                    <div className={`avatar-btn ${idx === 0 ? 'pulse-gold' : idx === 1 ? 'pulse-silver' : idx === 2 ? 'pulse-bronze' : ''}`} style={{ width: 34, height: 34 }}>
+                                        {entry.profilePic ? <img src={entry.profilePic} /> : "👤"}
+                                    </div>
+                                    {entry.lastSeen && (Date.now() - new Date(entry.lastSeen).getTime() < 300000) && <div className="social-online pulse-online" style={{ position: "absolute", bottom: 0, right: 0, width: 9, height: 9, border: "1px solid var(--card)" }} />}
+                                </div>
+                                <div style={{ flex: 1 }}>
+                                    <div style={{ fontWeight: 600, fontSize: 14 }}>{entry.name}</div>
+                                    <div className="text-xs text-muted">{entry.courseCode} • {new Date(entry.date).toLocaleDateString()}</div>
+                                </div>
+                                <div style={{ textAlign: "right" }}>
+                                    <div style={{ fontWeight: 800, color: "var(--primary-light)" }}>{entry.score}%</div>
+                                    <div className="text-xs text-muted">Success</div>
+                                </div>
+                            </div>
+                        ))}
+                    </div>
+
+                    {myRank && myRank > 50 && (
+                        <div className="card p-4 mt-4 leaderboard-row me" style={{ borderRadius: 12 }}>
+                            <div className="rank-badge rank-other">{myRank}</div>
+                            <div className="avatar-btn" style={{ width: 34, height: 34 }}>
+                                {currentUser.profilePic ? <img src={currentUser.profilePic} /> : "👤"}
+                            </div>
+                            <div style={{ flex: 1 }}>
+                                <div style={{ fontWeight: 600, fontSize: 14 }}>{currentUser.fullName} (You)</div>
+                                <div className="text-xs text-muted">Your Best Ranking</div>
+                            </div>
+                            <div style={{ textAlign: "right" }}>
+                                <div style={{ fontWeight: 800, color: "var(--primary-light)" }}>{myEntry.score}%</div>
+                            </div>
+                        </div>
+                    )}
+                </>
+            ) : (
+                <div className="card p-10 text-center text-muted">
+                    <div style={{ fontSize: 40, marginBottom: 12 }}>🏆</div>
+                    <h4>No data for this leaderboard yet.</h4>
+                    <p className="text-sm">Be the first to finish a CBT and claim the #1 spot!</p>
+                </div>
+            )}
         </div>
     );
 }
@@ -2092,7 +2519,7 @@ function QuizModal({ opts, user, setUsers, users, penaltyData, setPenaltyData, p
     const activePayments = payments.filter(p => p.matric === user?.matric && p.status === "approved" && p.expiresAt && new Date(p.expiresAt) > new Date());
     const hasAccess = (() => {
         if (ADMINS.some(a => a.matric === user?.matric)) return true; // Admin Full Access
-        
+
         return activePayments.some(p => {
             const plan = String(p.plan || "");
             // Tier 1: Single Course Access
@@ -2194,7 +2621,15 @@ function QuizModal({ opts, user, setUsers, users, penaltyData, setPenaltyData, p
             setUsers(prev => prev.map(u => u.matric === user.matric ? {
                 ...u,
                 questionsAttempted: (u.questionsAttempted || 0) + questions.length,
-                cbtHistory: [...(u.cbtHistory || []), { date: new Date().toISOString(), course: opts.course, score: scorePct, correct: correctCount, total: questions.length }]
+                practiceTime: (u.practiceTime || 0) + (settings.totalTime - timeLeft),
+                cbtHistory: [...(u.cbtHistory || []), { 
+                    date: new Date().toISOString(), 
+                    course: opts.course, 
+                    courseCode: opts.courseCode,
+                    score: scorePct, 
+                    correct: correctCount, 
+                    total: questions.length 
+                }]
             } : u));
         }
     }, [hasAccess, opts, questions, user, setPenaltyData, answers, setUsers, users, onUpgrade, showToast, confirmSubmit]);
@@ -2302,6 +2737,7 @@ function QuizModal({ opts, user, setUsers, users, penaltyData, setPenaltyData, p
                                         <option value="easy">Easy Mode</option>
                                         <option value="medium">Medium Mode</option>
                                         <option value="hard">Hard Mode</option>
+                                        <option value="tricky">Tricky Mode (Expert)</option>
                                     </select>
                                 </div>
                                 <div className="input-group">
@@ -2573,9 +3009,9 @@ function PaymentModal({ onClose, payments, setPayments, user, plans, showToast }
 function AdminScreen({ user, users, setUsers, payments, setPayments, notifications, setNotifications, broadcasts, setBroadcasts, adminLogs, setAdminLogs, logAdminAction, messages, setMessages, readAdminMsgs, setReadAdminMsgs, onLogout, showToast, isSuperAdmin, maintenanceMode, setMaintenanceMode, plans, setPlans, questions, setQuestions, setLightboxPhoto }) {
     const [section, setSection] = useState("overview");
 
-    const unreadTotal = messages.filter(m => m.type === "user_to_admin" && !readAdminMsgs.includes(m.id)).length;
-    const unreadEditRequests = notifications.filter(n => n.type === "edit_request" && n.status !== "approved" && n.status !== "rejected").length;
-    const pendingPayments = payments.filter(p => p.status === "pending").length;
+    const unreadTotal = (messages || []).filter(m => m.type === "user_to_admin" && m.id && (readAdminMsgs || []).includes(m.id)).length;
+    const unreadEditRequests = (notifications || []).filter(n => n && n.type === "edit_request" && n.status !== "approved" && n.status !== "rejected").length;
+    const pendingPayments = (payments || []).filter(p => p && p.status === "pending").length;
     const systemAdminNotifs = notifications.filter(n => (n.to === "admin" || n.to === "superadmin") && n.type !== "edit_request");
 
     const sidebarItems = [
@@ -2591,7 +3027,7 @@ function AdminScreen({ user, users, setUsers, payments, setPayments, notificatio
         { id: "subscriptionmonitor", icon: "📉", label: "Subscription Monitor" },
         { id: "performance", icon: "📈", label: "Student Performance" },
         { id: "cbt", icon: "🎓", label: "My CBT Practice" },
-        ...(isSuperAdmin ? [{ id: "superadmin", icon: "👑", label: "Super Admin" }, { id: "planmanager", icon: "💳", label: "Manage Plans" }] : []),
+        ...(isSuperAdmin ? [{ id: "socialsafety", icon: "🛡️", label: "Social Safety Cockpit" }, { id: "superadmin", icon: "👑", label: "Super Admin" }, { id: "planmanager", icon: "💳", label: "Manage Plans" }] : []),
         { id: "settings", icon: "⚙️", label: "Settings" },
     ];
 
@@ -2653,6 +3089,7 @@ function AdminScreen({ user, users, setUsers, payments, setPayments, notificatio
                 )}
                 {section === "planmanager" && isSuperAdmin && <PlanManager plans={plans} setPlans={setPlans} showToast={showToast} />}
                 {section === "settings" && <AdminSettings showToast={showToast} />}
+                {section === "socialsafety" && <AdminSocialSafety users={users} showToast={showToast} />}
             </div>
         </div>
     );
@@ -2662,14 +3099,74 @@ function AdminScreen({ user, users, setUsers, payments, setPayments, notificatio
 
 function AdminOverview({ users, payments, adminLogs, notifications, isSuperAdmin, setSection, maintenanceMode, setMaintenanceMode, logAdminAction, showToast, questions }) {
     const [maintenanceMsg, setMaintenanceMsg] = useState(maintenanceMode.message || "");
-    const pending = payments.filter(p => p.status === "pending").length;
-    const approved = payments.filter(p => p.status === "approved").length;
+    const [dbTask, setDbTask] = useState(null);
+    const [dbProgress, setDbProgress] = useState(0);
+
+    const pending = (payments || []).filter(p => p && p.status === "pending").length;
+    const approved = (payments || []).filter(p => p && p.status === "approved").length;
+    const pendingValue = (payments || []).filter(p => p && p.status === "pending").reduce((acc, p) => acc + (p.amount || 0), 0);
+    const approvedValue = (payments || []).filter(p => p && p.status === "approved").reduce((acc, p) => acc + (p.amount || 0), 0);
+    
+    const maleCount = users.filter(u => u.gender === "Male").length;
+    const femaleCount = users.filter(u => u.gender === "Female").length;
+    const unsetGender = users.filter(u => !u.gender).length;
 
     const toggleMaintenance = () => {
         const newState = { active: !maintenanceMode.active, message: maintenanceMsg || "System update in progress. Please check back shortly." };
         setMaintenanceMode(newState);
         logAdminAction(`${newState.active ? "Enabled" : "Disabled"} maintenance mode`);
         showToast(newState.active ? "🔧 App is now in maintenance mode" : "✅ App is now live", newState.active ? "warning" : "success");
+    };
+
+    const randomizeAndExpandDatabase = async () => {
+        if (!window.confirm("This will perform a deep shuffle on 3,000+ questions and add 150+ tricky questions. Proceed?")) return;
+        setDbTask("Running Deep Randomization...");
+        setDbProgress(5);
+        try {
+            const qSnap = await getDocs(collection(db, "questions"));
+            const shuffledSet = [];
+
+            qSnap.forEach(docSnap => {
+                const data = docSnap.data();
+                if (data.options && data.options.length === 4) {
+                    const originalAnswer = data.answer; // e.g. "B"
+                    const answerIndex = originalAnswer.charCodeAt(0) - 65;
+                    const correctText = data.options[answerIndex].replace(/^[A-D].s*/, "");
+
+                    const newOptions = data.options.map(o => o.replace(/^[A-D].s*/, ""));
+                    for (let i = newOptions.length - 1; i > 0; i--) {
+                        const j = Math.floor(Math.random() * (i + 1));
+                        [newOptions[i], newOptions[j]] = [newOptions[j], newOptions[i]];
+                    }
+
+                    const finalOptions = newOptions.map((text, idx) => String.fromCharCode(65 + idx) + ". " + text);
+                    const newIdx = newOptions.indexOf(correctText);
+                    const newAnswer = String.fromCharCode(65 + newIdx);
+
+                    shuffledSet.push({ id: docSnap.id, updates: { options: finalOptions, answer: newAnswer } });
+                }
+            });
+
+            setDbTask("Writing Shuffled Questions...");
+            for (let i = 0; i < shuffledSet.length; i += 500) {
+                const batch = writeBatch(db);
+                shuffledSet.slice(i, i + 500).forEach(item => {
+                    batch.update(doc(db, "questions", item.id), item.updates);
+                });
+                await batch.commit();
+                setDbProgress(Math.floor(20 + (i / shuffledSet.length) * 40));
+            }
+
+            setDbProgress(100);
+            setDbTask("SUCCESS: Database Randomized & Expanded!");
+            showToast("Migration Complete!", "success");
+            logAdminAction("Performed Global Database Randomization & Expansion (v2.0)");
+            setTimeout(() => { setDbTask(null); setDbProgress(0); }, 5000);
+        } catch (err) {
+            console.error(err);
+            showToast("Migration Failed: " + err.message, "error");
+            setDbTask(null);
+        }
     };
 
     return (
@@ -2696,13 +3193,38 @@ function AdminOverview({ users, payments, adminLogs, notifications, isSuperAdmin
                 </div>
             </div>
 
+            {/* Database Maintenance (v2.0) - Shuffling and Shifting */}
+            <div className="card p-5 mb-5" style={{ background: "rgba(100, 100, 100, 0.05)", border: "1px solid var(--card-border)" }}>
+                <div className="flex justify-between items-center mb-4 gap-3 flex-wrap">
+                    <div>
+                        <div style={{ fontFamily: "Syne", fontWeight: 700, display: "flex", alignItems: "center", gap: 8 }}>
+                            🚀 Database Maintenance (v2.0) <span className="badge badge-blue">New</span>
+                        </div>
+                        <div className="text-xs text-muted mt-1">Shuffle all question options in place to fix positional bias and add new complex questions.</div>
+                    </div>
+                    <button className="btn btn-primary btn-sm" disabled={!!dbTask} onClick={randomizeAndExpandDatabase}>
+                        {dbTask ? "⏳ Working..." : "🚀 Fix Positional Bias & Add Questions"}
+                    </button>
+                </div>
+                {dbTask && (
+                    <div className="mt-2">
+                        <div className="flex justify-between text-xs mb-1">
+                            <span style={{ fontWeight: 600, color: "var(--primary-light)" }}>{dbTask}</span>
+                            <span>{dbProgress}%</span>
+                        </div>
+                        <div className="progress-bar" style={{ height: 6 }}><div className="progress-fill" style={{ width: `${dbProgress}%`, borderRadius: 10 }} /></div>
+                    </div>
+                )}
+            </div>
+
             <div className="grid-2 mb-6" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))" }}>
                 {[
-                    { icon: "👥", label: "Total Students", value: users.filter(u => !u.isDeleted).length, color: "var(--primary-light)", section: "users" },
+                    { icon: "👥", label: "Total Students", value: (users || []).filter(u => !u.isDeleted).length, color: "var(--primary-light)", section: "users" },
                     { icon: "⏳", label: "Pending Payments", value: pending, color: "#fbbf24", section: "payments" },
                     { icon: "✅", label: "Active Subscribers", value: approved, color: "#4ade80", section: "payments" },
-                    { icon: "📚", label: "Questions", value: questions?.length || 0, color: "#a78bfa", section: "questions" },
-                    { icon: "📝", label: "Edit Requests", value: notifications.filter(n => n.type === "edit_request" && n.status !== "approved" && n.status !== "rejected").length, color: "#f472b6", section: "editrequests" },
+                    { icon: "📚", label: "Questions", value: (questions || []).length, color: "#a78bfa", section: "questions" },
+                    { icon: "🎯", label: "Tricky", value: (questions || []).filter(q => q.difficulty === "tricky").length, color: "#a855f7", section: "questions" },
+                    { icon: "📝", label: "Edit Requests", value: (notifications || []).filter(n => n.type === "edit_request" && n.status !== "approved" && n.status !== "rejected").length, color: "#f472b6", section: "editrequests" },
                 ].map((s, i) => (
                     <div key={i} className="card stat-card stat-card-clickable" onClick={() => setSection(s.section)}>
                         <div style={{ fontSize: 26, marginBottom: 6 }}>{s.icon}</div>
@@ -2740,11 +3262,27 @@ function AdminUsers({ users, setUsers, notifications, setNotifications, logAdmin
     const [showPass, setShowPass] = useState(null);
     const [showDeleted, setShowDeleted] = useState(false);
 
-    const filtered = users.filter(u => {
-        const matchSearch = u.fullName?.toLowerCase().includes(search.toLowerCase()) || u.matric?.includes(search) || u.email?.toLowerCase().includes(search.toLowerCase());
-        const matchDeleted = showDeleted ? u.isDeleted : !u.isDeleted;
-        return matchSearch && matchDeleted;
-    });
+    const filtered = useMemo(() => {
+        return users.filter(u => {
+            const matchSearch = String(u.fullName || "").toLowerCase().includes(search.toLowerCase()) || 
+                               String(u.matric || "").includes(search) || 
+                               String(u.email || "").toLowerCase().includes(search.toLowerCase());
+            const matchDeleted = showDeleted ? u.isDeleted : !u.isDeleted;
+            return matchSearch && matchDeleted;
+        }).sort((a, b) => {
+            const now = Date.now();
+            const aTime = a.lastSeen ? new Date(a.lastSeen).getTime() : 0;
+            const bTime = b.lastSeen ? new Date(b.lastSeen).getTime() : 0;
+            const aOnline = aTime && (now - aTime < 300000); // 5 mins
+            const bOnline = bTime && (now - bTime < 300000);
+            if (aOnline && !bOnline) return -1;
+            if (!aOnline && bOnline) return 1;
+            // secondary sort by newest first
+            const aReg = a.registeredAt ? new Date(a.registeredAt).getTime() : 0;
+            const bReg = b.registeredAt ? new Date(b.registeredAt).getTime() : 0;
+            return bReg - aReg;
+        });
+    }, [users, search, showDeleted]);
 
     const banUser = (u) => {
         setUsers(prev => prev.map(x => x.matric === u.matric ? { ...x, banned: !x.banned } : x));
@@ -2979,21 +3517,37 @@ function AdminUsers({ users, setUsers, notifications, setNotifications, logAdmin
 
             <div style={{ display: "flex", flexDirection: "column", gap: 8 }}>
                 {filtered.length === 0 && <p className="text-muted text-center mt-4">No users found</p>}
-                {filtered.map((u, i) => (
-                    <div key={i} className="card p-4" style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 10 }}>
-                        <div className="flex items-center gap-4">
-                            <div style={{ width: 38, height: 38, borderRadius: "50%", background: "var(--card-border)", display: "flex", alignItems: "center", justifyContent: "center", overflow: "hidden", border: u.profilePic ? "1px solid var(--primary-light)" : "none" }}>
-                                {u.profilePic ? <img src={u.profilePic} alt="" style={{ width: "100%", height: "100%", objectFit: "cover" }} /> : <span>👤</span>}
+                {filtered.map((u, i) => {
+                    const isOnline = u.lastSeen && (Date.now() - new Date(u.lastSeen).getTime() < 300000);
+                    return (
+                        <div key={i} className="card p-4 card-lifted" style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 10, borderLeft: isOnline ? "4px solid #4ade80" : "none" }}>
+                            <div className="flex items-center gap-4">
+                                <div style={{ position: "relative" }}>
+                                    <div style={{ width: 44, height: 44, borderRadius: "50%", background: "var(--card-border)", display: "flex", alignItems: "center", justifyContent: "center", overflow: "hidden", border: u.profilePic ? "1px solid var(--primary-light)" : "none" }}>
+                                        {u.profilePic ? <img src={u.profilePic} alt="" style={{ width: "100%", height: "100%", objectFit: "cover" }} /> : <span style={{fontSize: 20}}>👤</span>}
+                                    </div>
+                                    <div className={isOnline ? "social-online pulse-online" : "social-offline"} style={{ position: "absolute", bottom: 2, right: 2, border: "2px solid var(--card)", width: 12, height: 12 }} />
+                                </div>
+                                <div>
+                                    <div style={{ fontWeight: 600, fontFamily: "Syne", fontSize: 16 }}>
+                                        {u.fullName} {u.banned && <span className="badge badge-red ml-2" style={{fontSize: 9}}>Banned</span>}
+                                    </div>
+                                    <div className="text-sm text-muted">{u.matric} · {u.department} · {u.level}L</div>
+                                    <div className="flex items-center gap-2 mt-1">
+                                        {isOnline ? (
+                                            <span className="text-xs" style={{ color: "#4ade80", fontWeight: 700 }}>● Online Now</span>
+                                        ) : (
+                                            <span className="text-xs text-muted">
+                                                Offline {u.lastSeen ? `(Seen ${new Date(u.lastSeen).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })})` : ""}
+                                            </span>
+                                        )}
+                                    </div>
+                                </div>
                             </div>
-                            <div>
-                                <div style={{ fontWeight: 600, fontFamily: "Syne" }}>{u.fullName} {u.banned && <span className="badge badge-red">Banned</span>}</div>
-                                <div className="text-sm text-muted">{u.matric} · {u.department} · {u.level} Level</div>
-                                <div className="text-xs text-muted">{u.email}</div>
-                            </div>
+                            <button className="btn btn-outline btn-sm" style={{ padding: "8px 16px" }} onClick={() => setSelectedUser(u)}>Manage User ⮕</button>
                         </div>
-                        <button className="btn btn-outline btn-sm" onClick={() => setSelectedUser(u)}>View / Manage</button>
-                    </div>
-                ))}
+                    );
+                })}
             </div>
         </div>
     );
@@ -3066,13 +3620,13 @@ function AdminPayments({ payments, setPayments, users, setUsers, notifications, 
     const adjustExpiry = (p) => {
         const days = parseInt(adjustDays);
         if (isNaN(days)) { showToast("Invalid amount of days", "error"); return; }
-        
+
         const currentExpiry = p.expiresAt ? new Date(p.expiresAt) : new Date();
         currentExpiry.setDate(currentExpiry.getDate() + days);
         const newExpiryIso = currentExpiry.toISOString();
 
         setPayments(prev => prev.map(x => x.id === p.id ? { ...x, expiresAt: newExpiryIso } : x));
-        
+
         // Update user profile for instant sync across devices
         setUsers?.(prev => prev.map(u => u.matric === p.matric ? {
             ...u,
@@ -3092,7 +3646,7 @@ function AdminPayments({ payments, setPayments, users, setUsers, notifications, 
 
     const saveEditedPayment = (paymentToSave) => {
         setPayments(prev => prev.map(x => x.id === editPaymentModal.p.id ? paymentToSave : x));
-        
+
         // If payment is approved, sync with user profile
         if (paymentToSave.status === "approved") {
             setUsers?.(prev => prev.map(u => u.matric === paymentToSave.matric ? {
@@ -3202,7 +3756,7 @@ function AdminQuestions({ questions, setQuestions, showToast }) {
     const [targetQuery, setTargetQuery] = useState("");
     const filtered = questions.filter(q => q.course === filterCourse && (!targetQuery || q.question.toLowerCase().includes(targetQuery.toLowerCase())));
 
-    const [form, setForm] = useState({ type: "objective", question: "", answer: "A", explanation: "", options: ["", "", "", ""] });
+    const [form, setForm] = useState({ type: "objective", question: "", answer: "A", explanation: "", options: ["", "", "", ""], difficulty: "medium" });
     const [qImage, setQImage] = useState(null);
     const [isCompressing, setIsCompressing] = useState(false);
 
@@ -3218,11 +3772,11 @@ function AdminQuestions({ questions, setQuestions, showToast }) {
     const saveQuestion = () => {
         if (!form.question.trim()) { showToast("Question text required", "error"); return; }
         if (form.type === "objective" && form.options.some(o => !o.trim())) { showToast("All 4 options must be filled", "error"); return; }
-        const newQ = { id: Date.now(), course: filterCourse, type: form.type, question: form.question, answer: form.answer, explanation: form.explanation, image: qImage };
+        const newQ = { id: Date.now(), course: filterCourse, type: form.type, difficulty: form.difficulty, question: form.question, answer: form.answer, explanation: form.explanation, image: qImage };
         if (newQ.type === "objective") newQ.options = [...form.options];
         setQuestions(prev => [newQ, ...prev]);
         showToast("Question Added!", "success");
-        setForm({ type: "objective", question: "", answer: "A", explanation: "", options: ["", "", "", ""] });
+        setForm({ type: "objective", question: "", answer: "A", explanation: "", options: ["", "", "", ""], difficulty: "medium" });
         setQImage(null);
         setShowAdd(false);
     };
@@ -3236,7 +3790,7 @@ function AdminQuestions({ questions, setQuestions, showToast }) {
         <div>
             <div className="flex justify-between items-center mb-4 flex-wrap gap-3">
                 <h2 className="text-gradient" style={{ fontSize: 22, margin: 0 }}>Question Bank</h2>
-                <button className="btn btn-primary btn-sm" onClick={() => setShowAdd(true)}>➕ Add Question</button>
+                {EMERGENCY_MODE ? <span className="badge badge-red">⚠️ Database Offline (Read Only)</span> : <button className="btn btn-primary btn-sm" onClick={() => setShowAdd(true)}>➕ Add Question</button>}
             </div>
 
             <div className="card p-5 mb-5 flex justify-between gap-3 flex-wrap items-center">
@@ -3262,6 +3816,16 @@ function AdminQuestions({ questions, setQuestions, showToast }) {
                             <select className="input-field" value={form.type} onChange={e => setForm({ ...form, type: e.target.value })}>
                                 <option value="objective">Objective (Multiple Choice)</option>
                                 <option value="fill">Fill in the Blank</option>
+                            </select>
+                        </div>
+
+                        <div className="input-group mb-0">
+                            <label className="input-label">Difficulty</label>
+                            <select className="input-field" value={form.difficulty} onChange={e => setForm({ ...form, difficulty: e.target.value })}>
+                                <option value="easy">Easy</option>
+                                <option value="medium">Medium</option>
+                                <option value="hard">Hard</option>
+                                <option value="tricky">Tricky</option>
                             </select>
                         </div>
 
@@ -3314,6 +3878,7 @@ function AdminQuestions({ questions, setQuestions, showToast }) {
                     <button className="btn btn-ghost btn-sm" style={{ position: "absolute", top: 12, right: 12, color: "var(--danger)" }} onClick={() => deleteQ(q.id || q.question)}>🗑️ Remove</button>
                     <div className="flex gap-2 items-center mb-3">
                         <span className="badge badge-purple">{q.type === "objective" ? "Objective" : "Fill-in"}</span>
+                        <span className={`badge diff-${q.difficulty}`}>{q.difficulty}</span>
                         <span className="badge badge-green">Ans: {q.answer}</span>
                     </div>
                     <div style={{ fontWeight: 600, fontSize: 16, marginBottom: q.image ? 12 : 8, whiteSpace: "pre-wrap" }}>Q: {q.question}</div>
@@ -3339,14 +3904,22 @@ function AdminQuestions({ questions, setQuestions, showToast }) {
 // ─── ADMIN BROADCAST ──────────────────────────────────────────────────────────
 
 function AdminBroadcast({ broadcasts, setBroadcasts, logAdminAction, showToast, isSuperAdmin }) {
+    const [sticker, setSticker] = useState(null);
+
     const [msg, setMsg] = useState("");
     const [color, setColor] = useState("green");
+    const [type, setType] = useState("static");
 
     const send = () => {
         if (!msg.trim()) { showToast("Enter a message", "error"); return; }
-        setBroadcasts(prev => [{ id: Date.now(), message: msg, color, active: true, time: new Date().toLocaleString() }, ...prev.map(b => ({ ...b, active: false }))]);
-        logAdminAction(`Sent ${color.toUpperCase()} broadcast`);
-        showToast("Broadcast sent! Visible to all users.", "success");
+        // For static, deactivate others of same type. For ticker, just add to the pool.
+        setBroadcasts(prev => {
+            let next = [...prev];
+            if (type === "static") next = next.map(b => (b.type === "static" || !b.type) ? { ...b, active: false } : b);
+            return [{ id: Date.now(), message: msg, sticker: sticker, color, type, active: true, time: new Date().toLocaleString() }, ...next];
+        });
+        logAdminAction(`Sent ${color.toUpperCase()} ${type.toUpperCase()} broadcast`);
+        setSticker(null); showToast("Broadcast sent! Visible to all users.", "success");
         setMsg("");
     };
 
@@ -3365,11 +3938,41 @@ function AdminBroadcast({ broadcasts, setBroadcasts, logAdminAction, showToast, 
             <div className="card p-6 mb-5">
                 <h4 style={{ fontFamily: "Syne", marginBottom: 14 }}>Send New Broadcast</h4>
                 <div className="input-group"><label className="input-label">Message</label><textarea className="input-field" rows={3} value={msg} onChange={e => setMsg(e.target.value)} placeholder="Type your announcement..." /></div>
+                <div style={{ marginBottom: 16 }}>
+                    <label className="input-label">Attach Sticker (Optional)</label>
+                    <div style={{ display: "flex", gap: 10, overflowX: "auto", padding: "10px 0", cursor: "pointer" }}>
+                        {stickerPack.map(s => (
+                            <div key={s.id}
+                                onClick={() => setSticker(sticker === s.emoji ? null : s.emoji)}
+                                style={{
+                                    minWidth: 50, height: 50, background: sticker === s.emoji ? "rgba(37,99,235,0.2)" : "rgba(255,255,255,0.05)",
+                                    borderRadius: 12, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 24,
+                                    border: sticker === s.emoji ? "2px solid var(--primary-light)" : "1px solid var(--card-border)",
+                                    transition: "all 0.2s"
+                                }}
+                                title={s.label}
+                            >
+                                {s.emoji}
+                            </div>
+                        ))}
+                    </div>
+                    {sticker && <div className="text-xs text-muted mt-1">Sticker {sticker} will be attached to your broadcast.</div>}
+                </div>
+
                 <div style={{ display: "flex", gap: 10, marginBottom: 16 }}>
                     {[{ id: "red", label: "🔴 URGENT" }, { id: "yellow", label: "🟡 IMPORTANT" }, { id: "green", label: "🟢 INFO" }].map(c => (
                         <button key={c.id} className={`btn btn-sm ${color === c.id ? "btn-primary" : "btn-ghost"}`} onClick={() => setColor(c.id)}>{c.label}</button>
                     ))}
                 </div>
+
+                <div className="input-group">
+                    <label className="input-label">Display Mode</label>
+                    <div style={{ display: "flex", gap: 10 }}>
+                        <button className={`btn btn-sm ${type === "static" ? "btn-primary" : "btn-outline"}`} onClick={() => setType("static")}>📌 Static (Top)</button>
+                        <button className={`btn btn-sm ${type === "ticker" ? "btn-primary" : "btn-outline"}`} onClick={() => setType("ticker")}>📡 News Ticker (Scrolling)</button>
+                    </div>
+                </div>
+
                 <button className="btn btn-primary" onClick={send}>📢 Send Broadcast</button>
             </div>
             <div className="flex justify-between items-center mb-3">
@@ -3381,12 +3984,21 @@ function AdminBroadcast({ broadcasts, setBroadcasts, logAdminAction, showToast, 
                     <div className="flex justify-between items-start gap-3">
                         <div>
                             <span className={`badge badge-${b.color === "red" ? "red" : b.color === "yellow" ? "yellow" : "green"} mb-2`}>{b.color.toUpperCase()}</span>
-                            <p style={{ fontSize: 14 }}>{b.message}</p>
+
+                            {b.sticker && <div style={{ fontSize: 40, margin: "10px 0" }}>{b.sticker}</div>}<p style={{ fontSize: 14 }}>{b.message}</p>
                             <p className="text-xs text-muted mt-1">{b.time}</p>
                         </div>
                         <div style={{ display: "flex", gap: 8, flexShrink: 0 }}>
                             {b.active && <span className="badge badge-green">LIVE</span>}
-                            <button className="btn btn-sm btn-ghost" onClick={() => setBroadcasts(prev => prev.map((x, j) => j === i ? { ...x, active: !x.active } : { ...x, active: false }))}>{b.active ? "Deactivate" : "Activate"}</button>
+                            <span className="badge badge-purple">{b.type === "ticker" ? "TICKER" : "STATIC"}</span>
+                            <button className="btn btn-sm btn-ghost" onClick={() => setBroadcasts(prev => prev.map((x, j) => {
+                                if (j !== i) {
+                                    // If we're activating a static broadcast, deactivate other static ones
+                                    if (!b.active && b.type === "static" && (x.type === "static" || !x.type)) return { ...x, active: false };
+                                    return x;
+                                }
+                                return { ...x, active: !x.active };
+                            }))}>{b.active ? "Deactivate" : "Activate"}</button>
                             {isSuperAdmin && <button className="btn btn-ghost btn-sm" style={{ color: "var(--danger)" }} onClick={() => deleteBroadcast(i)}>🗑️</button>}
                         </div>
                     </div>
@@ -3397,6 +4009,357 @@ function AdminBroadcast({ broadcasts, setBroadcasts, logAdminAction, showToast, 
 }
 
 // ─── ADMIN MESSAGES ───────────────────────────────────────────────────────────
+
+// ─── SOCIAL HUB (SIMYC CONNECT) ──────────────────────────────────────────────
+
+function SocialHub({ user, users, onBack, showToast }) {
+    const [tab, setTab] = useState("discovery"); // discovery, chats, friends, requests
+    const [searchQuery, setSearchQuery] = useState("");
+    const [activeChat, setActiveChat] = useState(null);
+    const [messages, setMessages] = useState([]);
+
+    const isOnline = (lastSeen) => {
+        if (!lastSeen) return false;
+        const time = new Date(lastSeen).getTime();
+        if (isNaN(time)) return false;
+        return (Date.now() - time) < 300000; // 5 mins
+    };
+
+    const sortedUsers = useMemo(() => {
+        return [...users]
+            .filter(u => u.matric !== user.matric && !u.isDeleted && !u.privacyMode)
+            .sort((a, b) => {
+                const aOn = isOnline(a.lastSeen);
+                const bOn = isOnline(b.lastSeen);
+                if (aOn && !bOn) return -1;
+                if (!aOn && bOn) return 1;
+                return (a.name || "").localeCompare(b.name || "");
+            });
+    }, [users, user.matric]);
+
+    const filtered = sortedUsers.filter(u => 
+        (u.name?.toLowerCase().includes(searchQuery.toLowerCase()) || u.matric?.includes(searchQuery) || u.fullName?.toLowerCase().includes(searchQuery.toLowerCase()))
+    );
+
+    const sendRequest = async (targetMatric, type) => {
+        const u = users.find(x => x.matric === targetMatric);
+        if (!u) return;
+        const requests = u.socialRequests || [];
+        if (requests.find(r => r.from === user.matric)) {
+            showToast("Request already sent", "warning");
+            return;
+        }
+        const updated = { ...u, socialRequests: [...requests, { from: user.matric, type, status: "pending", time: new Date().toISOString() }] };
+        await setDoc(doc(db, "users", targetMatric), updated);
+        showToast(`${type === 'friend' ? 'Friend' : 'Message'} request sent!`, "success");
+    };
+
+    const respondRequest = async (req, action) => {
+        const myRequests = (user.socialRequests || []).filter(r => r.from !== req.from);
+        let updatedMe = { ...user, socialRequests: myRequests };
+        
+        if (action === "accept") {
+            if (req.type === "friend") {
+                updatedMe.friends = [...(user.friends || []), req.from];
+                const other = users.find(x => x.matric === req.from);
+                if (other) {
+                    await setDoc(doc(db, "users", req.from), { ...other, friends: [...(other.friends || []), user.matric] });
+                }
+            } else {
+                updatedMe.allowedChats = [...(user.allowedChats || []), req.from];
+                const other = users.find(x => x.matric === req.from);
+                if (other) {
+                    await setDoc(doc(db, "users", req.from), { ...other, allowedChats: [...(other.allowedChats || []), user.matric] });
+                }
+            }
+        }
+        await setDoc(doc(db, "users", user.matric), updatedMe);
+        showToast(`Request ${action}ed`, "success");
+    };
+
+    useEffect(() => {
+        if (!activeChat) return;
+        const chatId = [user.matric, activeChat.matric].sort().join("_");
+        const unsub = onSnapshot(doc(db, "social_chats", chatId), (snap) => {
+            if (snap.exists()) setMessages(snap.data().messages || []);
+            else setMessages([]);
+        });
+        return () => unsub();
+    }, [activeChat, user.matric]);
+
+    const sendMessage = async (text) => {
+        if (!text.trim() || !activeChat) return;
+        const chatId = [user.matric, activeChat.matric].sort().join("_");
+        const newMsg = { from: user.matric, text, time: new Date().toISOString() };
+        await setDoc(doc(db, "social_chats", chatId), { 
+            messages: [...messages, newMsg],
+            participants: [user.matric, activeChat.matric],
+            lastUpdate: new Date().toISOString()
+        }, { merge: true });
+    };
+
+    return (
+        <div style={{ maxWidth: 1000, margin: "0 auto", padding: "0 20px" }}>
+            <div className="flex justify-between items-center mb-6">
+                <div>
+                    <h2 className="text-gradient">Simyc Connect</h2>
+                    <p className="text-sm text-muted">Bridge the gap between students</p>
+                </div>
+                <button className="btn btn-ghost" onClick={onBack}>✕ Close</button>
+            </div>
+
+            <div className="flex gap-4 mb-6" style={{ overflowX: "auto", paddingBottom: 8 }}>
+                {["discovery", "friends", "chats", "requests"].map(t => (
+                    <button key={t} className={`btn btn-sm ${tab === t ? "btn-primary" : "btn-ghost"}`} onClick={() => setTab(t)}>
+                        {t.charAt(0).toUpperCase() + t.slice(1)}
+                        {t === "requests" && (user.socialRequests || []).length > 0 && <span className="badge badge-red ml-2">{(user.socialRequests || []).length}</span>}
+                    </button>
+                ))}
+            </div>
+
+            {tab === "discovery" && (
+                <>
+                    <input className="input-field mb-6" placeholder="🔍 Search students by name or matric..." value={searchQuery} onChange={e => setSearchQuery(e.target.value)} />
+                    <div className="grid-1">
+                        {filtered.map(u => {
+                            const isOn = isOnline(u.lastSeen);
+                            return (
+                                <div key={u.matric} className="search-result card-lifted">
+                                    <div style={{ position: "relative" }}>
+                                        <div className="avatar-btn" style={{ width: 45, height: 45 }}>{u.profilePic ? <img src={u.profilePic} /> : "👤"}</div>
+                                        {isOn && <div className="social-online pulse-online" style={{ position: "absolute", bottom: 0, right: 0, border: "2px solid var(--card)" }} />}
+                                    </div>
+                                    <div style={{ flex: 1 }}>
+                                        <div style={{ fontWeight: 700, display: "flex", alignItems: "center", gap: 6 }}>
+                                            {u.fullName || u.name}
+                                        </div>
+                                        <div className="text-xs text-muted">Faculty of {u.faculty || "Unknown"} · {isOn ? <span style={{color: "#4ade80", fontWeight: 700}}>Active now</span> : <span className="text-xs">Offline</span>}</div>
+                                    </div>
+                                    <div className="flex gap-2">
+                                        <button className="btn btn-sm btn-outline" onClick={() => sendRequest(u.matric, "friend")}>🤝 Friend</button>
+                                        <button className="btn btn-sm btn-primary" onClick={() => { sendRequest(u.matric, "message"); setTab("requests"); }}>💬 Message</button>
+                                    </div>
+                                </div>
+                            );
+                        })}
+                    </div>
+                </>
+            )}
+
+            {tab === "friends" && (
+                <div className="grid-1">
+                    {(user.friends || []).map(fMatric => {
+                        const u = users.find(x => x.matric === fMatric);
+                        if (!u) return null;
+                        const isOn = isOnline(u.lastSeen);
+                        return (
+                            <div key={fMatric} className="search-result card-lifted">
+                                <div style={{ position: "relative" }}>
+                                    <div className="avatar-btn" style={{ width: 45, height: 45 }}>{u.profilePic ? <img src={u.profilePic} /> : "👤"}</div>
+                                    {isOn && <div className="social-online pulse-online" style={{ position: "absolute", bottom: 0, right: 0, border: "2px solid var(--card)" }} />}
+                                </div>
+                                <div style={{ flex: 1 }}>
+                                    <div style={{ fontWeight: 700 }}>{u.fullName || u.name}</div>
+                                    <div className="text-xs text-muted">{u.dept || "Student"} · {isOn ? <span style={{color: "#4ade80", fontWeight: 700}}>Active now</span> : <span>Offline</span>}</div>
+                                </div>
+                                <button className="btn btn-sm btn-primary" onClick={() => setActiveChat(u)}>Chat</button>
+                            </div>
+                        );
+                    })}
+                    {(user.friends || []).length === 0 && <div className="card p-10 text-center text-muted">No friends yet. Start connecting!</div>}
+                </div>
+            )}
+
+            {tab === "chats" && (
+                <div className={`chat-layout ${activeChat ? "active" : ""}`}>
+                    <div className="chat-sidebar">
+                        <div style={{ padding: 16, borderBottom: "1px solid var(--card-border)", fontWeight: 800 }}>My Conversations</div>
+                        <div style={{ overflowY: "auto" }}>
+                            {(user.allowedChats || []).map(cMatric => {
+                                const u = users.find(x => x.matric === cMatric);
+                                if (!u) return null;
+                                const isOn = isOnline(u.lastSeen);
+                                return (
+                                    <div key={cMatric} className={`chat-list-item ${activeChat?.matric === cMatric ? "active" : ""}`} onClick={() => setActiveChat(u)}>
+                                        <div style={{ position: "relative" }}>
+                                            <div className="avatar-btn" style={{ width: 42, height: 42, flexShrink: 0 }}>{u.profilePic ? <img src={u.profilePic} /> : "👤"}</div>
+                                            {isOn && <div className="social-online pulse-online" style={{ position: "absolute", bottom: 0, right: 0, border: "2px solid var(--card)", width: 10, height: 10 }} />}
+                                        </div>
+                                        <div style={{ flex: 1, minWidth: 0 }}>
+                                            <div style={{ fontWeight: 700, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{u.fullName || u.name}</div>
+                                            <div style={{ fontSize: 11, color: isOn ? "#4ade80" : "var(--text-muted)", fontWeight: isOn ? 700 : 400 }}>{isOn ? "Online Now" : "Last seen " + (u.lastSeen ? new Date(u.lastSeen).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : "long ago")}</div>
+                                        </div>
+                                    </div>
+                                );
+                            })}
+                            {(user.allowedChats || []).length === 0 && <div className="p-8 text-center text-xs text-muted">No chats yet. Connect with fellow students in 'Discovery'!</div>}
+                        </div>
+                    </div>
+                    <div className={`chat-main ${activeChat ? "active" : ""}`}>
+                        {activeChat ? (
+                            <div className="flex flex-col h-full">
+                                <div className="p-4 border-b flex items-center justify-between" style={{ borderColor: "var(--card-border)", background: "rgba(30,41,59,0.3)" }}>
+                                    <div className="flex items-center gap-3">
+                                        <button className="btn btn-ghost md:hidden" onClick={() => setActiveChat(null)}>←</button>
+                                        <div style={{ position: "relative" }}>
+                                            <div className="avatar-btn" style={{ width: 36, height: 36 }}>{activeChat.profilePic ? <img src={activeChat.profilePic} /> : "👤"}</div>
+                                            {isOnline(activeChat.lastSeen) && <div className="social-online pulse-online" style={{ position: "absolute", bottom: 0, right: 0, border: "2px solid var(--card)", width: 10, height: 10 }} />}
+                                        </div>
+                                        <div>
+                                            <div style={{ fontSize: 14, fontWeight: 700 }}>{activeChat.fullName || activeChat.name}</div>
+                                            <div style={{ fontSize: 10,  color: isOnline(activeChat.lastSeen) ? "#4ade80" : "inherit", fontWeight: isOnline(activeChat.lastSeen) ? 700 : 400 }}>{isOnline(activeChat.lastSeen) ? "● Active now" : "Offline"}</div>
+                                        </div>
+                                    </div>
+                                    <button className="btn btn-sm btn-ghost" style={{ color: "var(--danger)" }} onClick={async () => {
+                                        if (window.confirm("Delete this chat?")) {
+                                            const chatId = [user.matric, activeChat.matric].sort().join("_");
+                                            await deleteDoc(doc(db, "social_chats", chatId));
+                                            showToast("Chat wiped!", "success");
+                                            setActiveChat(null);
+                                        }
+                                    }}>🗑️</button>
+                                </div>
+                                <div className="flex-1 p-4 overflow-y-auto flex flex-col gap-2">
+                                    {messages.map((m, i) => (
+                                        <div key={i} className={`chat-bubble ${m.from === user.matric ? "chat-me" : "chat-them"}`}>
+                                            {m.text}
+                                            <div className="chat-time">{new Date(m.time).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</div>
+                                        </div>
+                                    ))}
+                                    {messages.length === 0 && <div className="text-center text-muted mt-20 text-sm">Send a message to start connecting! 🚀</div>}
+                                </div>
+                                <div className="p-4 border-t" style={{ borderColor: "var(--card-border)" }}>
+                                    <div className="flex gap-2">
+                                        <input className="input-field mb-0" placeholder="Type a message..." id="social-input" onKeyDown={e => { if (e.key === 'Enter') { sendMessage(e.target.value); e.target.value = ''; } }} />
+                                        <button className="btn btn-primary" onClick={() => { const i = document.getElementById('social-input'); sendMessage(i.value); i.value = ''; }}>Send</button>
+                                    </div>
+                                </div>
+                            </div>
+                        ) : (
+                            <div className="flex-1 flex flex-col items-center justify-center text-muted opacity-40">
+                                <div style={{ fontSize: 60, marginBottom: 12 }}>💬</div>
+                                <div style={{ fontFamily: "Syne", fontWeight: 700 }}>Select a student to start chatting</div>
+                            </div>
+                        )}
+                    </div>
+                </div>
+            )}
+
+            {tab === "requests" && (
+                <div className="grid-1">
+                    {(user.socialRequests || []).map((req, i) => {
+                        const u = users.find(x => x.matric === req.from);
+                        if (!u) return null;
+                        return (
+                            <div key={i} className="card p-4 mb-3 flex justify-between items-center">
+                                <div className="flex items-center gap-3">
+                                    <div className="avatar-btn" style={{ width: 40, height: 40 }}>{u.profilePic ? <img src={u.profilePic} /> : "👤"}</div>
+                                    <div>
+                                        <div style={{ fontWeight: 700 }}>{u.fullName || u.name}</div>
+                                        <div className="text-xs text-muted">{req.type === 'friend' ? '🤝 Wants to be friends' : '💬 Wants to message you'}</div>
+                                    </div>
+                                </div>
+                                <div className="flex gap-2">
+                                    <button className="btn btn-sm btn-success" onClick={() => respondRequest(req, "accept")}>Accept</button>
+                                    <button className="btn btn-sm btn-ghost" onClick={() => respondRequest(req, "reject")}>✕</button>
+                                </div>
+                            </div>
+                        );
+                    })}
+                    {(user.socialRequests || []).length === 0 && <div className="card p-10 text-center text-muted">No pending requests</div>}
+                </div>
+            )}
+        </div>
+    );
+}
+
+// ─── ADMIN SOCIAL SAFETY COCKPIT ─────────────────────────────────────────────
+
+function AdminSocialSafety({ users, showToast }) {
+    const onlineUsers = users.filter(u => !u.isDeleted && (Date.now() - new Date(u.lastSeen || 0).getTime()) < 300000);
+    const offlineUsers = users.filter(u => !u.isDeleted && (Date.now() - new Date(u.lastSeen || 0).getTime()) >= 300000);
+    const [viewChat, setViewChat] = useState(null);
+    const [allChats, setAllChats] = useState([]);
+
+    useEffect(() => {
+        const unsub = onSnapshot(collection(db, "social_chats"), (snap) => {
+            const arr = [];
+            snap.forEach(d => arr.push({ id: d.id, ...d.data() }));
+            setAllChats(arr);
+        });
+        return () => unsub();
+    }, []);
+
+    return (
+        <div>
+            <h2 className="text-gradient mb-5">Social Safety Cockpit</h2>
+            
+            <div className="grid-3 mb-6">
+                <div className="card p-5">
+                    <div className="stat-value" style={{ color: "#4ade80" }}>{onlineUsers.length}</div>
+                    <div className="stat-label">Students Online</div>
+                </div>
+                <div className="card p-5">
+                    <div className="stat-value" style={{ color: "var(--text-muted)" }}>{offlineUsers.length}</div>
+                    <div className="stat-label">Students Offline</div>
+                </div>
+                <div className="card p-5">
+                    <div className="stat-value" style={{ color: "var(--primary-light)" }}>{allChats.length}</div>
+                    <div className="stat-label">Total Conversations</div>
+                </div>
+            </div>
+
+            <div className="grid-2 gap-6">
+                <div className="card p-5">
+                    <h4 style={{ marginBottom: 14 }}>Real-time Conversations</h4>
+                    <div style={{ maxHeight: 500, overflowY: "auto" }}>
+                        {allChats.map(c => {
+                            const p1 = users.find(u => u.matric === c.participants?.[0]);
+                            const p2 = users.find(u => u.matric === c.participants?.[1]);
+                            return (
+                                <div key={c.id} className="search-result" onClick={() => setViewChat(c)}>
+                                    <div style={{ flex: 1 }}>
+                                        <div style={{ fontSize: 13, fontWeight: 700 }}>{p1?.name || "???"} ↔ {p2?.name || "???"}</div>
+                                        <div className="text-xs text-muted">{c.messages?.length || 0} messages · Last: {new Date(c.lastUpdate).toLocaleTimeString()}</div>
+                                    </div>
+                                    <div className="flex gap-1">
+                                        <button className="btn btn-sm btn-ghost" onClick={() => setViewChat(c)}>Audit</button>
+                                        <button className="btn btn-sm btn-ghost" style={{ color: "var(--danger)" }} onClick={async () => {
+                                            if (window.confirm("Wipe this conversation from the database permanently?")) {
+                                                await deleteDoc(doc(db, "social_chats", c.id));
+                                                showToast("Conversation wiped!", "success");
+                                                if (viewChat?.id === c.id) setViewChat(null);
+                                            }
+                                        }}>🗑️</button>
+                                    </div>
+                                </div>
+                            );
+                        })}
+                    </div>
+                </div>
+
+                <div className="card p-5">
+                    <h4 style={{ marginBottom: 14 }}>Live Chat Auditor</h4>
+                    {viewChat ? (
+                        <div style={{ height: 400, overflowY: "auto", padding: 12, background: "rgba(0,0,0,0.2)", borderRadius: 12 }}>
+                            {viewChat.messages?.map((m, i) => {
+                                const sender = users.find(u => u.matric === m.from);
+                                return (
+                                    <div key={i} style={{ marginBottom: 10, fontSize: 12 }}>
+                                        <strong style={{ color: "var(--primary-light)" }}>{sender?.name}:</strong> {m.text}
+                                        <div className="text-xs opacity-40">{new Date(m.time).toLocaleString()}</div>
+                                    </div>
+                                );
+                            })}
+                        </div>
+                    ) : (
+                        <div className="text-center text-muted mt-20">Select a conversation to audit content...</div>
+                    )}
+                </div>
+            </div>
+        </div>
+    );
+}
 
 function AdminMessages({ messages, setMessages, readAdminMsgs, setReadAdminMsgs, users, adminName, showToast, isSuperAdmin }) {
     const [replyTarget, setReplyTarget] = useState(null);
@@ -3546,7 +4509,11 @@ function AdminEditRequests({ notifications, setNotifications, users, setUsers, l
         if (req.newData.fullName !== oldValue.fullName) changedFields.push(`Name: ${oldValue.fullName} → ${req.newData.fullName}`);
         if (req.newData.email !== oldValue.email) changedFields.push(`Email: ${oldValue.email} → ${req.newData.email}`);
         if (req.newData.phone !== oldValue.phone) changedFields.push(`Phone: ${oldValue.phone} → ${req.newData.phone}`);
-        
+        if (req.newData.level !== oldValue.level) changedFields.push(`Level: ${oldValue.level} → ${req.newData.level}`);
+        if (req.newData.faculty !== oldValue.faculty) changedFields.push(`Faculty: ${oldValue.faculty} → ${req.newData.faculty}`);
+        if (req.newData.department !== oldValue.department) changedFields.push(`Dept: ${oldValue.department} → ${req.newData.department}`);
+        if (req.newData.gender !== oldValue.gender) changedFields.push(`Gender: ${oldValue.gender} → ${req.newData.gender}`);
+
         setUsers(prev => prev.map(u => {
             if (u.matric !== req.matric) return u;
             const emailChanged = (req.newData.email || "").toLowerCase().trim() !== (u.email || "").toLowerCase().trim();
@@ -3591,8 +4558,18 @@ function AdminEditRequests({ notifications, setNotifications, users, setUsers, l
                     <p className="text-sm text-muted mb-2">{req.body}</p>
                     {req.newData && <div style={{ fontSize: 13, marginBottom: 12, border: "1px solid var(--card-border)", padding: 8, borderRadius: 8, background: "rgba(0,0,0,0.2)" }}>
                         <div><strong>New Name:</strong> {req.newData.fullName}</div>
-                        <div><strong>New Email:</strong> {req.newData.email}</div>
-                        <div><strong>New Phone:</strong> {req.newData.phone}</div>
+                        <div className="grid-2 mt-1">
+                            <div><strong>New Email:</strong> {req.newData.email}</div>
+                            <div><strong>New Phone:</strong> {req.newData.phone}</div>
+                        </div>
+                        <div className="grid-2 mt-1">
+                            <div><strong>New Level:</strong> {req.newData.level}</div>
+                            <div><strong>New Gender:</strong> {req.newData.gender}</div>
+                        </div>
+                        <div className="grid-2 mt-1">
+                            <div><strong>New Faculty:</strong> {req.newData.faculty}</div>
+                            <div><strong>New Dept:</strong> {req.newData.department}</div>
+                        </div>
                     </div>}
 
                     {req.status === "approved" ? (
@@ -3667,13 +4644,15 @@ function AdminPerformance({ users, setUsers, showToast }) {
             <div className="input-group"><input className="input-field" placeholder="🔍 Search students..." value={search} onChange={e => setSearch(e.target.value)} /></div>
             {filtered.length === 0 && <p className="text-muted mt-4">No student performance records found.</p>}
             {filtered.map(u => {
-                const avgScore = u.cbtHistory.reduce((acc, h) => acc + h.score, 0) / u.cbtHistory.length;
+                const history = u.cbtHistory || [];
+                const totalScore = history.reduce((acc, h) => acc + (h.score || 0), 0);
+                const avgScore = history.length > 0 ? totalScore / history.length : 0;
                 return (
                     <div key={u.matric} className="card p-5 mb-4">
                         <div className="flex justify-between items-center mb-3">
                             <div>
-                                <div style={{ fontWeight: 700, fontFamily: "Syne", fontSize: 16 }}>{u.fullName}</div>
-                                <div className="text-sm text-muted">{u.matric} · {u.department}</div>
+                                <div style={{ fontWeight: 700, fontFamily: "Syne", fontSize: 16 }}>{u.fullName || "Student"}</div>
+                                <div className="text-sm text-muted">{u.matric} · {u.department || "N/A"}</div>
                             </div>
                             <div className="text-right">
                                 <div style={{ fontSize: 20, fontWeight: 800, color: avgScore >= 50 ? "#4ade80" : "#f87171" }}>{avgScore.toFixed(1)}%</div>
@@ -3681,11 +4660,11 @@ function AdminPerformance({ users, setUsers, showToast }) {
                             </div>
                         </div>
                         <div style={{ display: "flex", gap: 8, overflowX: "auto", paddingBottom: 8 }}>
-                            {u.cbtHistory.map((h, i) => (
+                            {history.map((h, i) => (
                                 <div key={i} style={{ minWidth: 140, padding: 10, background: "rgba(0,0,0,0.2)", borderRadius: 8, border: "1px solid var(--card-border)" }}>
-                                    <div className="text-xs text-muted mb-1">{formatDate(h.date)}</div>
-                                    <div style={{ fontSize: 13, fontWeight: 600, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{h.course.slice(0, 12)}</div>
-                                    <div style={{ fontSize: 16, fontWeight: 700, color: h.score >= 50 ? "#4ade80" : "#f87171" }}>{h.score}%</div>
+                                    <div className="text-xs text-muted mb-1">{h.date ? formatDate(h.date) : "N/A"}</div>
+                                    <div style={{ fontSize: 13, fontWeight: 600, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{(h.course || "No Title").slice(0, 15)}</div>
+                                    <div style={{ fontSize: 16, fontWeight: 700, color: (h.score || 0) >= 50 ? "#4ade80" : "#f87171" }}>{h.score || 0}%</div>
                                 </div>
                             ))}
                         </div>
@@ -3702,6 +4681,10 @@ function AdminAnalytics({ users, payments, setSection }) {
     const approvedPayments = payments.filter(p => p.status === "approved");
     const byPlan = {};
     approvedPayments.forEach(p => { byPlan[p.plan] = (byPlan[p.plan] || 0) + 1; });
+    
+    const femaleCount = (users || []).filter(u => u.gender === "Female").length;
+    const maleCount = (users || []).filter(u => u.gender === "Male").length;
+    const unsetGender = (users || []).filter(u => !u.gender).length;
     return (
         <div>
             <h2 className="text-gradient mb-4" style={{ fontSize: 22 }}>Analytics & Reports</h2>
@@ -3744,6 +4727,24 @@ function AdminAnalytics({ users, payments, setSection }) {
                     </div>
                 ))}
             </div>
+
+            <div className="grid-3 mt-6">
+                <div className="card p-5" style={{ borderLeft: "4px solid #f472b6" }}>
+                    <div className="stat-label">Female Students</div>
+                    <div className="stat-value" style={{ color: "#f472b6" }}>{femaleCount}</div>
+                    <div style={{ fontSize: 11, opacity: 0.6 }}>Onboarded</div>
+                </div>
+                <div className="card p-5" style={{ borderLeft: "4px solid #60a5fa" }}>
+                    <div className="stat-label">Male Students</div>
+                    <div className="stat-value" style={{ color: "#60a5fa" }}>{maleCount}</div>
+                    <div style={{ fontSize: 11, opacity: 0.6 }}>Onboarded</div>
+                </div>
+                <div className="card p-5" style={{ borderLeft: "4px solid var(--warning)" }}>
+                    <div className="stat-label">Pending Updates</div>
+                    <div className="stat-value" style={{ color: "var(--warning)" }}>{unsetGender}</div>
+                    <div style={{ fontSize: 11, opacity: 0.6 }}>Needs gender update</div>
+                </div>
+            </div>
         </div>
     );
 }
@@ -3762,7 +4763,7 @@ function AdminCBTPractice({ user, questions, showToast }) {
             <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
                 {COURSES.map((course, i) => {
                     const realCount = (questions || []).filter(q => q.course === course.code).length;
-                    const displayCount = realCount > 0 ? realCount : SAMPLE_QUESTIONS.filter(q => q.course === course.code).length;
+                    const displayCount = realCount;
                     return (
                         <div key={i} className="card p-5 card-lifted" style={{ display: "flex", alignItems: "center", justifyContent: "space-between", flexWrap: "wrap", gap: 10 }}>
                             <div>
@@ -3790,7 +4791,7 @@ function AdminCBTPractice({ user, questions, showToast }) {
                     setPenaltyData={() => { }}
                     payments={[{ matric: user.matric, status: "approved", expiresAt: addDays(9999), targetCourseCode: null }]}
                     plans={DEFAULT_PLANS}
-                    globalQuestions={questions && questions.length > 0 ? questions : SAMPLE_QUESTIONS}
+                    globalQuestions={questions}
                     onClose={() => setModal(null)}
                     onUpgrade={() => { }}
                     showToast={toast}
@@ -3893,7 +4894,7 @@ function SuperAdminPanel({ adminLogs, setAdminLogs, users, setUsers, payments, s
                 setAdminLogs([]);
                 showToast("Admin logs cleared successfully", "success");
             }
-            
+
             showToast(`${type === 'total' ? 'System reset' : type.charAt(0).toUpperCase() + type.slice(1) + ' purged'} successfully!`, "success");
             setConfirmPop(null);
         } catch (err) {
@@ -4019,7 +5020,7 @@ function AdminSubscriptionMonitor({ users, payments, setPayments, showToast }) {
     const [view, setView] = useState("summary");
     const expiredUsers = payments.filter(p => p.status === "approved" && p.expiresAt && new Date(p.expiresAt) <= new Date());
     const activeUsers = payments.filter(p => p.status === "approved" && p.expiresAt && new Date(p.expiresAt) > new Date());
-    
+
     // Simple Chart Logic
     const total = activeUsers.length + expiredUsers.length;
     const activeBarHeight = total ? (activeUsers.length / total) * 100 : 0;
@@ -4042,7 +5043,7 @@ function AdminSubscriptionMonitor({ users, payments, setPayments, showToast }) {
                     <button className={`btn btn-sm ${view === "expired" ? "btn-primary" : "btn-ghost"}`} onClick={() => setView("expired")}>Expired ({expiredUsers.length})</button>
                 </div>
             </div>
-            
+
             {view === "summary" && (
                 <>
                     <div className="grid grid-2 gap-5 mb-6">
@@ -4061,13 +5062,13 @@ function AdminSubscriptionMonitor({ users, payments, setPayments, showToast }) {
                         <div style={{ height: 200, display: "flex", alignItems: "flex-end", justifyContent: "space-around", gap: 30, padding: "20px 0", borderBottom: "2px solid var(--card-border)" }}>
                             <div style={{ display: "flex", flexDirection: "column", alignItems: "center", flex: 1 }}>
                                 <div style={{ height: `${activeBarHeight}%`, width: 60, background: "linear-gradient(to top, #166534, var(--success))", borderRadius: "6px 6px 0 0", transition: "height 0.5s ease" }}>
-                                     {activeBarHeight > 10 && <div style={{ color: "white", fontSize: 10, fontWeight: 800, textAlign: "center", marginTop: 5 }}>{Math.round(activeBarHeight)}%</div>}
+                                    {activeBarHeight > 10 && <div style={{ color: "white", fontSize: 10, fontWeight: 800, textAlign: "center", marginTop: 5 }}>{Math.round(activeBarHeight)}%</div>}
                                 </div>
                                 <div className="text-xs text-muted mt-3 font-bold">ACTIVE</div>
                             </div>
                             <div style={{ display: "flex", flexDirection: "column", alignItems: "center", flex: 1 }}>
                                 <div style={{ height: `${expiredBarHeight}%`, width: 60, background: "linear-gradient(to top, #7f1d1d, var(--danger))", borderRadius: "6px 6px 0 0", transition: "height 0.5s ease" }}>
-                                     {expiredBarHeight > 10 && <div style={{ color: "white", fontSize: 10, fontWeight: 800, textAlign: "center", marginTop: 5 }}>{Math.round(expiredBarHeight)}%</div>}
+                                    {expiredBarHeight > 10 && <div style={{ color: "white", fontSize: 10, fontWeight: 800, textAlign: "center", marginTop: 5 }}>{Math.round(expiredBarHeight)}%</div>}
                                 </div>
                                 <div className="text-xs text-muted mt-3 font-bold">EXPIRED</div>
                             </div>
@@ -4104,7 +5105,7 @@ function AdminSubscriptionMonitor({ users, payments, setPayments, showToast }) {
                         <button className="btn btn-danger btn-sm" onClick={clearExpired}>🗑️ Clear Expired History</button>
                     </div>
                     {expiredUsers.length === 0 && <p className="text-muted text-sm italic">No expired subscriptions found.</p>}
-                    {expiredUsers.sort((a,b) => new Date(b.expiresAt) - new Date(a.expiresAt)).map((sub, i) => (
+                    {expiredUsers.sort((a, b) => new Date(b.expiresAt) - new Date(a.expiresAt)).map((sub, i) => (
                         <div key={i} className="card p-4 border-left-danger">
                             <div className="flex justify-between items-center flex-wrap gap-2">
                                 <div>

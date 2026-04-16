@@ -1,0 +1,2103 @@
+PMG 313 - Project Scope Management
+Mode: Easy
+Total Questions: 75
+
+1. What is a "Project" according to the Australian Institute of Project Management?
+A. A permanent operation to produce goods
+B. A temporary endeavor undertaken to create a unique product, service, or result
+C. A weekly meeting of managers
+D. A social club for engineers
+Answer: B
+
+2. The temporary nature of a project means it has:
+A. No end date
+B. A definite beginning and end
+C. Only a beginning, no end
+D. A short duration of exactly one week
+Answer: B
+
+3. Which of the following is a "tangible" deliverable?
+A. Staff morale
+B. A user manual
+C. A brand reputation
+D. Project experience
+Answer: B
+
+4. What do "Milestones" represent in project management?
+A. The weight of the project materials
+B. Dates by which major activities are performed
+C. The number of people on the team
+D. The total cost of the project
+Answer: B
+
+5. A "Stakeholder" is defined as:
+6. Any person or group of people who may be affected by your project
+A. Only the people who pay for the project
+B. Only the project manager
+C. Any person or group of people who may be affected by your project
+D. The government only
+Answer: C
+
+7. What does the "S" in SMART criteria stand for?
+A. Simple
+B. Specific
+C. Strategic
+D. Small
+Answer: B
+
+8. What does "Scope" refer to in project management?
+A. The size of the microscope used
+B. The combined objectives and requirements needed to complete a project
+C. The list of all employees in the company
+D. The marketing budget only
+Answer: B
+
+9. Which type of scope identifies the "characteristics and functions" of a product or service?
+A. Project Scope
+B. Product Scope
+C. Business Scope
+D. Financial Scope
+Answer: B
+
+10. What does WBS stand for?
+A. Work Basic System
+B. Work Breakdown Structure
+C. Weekly Business Schedule
+D. Worker Benefit Scheme
+Answer: B
+
+11. "Scope Creep" is defined as:
+A. A slow movement into a new building
+B. Uncontrolled changes or expansion in a project's scope
+C. A type of software used for designing
+D. The process of hiring new people
+Answer: B
+
+12. Which process involves formalizing acceptance of the completed project deliverables?
+A. Scope Planning
+B. Scope Validation/Verification
+C. Scope Creep
+D. Scope Definition
+Answer: B
+
+13. What is the main purpose of "Scope Control"?
+A. To increase the project's cost
+B. To monitor the project’s scope and controlling changes
+C. To fire team members who talk too much
+D. To change the project name every week
+Answer: B
+
+14. According to the handout, a "Deliverable" is:
+A. A pizza delivered to the office
+B. Any unique and verifiable product, result, or capability to perform a service
+C. A rumor about the project
+D. The project manager's car
+Answer: B
+
+15. What are the three core items every project objective must include?
+A. Name, Date, Location
+B. Cost, Schedule, and Quality measures
+C. Size, Weight, Color
+D. Tools, Machines, Labor
+Answer: B
+
+16. "Project Management" is the application of:
+A. Money to buy products
+B. Knowledge, skills, tools, and techniques to project activities
+C. Advertising to a project
+D. Paint to a building
+Answer: B
+
+17. Which of these is a "Managerial" step in managing scope?
+A. Writing a novel
+B. Defining the Project Scope
+C. Going on a vacation
+D. Buying a new phone
+Answer: B
+
+18. A "Project Scope Statement" is also known as a:
+A. Project Diary
+B. Project Scope Document
+C. Project Secret
+D. Project Receipt
+Answer: B
+
+19. Which tool helps project managers visualize tasks and dependencies?
+A. A calculator
+B. A Gantt Chart
+C. A telescope
+D. A thermometer
+Answer: B
+
+20. "Project Exclusions" describe:
+A. What will be included in the project
+B. What won’t be included in the project scope
+C. The names of the stakeholders
+D. The location of the office
+Answer: B
+
+21. The "Scope Baseline" is:
+A. The basement of the project building
+B. The original approved scope used for comparison
+C. The minimum salary for workers
+D. The color of the project logo
+Answer: B
+
+22. "Requirement Gathering" is the process of:
+A. Collecting all the tools for construction
+B. Identifying and documenting what stakeholders need and expect
+C. Buying groceries for the team
+D. Cleaning the office space
+Answer: B
+
+23. Which WBS type uses "project phases" to create work packages?
+A. Deliverable-based WBS
+B. Phase-based WBS
+C. Cost-based WBS
+D. Time-based WBS
+Answer: B
+
+24. Level 1 of a WBS usually contains the:
+A. Smallest subtask
+B. Parent task or project objective
+C. List of workers
+D. Daily schedule
+Answer: B
+
+25. A "Change Request" form is used to:
+A. Order a coffee change
+B. Control changes made to the project scope
+C. Ask for a new manager
+D. Change the company's address
+Answer: B
+
+26. Which approach describes a "Waterfall" (Linear) style of project management?
+A. Modern Approach
+B. Traditional Approach
+C. Agile Approach
+D. Hybrid Approach
+Answer: B
+
+27. "Agile" project management is characterized by being:
+A. Rigid and unchanging
+B. Iterative and adaptive
+C. Only used for construction
+D. Very slow and heavy
+Answer: B
+
+28. "Scope Validation" involves sign-off from:
+A. The security guard
+B. The stakeholders or clients
+C. The local newspaper
+D. The competitors
+Answer: B
+
+29. What happens if a project has "disinterested stakeholders"?
+A. It becomes more successful
+B. It can lead to poor communication and scope creep
+C. The budget increases automatically
+D. The project finishes faster
+Answer: B
+
+30. A "Gantt Chart" is used to:
+A. Measure the weight of products
+B. Schedule, plan, and track project progress
+C. Calculate the CEO's bonus
+D. Design the office layout
+Answer: B
+
+31. In a WBS, "Subtasks" are:
+A. Tasks that are done underwater
+B. Breakdown of dependencies into manageable components
+C. Tasks that are never finished
+D. The names of the office pets
+Answer: B
+
+32. "Lean Approach" to scope means:
+A. Making people work while leaning
+B. Focusing on the basics and avoiding excessive bureaucracy
+C. Reducing the number of chairs
+D. Buying less food for the team
+Answer: B
+
+33. Which of the following is a "Requirement Gathering" technique?
+A. Guessing
+B. Interviews
+C. Ignoring stakeholders
+D. Watching television
+Answer: B
+
+34. A "Project Prototype" is:
+A. A professional athlete
+B. An initial version of the solution used for feedback
+C. A type of ancient stone
+D. The final product delivered to the customer
+Answer: B
+
+35. The "Denver International Airport" case is a famous example of:
+A. Perfect project management
+B. Scope creep and project delay
+C. A very small project
+D. A project with no budget
+Answer: B
+
+36. "Project Scope" focus on the ________ of the mission.
+A. WHAT
+B. HOW
+C. WHY
+D. WHO
+Answer: B
+
+37. "Product Scope" focuses on the ________.
+A. HOW
+B. WHAT (functions and features)
+C. WHEN
+D. COST
+Answer: B
+
+38. Which management standard is mentioned as a "Modern Approach"?
+A. PRINCE2/PMP
+B. Stone Age Management
+C. Random Task Management
+D. No-Plan Management
+Answer: A
+
+39. A "Work Package" is:
+A. A package delivered by mail
+B. The lowest level of a WBS
+C. A box of tools
+D. A holiday gift for employees
+Answer: B
+
+40. "Stakeholder Alignment" means:
+A. Standing stakeholders in a straight line
+B. Keeping all stakeholders informed and in agreement with project goals
+C. Choosing only one stakeholder to talk to
+D. Giving stakeholders free company stock
+Answer: B
+
+41. Which of the following is a "Project Objective" attribute?
+A. The name of the city
+B. Cost
+C. The color of the pens
+D. The office floor number
+Answer: B
+
+42. SMART stands for Specific, Measurable, Assignable, Realistic, and ________.
+A. Total
+B. Time-framed
+C. Tough
+D. Traditional
+Answer: B
+
+43. "Scope Planning" involves:
+A. Looking through a scope at the stars
+B. Creating a detailed plan to assist in managing and defining scope
+C. Planning the next company party
+D. Choosing the workers' uniforms
+Answer: B
+
+44. "Decomposition" in WBS refers to:
+A. Materials rotting in the warehouse
+B. Subdividing larger deliverables into smaller, manageable components
+C. Reducing the number of team members
+D. Changing the project name
+Answer: B
+
+45. An "Acceptance Criteria" is:
+A. A list of people allowed in the office
+B. Standards that must be met for deliverables to be accepted
+C. The password to the company computer
+D. A map of the building
+Answer: B
+
+46. "Kanban Board" is a tool for:
+A. Playing card games
+B. Visually representing the project workflow
+C. Measuring the height of a building
+D. Storing historical documents
+Answer: B
+
+47. In a WBS dictionary, you find:
+A. Only the definitions of words
+B. Detailed information about each WBS element
+C. The names of the workers' families
+D. The company's bank account details
+Answer: B
+
+48. "Change Management" is essential to prevent:
+A. High profits
+B. Scope creep
+C. Fast delivery
+D. Happy stakeholders
+Answer: B
+
+49. PRINCE2 methodology is mostly:
+A. Guess-based
+B. Process-based and structured
+C. Without any documentation
+D. Only for small gardens
+Answer: B
+
+50. "Requirements Elicitation" is another word for:
+A. Firing people
+B. Gathering requirements
+C. Training people
+D. Selling products
+Answer: B
+
+51. A "Survey" is best used for:
+A. Talking to one person for 5 hours
+B. Gathering requirements from a large, dispersed group of people
+C. Measuring the length of a desk
+D. Planning a secret meeting
+Answer: B
+
+52. "Validation" ensures:
+A. The product is the cheapest
+B. The right requirements have been specified according to stakeholder needs
+C. The office is painted blue
+D. The workers have arrived on time
+Answer: B
+
+53. "Scope verification" is the same as:
+A. Scope creation
+B. Scope validation
+C. Scope creep
+D. Scope deletion
+Answer: B
+
+54. "Brainstorming" is used to:
+A. Cause a storm in the office
+B. Generate creative ideas for requirements
+C. Sleep better at night
+D. Fix a broken computer
+Answer: B
+
+55. "Baseline" comparison allows managers to see:
+A. Planned effort vs. Actual effort
+B. The height of the floor
+C. The number of clouds
+D. The bottom of the ocean
+Answer: A
+
+56. "Expert Judgment" in scope definition involves:
+A. Asking a random person on the street
+B. Consulting individuals with specialized knowledge or training
+C. Following the advice of a child
+D. Making a guess with a coin toss
+Answer: B
+
+57. "Product Analysis" is used to:
+A. Analyze the food in the cafeteria
+B. Translate high-level descriptions into tangible deliverables
+C. Analyze the stock market
+D. Check the health of the employees
+Answer: B
+
+58. "Project Exclusions" help avoid:
+A. Getting more money
+B. Misunderstandings with stakeholders
+C. Finishing the project early
+D. Hiring too many people
+Answer: B
+
+59. "Milestones" are usually marked as:
+60. Tasks with zero duration that mark important points
+A. Tasks that take 10 days
+B. Regular daily tasks
+C. Tasks with zero duration that mark important points
+D. The total number of tasks
+Answer: C
+
+61. "Workgroups" consist of:
+A. People who play sports together
+B. Internal or external personnel involved with the project
+C. People who live in the same house
+D. People who use the same elevator
+Answer: B
+
+62. "SMART" goals help in:
+A. Making people look smart
+B. Defining clear and measurable project objectives
+C. Increasing the complexity of the project
+D. Reducing the number of meetings
+Answer: B
+
+63. "Project Success" is often measured by:
+A. The number of emails sent
+B. Meeting cost, schedule, and quality criteria
+C. The height of the project manager
+D. The color of the office carpet
+Answer: B
+
+64. "Scope management" ensures that:
+A. All possible ideas are included in the project
+B. Only the work required to complete the project is included
+C. The project manager is never stressed
+D. The project takes as long as possible
+Answer: B
+
+65. A "Change Log" is used to:
+A. Store logs for the fireplace
+B. Keep track of all approved and rejected changes
+C. Write down the names of the workers
+D. Track the number of coffee cups used
+Answer: B
+
+66. "Decomposition has some activities which include the identification of ________."
+A. Office secrets
+B. Major project deliverables
+C. Employee birthdays
+D. Local restaurants
+Answer: B
+
+67. "Requirement discovery" involves:
+A. Looking for lost keys
+B. Interacting with stakeholders to find their needs
+C. Discovering a new planet
+D. Finding a cheaper office
+Answer: B
+
+68. Which of the following is a "Project Constraint"?
+A. Budget
+B. The type of music in the elevator
+C. The manager's favorite color
+D. The number of birds outside
+Answer: A
+
+69. "Scope validation" should be done:
+A. Only at the end of the project
+B. Throughout the project life cycle
+C. Only at the beginning
+D. Never
+Answer: B
+
+70. "Requirement engineering" results in:
+A. A new engine for a car
+B. Software's specification or work products
+C. A list of all people in the city
+D. A map of the world
+Answer: B
+
+71. "Alpha and Beta testing" are examples of:
+A. Fitness tests for workers
+B. Exploratory validation techniques
+C. Types of office chairs
+D. Names of project teams
+Answer: B
+
+72. "WBS" is a ________ method.
+A. Chaos-based
+B. Ranked/Hierarchical
+C. Random
+D. Circular
+Answer: B
+
+73. "Critical Path" in a Gantt Chart is usually shown in:
+A. Green
+B. Red
+C. Yellow
+D. Blue
+Answer: B
+
+74. "Requirement management" ensures:
+A. Nothing ever changes
+B. Changes to requirements are tracked and managed
+C. The manager gets a raise
+D. The office is clean
+Answer: B
+
+75. "Project Closure" is:
+A. Closing the door to the office
+B. The final phase of a project
+C. Firing everyone in the middle of a task
+D. Starting a new project immediately
+Answer: B
+
+PMG 313 - Project Scope Management
+Mode: Medium
+Total Questions: 75
+
+76. How does the "Temporary" nature of a project affect its resource allocation compared to "Operations"?
+A. Projects require resources for a specific timeframe to meet a unique objective.
+B. Operations have a definite end date and thus need fewer resources.
+C. Projects use the same resources forever.
+D. There is no difference in resource allocation.
+Answer: A
+
+77. Why is it said that "Projects are temporary, but their deliverables may exist beyond the end of the project"?
+A. Because projects never actually end.
+B. Because a project's output (like a bridge or software) continues to be used after the project team is disbanded.
+C. Because project managers are immortal.
+D. Because project documents are made of eternal plastic.
+Answer: B
+
+78. Explain the difference between "Project Scope" and "Product Scope" in terms of "How vs. What".
+A. Project scope specifies the HOW (mechanism); Product scope clarifies the WHAT (functions/features).
+B. Project scope is the WHAT; Product scope is the HOW.
+C. They both specify the WHY.
+D. Project scope is for the cost; Product scope is for the quality.
+Answer: A
+
+79. According to the handout, why is it critical to document project objectives early in the life cycle?
+A. To make the document look thicker.
+B. To prevent scope creep and project failure.
+C. To allow workers to start late.
+D. To ensure the government is happy.
+Answer: B
+
+80. In the SMART criteria, "Assignable" means:
+A. The objective must be impossible to reach.
+B. You can specify who will do the task.
+C. The objective can be assigned to a computer only.
+D. The objective is only for the CEO.
+Answer: B
+
+81. What is the role of a "Work Breakdown Structure (WBS)" in scope definition?
+A. It simplifies the project into smaller, manageable tasks to improve estimate accuracy.
+B. It makes the project more complicated for stakeholders.
+C. It is used to fire employees who are slow.
+D. It lists the personal hobbies of the team.
+Answer: A
+
+82. Which component of Scope Management involves "formal recognition" that objectives have been met?
+A. Scope Control
+B. Scope Validation/Verification
+C. Scope Planning
+D. Collect Requirements
+Answer: B
+
+83. How does "Scope Creep" typically impact the "Project Management Triangle" (Scope, Time, Cost)?
+A. It only affects the color of the product.
+B. It increases the scope, which usually extends the time and increases the cost.
+C. It makes the project finished faster at a lower cost.
+D. It has no impact on time or cost.
+Answer: B
+
+84. In a "Deliverable-based WBS", the hierarchy is decomposed based on:
+A. The date of completion.
+B. Overarching outcomes/deliverables that support the scope.
+C. The salary of the workers.
+D. The alphabetical order of tasks.
+Answer: B
+
+85. Why is a "Scope Baseline" important during the execution phase?
+A. It allows managers to compare actual progress against the approved plan to identify deviations.
+B. It provides a list of all company cars.
+C. it's a place for workers to sleep.
+D. It's used to hide project secrets from the public.
+Answer: A
+
+86. What is the difference between "Traceability" and "Validation" in requirement management?
+A. Traceability links requirements to their source/design; Validation ensures they meet stakeholder needs.
+B. Traceability is for the cost; Validation is for the speed.
+C. They are the exact same thing.
+D. Traceability is only for software; Validation is only for buildings.
+Answer: A
+
+87. Which "Modern Approach" emphasizes "Iterative and Incremental" delivery based on continuous feedback?
+A. Waterfall
+B. Agile
+C. PRINCE2
+D. Traditional Method
+Answer: B
+
+88. "Expert Judgment" in scope definition may come from which of the following?
+A. A random passerby.
+B. Internal units, consultants, stakeholders, or technical associations.
+C. The newest intern with no experience.
+D. A sports coach from another city.
+Answer: B
+
+89. "Product Analysis" as a scope tool is best used when:
+A. The deliverable is a service only.
+B. Translating high-level product descriptions into tangible specs for complex products (like a satellite).
+C. Analyzing the company's lunch menu.
+D. Checking the weather for an outdoor event.
+Answer: B
+
+90. How does "Change Management" help control "Scope Creep"?
+A. By allowing anyone to change anything at any time.
+B. By introducing formal processes for requesting, evaluating, and approving changes.
+C. By banning all changes entirely.
+D. By firing the person who suggests a change.
+Answer: B
+
+91. Which phase of WBS development involves the "lowest level" where work packages are clearly defined?
+A. Level 1
+B. Level 3 (or the lowest level of decomposition)
+C. Zero Level
+D. Planning Phase only
+Answer: B
+
+92. In "Requirement Engineering", what happens during the "Negotiation" phase?
+A. Workers negotiate for higher pay.
+B. Conflicts between different stakeholder requirements are resolved through compromises or priority points.
+C. The company negotiates with the bank for a loan.
+D. The manager negotiates with a landlord for office space.
+Answer: B
+
+93. A "Kanban Board" differs from a "Gantt Chart" primarily because:
+A. Kanban is for costs; Gantt is for people.
+B. Kanban focuses on visual workflow and cards; Gantt focuses on a horizontal timeline and task duration.
+C. Kanban is only for large projects.
+D. Gantt charts are only for small projects.
+Answer: B
+
+94. "Administrivia" is defined in the handout as:
+A. Important administrative work.
+B. Trivial, excessive administrative processes that can cause stakeholders to bypass procedures.
+C. A new type of software.
+D. A law passed by the government.
+Answer: B
+
+95. Why is "Requirement Validation" considered expensive if done late?
+A. Because paper becomes very expensive.
+B. Because fixing an error after delivery can cost up to 100 times more than fixing it during the requirement phase.
+C. Because the government will fine the company.
+D. Because the manager will be angry.
+Answer: B
+
+96. "Product Scope" clarifies the WHAT; "Project Scope" expounds on the ________.
+A. WHY
+B. HOW
+C. WHO
+D. COST
+Answer: B
+
+97. Which document is called the "heart of the scope management process"?
+A. Financial Report
+B. Project Scope Statement
+C. Marketing Plan
+D. Employee Handbook
+Answer: B
+
+98. A "Deliverable-based WBS" is best suited for:
+A. Projects lasting 10 years with unclear goals.
+B. Shorter projects with a really clear outcome (e.g., an annual revenue report).
+C. Projects with no budget.
+D. Projects with no team members.
+Answer: B
+
+99. In the "Denver International Airport" case, why was the project delayed by sixteen months?
+A. Because they ran out of electricity.
+B. Due to scope creep, ignoring airline feedback, and unrealistic timelines.
+C. Because the airport was too small.
+D. Because they changed the project manager 20 times.
+Answer: B
+
+100. "Verification" using "Prototyping" allows for:
+A. Building the final product in one day.
+B. Real-time feedback and identifying feature preferences before full development.
+C. Hiding the project from the client.
+D. Reducing the workers' salaries.
+Answer: B
+
+101. "Work Performance Data" is a primary ________ for scope validation.
+A. Output
+B. Input
+C. Tool
+D. Goal
+Answer: B
+
+102. Which "Requirement Gathering Problem" involves stakeholders using their own technical terms?
+A. Language barrier
+B. Stakeholders express requirements in their own terms rather than project terms
+C. Stakeholders don't want to talk
+D. Stakeholders are too busy
+Answer: B
+
+103. "Project Exclusions" are listed in the Scope Statement to:
+A. Make the list look longer.
+B. Set clear boundaries and avoid misunderstandings about what is NOT being delivered.
+C. Hide project failures.
+D. List the names of the competitors.
+Answer: B
+
+104. "Succession Criteria" should be defined as:
+A. At the very end of the project.
+B. As early as possible in the project's life cycle.
+C. Only if the project is failing.
+D. Only by the government.
+Answer: B
+
+105. "Inception" in requirement engineering begins by:
+A. Building the product immediately.
+B. Examining the problem and gaining an understanding of its nature and the desired solution.
+C. Paying the workers their first salary.
+D. Firing the designer.
+Answer: B
+
+106. Why is "Scope Validation" different from "Quality Control"?
+A. They are the same.
+B. Quality checks if it meets specs; Validation checks if it is formally acceptable to the client.
+C. Validation is only for money; Quality is only for time.
+D. Validation happens at the start; Quality happens at the end.
+Answer: B
+
+107. "Alternative Generation" is a technique used for:
+A. Generating electricity.
+B. Gathering as many potential approaches or options as possible to execute project work.
+C. Choosing between two different coffee brands.
+D. Hiring people from another country.
+Answer: B
+
+108. A "Phase-based WBS" is most useful for:
+A. Very short projects.
+B. Longer projects with less defined outcomes.
+C. Projects that involve only one person.
+D. Projects with no tasks.
+Answer: B
+
+109. "Control Scope" focuses on identifying if a ________ has occurred and managing it.
+A. Mistake
+B. Change
+C. New hire
+D. Party
+Answer: B
+
+110. "Work Breakdown Structure (WBS)" can be displayed in two formats: Graphical and ________.
+A. Video
+B. Tree/List
+C. Sound
+D. Hidden
+Answer: B
+
+111. "Impact Analysis" in change management assesses:
+A. How hard a hammer hits a nail.
+B. The potential benefits, risks, and costs of a proposed change.
+C. The number of emails received.
+D. The speed of the project manager's car.
+Answer: B
+
+112. Why should "Requirement Discovery" be a "context-free" process during inception?
+A. To ignore the stakeholders.
+B. To avoid presuming to know the solution before understanding the problem properly.
+C. To make the process faster.
+D. To save money on paper.
+Answer: B
+
+113. "Facilitated Workshops" are best for:
+A. One-on-one meetings only.
+B. Cross-functional understanding of objectives by bringing key members with varying expertise together.
+C. Teaching people how to use a hammer.
+D. Selling products to customers.
+Answer: B
+
+114. "Scenario-based" requirement gathering involves:
+A. Watching a play.
+B. Using stories (Use Cases) that are easier for users to describe the functionality.
+C. Building a house in a day.
+D. Guessing the future.
+Answer: B
+
+115. "Project Objectives" should be stated in:
+A. Vague and poetic words.
+B. Tangible, measurable terms that leave no room for disagreement.
+C. Only the project manager's native language.
+D. Secret code.
+Answer: B
+
+116. A "Stakeholder Analysis Template" helps identify:
+A. The stakeholders' bank accounts.
+B. Who has a material interest and their concerns/expectations for the project.
+C. Which stakeholders are the tallest.
+D. The stakeholders' home addresses.
+Answer: B
+
+117. "Requirement Discovery" is an iterative process, often visualized as a ________.
+A. Straight line
+B. Spiral
+C. Square
+D. Pyramid
+Answer: B
+
+118. Which constraint is NOT one of the three main ones in the "Project Management Triangle"?
+A. Scope
+B. Time
+C. Style
+D. Cost
+Answer: C
+
+119. "Scope Revalidation" after an approved change means:
+A. Starting the whole project over.
+B. Updating the scope statement and WBS to align with the new goals.
+C. Deleting all previous documents.
+D. Firing the person who suggested the change.
+Answer: B
+
+120. Which approach embraces change even after planning has begun?
+A. Traditional Waterfall
+B. Modern Agile
+C. Rigid Process
+D. Historical Management
+Answer: B
+
+121. "Documentation" in Agile is usually:
+A. Extensive and rigid.
+B. Lightweight and value-driven.
+C. Non-existent.
+D. Only done in secret.
+Answer: B
+
+122. Traditional "Waterfall" approach is best for:
+A. High-complexity, fast-evolving projects.
+B. Low-complexity, predictable projects like construction.
+C. Projects with no team.
+D. Projects with no budget.
+Answer: B
+
+123. "Stakeholder Involvement" in the Traditional Approach is usually:
+A. Constant throughout.
+B. Minimal after the planning phase.
+C. Only at the end.
+D. Only at the beginning.
+Answer: B
+
+124. What is a "Work Package" in the context of WBS?
+A. A box of work tools.
+B. The lowest level of the WBS that can be easily managed and estimated.
+C. A package sent by an employee.
+D. A holiday bonus.
+Answer: B
+
+125. "Scope creep" can lead to reduced team morale because:
+A. Workers have too much free time.
+B. Constant changes cause frustration, rework, and feeling that "the finish line is moving".
+C. The manager is too nice.
+D. The office is too quiet.
+Answer: B
+
+126. "Prototyping" is a ________ validation technique.
+A. Static
+B. Exploratory
+C. Review
+D. Sample
+Answer: B
+
+127. "Requirements Classification" involves:
+A. Putting requirements in alphabetical order.
+B. Grouping related requirements into coherent clusters.
+C. Ranking requirements by cost only.
+D. Hiding requirements from the client.
+Answer: B
+
+128. "Configuration Management" is another name for:
+A. Building a computer.
+B. Scope change control system.
+C. Organizing the office furniture.
+D. Choosing the project software.
+Answer: B
+
+129. "Decomposing work packages beyond the level required for effective management is considered ________."
+A. Professional
+B. Administrivia
+C. Essential
+D. Clever
+Answer: B
+
+130. "Requirement Traceability Matrix" helps to:
+A. Track the workers' movements.
+B. Link requirements from their origin to the deliverables that satisfy them.
+C. Track the project's profit.
+D. Trace the ancestors of the CEO.
+Answer: B
+
+131. "A project is a ________ undertaking..." (as per Japan association).
+A. Value creation
+B. Money losing
+C. Time wasting
+D. Secretive
+Answer: A
+
+132. What is the output of the "Collect Requirements" phase?
+A. The final product.
+B. Requirements management plan and documentation.
+C. The project manager's resume.
+D. A list of all competitors.
+Answer: B
+
+133. "Functional specifications" are part of:
+A. Project Scope
+B. Product Scope
+C. Business Plan
+D. Budget
+Answer: B
+
+134. If a project lasts longer, the risk of scope creep ________.
+A. Decreases
+B. Increases
+C. Stays the same
+D. Disappears
+Answer: B
+
+135. "Sponsor acceptance" should be defined in:
+A. Secret code.
+B. Plain language to avoid differing perceptions.
+C. Only the final report.
+D. A separate project.
+Answer: B
+
+136. "Impact Analysis" is part of which change management step?
+A. Assessing the change.
+B. Analyzing and approving the change.
+C. Implementation.
+D. Review.
+Answer: B
+
+137. Which methodology uses "Stage Gates" for stakeholder consultation?
+A. Agile
+B. PRINCE2/PMP
+C. Waterfall
+D. Chaos management
+Answer: B
+
+138. "Requirements specification" result should be:
+A. Written in pencil so it can be erased.
+B. Unambiguous, consistent, and complete.
+C. Kept secret from the team.
+D. At least 1,000 pages long.
+Answer: B
+
+139. How many "levels of dependencies" are typically in most work breakdown structures?
+A. Exactly one.
+B. Three main levels (though more or fewer are possible).
+C. Always ten.
+D. Zero.
+Answer: B
+
+140. Which of the following is a "Visual method" for WBS?
+A. Timelines (Gantt Charts)
+B. Kanban boards
+C. Calendars
+D. All of the above
+Answer: D
+
+141. "Slack" in a Gantt Chart refers to:
+A. Lazy workers.
+B. Black lines connected to non-critical activities indicating flexibility.
+C. The total cost of materials.
+D. The number of meetings per week.
+Answer: B
+
+142. "Requirement Discovery" includes discovering "Domain requirements", which are:
+A. Requirements for a new website address.
+B. Requirements related to the specific industry or application area.
+C. Requirements for the office building.
+D. Requirements for the country.
+Answer: B
+
+143. "Stakeholders don’t know what they really want" is a problem during:
+A. Scope validation.
+B. Requirement elicitation.
+C. Project closure.
+D. Budgeting.
+Answer: B
+
+144. "Prototyping allows real-time ________."
+A. Money losing
+B. Feedback
+C. Product delivery
+D. Staff firing
+Answer: B
+
+145. "Requirement Checking" for "Realism" asks:
+A. Is the requirement funny?
+B. Can it be implemented given available budget and technology?
+C. Does it mention a true story?
+D. Is the manager a real person?
+Answer: B
+
+146. "Scope creep" can sometimes be "a good thing" if:
+A. It makes the project fail.
+B. It is managed well and adds value.
+C. It wastes all the money.
+D. It scares the stakeholders.
+Answer: B
+
+147. What is "Work Performance Information" in scope validation?
+A. A list of all workers' names.
+B. Data on how the deliverables meet (or fail) the requirements.
+C. The news about the project.
+D. The total hours worked by the team.
+Answer: B
+
+148. A "Walkthrough" is an example of a(n):
+A. Exploratory technique.
+B. Formal review technique.
+C. Physical exercise.
+D. Sample development.
+Answer: B
+
+149. "Product breakdown" is a method used in:
+A. Social science.
+B. Product analysis for scope definition.
+C. Cleaning the warehouse.
+D. Firing people.
+Answer: B
+
+150. "Sign-off on key deliverables" is a way to:
+A. End the project immediately.
+B. Minimize known or unknown scope changes through formal acceptance.
+C. Change the project name.
+D. Hire more staff.
+Answer: B
+
+PMG 313 - Project Scope Management
+Mode: Hard
+Total Questions: 75
+
+151. Compare "Agile" and "PRINCE2" regarding their fundamental delivery logic.
+A. Agile is linear; PRINCE2 is iterative.
+B. Agile is iterative and values response to change; PRINCE2 is process-based and stage-structured.
+C. Agile only works for construction; PRINCE2 only for software.
+D. Both have zero documentation requirements.
+Answer: B
+
+152. In "Requirement Engineering," why is "Negotiation" considered an overlapping step rather than a one-time event?
+A. Because managers love to argue.
+B. Because conflicts and priority shifts can emerge at any stage of elicitation, elaboration, or validation.
+C. Because it happens only on Mondays.
+D. Because the budget changes every hour.
+Answer: B
+
+153. What is the "Line-of-Sight" problem in large projects with poor scope management?
+A. Workers can't see the computer screen.
+B. Confusion arises regarding how specific tasks contribute to the overarching project mission.
+C. The project manager is too short.
+D. The office has too many walls.
+Answer: B
+
+154. How does "Scope Management" mitigate the risk of "Quality Degradation" in a project with fixed time and budget?
+A. By allowing more features to be added for free.
+B. By strictly controlling the scope (WHAT) to ensure quality isn't compromised by trying to do too much.
+C. By reducing the number of team meetings.
+D. By increasing the worker's salary to increase speed.
+Answer: B
+
+155. Why is "Requirement Validation" specifically concerned with "Unambiguity"?
+A. To make the document harder to read.
+B. To ensure that each requirement has only one possible interpretation by all stakeholders and the dev team.
+C. To allow for many different interpretations.
+D. To use more complex words.
+Answer: B
+
+156. In the context of a WBS, explain the relationship between a "Parent Task" and its "Dependencies."
+A. They have no relationship.
+B. The dependencies (subtasks) are the granular actions required to fulfill the objectives of the parent task.
+C. The parent task is done after the dependencies.
+D. The dependencies are done only if the parent task fails.
+Answer: B
+
+157. According to the handout, what is the consequence of identifying "missing" requirements during the validation phase?
+A. The project is finished immediately.
+B. The deliverables must be evaluated to see if they adequately address the requirements.
+C. The manager is given a bonus.
+D. The project name is changed.
+Answer: B
+
+158. Discuss how "Change Management" protects the "Project Manager" as per Step 6 in Chapter 10.
+A. It provides a legal shield against stakeholders by documenting all approvals, thus preventing "silent" scope creep.
+B. It allows the manager to take a vacation during changes.
+C. It increases the manager's salary.
+D. It allows the manager to blame the team for failures.
+Answer: A
+
+159. Contrast "Deliverable-based" and "Phase-based" WBS for a project aimed at "Boosting retention by 20% over 3 years."
+A. Deliverable-based is better because the outcome is clear.
+B. Phase-based is better for longer projects with less immediately defined outcomes.
+C. Neither is used for such projects.
+D. They are identical in this scenario.
+Answer: B
+
+160. What is "Secondary Data" in the context of expert judgment for scope definition?
+A. Data that is less important.
+B. Historical information from previous projects, lessons learned, and existing organizational literature.
+C. Data collected from social media.
+D. Rumors heard in the cafeteria.
+Answer: B
+
+161. In "Requirement Discovery," what are "Political Factors" and how do they influence requirements?
+A. The result of a national election.
+B. Influence from internal office politics or organizational hierarchy that affects requirement prioritization.
+C. The number of political books in the library.
+D. The colors of a political party's flag.
+Answer: B
+
+162. How does "Prototyping" solve the problem of "Stakeholders don't know what they want"?
+A. By giving them something tangible to react to, which helps bridge the "visualization leap."
+B. By building the whole product so they have to accept it.
+C. By confusing them until they agree.
+D. By showing them a movie instead.
+Answer: A
+
+163. Why is "Scope Validation" considered a continuous process (throughout the life cycle) as per Schwalbe (2014)?
+A. To keep the project manager busy.
+B. To minimize the risk of a "rejected" final product by catching deviations early at each deliverable stage.
+C. To waste as much paper as possible.
+D. To allow workers to stay longer.
+Answer: B
+
+164. What happens when a requirement is assessed as "Extra" compared to the original requirements?
+A. It is celebrated as a bonus.
+B. Effort should be made to eliminate it to save cost and time (avoiding "gold plating").
+C. The project manager is fired.
+D. The client is charged double.
+Answer: B
+
+165. Explain the "Domino Effect" of scope creep mentioned in the handout.
+A. It makes workers play dominoes instead of working.
+B. A change in scope negatively sequence-impacts time, cost, quality, morale, and resource availability.
+C. It makes the project manager look taller.
+D. It only happens in the construction industry.
+Answer: B
+
+166. In "Change Management," why is Step 1 (Assessing the Change) critical before documentation?
+A. To avoid wasting time documenting changes that have zero benefit or massive negative impact.
+B. To find someone to blame for the change.
+C. To announce the change to the media.
+D. To find out if the change is colorful.
+Answer: A
+
+167. Compare the "Level of Maturity" in organizational processes to the "Lean Approach" for scope.
+A. Immature organizations should use highly complex processes.
+B. Organizations should perform basics well (Lean) before moving to complex, mature processes.
+C. All organizations must be complex.
+D. Maturity means having no processes at all.
+Answer: B
+
+168. In "Requirement Engineering", "Validation" checks for "Completeness". What is the risk of an "Incomplete" specification?
+A. The product will be too cheap.
+B. Crucial functions will be missing in the final build, leading to client dissatisfaction or rework.
+C. The team will be too happy.
+D. The manager will have nothing to read.
+Answer: B
+
+169. What is "Product breakdown" in product analysis methodology?
+A. Breaking a product into pieces to destroy it.
+B. Hierarchical representation of the functional components of a deliverable.
+C. Reducing the price of a product for a sale.
+D. A list of all broken products in the factory.
+Answer: B
+
+170. Discuss why "Stakeholder Engagement" is linked to the "Formal Control System" for changes.
+A. To ensure stakeholders' feedback is incorporated through strict procedures to maintain constraints.
+B. To stop stakeholders from ever talking to the team.
+C. To allow stakeholders to change the budget at will.
+D. To make stakeholders do the work.
+Answer: A
+
+171. Why does "Scope management look straight forward... but there is the possibility of a few loopholes" as per PMBOK 2016?
+A. Because it's written in a foreign language.
+B. Because it's often a "one size fits all" diagram that may not fit fast-paced IT projects.
+C. Because all project managers are lazy.
+D. Because the loopholes are intended for profit.
+Answer: B
+
+172. "Sponsor acceptance" implies "documented endorsements." Why is a "casual agreement" insufficient?
+A. It's not "official enough" for a ceremony.
+B. Without documentation, perceptions vary, and there is no "foundation on which to build" change control.
+C. It saves paper.
+D. Managers forget things in 5 minutes.
+Answer: B
+
+173. What is the risk of "High Administration" (Administrivia) in a change control process?
+A. It makes the process too fast.
+B. It gives stakeholders an incentive to circumvent the formal process.
+C. It increases the quality of the product.
+D. It's only for the government.
+Answer: B
+
+174. In "Project Management," what is "Configuration Management"?
+A. Setting up the office computers.
+B. A version of scope change control that tracks physical and functional characteristics.
+C. Choosing the office décor.
+D. A social event for workers.
+Answer: B
+
+175. Why should "Sponsor Acceptance" criteria be defined *before* traditional WBS decomposition?
+A. Because the manager is bored at that step.
+B. Because the decomposition process can trigger new change requests that must be managed against a set standard.
+C. To avoid hiring more people.
+D. To finish the project on day one.
+Answer: B
+
+176. "Project Objectives" should include an "Absolute or Relative Value." Give an example from the text.
+A. "I want the project to be good."
+B. "Cost less than 1.5 million Naira."
+C. "Finish as soon as possible."
+D. "The bridge should be very long."
+Answer: B
+
+177. "Deliverable-based WBS" focuses on the "What" while "Phase-based" focuses more on the ________.
+A. Cost
+B. Process group / Stages
+C. People
+D. Equipment
+Answer: B
+
+178. What is "Scope Verification" primarily concerned with?
+A. Measuring the worker's effort.
+B. Achieving formal acceptance of completed project deliverables.
+C. Predicting the weather.
+D. Buying new tools.
+Answer: B
+
+179. "Requirement Engineering" is a ________ activity.
+A. Physical
+B. Communicative and Modeling
+C. Financial
+D. Mechanical
+Answer: B
+
+180. Why is "Consistency" checked during requirement validation?
+A. To make sure every page is the same color.
+B. To ensure no two requirements contradict each other.
+C. To ensure the team wears matching uniforms.
+D. To keep the manager happy.
+Answer: B
+
+181. "Stakeholder Analysis" helps identify "Disagreements." Which step resolves these?
+A. Inception
+B. Negotiation
+C. Specification
+D. Termination
+Answer: B
+
+182. A "Context-free manner" in inception means avoiding:
+A. Using any words.
+B. Presuming to know the answers before asking the stakeholders.
+C. Using a computer.
+D. Talking in the office.
+Answer: B
+
+183. Identify one constraint from "Requirement Discovery" stages.
+A. The type of coffee.
+B. Interoperability constraints.
+C. The number of chairs in the lunchroom.
+D. The brand of the manager's phone.
+Answer: B
+
+184. In "Denver International Airport," why was the timeline jeopardized?
+A. Because of a power outage.
+B. City officials insisted on a two-year timeline despite evaluators suggesting four years.
+C. Because there were no planes.
+D. Because the workers went on strike for more food.
+Answer: B
+
+185. "Requirements Elicitation and Analysis" is often a round of a ________.
+A. Square
+B. Spiral
+C. Triangle
+D. Sphere
+Answer: B
+
+186. "Problem Analysis and Change Specification" is which stage of change management?
+A. Implementation
+B. Deciding if a requirement change should be accepted
+C. Budgeting
+D. Firing
+Answer: B
+
+187. "Formal Recognition that the original agreed upon scope plus approved changes have been met" defines:
+A. Project Failure
+B. Sponsor Acceptance
+C. Scope Creep
+D. Marketing Plan
+Answer: B
+
+188. Why is "Project Management" soft-ware (like MSP) recommended in the text?
+A. To play games.
+B. To manage, schedule, and track scoped tasks and avoid scope creep via baselines.
+C. To write emails.
+D. To design the company logo.
+Answer: B
+
+189. "Scope validation" output "Accepted Deliverables" means:
+A. The product is ready to be sold at a discount.
+B. Formal client/sponsor approval has been obtained.
+C. The product is broken but accepted.
+D. The team can take a year-long holiday.
+Answer: B
+
+190. What is a "Use Case" primarily helpful for?
+A. Measuring the cost of a desk.
+B. Understanding functional requirements by describing stories of use.
+C. Calculating the project time.
+D. Hiding the project from stakeholders.
+Answer: B
+
+191. "Change requests often impact project timeline, budget, costs and ________."
+A. Office décor
+B. Resource allocation
+C. Manager's vacation
+D. Local traffic
+Answer: B
+
+192. "Requirement Elicitation Tool" - an "Elicitation Plan" helps ensure you:
+A. Spend time with the "right" stakeholders.
+B. Buy the right computers.
+C. Spend the budget fast.
+D. Fire the "wrong" workers.
+Answer: A
+
+193. Why is "Requirement Validation" high cost if an error is missed?
+A. Because engineers are expensive.
+B. Error costs increase exponentially the later they are found in the development cycle.
+C. Because the government will close the company.
+D. Because the manager will double the work.
+Answer: B
+
+194. Level 2 of WBS revamp website design includes:
+A. Launching the website.
+B. Revamp brand guidelines / Redesign logo.
+C. Fixing a broken chair.
+D. Buying a coffee machine.
+Answer: B
+
+195. "Critical Path" in Gantt Chart indicates:
+A. The easiest path.
+B. The sequence of activities that determines the earliest completion date.
+C. The path to the cafeteria.
+D. The path the manager takes to work.
+Answer: B
+
+196. "Requirement Elicitation" Problem: "Changes during analysis" happens because:
+A. Workers are lazy.
+B. The business environment changes or new stakeholders emerge.
+C. The weather is bad.
+D. The project name is boring.
+Answer: B
+
+197. "Traceability policies" define:
+A. How to find lost equipment.
+B. Relationships between requirements and system design that should be recorded.
+C. The number of people allowed in a room.
+D. The budget for the next year.
+Answer: B
+
+198. "Lessons learned from previous stages" are used as:
+A. Historical stories for parties.
+B. Corrective measures for other similar projects.
+C. Reasons to fire workers.
+D. Marketing slogans.
+Answer: B
+
+199. "Project Management" is organizing resources for a ________ objective.
+A. Long-term
+B. Relatively short-term
+C. Eternal
+D. Zero
+Answer: B
+
+200. "Scope Validation" in IT projects is difficult because:
+A. Computers are too fast.
+B. The scope is often very unclear and needs close customer collaboration.
+C. There are too many people in IT.
+D. Electricity is unstable.
+Answer: B
+
+201. Why is "External Recruitment" said to "diversify" the team in some contexts?
+A. Because they bring new perspectives and outside skills not available internally.
+B. Because they are cheaper.
+C. Because they don't know the rules.
+D. Because they live far away.
+Answer: A
+
+202. In "WBS", "Section by Levels" allows:
+A. Managers to sit on different floors.
+B. Logical organization of complex projects into manageable pieces.
+C. People to get paid at different rates.
+D. The project to look more important.
+Answer: B
+
+203. "Stakeholder dissatisfaction" is a risk of:
+A. Finishing on time.
+B. Scope creep.
+C. High profits.
+D. Clear communication.
+Answer: B
+
+204. "Collect Requirements" output "Requirements Management Plan" describes:
+A. What food to eat.
+B. How requirements will be analyzed, documented, and managed.
+C. Which workers to hire.
+D. The office cleaning schedule.
+Answer: B
+
+205. "Product status" checks check if the product is:
+A. Colorful.
+B. On track for completion and meets expected outcome.
+C. Heavy.
+D. Famous.
+Answer: B
+
+206. "Requirement Elaboration" produces an:
+A. Analysis model (Technical model of functions).
+B. New office layout.
+C. Marketing campaign.
+D. List of all stakeholders' names.
+Answer: A
+
+207. "Validation checking" for "Verifiability" asks:
+A. Is the requirement true?
+B. Can the requirement be checked/tested?
+C. Is the manager honest?
+D. Is the customer happy?
+Answer: B
+
+208. "Requirement Evolution" means:
+A. Requirements stay the same forever.
+B. Requirements change as understanding of the problem and solutions grows.
+C. Requirements become animals.
+D. Requirements are deleted every year.
+Answer: B
+
+209. "Unrealistic Project Schedule" causes scope creep because:
+A. Workers work too fast.
+B. It doesn't account for additional deliverables or task dependencies properly.
+C. Stakeholders love fast deliveries.
+D. The clock is broken.
+Answer: B
+
+210. "Scope Baseline" is description of project scope approved by:
+A. The security guard.
+B. Both project stakeholders and the management team.
+C. Only the project manager.
+D. The local newspaper.
+Answer: B
+
+211. In "Requirement Engineering", "Specification" can be a collection of:
+A. Books and magazines.
+B. Written documents, graphical models, prototypes, or formal models.
+C. Office furniture.
+D. Team names.
+Answer: B
+
+212. Why is "Project Management" called a "Continuous Process"?
+A. It never ends.
+B. It involves constant planning, monitoring, and adjusting rather than a one-time setup.
+C. Because managers never sleep.
+D. Because the office is always open.
+Answer: B
+
+213. "Impact on Top Line" of objectives means:
+A. Putting a line at the top of the paper.
+B. Impact on high-level goals like increased margins or higher net revenue.
+C. Writing the goal in bold.
+D. Telling the CEO the goal.
+Answer: B
+
+214. "Change Request cause" can be:
+A. Internal or External factors.
+B. Only the weather.
+C. Only the project manager's mood.
+D. Only the color of the paint.
+Answer: A
+
+215. "Requirement Checking" for "Completeness" is hard because:
+A. People are lazy.
+B. It's difficult to know what is "all" required without exhaustive analysis.
+C. The client is always right.
+D. The list is too long.
+Answer: B
+
+216. "Validation vs Quality" example: A prototype bus shelter "meets agreed specs" - this is:
+A. Validation.
+B. Quality Check.
+C. Both.
+D. Neither.
+Answer: B
+
+217. "Validation vs Quality" example: A client "signs off" on the prototype bus shelter - this is:
+A. Validation.
+B. Quality Check.
+C. Both.
+D. Neither.
+Answer: A
+
+218. "Work package" level detail allows for:
+A. Effective management without becoming "administrivia".
+B. Hiring more people.
+C. Wasting more time.
+D. Writing more papers.
+Answer: A
+
+219. "Requirement discovery" Interaction with stakeholders is to:
+A. Ask them or their height.
+B. Discover their requirements and domain requirements.
+C. Tell them jokes.
+D. Sell them a car.
+Answer: B
+
+220. "Traceability entry in a table" associates requirements with:
+A. People's names.
+B. Aspects of the project (design, code, etc) to propagate changes.
+C. Room numbers.
+D. Bank accounts.
+Answer: B
+
+221. "Project Management Association of Japan" definition focus on:
+A. Value creation undertaking.
+B. Building houses only.
+C. Selling products only.
+D. Having meetings.
+Answer: A
+
+222. "Sponsor acceptance" definition as per Step 3 Chapter 10 aims to:
+A. Hide mistakes.
+B. Avoid differing perceptions of "wanted" vs "documented".
+C. Make the sponsor look good.
+D. Save time.
+Answer: B
+
+223. "Change control risk assessment" evaluates risks of:
+A. Only approving a change.
+B. Both approving or disapproving a change request.
+C. Taking a vacation.
+D. Changing the manager.
+Answer: B
+
+224. "Requirement Discovery" spirals into the next round when:
+A. The project is finished.
+B. Requirements are documented and analyzed for the next phase or iteration.
+C. The manager feels like it.
+D. The budget is zero.
+Answer: B
+
+225. "Scope creep" Domino Effect: "Missed Deadlines" lead to ________.
+A. Higher profits.
+B. Going over budget and resource strain.
+C. Finished early.
+D. Happy clients.
+Answer: B
+
+PMG 313 - Project Scope Management
+Mode: Tricky
+Total Questions: 75
+
+226. If a project deliverable is completed exactly to technical specifications but the client refuses to 'sign-off' on it, which process has failed?
+A. Quality Control (Internal check).
+B. Scope Validation/Verification (Stakeholder alignment).
+C. Budgeting.
+D. Machinery maintenance.
+Answer: B
+
+227. Why might 'Project Management Software' like MSP actually *increase* complexity instead of simplifying it for a small team?
+A. Because they don't have electricity.
+B. If used for 'administrivia' (over-detailing) rather than effective management, it wastes time on low-value data.
+C. Computers always make things harder.
+D. It's only for large buildings.
+Answer: B
+
+228. Imagine a project where 'Scope Creep' is happening but the 'Quality' and 'Time' remain unchanged. What MUST be happening according to the Project Management Triangle?
+A. The budget (Cost) must be increasing or more resources are being added.
+B. The project is magic.
+C. The manager is working for free.
+D. The product is getting better for no reason.
+Answer: A
+
+229. If a 'WBS' is decomposed down to its lowest level (Level 3+) but team members still don't know who is responsible for what, which element is likely missing?
+A. The project name.
+B. Clear task allocation and a WBS Dictionary.
+C. A company party.
+D. More computer software.
+Answer: B
+
+230. During a 'Change Request' assessment, a manager finds that the change has high benefit but will delay the project by 2 months. The client has a non-negotiable deadline. What is the logical decision?
+A. Approve the change immediately.
+B. Reject the change or negotiate a reduction in other scope areas to keep the timeline.
+C. Fire the client.
+D. Change the deadline anyway.
+Answer: B
+
+231. A 'Traditional' approach to change is 'discouraged after planning.' Why does this often lead to 'Project Failure' in software development?
+A. Software projects use too much paper.
+B. Software environments evolve quickly, making rigid plans obsolete before the product is finished.
+C. Computers break too often.
+D. Software developers hate plans.
+Answer: B
+
+232. 'Stakeholders' can be 'affected' by a project internally or externally. Give an example of an 'external' stakeholder.
+A. The project manager.
+B. A neighboring business affected by construction noise/dust.
+C. The company's own IT department.
+D. The CEO of the company.
+Answer: B
+
+233. Why is 'Requirement Elicitation' tricky if stakeholders 'don't know what they want'?
+A. They are lying.
+B. They often have ideas but lack the technical vocabulary to express them in actionable project terms.
+C. They are too busy to talk.
+D. They want to work for free.
+Answer: B
+
+234. In "Denver International Airport," if air-lines were only asked for feedback *after* the baggage system was built, why was that a 'scope loophole'?
+A. It wasn't a loophole.
+B. It meant that major, expensive changes had to be made retrospectively, which is always slower and costlier.
+C. The airlines wanted a different color system.
+D. It allowed the project to finish early.
+Answer: B
+
+235. A 'SMART' goal must be 'Realistic.' If a project manager sets a 'Specific' goal that requires 100 workers but only has 10, which part of SMART failed?
+A. S (Specific).
+B. R (Realistic).
+C. M (Measurable).
+D. T (Time-framed).
+Answer: B
+
+236. In a 'Kanban Board,' why would having 50 cards 'In Progress' for a team of 2 people be considered a 'loophole' in the workflow?
+A. It isn't a problem, it means work is getting done.
+B. It violates common 'Work In Progress' (WIP) limits, leading to bottlenecks and slow completion.
+C. The board is too small.
+D. They need more cards.
+Answer: B
+
+237. 'Scope' relates to both objectives and requirements. If objectives are met but requirements (specs) are not, is the project successful?
+A. Yes, objectives are all that matters.
+B. No, the project deliverables will likely be rejected for failing the specific requirements.
+C. It's only 50% successful.
+D. It's only successful if the budget is zero.
+Answer: B
+
+238. 'Requirement Traceability' entry in a table shows a relationship. If a requirement has no 'design' or 'code' entry, what does it signify?
+A. The file is corrupted.
+B. The requirement has likely been missed or is not being implemented.
+C. It's a secret requirement.
+D. It's a very easy requirement.
+Answer: B
+
+239. A 'Prototyping' approach can prevent 'Communication gap.' What does 'Cross purposes' (in Chapter 12) mean?
+A. People are angry.
+B. People think they are talking about the same thing but actually have different understandings.
+C. People are talking in circles.
+D. People are using different computers.
+Answer: B
+
+240. 'Administrivia' can be 'painful but vital.' Why?
+A. Because it makes the office look important.
+B. Because even small administration ensures basic controls are kept, despite being annoying.
+C. Because it's a law.
+D. Because the manager loves paperwork.
+Answer: B
+
+241. If 'Scope Creep' is 'inevitable,' what is the Project Manager's primary role in a 'Modern' approach?
+A. To stop all changes at any cost.
+B. To effectively manage and prioritize changes while assessing their constraints.
+C. To let stakeholders do whatever they want.
+D. To quit immediately.
+Answer: B
+
+242. In 'WBS,' if a dependencies' child tasks total more work than the parent task can allow, it's an error. Why?
+A. Because the math is wrong.
+B. Because it indicates that the subtasks are introducing 'extra' work not covered in the original scope (Potential scope creep).
+C. It's not an error.
+D. It's only for a math project.
+Answer: B
+
+243. 'Requirement Validation' checking for 'Verifiability' - if a requirement says "The system must be very fast", why is it NOT verifiable?
+A. It is verifiable.
+B. "Very fast" is subjective; it lacks a measurable metric (e.g., "load in under 2 seconds").
+C. Because the manager is slow.
+D. Because "fast" is a secret word.
+Answer: B
+
+244. A 'Waterfall' approach planning is 'Heavy upfront.' Why is this 'tricky' for a market that changes every month?
+A. It makes the market happy.
+B. The plan becomes outdated before it's even fully implemented.
+C. Too many people work on it.
+D. It's too expensive.
+Answer: B
+
+245. In 'Denver International Airport,' city officials insisted on a two-year timeline. Why was this 'unrealistic' according to evaluators?
+A. Because they didn't like the color of the project.
+B. Because the complexity of the project (automation for 3 terminals) required 4 years for successful delivery.
+C. Because the airport was in Denver.
+D. Because they wanted a 1-year timeline.
+Answer: B
+
+246. 'Change Control Board' (CCB) is mentioned in Step 4 Chapter 10. What is its 'tricky' power?
+A. To fire the project manager.
+B. To approve/reject changes that exceed the manager's personal limits (tripwires).
+C. To change the office music.
+D. To pay for everyone's lunch.
+Answer: B
+
+247. 'Administrivia' word is defined as 'trivial administrative process.' How do stakeholders usually 'respond' to it?
+A. They love it.
+B. They find an incentive to circumvent the formal process.
+C. They work harder.
+D. They bring more paper.
+Answer: B
+
+248. In 'Requirement Elicitation,' a 'High priority' requirement with 'Zero' feasibility is:
+A. Great for a project.
+B. A "dead-end" and needs negotiation/re-design.
+C. Only for a sports project.
+D. A secret requirement.
+Answer: B
+
+249. If a 'WBS' dictionary is 'empty' for critical tasks, why is that a 'loophole'?
+A. It isn't, people know their jobs.
+B. It leaves room for 'ambiguity' and 'differing perceptions' of how to do the task correctly.
+C. It saves time.
+D. It's a secret dictionary.
+Answer: B
+
+250. 'Scope Validation' involves 'customer inspection.' If a customer finds the product is 'different but better', is it a success?
+A. Yes, better is always good.
+B. Technically no, it might be an 'unapproved change' (gold plating) that wasted budget.
+C. Only if the manager is happy.
+D. Only if the office is clean.
+Answer: B
+
+251. 'Agile' values 'responding to change over following a plan.' Does this mean there is 'no plan'?
+A. Yes, they just wing it.
+B. No, there is adaptively updated continuous planning.
+C. There is only a plan for food.
+D. There is only a plan for meetings.
+Answer: B
+
+252. 'Requirement Engineering' Management step occurs:
+A. Only at the end.
+B. Throughout the project life cycle.
+C. Every Friday.
+D. Only once.
+Answer: B
+
+253. 'Incomplete project objectives' lead to:
+A. Early completion.
+B. Scope creep and project failure.
+C. High profits.
+D. Happy workers.
+Answer: B
+
+254. 'WBS dictionary' provides:
+A. The definitions of words used in the report.
+B. Detailed descriptions of work packages and their requirements.
+C. A list of all team birthdays.
+D. The company's phone number.
+Answer: B
+
+255. 'Traditional' methodology delivers the product:
+A. In small pieces every month.
+B. As a final, single delivery at the project end.
+C. Only if the weather is good.
+D. It never delivers.
+Answer: B
+
+256. 'Scope Creep' is most common in projects with:
+A. Strict managers.
+B. Poorly defined scope or vague statements of work.
+C. Too much money.
+D. No team.
+Answer: B
+
+257. 'Requirements validation' checks if the:
+A. Requirement is pretty.
+B. Product meets what the customer "really wants".
+C. Manager is handsome.
+D. Computer is new.
+Answer: B
+
+258. 'Alternative generation' includes techniques like:
+A. Sleeping and dreaming.
+B. Brainstorming and analysis alternatives.
+C. Firing and hiring.
+D. Buying new tools.
+Answer: B
+
+259. 'Administrivia' focus should be on:
+A. Increasing the paperwork.
+B. Avoiding excessive change to foster acceptance and focus on basics.
+C. Making people work 20 hours a day.
+D. Changing the company name.
+Answer: B
+
+260. 'Traceability' allows for:
+A. Finding lost items.
+B. Assessing the impact of requirement changes across the project.
+C. Tracking the manager's car.
+D. Following a map.
+Answer: B
+
+261. 'Project' Temporary endeavor: the end is reached when:
+A. Monday comes.
+B. The project objectives are met or funding no longer exists.
+C. The manager feels like it.
+D. The workers go home.
+Answer: B
+
+262. 'Scope Baseline' approved by:
+A. The security guard.
+B. Both stakeholders and project management team.
+C. Only the client.
+D. Only the workers.
+Answer: B
+
+263. 'Kanban board' represents visual:
+A. Chaos.
+B. Project workflow.
+C. Marketing data.
+D. Office layout.
+Answer: B
+
+264. 'Requirement Discovery' Problem: 'Stakeholders express requirements in their own terms' refers to:
+A. They use a secret code.
+B. Using business or technical language that the dev team might not fully understand.
+C. They use a foreign language.
+D. They use sign language.
+Answer: B
+
+265. 'Succession Planning' identifies potential:
+A. People to fire.
+B. Leaders to fill critical roles.
+C. Holidays.
+D. Office décor.
+Answer: B
+
+266. 'Scope Validation' inspectors decide if:
+A. The product is light.
+B. Deliverables meet user requirements.
+C. The manager is nice.
+D. The office is colorful.
+Answer: B
+
+267. 'Inception Questions' include "Who is requesting the project?" - this aims to:
+A. Find out their name only.
+B. Identify the primary stakeholders and their vested interests.
+C. Send them a card.
+D. Invite them to a party.
+Answer: B
+
+268. 'Requirement Evolution' means as understanding grows:
+A. Requirements stay fixed.
+B. Requirements are updated and refined.
+C. Requirements are deleted.
+D. Requirements are hidden.
+Answer: B
+
+269. 'Agile Approach' delivery style is:
+A. Final delivery at project end.
+B. Incremental and continuous.
+C. Only if it rains.
+D. Every 10 years.
+Answer: B
+
+270. 'Traditional approach' for 'Predictable' projects - give an example:
+A. Software design.
+B. Construction.
+C. AI research.
+D. Art painting.
+Answer: B
+
+271. 'Work Breakdown Structure (WBS)' can be a tree or ________ format.
+A. Sound
+B. Graphical
+C. Invisible
+D. Hidden
+Answer: B
+
+272. 'Scope Creep' control step in Change Management:
+A. Letting everyone add features.
+B. Introducing formal approval processes.
+C. Firing anyone who asks for a change.
+D. Deleting the project charter.
+Answer: B
+
+273. 'WBS Dictionary' is a:
+A. Regular English dictionary.
+B. Repository for detailed information about each task in the WBS.
+C. List of workers' addresses.
+D. Secret project code.
+Answer: B
+
+274. 'Product analysis' helps in methods of translating ________ product descriptions to tangible deliverables.
+A. Low-level
+B. High-level
+C. Secret
+D. Hidden
+Answer: B
+
+275. 'Incomplete' project objectives lead to:
+A. Success.
+B. Misunderstandings and project failure.
+C. High profits.
+D. More workers.
+Answer: B
+
+276. 'Requirements Validation' step 'Realism' asks:
+A. Is it true?
+B. Can it be done with available resources?
+C. Is the manager real?
+D. Is the office real?
+Answer: B
+
+277. 'Requirement Specification' step 'Negotiation' solves:
+A. Salary issues.
+B. Requirement conflicts among stakeholders.
+C. Budget issues.
+D. Office location.
+Answer: B
+
+278. 'Agile Team Structure' is usually:
+A. Hierarchical.
+B. Cross-functional, self-organizing.
+C. Commanded from top.
+D. Only one person.
+Answer: B
+
+279. 'Requirement Elicitation Plan' avoids:
+A. Spending money.
+B. Missing key stakeholders or requirements.
+C. Having too many meetings.
+D. Hiring people from cities.
+Answer: B
+
+280. 'Scope Validation' involves:
+A. Firing the client.
+B. Customer inspection and sign-off on deliverables.
+C. Ignoring the budget.
+D. Buying new computers.
+Answer: B
+
+281. 'Requirements classification and organization' groups:
+A. People by age.
+B. Related requirements into coherent clusters.
+C. Files by date.
+D. Managers by rank.
+Answer: B
+
+282. 'Configuration Management' tracks:
+A. People's names.
+B. Physical and functional characteristics of the project.
+C. The number of clouds.
+D. The manager's height.
+Answer: B
+
+283. 'Scope Baseline' used in execution phase ensures project scope is executed as ________.
+A. Not planned.
+B. Planned.
+C. Guessed.
+D. Secretly desired.
+Answer: B
+
+284. 'Requirement Checking' for 'Consistency' looks for:
+A. Color matching.
+B. Conflicting requirements.
+C. Matching uniforms.
+D. Happy workers.
+Answer: B
+
+285. 'Gantt Chart timeline uses ________ bars to represent the duration of each task'.
+A. Vertical
+B. Horizontal
+C. Round
+D. Invisible
+Answer: B
+
+286. 'Elicitation Plan' ensures you spend time with the '________' stakeholders.
+A. Loudest
+B. Right
+C. Richest
+D. Tallest
+Answer: B
+
+287. 'Requirement Error costs are high' so ________ is very important.
+A. Deletion
+B. Validation
+C. Firing
+D. Hiding
+Answer: B
+
+288. 'Lessons learned' provide useful information about ________ of previous projects.
+A. Omissions or errors
+B. Success only
+C. Names
+D. Dates
+Answer: A
+
+289. 'Project scope' encompasses ________ to deliver a product or service.
+A. No work
+B. All the work needed
+C. Only some work
+D. Only secret work
+Answer: B
+
+290. 'WBS Dictionary' is essential during:
+A. The end only.
+B. Throughout the project life cycle for clear task understanding.
+C. Only if someone quits.
+D. For the project party.
+Answer: B
+
+291. 'Kanban board cards Arranged into ________'.
+A. Circles
+B. Columns
+C. Rectangles
+D. Heaps
+Answer: B
+
+292. 'Objective Attribute' example from text:
+A. "I want to be happy."
+B. "Cost"
+C. "Fast"
+D. "Blue"
+Answer: B
+
+293. 'SMART' criteria 'Time-framed' means:
+A. The objective has a deadline or date.
+B. The objective has a picture frame.
+C. The objective takes zero time.
+D. The objective is only for the morning.
+Answer: A
+
+294. 'Administrivia' can also be called '________' administrative process.
+A. Critical
+B. Trivial
+C. Essential
+D. Clever
+Answer: B
+
+295. 'Scope Creep' Solution in Chapter 12:
+A. Tell stakeholders to go home.
+B. Document the project requirements.
+C. Use a secret code.
+D. Buy more equipment.
+Answer: B
+
+296. 'Verification process' 'InceptionQuestions' include "Who will use the project?" - this aims to:
+A. Find out their name.
+B. Understand the target end-users and their needs.
+C. Ignore them.
+D. Fire them.
+Answer: B
+
+297. 'Requirement discovery' Domaine requirements are also discovered at this stage. Name one from the text.
+A. Coffee break rules.
+B. ISO9000 quality standards.
+C. The office paint brand.
+D. The manager's favorite car.
+Answer: B
+
+298. 'Step in change management' Step 1 evaluates impact on:
+A. Scope, timeline, budget, and resources.
+B. The office décor.
+C. The manager's mood.
+D. The local traffic.
+Answer: A
+
+299. 'Denver International Airport' project was an intention to:
+A. Replace all planes.
+B. Automate the baggage handling system.
+C. Close the airport.
+D. Hire 1,000 birds.
+Answer: B
+
+300. 'Work Performance Data' is input; 'Accepted Deliverables' is ________.
+A. Tool.
+B. Output.
+C. Input.
+D. Secret.
+Answer: B

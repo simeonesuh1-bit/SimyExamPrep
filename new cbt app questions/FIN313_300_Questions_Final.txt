@@ -1,0 +1,2109 @@
+FIN 313 - Financial Management Concepts
+Mode: Easy
+Total Questions: 75
+
+1. What is the primary objective of financial management?
+A. To maximize the total assets of the company
+B. To maximize the value of the company for shareholders
+C. To minimize the tax liability of the firm
+D. To maximize the number of employees in the organization
+Answer: B
+
+2. Which of the following best defines financial management?
+A. The process of hiring and training financial staff
+B. Organizing financial activities from planning to accountability
+C. The legal process of registering a new business
+D. Selling products to increase market share
+Answer: B
+
+3. Financial management is primarily concerned with:
+A. Acquisition, use, and management of company funds
+B. Designing marketing campaigns for new products
+C. Managing the physical production line of a factory
+D. Handling customer service complaints
+Answer: A
+
+4. Which area of finance focuses on decisions made by individuals in selecting securities for portfolios?
+A. Capital Markets
+B. Macro Finance
+C. Investment
+D. Business Management
+Answer: C
+
+5. The CFO (Chief Financial Officer) plays a key role in:
+A. Determining the total value of the company
+B. Designing the company's logo and branding
+C. Managing the day-to-day janitorial services
+D. Writing the company's annual holiday cards
+Answer: A
+
+6. Which of the following is NOT one of the three interrelated areas of financial management?
+A. Capital Markets
+B. Investment
+C. Human Resource Management
+D. Business Management
+Answer: C
+
+7. According to Grestenberg, financial management is about:
+A. How companies raise, use, and distribute funds
+B. How to minimize competition in the market
+C. How to maximize the size of the office building
+D. How to increase the number of products sold
+Answer: A
+
+8. The formula "Assets = Liabilities + Equity" is fundamental to which decision?
+A. Marketing decision
+B. Investment decision
+C. Human resource decision
+D. Public relations decision
+Answer: B
+
+9. Financing decisions primarily deal with which side of the balance sheet?
+A. The left side (Assets)
+B. The right side (Liabilities and Equity)
+C. The top side (Income)
+D. The bottom side (Expenses)
+Answer: B
+
+10. Which decision involves determining the total amount of assets needed by the company?
+A. Financing decision
+B. Asset management decision
+C. Investment decision
+D. Dividend decision
+Answer: C
+
+11. The "Time Value of Money" concept suggests that:
+A. Money today is worth less than money in the future
+B. Money today is worth more than the same amount in the future
+C. The value of money never changes over time
+D. Future money is always certain and risk-free
+Answer: B
+
+12. What is "Present Value"?
+A. The amount of money you will have in 10 years
+B. The current value of a future sum of money
+C. The total profit made in the last year
+D. The price of a product today
+Answer: B
+
+13. The formula for Present Value (PV) is:
+A. PV = FV * (1 + r)^n
+B. PV = FV / (1 + r)^n
+C. PV = FV + (r * n)
+D. PV = FV - (r / n)
+Answer: B
+
+14. "Future Value" is used to:
+A. Calculate the current worth of an old investment
+B. Estimate the amount of funds held in the future
+C. Determine the current market price of a share
+D. Calculate the tax paid five years ago
+Answer: B
+
+15. In an efficient financial market, the price of a security reflects:
+A. Only the opinions of the CEO
+B. All available information and market consensus
+C. Only the past prices of the security
+D. The personal preferences of the lead accountant
+Answer: B
+
+16. What are the three levels of capital market efficiency?
+A. Low, Medium, High
+B. Weak, Semi-strong, Strong
+C. Internal, External, Global
+D. Primary, Secondary, Tertiary
+Answer: B
+
+17. "Risk" in financial management is defined as:
+A. The certainty of making a profit
+B. The deviation of actual return from expected return
+C. The total amount of money invested
+D. The legal cost of starting a business
+Answer: B
+
+18. Which type of risk arises from an investment venture alone, unrelated to other projects?
+A. Corporate risk
+B. Market risk
+C. Individual risk
+D. Systematic risk
+Answer: C
+
+19. Market risk is also commonly referred to as:
+A. Alpha
+B. Beta
+C. Gamma
+D. Delta
+Answer: B
+
+20. Which attitude toward risk involves avoiding it whenever possible?
+A. Risk appetite
+B. Risk aversion
+C. Risk indifference
+D. Risk seeking
+Answer: B
+
+21. Financial statements like the balance sheet and income statement are part of:
+A. The marketing process
+B. The accounting process
+C. The manufacturing process
+D. The legal process
+Answer: B
+
+22. The "right choice" in financial management is the one that:
+A. Makes the office look better
+B. Advances the company's goals
+C. Increases the number of employees
+D. Decreases the number of customers
+Answer: B
+
+23. Investment is the act of putting money to work in the future in the hope of:
+A. Losing it all
+B. Earning a profit
+C. Paying more taxes
+D. Reducing the company's size
+Answer: B
+
+24. A financial manager's responsibility for managing existing assets is called:
+A. Financing decision
+B. Investment decision
+C. Asset management decision
+D. Marketing decision
+Answer: C
+
+25. The "discount rate" is a variable that relates:
+A. The price of goods to their weight
+B. The value of money to time
+C. The number of shares to the company name
+D. The CEO's salary to the profit
+Answer: B
+
+26. Which of the following is a component of a complete financial report?
+A. A list of all employee birthdays
+B. The Cash Flow Statement
+C. The company's social media password
+D. The office floor plan
+Answer: B
+
+27. Weak-form efficiency suggests that:
+A. Knowing the past will not help get future rewards
+B. Private information is already in the price
+C. Only the CEO knows the true value
+D. Prices never change
+Answer: A
+
+28. Semi-strong efficiency suggests that:
+A. Only past prices are reflected
+B. All publicly available information is reflected
+C. No information is reflected
+D. Only the board of directors has information
+Answer: B
+
+29. Strong-form efficiency suggests that:
+A. All information (public and private) is reflected in prices
+B. Only private information is reflected
+C. No information is ever accurate
+D. The market is always wrong
+Answer: A
+
+30. Uncontrollable risks are those that:
+31. Which of the following is a business activity related to raising funds?
+A. Selling assets
+B. Issuing bonds or shares
+C. Hiring a new janitor
+D. Painting the office
+Answer: B
+
+32. The primary focus of financial management in the early 20th century was:
+A. Social media marketing
+B. Legal aspects of mergers and acquisitions
+C. Employee wellness programs
+D. Environmental sustainability
+Answer: B
+
+33. Capital Markets are related to which branch of economics?
+A. Microeconomics
+B. Macroeconomics
+C. Behavioral economics
+D. Agricultural economics
+Answer: B
+
+34. Which decision involves the "passiva" side of the balance sheet?
+A. Investment decision
+B. Financing decision
+C. Marketing decision
+D. Production decision
+Answer: B
+
+35. "Enterprise Value" is:
+A. The total number of employees
+B. The amount a buyer would pay for the business
+C. The total weight of the company's products
+D. The age of the company
+Answer: B
+
+36. Profit maximization is not the same as managing business value because:
+A. Profit is always higher than value
+B. Profit doesn't account for the wealth of the owner
+C. Value is only for small businesses
+D. Profit is only for large corporations
+Answer: B
+
+37. Which of the following is an example of a fixed asset?
+A. Cash in hand
+B. Inventory
+C. Machinery and buildings
+D. Accounts receivable
+Answer: C
+
+38. The term "Liquidity" refers to:
+A. The ability to turn assets into cash quickly
+B. The total amount of debt a company has
+C. The color of the company's logo
+D. The number of products in the warehouse
+Answer: A
+
+39. Financial management organizes activities from:
+A. Planning to accountability
+B. Hiring to firing
+C. Buying to selling
+D. Morning to night
+Answer: A
+
+40. Who defined financial management as the business of providing and using money to buy property?
+A. James Van Horne
+B. Liefman
+C. Suad Husnan
+D. Bambang Riyanto
+Answer: B
+
+41. According to Bambang Riyanto, funds should be raised at:
+A. The maximum possible cost
+B. The minimum possible cost
+C. No cost at all
+D. Any cost the bank suggests
+Answer: B
+
+42. Effective management of existing assets is the responsibility of:
+A. The marketing manager
+B. The financial manager
+C. The HR manager
+D. The security guard
+Answer: B
+
+43. Financial reports are needed by:
+A. Only large companies
+B. Only small businesses
+C. All types of businesses
+D. Only government agencies
+Answer: C
+
+44. The "Present Value" concept is important because:
+A. Future events are unpredictable (risk)
+B. Money today cannot be invested
+C. Future money is always more certain
+D. Prices always go down
+Answer: A
+
+45. Which of the following is a function of business management in finance?
+A. Financial activities
+B. Investment activities
+C. Operations
+D. All of the above
+Answer: D
+
+46. "Corporate Risk" is calculated:
+A. Taking into account investor diversification
+B. Without taking into account investor diversification
+C. By looking at the global weather
+D. By counting the number of desks in the office
+Answer: B
+
+47. Investors who spend money are influenced by:
+A. Company brand perception
+B. Prices
+C. Marketing
+D. All of the above
+Answer: D
+
+48. An "Efficient Market" calculates prices based on:
+A. Rumors only
+B. All available data
+C. The CEO's mood
+D. Yesterday's weather
+Answer: B
+
+49. Risk appetite refers to:
+A. A desire to take on risk for potential return
+B. A fear of all types of money
+C. A preference for zero profit
+D. The cost of a company lunch
+Answer: A
+
+50. The "Impact of Time" on money can be understood as:
+A. Money growing on trees over time
+B. A comparison between current and future dollars
+C. The age of the banknotes
+D. The time it takes to walk to a bank
+Answer: B
+
+51. Which of the following is a financing mechanism?
+A. Negotiating the sale of bonds
+B. Buying a new coffee machine
+C. Changing the company's name
+D. Cleaning the warehouse
+Answer: A
+
+52. Financial management choices aim to:
+A. Minimize the company's size
+B. Maximize the company's value
+C. Maximize the company's debt
+D. Minimize the company's profit
+Answer: B
+
+53. The CFO must adapt to changes in:
+A. Sourcing finance
+B. Investing assets
+C. Managing assets wisely
+D. All of the above
+Answer: D
+
+54. "Secondary data" used in research comes from:
+A. Interviews conducted today
+B. Existing literature and previous articles
+C. Dreams and visions
+D. Random guesses
+Answer: B
+
+55. The goal of increasing company value is achieved through:
+A. Investment decisions
+B. Funding decisions
+C. Asset management decisions
+D. All of the above
+Answer: D
+
+56. Which formula is used for Future Value (FV)?
+A. FV = PV / (1 + i*n)
+B. FV = PV * (1 + i*n)
+C. FV = PV - (i*n)
+D. FV = PV + (i/n)
+Answer: B
+
+57. Risk indifference means:
+A. Being very afraid of risk
+B. Being neutral toward risk
+C. Loving risk more than profit
+D. Not knowing what risk is
+Answer: B
+
+58. "Control risk" refers to:
+A. Risks that cannot be reduced
+B. Handling risks so they can be reduced
+C. Risks that are always 100% certain
+D. Risks that only affect the CEO
+Answer: B
+
+59. The "Passiva" side of the balance sheet includes:
+A. Cash and Inventory
+B. Liabilities and Equity
+C. Sales and Revenue
+D. Buildings and Land
+Answer: B
+
+60. Which of the following is an investment activity?
+A. Paying salaries
+B. Selecting securities for a portfolio
+C. Cleaning the office
+D. Writing a press release
+Answer: B
+
+61. James Van Horne defines financial management as activities related to:
+A. Acquisition, financing, and management of assets
+B. Hiring, training, and firing
+C. Advertising, selling, and shipping
+D. Researching, developing, and testing
+Answer: A
+
+62. The "Time Value of Money" is important because of:
+A. Missed profit opportunities (opportunity cost)
+B. The weight of the money
+C. The color of the currency
+D. The size of the bank vault
+Answer: A
+
+63. An efficient market is a sign of:
+A. A failing economy
+B. A high-quality capital market
+C. A market with no investors
+D. A market with only one company
+Answer: B
+
+64. "Beta" measures:
+A. Individual risk
+B. Market risk
+C. Corporate risk
+D. Legal risk
+Answer: B
+
+65. Financial accountability is part of:
+A. The marketing process
+B. The financial management process
+C. The production process
+D. The shipping process
+Answer: B
+
+66. Which of the following is a "current liability"?
+A. Long-term bank loan
+B. Short-term credit
+C. Company building
+D. Shareholder equity
+Answer: B
+
+67. Qualitative descriptive method is used to:
+A. Calculate the exact square root of profit
+B. Assess data obtained from literature
+C. Predict the exact weather in ten years
+D. Count the number of bricks in the office
+Answer: B
+
+68. The "main objective" of a company is often to:
+A. Maximize its value to shareholders
+B. Minimize the number of products
+C. Maximize the CEO's vacation time
+D. Minimize the use of computers
+Answer: A
+
+69. Which of the following is a "macro finance" topic?
+A. Personal savings accounts
+B. Capital Markets
+C. Grocery store pricing
+D. Local bakery management
+Answer: B
+
+70. "Rp. 1 will be worth less in the future than it is now" refers to:
+A. Inflation only
+B. The Time Value of Money
+C. Bad luck
+D. Counterfeit money
+Answer: B
+
+71. Financial managers pay more attention to:
+A. Fixed assets than current assets
+B. Current assets than fixed assets
+C. The office decor than the budget
+D. The color of the pens than the profit
+Answer: A
+
+72. "Market Consensus" forecasts:
+A. The weather
+B. The value of a security
+C. The winner of a sports game
+D. The best flavor of ice cream
+Answer: B
+
+73. Diversification:
+A. Eliminates all market risk
+B. Does not eliminate market risk
+C. Increases individual risk
+D. Is illegal in most countries
+Answer: B
+
+74. "Expected Rate of Return" is:
+A. The return that is guaranteed
+B. The return that is anticipated or planned
+C. The return that is lost
+D. The return that is taxed at 100%
+Answer: B
+
+75. Financial management emerged as a distinct discipline in the:
+A. Early 18th century
+B. Early 20th century
+C. Late 21st century
+D. Middle Ages
+Answer: B
+FIN 313 - Financial Management Concepts
+Mode: Medium
+Total Questions: 75
+
+76. In the context of financial management, why is "Profit Maximization" often considered an inferior goal compared to "Wealth Maximization"?
+A. Profit maximization is too difficult to calculate for small businesses.
+B. Profit maximization ignores the time value of money and risk.
+C. Wealth maximization only applies to large multinational corporations.
+D. Profit maximization is illegal under current accounting standards.
+Answer: B
+
+77. According to the provided text, which of the following is NOT one of the primary decisions a finance manager makes to increase company value?
+A. Investment decisions
+B. Funding decisions
+C. Human resource development decisions
+D. Asset management decisions
+Answer: C
+
+78. Which of the following best describes the "Semi-Strong" form of market efficiency?
+A. Prices reflect all past historical price information only.
+B. Prices reflect all publicly available information, including financial statements.
+C. Prices reflect all information, both public and private.
+D. Prices reflect only the information known by the company's CEO.
+Answer: B
+
+79. The "Time Value of Money" is critical for financial decisions because:
+A. Future cash flows are always guaranteed by the government.
+B. Money received in the future carries an element of uncertainty or risk.
+C. Present value is always higher than future value regardless of interest rates.
+D. It allows managers to ignore the impact of inflation.
+Answer: B
+
+80. What does "Beta" represent in the context of financial risk analysis?
+A. The risk arising from an investment venture alone.
+B. The risk calculated without considering investor diversification.
+C. Investment risk from the viewpoint of investors holding a diversified portfolio.
+D. The risk that a company will go bankrupt within one year.
+Answer: C
+
+81. When a financial manager looks for liabilities and fixed assets on the right side of the balance sheet, they are primarily making:
+A. An investment decision
+B. A financing decision
+C. A marketing decision
+D. A production decision
+Answer: B
+
+82. The "Discount Rate" is essential in calculating Present Value because it:
+A. Represents the physical wear and tear of machinery.
+B. Relates the value of money to time by accounting for opportunity cost and risk.
+C. Is the rate at which the company sells its products to wholesalers.
+D. Determines the tax rate the company must pay on its net income.
+Answer: B
+
+83. Which of the following statements about "Market Risk" is true?
+A. It can be completely eliminated through proper diversification.
+B. It is also known as unsystematic or individual risk.
+C. It is the risk that diversification does not eliminate.
+D. It only affects companies in the manufacturing sector.
+Answer: C
+
+84. How does the "Strong Form" of market efficiency differ from the "Weak Form"?
+A. Strong form only considers past prices, while weak form considers all public data.
+B. Strong form includes both public and private information, while weak form only includes past prices.
+C. Strong form is only theoretical, while weak form is used in practice.
+D. There is no difference between the two forms.
+Answer: B
+
+85. Why is "Enterprise Value" considered a better metric for a buyer than just the share price?
+A. It represents the total amount a buyer would pay for the entire business.
+B. It is always a smaller number and thus easier to manage.
+C. It excludes all liabilities of the company.
+D. It is based solely on the company's branding and reputation.
+Answer: A
+
+86. Which of the following is a key responsibility of the CFO in modern financial management?
+A. Managing the company's social media presence.
+B. Determining the total value of the company and sourcing finance.
+C. Hiring all entry-level employees for the marketing department.
+D. Designing the architectural layout of the company's new office.
+Answer: B
+
+87. In the formula PV = FV / (1 + r)^n, what does "n" represent?
+A. The number of shares issued by the company.
+B. The net profit margin of the firm.
+C. The number of periods or time until the future value is received.
+D. The nominal interest rate before inflation.
+Answer: C
+
+88. Which type of risk is also known as "Beta" and cannot be diversified away?
+A. Individual risk
+B. Corporate risk
+C. Market risk
+D. Project-specific risk
+Answer: C
+
+89. A "Risk Averse" investor will:
+A. Always choose the investment with the highest possible return, regardless of risk.
+B. Require a higher expected return to compensate for taking on additional risk.
+C. Prefer to keep all their money in a physical safe at home.
+D. Never invest in anything other than government bonds.
+Answer: B
+
+90. Which of the following is considered a "Financing Decision"?
+A. Deciding whether to buy a new factory or lease one.
+B. Determining the best mix of debt and equity to fund operations.
+C. Choosing which new product line to launch next year.
+D. Managing the collection of accounts receivable from customers.
+Answer: B
+
+91. The concept of "Liquidity" in financial management refers to:
+A. The amount of water-based assets a company owns.
+B. The ease with which an asset can be converted into cash without significant loss of value.
+C. The total volume of sales a company makes in a single day.
+D. The percentage of profit that is paid out as dividends.
+Answer: B
+
+92. Which of the following best describes "Corporate Risk"?
+A. The risk that the entire stock market will crash.
+B. The risk of a project when considered as part of the firm's total portfolio of assets.
+C. The risk that the CEO will leave the company.
+D. The risk that a specific customer will not pay their bill.
+Answer: B
+
+93. The "Asset Management Decision" primarily involves:
+A. Raising funds through the sale of new shares.
+B. Effectively managing assets once they have been acquired and financed.
+C. Deciding which legal form the business should take.
+D. Calculating the company's total tax liability for the year.
+Answer: B
+
+94. What is the main difference between "Present Value" and "Future Value"?
+A. Present value is for assets, while future value is for liabilities.
+B. Present value is the current worth of a future sum, while future value is what a current sum will grow to.
+C. Present value is always larger than future value.
+D. Future value is only used for calculating debt, not investments.
+Answer: B
+
+95. An "Efficient Market" is one where:
+A. There are no taxes or transaction costs.
+B. Prices reflect all available information about the economy and the company.
+C. Every investor makes the same amount of profit.
+D. The government sets the prices of all stocks and bonds.
+Answer: B
+
+96. Which of the following is NOT a component of a standard set of financial statements?
+A. Balance Sheet
+B. Income Statement
+C. Marketing Strategy Report
+D. Cash Flow Statement
+Answer: C
+
+97. "Opportunity Cost" in the context of the time value of money refers to:
+A. The cost of hiring a new financial analyst.
+B. The potential profit missed by not having money to invest earlier.
+C. The legal fees associated with issuing new bonds.
+D. The cost of electricity used to run the company's servers.
+Answer: B
+
+98. Which of the following attitudes toward risk is characterized by being neutral toward it?
+A. Risk appetite
+B. Risk aversion
+C. Risk indifference
+D. Risk avoidance
+Answer: C
+
+99. The "Capital Market" is primarily concerned with:
+A. Short-term loans between banks.
+B. Long-term debt and equity securities.
+C. The sale of physical goods like machinery and tools.
+D. The recruitment of high-level executive talent.
+Answer: B
+
+100. Why is the "Discount Rate" sometimes called the "Opportunity Cost of Capital"?
+A. It is the cost of the office space used by the finance team.
+B. It represents the return given up by investing in a particular project instead of an alternative.
+C. It is the discount given to customers who pay their bills early.
+D. It is the rate at which the company's assets depreciate over time.
+Answer: B
+
+101. Which of the following is a "Current Asset"?
+A. A factory building
+B. Manufacturing equipment
+C. Inventory intended for sale within the year
+D. Long-term investments in other companies
+Answer: C
+
+102. "Uncontrollable Risk" in financial management refers to:
+A. Risks that the company can easily eliminate through better management.
+B. External risks like changes in the economy that the firm cannot prevent.
+C. Risks that only affect the company's internal payroll system.
+D. Risks that are always 100% predictable.
+Answer: B
+
+103. The "Goal of Financial Management" is to maximize:
+A. The company's total revenue.
+B. The company's total number of customers.
+C. The current share price of the company's stock.
+D. The total number of products in the company's catalog.
+Answer: C
+
+104. Which of the following describes the "Weak Form" of market efficiency?
+A. Prices reflect all information, including insider secrets.
+B. Prices reflect all past market price and volume data.
+C. Prices reflect only the information published in the morning newspaper.
+D. Prices are completely random and follow no pattern.
+Answer: B
+
+105. "Financial Accountability" involves:
+A. Hiding losses from shareholders to keep the stock price high.
+B. Organizing and reporting financial activities in a transparent manner.
+C. Only reporting the profits made by the marketing department.
+D. Paying the lowest possible wages to all employees.
+Answer: B
+
+106. In an "Efficient Market," if new positive information about a company is released:
+A. The stock price will remain the same for several weeks.
+B. The stock price will adjust almost immediately to reflect the new information.
+C. The stock price will only change if the CEO makes a public speech.
+D. The stock price will go down because investors are suspicious.
+Answer: B
+
+107. Which of the following is an example of an "Investment Decision"?
+A. Choosing whether to issue bonds or shares to raise $1 million.
+B. Deciding whether to build a new research laboratory.
+C. Determining the company's dividend payout ratio.
+D. Negotiating a lower interest rate on a short-term bank loan.
+Answer: B
+
+108. "Systematic Risk" is another name for:
+A. Individual risk
+B. Market risk
+C. Corporate risk
+D. Diversifiable risk
+Answer: B
+
+109. The "Present Value" of a future sum decreases as:
+A. The interest rate decreases.
+B. The time until the payment is received increases.
+C. The future sum itself increases.
+D. The number of compounding periods decreases.
+Answer: B
+
+110. Which of the following is a role of the "Financial Market"?
+A. To provide a platform for the exchange of financial assets.
+B. To set the prices of all consumer goods like bread and milk.
+C. To manage the internal payroll of private companies.
+D. To provide free insurance to all small business owners.
+Answer: A
+
+111. "Risk Appetite" refers to:
+A. An investor's willingness to accept higher risk for the chance of higher returns.
+B. An investor's physical hunger during a long trading day.
+C. The total amount of debt a company is legally allowed to have.
+D. The cost of a company's annual shareholder dinner.
+Answer: A
+
+112. Which of the following is NOT one of the three functions of management mentioned in the text?
+A. Financial activities
+B. Investment activities
+C. Marketing activities
+D. Operations
+Answer: C
+
+113. The "Time Value of Money" concept is used in:
+A. Capital budgeting decisions.
+B. Valuation of stocks and bonds.
+C. Setting the company's credit policy.
+D. All of the above.
+Answer: D
+
+114. "Semi-Strong Efficiency" implies that:
+A. Technical analysis (studying past prices) is useless for gaining an edge.
+B. Fundamental analysis (studying financial statements) is useless for gaining an edge.
+C. Both A and B are true.
+D. Neither A nor B is true.
+Answer: C
+
+115. A "Portfolio of Securities" is:
+A. A single stock that an investor owns.
+B. A collection of different financial assets held by an investor.
+C. A physical briefcase used to carry paper stock certificates.
+D. The list of all employees in the finance department.
+Answer: B
+
+116. "Expected Return" is:
+A. The actual profit made at the end of the year.
+B. The average return an investor expects to earn over time.
+C. The return that is guaranteed by the bank.
+D. The return that is lost due to inflation.
+Answer: B
+
+117. Which of the following is a "Fixed Asset"?
+A. Cash in the company's bank account.
+B. Accounts receivable from customers.
+C. A delivery truck used by the company.
+D. Raw materials in the warehouse.
+Answer: C
+
+118. The "Objective of the Firm" is often defined as:
+A. Maximizing the wealth of its managers.
+B. Maximizing the wealth of its shareholders.
+C. Maximizing the number of its employees.
+D. Maximizing its total market share.
+Answer: B
+
+119. "Risk Indifference" means an investor:
+A. Only cares about the risk, not the return.
+B. Only cares about the return, not the risk.
+C. Cares equally about risk and return.
+D. Does not understand what risk or return are.
+Answer: B
+
+120. Which of the following is an example of "Market Risk"?
+A. A strike by the company's workers.
+B. A fire in the company's main warehouse.
+C. A sudden increase in national interest rates.
+D. The resignation of the company's chief engineer.
+Answer: C
+
+121. The "Present Value" formula (PV = FV / (1+r)^n) assumes that:
+A. Interest rates will change every day.
+B. The interest rate remains constant over the period.
+C. There is no risk involved in the future payment.
+D. The future value will be paid in physical gold.
+Answer: B
+
+122. "Financial Management" in the early 20th century focused on:
+A. Complex mathematical models of risk.
+B. Legal aspects of mergers and securities issuance.
+C. Environmental and social governance (ESG).
+D. International trade and currency exchange.
+Answer: B
+
+123. Which of the following is a "Funding Decision"?
+A. Deciding whether to use internal profits or external debt for a new project.
+B. Deciding which brand of computers to buy for the office.
+C. Choosing the location for a new retail store.
+D. Determining the salary of the marketing manager.
+Answer: A
+
+124. "Market Efficiency" is a metric used to assess:
+A. The physical speed of the stock exchange's computers.
+B. How well asset prices reflect all available information.
+C. The number of trades made in a single day.
+D. The total amount of money in the global economy.
+Answer: B
+
+125. "Individual Risk" is also known as:
+A. Systematic risk
+B. Unsystematic risk
+C. Market risk
+D. Global risk
+Answer: B
+
+126. The "Time Value of Money" is based on the idea that:
+A. Time is money.
+B. A dollar today is worth more than a dollar tomorrow.
+C. Money grows linearly over time.
+D. The value of money is determined by the clock.
+Answer: B
+
+127. Which of the following is NOT a way to increase company value?
+A. Making sound investment decisions.
+B. Making efficient funding decisions.
+C. Increasing the company's total debt without any reason.
+D. Effectively managing existing assets.
+Answer: C
+
+128. "Capital Markets" deal with:
+A. Short-term borrowing of less than one year.
+B. Long-term borrowing and equity of more than one year.
+C. The exchange of physical goods and services.
+D. The management of human capital.
+Answer: B
+
+129. "Risk Avoidance" is an attitude where:
+A. An investor takes on as much risk as possible.
+B. An investor tries to eliminate all exposure to risk.
+C. An investor is neutral toward risk.
+D. An investor only takes risks on Mondays.
+Answer: B
+
+130. The "Future Value" of an investment increases if:
+A. The interest rate increases.
+B. The time period decreases.
+C. The initial investment decreases.
+D. The frequency of compounding decreases.
+Answer: A
+
+131. "Asset Management" involves:
+A. Only the acquisition of new assets.
+B. Only the sale of old assets.
+C. The effective use and maintenance of all company assets.
+D. Only the physical security of the assets.
+Answer: C
+
+132. Which of the following is a "Macroeconomic" factor in finance?
+A. A company's specific profit margin.
+B. The national inflation rate.
+C. A company's internal hiring policy.
+D. The price of a company's specific product.
+Answer: B
+
+133. "Investment" involves:
+A. Spending money today for a guaranteed loss.
+B. Spending money today in expectation of future profit.
+C. Saving money in a box under the bed.
+D. Borrowing money to pay for a vacation.
+Answer: B
+
+134. "Efficient Markets" prevent:
+A. All investors from making any profit.
+B. Investors from consistently earning "excess" returns using public information.
+C. The government from collecting taxes on trades.
+D. Companies from ever going bankrupt.
+Answer: B
+
+135. "Corporate Risk" is important because:
+A. It affects the company's ability to pay its debts.
+B. It is the only risk that investors care about.
+C. It can be completely eliminated by the CEO.
+D. It only applies to companies with more than 1,000 employees.
+Answer: A
+
+136. The "Discount Rate" accounts for:
+A. Only inflation.
+B. Only the risk of the project.
+C. Both the time value of money and the risk involved.
+D. Only the legal fees of the investment.
+Answer: C
+
+137. Which of the following is a "Liability"?
+A. Cash in hand
+B. Money owed to a bank
+C. A company-owned building
+D. Unsold inventory
+Answer: B
+
+138. "Financial Management" is often called:
+A. Corporate Finance
+B. Marketing Finance
+C. Human Resource Finance
+D. Production Finance
+Answer: A
+
+139. The "Objective of Financial Management" is consistent with:
+A. Maximizing the company's total size.
+B. Maximizing the shareholders' wealth.
+C. Maximizing the number of products sold.
+D. Maximizing the amount of tax paid.
+Answer: B
+
+140. "Risk" and "Return" are generally:
+A. Negatively correlated (high risk, low return).
+B. Positively correlated (high risk, high expected return).
+C. Not correlated at all.
+D. Only correlated in small businesses.
+Answer: B
+
+141. "Semi-Strong Form" efficiency implies that:
+A. You can make money by reading old stock charts.
+B. You can make money by reading annual reports.
+C. You cannot consistently beat the market using public information.
+D. You can only make money if you have insider information.
+Answer: C
+
+142. "Asset = Liabilities + Equity" is the basic equation for:
+A. The Income Statement
+B. The Balance Sheet
+C. The Cash Flow Statement
+D. The Retained Earnings Statement
+Answer: B
+
+143. "Time Value of Money" calculations are used to:
+A. Compare cash flows occurring at different points in time.
+B. Calculate the exact time a company will go bankrupt.
+C. Determine the best time of day to hold a meeting.
+D. Count the number of hours employees work.
+Answer: A
+
+144. "Market Risk" is also known as:
+A. Diversifiable risk
+B. Non-diversifiable risk
+C. Specific risk
+D. Unique risk
+Answer: B
+
+145. "Wealth Maximization" is a better goal than "Profit Maximization" because:
+A. It considers the long-term value of the firm.
+B. It accounts for the riskiness of future cash flows.
+C. It is based on cash flows rather than accounting profits.
+D. All of the above.
+Answer: D
+
+146. "Efficient Markets" mean that:
+A. Stock prices are always perfectly correct.
+B. Stock prices reflect all available information.
+C. No one can ever lose money in the stock market.
+D. The market is always controlled by the government.
+Answer: B
+
+147. "Investment Decisions" are also known as:
+A. Capital Budgeting
+B. Capital Structure
+C. Working Capital Management
+D. Dividend Policy
+Answer: A
+
+148. "Financing Decisions" are also known as:
+A. Capital Budgeting
+B. Capital Structure
+C. Working Capital Management
+D. Asset Management
+Answer: B
+
+149. "Working Capital Management" involves:
+A. Managing the long-term debt of the company.
+B. Managing the day-to-day current assets and current liabilities.
+C. Deciding whether to issue new shares of stock.
+D. Choosing the location for a new factory.
+Answer: B
+
+150. "Financial Management" is a:
+A. One-time activity during the start-up of a company.
+B. Continuous process of planning, implementation, and control.
+C. Task that is only performed by the accounting department.
+D. Requirement only for companies that are losing money.
+Answer: B
+FIN 313 - Financial Management Concepts
+Mode: Hard
+Total Questions: 75
+
+151. If a company's goal is wealth maximization, how should it evaluate a project that increases current accounting profit but also significantly increases the company's overall risk profile?
+A. Accept the project because higher profit always leads to higher company value.
+B. Reject the project because wealth maximization accounts for risk-adjusted returns, not just raw profit.
+C. Accept the project only if the increase in profit is at least 10% higher than the increase in risk.
+D. Reject the project because any increase in risk is detrimental to shareholders.
+Answer: B
+
+152. In a "Semi-Strong" efficient market, which of the following investment strategies is most likely to yield consistent "alpha" or excess returns?
+A. Analyzing historical price patterns (Technical Analysis).
+B. Studying annual reports and economic indicators (Fundamental Analysis).
+C. Utilizing non-public, material information (Insider Trading).
+D. Diversifying across a broad range of low-cost index funds.
+Answer: C
+
+153. A financial manager is deciding between two mutually exclusive projects. Project A has a higher expected return but also a higher "Beta" than Project B. Which project should be chosen?
+A. Project A, because the goal is to maximize the expected rate of return.
+B. Project B, because the goal is to minimize the total risk of the firm.
+C. The project that provides the highest risk-adjusted return relative to the firm's cost of capital.
+D. Neither project, as mutually exclusive projects should always be avoided.
+Answer: C
+
+154. How does the "Time Value of Money" (TVM) specifically impact the valuation of long-term bonds compared to short-term notes?
+A. TVM has no impact on bond valuation as interest rates are fixed.
+B. Long-term bonds are more sensitive to changes in the discount rate due to the compounding effect over more periods.
+C. Short-term notes are more sensitive to the discount rate because they mature sooner.
+D. TVM only applies to equity securities, not debt instruments like bonds.
+Answer: B
+
+155. Which of the following best explains why "Market Risk" (Beta) cannot be diversified away in a portfolio of domestic stocks?
+A. Because all stocks in a single country are influenced by the same macroeconomic factors like interest rates and inflation.
+B. Because most investors do not have enough capital to buy more than 10 different stocks.
+C. Because the government prevents investors from diversifying across different industries.
+D. Because diversification only works for international investments, not domestic ones.
+Answer: A
+
+156. When calculating the "Present Value of Future Cash Flows," if the discount rate (r) approaches infinity, what happens to the Present Value (PV)?
+A. The PV also approaches infinity.
+B. The PV approaches zero.
+C. The PV remains equal to the Future Value (FV).
+D. The PV becomes a negative number.
+Answer: B
+
+157. A firm's "Capital Structure" decision involves balancing the tax advantages of debt against:
+A. The higher interest rates charged by banks for long-term loans.
+B. The potential costs of financial distress and bankruptcy.
+C. The decrease in the number of shares available for the CEO to own.
+D. The increase in the company's total assets.
+Answer: B
+
+158. In the context of "Asset Management Decisions," why might a financial manager focus more on fixed assets than current assets in a capital-intensive industry?
+A. Because fixed assets are easier to sell in an emergency.
+B. Because fixed assets represent a larger, long-term commitment of capital that dictates the firm's future capacity.
+C. Because current assets like inventory do not require any management.
+D. Because fixed assets are the only ones that appear on the balance sheet.
+Answer: B
+
+159. If the "Strong Form" of market efficiency holds true, which of the following statements is most accurate?
+A. Insider trading is a highly profitable and legal way to beat the market.
+B. No investor can consistently earn excess returns, even with access to private information.
+C. Professional fund managers will always outperform the market index.
+D. Stock prices only change once a year when the annual report is released.
+Answer: B
+
+160. How does "Individual Risk" (Unsystematic Risk) differ from "Corporate Risk" in a multi-project firm?
+A. Individual risk is the risk of a single project in isolation, while corporate risk is the project's contribution to the firm's total risk.
+B. Individual risk is only for small businesses, while corporate risk is only for large ones.
+C. Individual risk can be diversified away by the firm, but corporate risk cannot.
+D. There is no difference; they are two names for the same concept.
+Answer: A
+
+161. A "Risk Averse" manager is faced with two projects with the same expected return. Project X has a standard deviation of 5%, and Project Y has a standard deviation of 15%. The manager will:
+A. Choose Project Y because it has a higher potential for a "big win."
+B. Choose Project X because it offers the same return with lower volatility (risk).
+C. Be indifferent between the two projects since their expected returns are identical.
+D. Choose neither, as any risk is unacceptable to a risk-averse person.
+Answer: B
+
+162. The "Agency Problem" in financial management refers to the potential conflict of interest between:
+A. The company and its competitors.
+B. The company's managers and its shareholders.
+C. The company's employees and its customers.
+D. The company and the government's tax authority.
+Answer: B
+
+163. When a firm issues new equity (shares) to fund a project, this is a:
+A. Financing decision that increases the firm's financial leverage.
+B. Financing decision that decreases the firm's financial leverage.
+C. Investment decision that increases the firm's total assets.
+D. Asset management decision that improves the firm's liquidity.
+Answer: B
+
+164. In the formula for Future Value with compounding (FV = PV * (1 + r)^n), if the compounding frequency increases (e.g., from annual to monthly), the Future Value will:
+A. Decrease, because the interest rate per period is smaller.
+B. Increase, because interest is earned on interest more frequently.
+C. Remain the same, as the total annual interest rate is unchanged.
+D. Become unpredictable.
+Answer: B
+
+165. "Liquidity Risk" for a firm is most directly related to:
+A. The risk that the company's products will become obsolete.
+B. The risk that the company will not have enough cash to meet its short-term obligations.
+C. The risk that the company's share price will drop by more than 10% in a day.
+D. The risk that the company's CEO will be hired by a competitor.
+Answer: B
+
+166. Which of the following is a "Capital Budgeting" technique that accounts for the time value of money?
+A. The Payback Period
+B. The Net Present Value (NPV)
+C. The Average Accounting Return (AAR)
+D. The Total Revenue Method
+Answer: B
+
+167. A "Semi-Strong" efficient market implies that "Fundamental Analysis" is:
+A. The best way to consistently find undervalued stocks.
+B. Useless for gaining an advantage because all public data is already reflected in the price.
+C. Only useful for short-term day trading.
+D. Only applicable to bonds, not stocks.
+Answer: B
+
+168. If a firm's "Beta" is 1.5, this means:
+A. The firm's stock is 50% less volatile than the overall market.
+B. The firm's stock is 50% more volatile than the overall market.
+C. The firm's stock always moves in the opposite direction of the market.
+D. The firm's stock price is exactly 1.5 times the market average.
+Answer: B
+
+169. "Financial Leverage" refers to the use of:
+A. High-speed computers to execute trades.
+B. Fixed-cost debt to increase the potential return to shareholders.
+C. Aggressive marketing to increase sales volume.
+D. Expert consultants to improve management efficiency.
+Answer: B
+
+170. The "Opportunity Cost of Capital" is used as the discount rate because:
+A. It is the minimum return a firm must earn on its investments to satisfy its investors.
+B. It is the cost of hiring a new CFO from a rival company.
+C. It is the interest rate charged by the central bank.
+D. It is the rate of inflation in the country where the firm is based.
+Answer: A
+
+171. Which of the following would cause a firm's "Break-Even Point" to increase?
+A. An increase in the selling price per unit.
+B. A decrease in the variable cost per unit.
+C. An increase in the firm's total fixed costs.
+D. An increase in the total number of units sold.
+Answer: C
+
+172. "Working Capital" is defined as:
+A. The total amount of money invested by the owners.
+B. Current Assets minus Current Liabilities.
+C. The total value of the company's factories and equipment.
+D. The net profit after all taxes have been paid.
+Answer: B
+
+173. A "Weak Form" efficient market suggests that "Technical Analysis" (charting) is:
+A. The most reliable way to predict future stock prices.
+B. Ineffective because past price movements do not predict future ones.
+C. Only useful for large institutional investors.
+D. Only effective during periods of high inflation.
+Answer: B
+
+174. The "Cost of Debt" is usually lower than the "Cost of Equity" because:
+A. Debt is riskier for the investor than equity.
+B. Interest payments on debt are tax-deductible for the firm.
+C. Equity holders have a legal right to receive dividends every year.
+D. Debt holders are the last to be paid in the event of bankruptcy.
+Answer: B
+
+175. "Capital Rationing" occurs when:
+A. A firm has more profitable projects than it has funds to invest in them.
+B. A firm has too much cash and doesn't know what to do with it.
+C. The government limits the amount of debt a company can take on.
+D. Shareholders refuse to accept any new investment projects.
+Answer: A
+
+176. The "Net Present Value" (NPV) of a project is:
+A. The total cash inflows divided by the total cash outflows.
+B. The difference between the present value of cash inflows and the present value of cash outflows.
+C. The total profit the project will make over its entire life.
+D. The time it takes for the project to pay back its initial investment.
+Answer: B
+
+177. A project with an NPV of zero means:
+A. The project is a failure and should be rejected.
+B. The project earns exactly the required rate of return (cost of capital).
+C. The project makes no profit at all in accounting terms.
+D. The project will result in the company going bankrupt.
+Answer: B
+
+178. "Sensitivity Analysis" is a technique used to:
+A. Measure how much a project's NPV changes when one of the input variables changes.
+B. Determine the emotional state of the company's employees.
+C. Calculate the exact tax rate the company will pay in five years.
+D. Measure the physical durability of the company's products.
+Answer: A
+
+179. The "Internal Rate of Return" (IRR) is the discount rate that makes:
+A. The NPV of a project equal to its initial investment.
+B. The NPV of a project equal to zero.
+C. The total cash inflows equal to the total cash outflows.
+D. The project's profit equal to the CEO's salary.
+Answer: B
+
+180. If the NPV and IRR methods give conflicting signals for mutually exclusive projects, which one should be followed?
+A. The IRR method, because it gives a percentage return.
+B. The NPV method, because it measures the absolute increase in shareholder wealth.
+C. The Payback Period method, to ensure the money is returned quickly.
+D. Neither; a third method like the Average Accounting Return should be used.
+Answer: B
+
+181. "Financial Distress" costs include:
+A. The cost of hiring more marketing staff.
+B. Legal and administrative fees associated with bankruptcy.
+C. The cost of buying new machinery.
+D. The taxes paid on corporate profits.
+Answer: B
+
+182. The "Dividend Payout Ratio" is the percentage of:
+A. Total sales paid out as dividends.
+B. Net income paid out as dividends to shareholders.
+C. Total assets paid out as dividends.
+D. Total debt paid off using dividends.
+Answer: B
+
+183. "Stock Splits" are primarily intended to:
+A. Increase the total value of the company.
+B. Lower the share price to a more "marketable" range for small investors.
+C. Increase the company's total debt.
+D. Pay out a large cash dividend to shareholders.
+Answer: B
+
+184. A "Convertible Bond" is a debt instrument that:
+A. Can be exchanged for a fixed number of shares of common stock.
+B. Can be changed into a different currency at any time.
+C. Has an interest rate that changes every day.
+D. Can be used to pay the company's taxes.
+Answer: A
+
+185. "Leasing" is an alternative to:
+A. Hiring new employees.
+B. Purchasing an asset with debt or equity.
+C. Selling the company's products.
+D. Paying dividends to shareholders.
+Answer: B
+
+186. The "Weighted Average Cost of Capital" (WACC) is:
+A. The simple average of the interest rates on all the firm's loans.
+B. The average cost of the firm's debt and equity, weighted by their market values.
+C. The cost of the firm's most expensive source of funding.
+D. The interest rate charged by the firm's primary bank.
+Answer: B
+
+187. Which of the following would decrease a firm's WACC?
+A. An increase in the market interest rates.
+B. An increase in the firm's corporate tax rate (due to the tax shield on debt).
+C. An increase in the riskiness of the firm's projects.
+*Correction for tricky context*: An increase in the corporate tax rate actually increases the value of the tax shield, effectively lowering the after-tax cost of debt.
+Answer: B
+
+188. "Capital Budgeting" is the process of:
+A. Managing the company's daily cash flows.
+B. Planning and managing a firm's long-term investments.
+C. Setting the salaries for the executive team.
+D. Deciding how many shares to issue in an IPO.
+Answer: B
+
+189. "Operating Leverage" is the degree to which a firm uses:
+A. Debt in its capital structure.
+B. Fixed costs in its production process.
+C. Social media in its marketing strategy.
+D. Outsourcing for its customer service.
+Answer: B
+
+190. A firm with high operating leverage will experience:
+A. Small changes in EBIT for large changes in sales.
+B. Large changes in EBIT for small changes in sales.
+C. No change in EBIT regardless of sales volume.
+D. A decrease in EBIT whenever sales increase.
+Answer: B
+
+191. "Business Risk" is the risk inherent in a firm's:
+A. Choice of debt vs. equity.
+B. Operations, ignoring how the firm is financed.
+C. Choice of accounting software.
+D. Location of its corporate headquarters.
+Answer: B
+
+192. "Financial Risk" is the additional risk placed on shareholders as a result of:
+A. Changes in the weather.
+B. The use of debt (financial leverage).
+C. Hiring too many marketing managers.
+D. The company's products becoming unpopular.
+Answer: B
+
+193. The "Optimal Capital Structure" is the mix of debt and equity that:
+A. Maximizes the total assets of the firm.
+B. Minimizes the firm's Weighted Average Cost of Capital (WACC).
+C. Maximizes the firm's total debt.
+D. Minimizes the number of shareholders.
+Answer: B
+
+194. "Pecking Order Theory" suggests that firms prefer to fund projects using:
+A. New equity first, then debt, then internal funds.
+B. Internal funds first, then debt, then new equity.
+C. Debt first, then internal funds, then new equity.
+D. New equity first, then internal funds, then debt.
+Answer: B
+
+195. "Signaling Theory" in finance suggests that a firm's decision to issue new stock is often viewed by the market as a:
+A. Positive signal that the firm is growing rapidly.
+B. Negative signal that the firm's stock may be overvalued.
+C. Neutral signal that has no impact on the stock price.
+D. Signal that the firm is about to go bankrupt.
+Answer: B
+
+196. "Market Value" of a firm's equity is:
+A. The value shown on the firm's balance sheet (Book Value).
+B. The current share price multiplied by the number of shares outstanding.
+C. The total amount of money the firm has in its bank account.
+D. The total value of all the firm's physical assets.
+Answer: B
+
+197. "Book Value" of equity is:
+A. The value of the firm's equity as recorded in its accounting records.
+B. The price at which the stock is currently trading on the exchange.
+C. The amount of money a buyer would pay for the firm today.
+D. The total value of all the books in the company's library.
+Answer: A
+
+198. The "Price-Earnings (P/E) Ratio" measures:
+A. The company's total profit divided by its total sales.
+B. The current share price divided by the earnings per share (EPS).
+C. The total number of shares divided by the total number of employees.
+D. The CEO's salary divided by the average worker's salary.
+Answer: B
+
+199. A high P/E ratio usually indicates that investors:
+A. Expect the company to have low growth in the future.
+B. Expect the company to have high growth in the future.
+C. Believe the company is about to go bankrupt.
+D. Are indifferent about the company's future.
+Answer: B
+
+200. "Dividend Yield" is calculated as:
+A. Total dividends divided by total sales.
+B. Annual dividend per share divided by the current share price.
+C. Total dividends divided by the number of employees.
+D. Net income divided by the total dividend payment.
+Answer: B
+
+201. "Capital Gains" are the profits made from:
+A. Selling a product for more than it cost to make.
+B. Selling an asset (like a stock) for more than its purchase price.
+C. Receiving a large cash dividend from a company.
+D. Reducing the company's total tax liability.
+Answer: B
+
+202. "Diversification" reduces risk by:
+A. Investing all money in a single, very safe stock.
+B. Spreading investments across different assets that do not move perfectly together.
+C. Only investing in companies that are located in the same city.
+D. Buying as many shares of a single company as possible.
+Answer: B
+
+203. "Correlation" in finance measures:
+A. The total amount of profit a company makes.
+B. The degree to which the returns of two assets move together.
+C. The number of employees in the finance department.
+D. The physical distance between two different stock exchanges.
+Answer: B
+
+204. A correlation of -1.0 between two stocks means:
+A. They always move in the exact same direction.
+B. They always move in the exact opposite direction.
+C. There is no relationship between their movements.
+D. One stock is always twice as expensive as the other.
+Answer: B
+
+205. The "Efficient Frontier" is the set of portfolios that:
+A. Have the lowest possible risk for any given level of expected return.
+B. Have the highest possible return for any given level of risk.
+C. Both A and B are true.
+D. Neither A nor B is true.
+Answer: C
+
+206. The "Capital Asset Pricing Model" (CAPM) is used to calculate:
+A. The total value of a company's physical assets.
+B. The required rate of return on an investment based on its risk (Beta).
+C. The exact amount of tax a company will pay next year.
+D. The number of shares a company should issue in an IPO.
+Answer: B
+
+207. In the CAPM formula (Ri = Rf + Beta * (Rm - Rf)), "Rf" represents:
+A. The return on a risky stock.
+B. The risk-free rate of return (e.g., on government bonds).
+C. The total return of the entire stock market.
+D. The rate of inflation in the economy.
+Answer: B
+
+208. The "Market Risk Premium" in the CAPM is:
+A. The difference between the market return and the risk-free rate (Rm - Rf).
+B. The total return of the stock market (Rm).
+C. The return on a specific company's stock (Ri).
+D. The fee paid to a stockbroker for making a trade.
+Answer: A
+
+209. "Unsystematic Risk" is also called:
+A. Market risk
+B. Diversifiable risk
+C. Systematic risk
+D. Beta risk
+Answer: B
+
+210. Which of the following is an example of "Unsystematic Risk"?
+A. A sudden increase in national interest rates.
+B. A change in the country's corporate tax laws.
+C. A fire that destroys a company's main manufacturing plant.
+D. A global economic recession.
+Answer: C
+
+211. "Systematic Risk" is also called:
+A. Specific risk
+B. Non-diversifiable risk
+C. Unique risk
+D. Individual risk
+Answer: B
+
+212. Which of the following is an example of "Systematic Risk"?
+A. A strike by the workers of a single company.
+B. The resignation of a company's CEO.
+C. An unexpected increase in the national inflation rate.
+D. A lawsuit filed against a specific company by a customer.
+Answer: C
+
+213. "Standard Deviation" in finance is a measure of:
+A. The average return of an investment.
+B. The total risk (volatility) of an investment.
+C. The amount of tax paid on an investment.
+D. The number of years an investment has been held.
+Answer: B
+
+214. "Variance" is:
+A. The square root of the standard deviation.
+B. The square of the standard deviation.
+C. The average return minus the risk-free rate.
+D. The total number of shares multiplied by the price.
+Answer: B
+
+215. A "Zero-Beta" asset is an asset that:
+A. Has no risk at all.
+B. Has no correlation with the overall market.
+C. Is guaranteed to lose money.
+D. Is only owned by the government.
+Answer: B
+
+216. "Arbitrage" is the practice of:
+A. Buying a stock and holding it for 50 years.
+B. Simultaneously buying and selling an asset in different markets to profit from a price difference.
+C. Investing all your money in a single, high-risk startup.
+D. Borrowing money from a friend to buy a lottery ticket.
+Answer: B
+
+217. "Technical Analysis" involves studying:
+A. A company's financial statements and management team.
+B. Past market data, primarily price and volume, to predict future trends.
+C. The overall state of the global economy and interest rates.
+D. The chemical composition of a company's products.
+Answer: B
+
+218. "Fundamental Analysis" involves studying:
+A. Stock charts and moving averages.
+B. A company's business model, financial statements, and competitive position.
+C. The phases of the moon and their impact on investor behavior.
+D. The number of times a company is mentioned on social media.
+Answer: B
+
+219. "Insider Trading" is:
+A. Trading stocks based on information that is available to the general public.
+B. Trading stocks based on material, non-public information about a company.
+C. Trading stocks only with members of your own family.
+D. Trading stocks only during the first hour the market is open.
+Answer: B
+
+220. "Market Liquidity" refers to:
+A. The total amount of cash in the global economy.
+B. The ease with which a large amount of a security can be traded without affecting its price.
+C. The percentage of a company's assets that are in the form of cash.
+D. The speed at which a company's products are sold in stores.
+Answer: B
+
+221. A "Bull Market" is a market where:
+A. Prices are generally falling and investors are pessimistic.
+B. Prices are generally rising and investors are optimistic.
+C. Prices are not changing at all and there is no trading.
+D. Only agricultural stocks are being traded.
+Answer: B
+
+222. A "Bear Market" is a market where:
+A. Prices are generally rising and investors are optimistic.
+B. Prices are generally falling and investors are pessimistic.
+C. Only stocks of companies that make outdoor gear are traded.
+D. The market is closed for a national holiday.
+Answer: B
+
+223. "Short Selling" is a strategy where an investor:
+A. Buys a stock expecting its price to rise.
+B. Borrows a stock and sells it, expecting its price to fall, so they can buy it back cheaper later.
+C. Sells all their stocks and keeps their money in cash.
+D. Only buys stocks of companies that are less than 5 years old.
+Answer: B
+
+224. "Margin Trading" involves:
+A. Trading only the stocks of companies that have high profit margins.
+B. Borrowing money from a broker to buy more stocks than you could with your own cash.
+C. Trading stocks only on the edges (margins) of the trading day.
+D. Trading stocks of companies that are located in marginal or developing countries.
+Answer: B
+
+225. A "Limit Order" is an order to:
+A. Buy or sell a stock immediately at the best available current price.
+B. Buy or sell a stock only at a specific price or better.
+C. Buy as many shares of a stock as the broker will allow.
+D. Sell a stock only if the company's CEO resigns.
+Answer: B
+FIN 313 - Financial Management Concepts
+Mode: Tricky
+Total Questions: 75
+
+226. If a company has a positive Net Present Value (NPV) but a negative Accounting Profit in the first year of a project, should the financial manager accept the project?
+A. No, because negative profit in the first year indicates a high risk of bankruptcy.
+B. Yes, because NPV accounts for the total value created over the project's life, regardless of early accounting losses.
+C. No, because shareholders only care about the current year's earnings per share.
+D. Yes, but only if the first year's loss is less than 5% of the total investment.
+Answer: B
+
+227. Why might a firm choose to issue "Convertible Debt" instead of straight debt, even if it potentially dilutes existing shareholders' ownership later?
+A. Because convertible debt always has a higher interest rate than straight debt.
+B. Because it allows the firm to pay a lower interest rate today while the company is growing.
+C. Because convertible debt is the only type of debt that does not appear on the balance sheet.
+D. Because it guarantees that the company's share price will rise in the future.
+Answer: B
+
+228. In a "Semi-Strong" efficient market, if a company announces a massive new contract that was already widely rumored and expected by analysts, what will happen to the stock price?
+A. It will rise significantly because a new contract is always good news.
+B. It will stay roughly the same because the news was already "priced in" by the market.
+C. It will fall because investors are disappointed that the rumor was true.
+D. It will rise, then fall, then rise again in a predictable pattern.
+Answer: B
+
+229. If the "Risk-Free Rate" (Rf) increases while all other variables in the CAPM remain constant, what happens to the required return (Ri) for a stock with a Beta of 0.5?
+A. The required return will increase by the same amount as the risk-free rate.
+B. The required return will increase, but by less than the increase in the risk-free rate.
+C. The required return will decrease because the stock is now relatively less risky.
+D. The required return will remain unchanged.
+*Tricky Math*: Ri = Rf + 0.5(Rm - Rf) = 0.5Rf + 0.5Rm. If Rf increases by 1, Ri increases by 0.5.
+Answer: B
+
+230. A firm's "Degree of Total Leverage" (DTL) is 6.0. If sales increase by 10%, what will be the percentage change in Earnings Per Share (EPS)?
+A. 6%
+B. 10%
+C. 60%
+D. 1.6%
+Answer: C
+
+231. Under the "Pecking Order Theory," why is "New Equity" considered the least preferred source of financing?
+A. Because it is the most expensive source of funding due to flotation costs and adverse selection.
+B. Because issuing new shares is illegal in many developing countries.
+C. Because it is the only source of funding that requires the company to pay taxes.
+D. Because new equity holders are the first to be paid in the event of bankruptcy.
+Answer: A
+
+232. If a company's "Current Ratio" is 2.0 and it uses cash to pay off a short-term debt, what happens to the Current Ratio?
+A. It decreases.
+B. It increases.
+C. It remains the same.
+D. It becomes zero.
+*Tricky Math*: (Current Assets - X) / (Current Liabilities - X). Since CA > CL, the ratio increases.
+Answer: B
+
+233. Which of the following is a "Non-Cash" expense that reduces accounting profit but does not reduce cash flow?
+A. Interest payments on a bank loan.
+B. Salaries paid to the marketing team.
+C. Depreciation of manufacturing equipment.
+D. Dividends paid to preferred shareholders.
+Answer: C
+
+234. If a firm's "WACC" is 10% and it takes on a project with an IRR of 12% that is significantly riskier than the firm's average project, should it accept?
+A. Yes, because 12% is greater than the firm's 10% WACC.
+B. No, because the project's risk-adjusted required return might be higher than 12%.
+C. Yes, because any project with a positive IRR should be accepted.
+D. No, because the firm should never take on projects riskier than its average.
+Answer: B
+
+235. "Window Dressing" in financial reporting refers to:
+A. Painting the office windows to improve employee morale.
+B. Manipulating financial statements at the end of a period to make the company look better than it is.
+C. Hiring a professional decorator for the company's retail stores.
+D. Buying new software to track the company's inventory.
+Answer: B
+
+236. If a stock's "Beta" is negative, what does this imply about its relationship with the market?
+A. The stock is extremely risky and should be avoided.
+B. The stock's price tends to move in the opposite direction of the overall market.
+C. The stock's price is always zero when the market is rising.
+D. The stock is guaranteed to make a profit even if the market crashes.
+Answer: B
+
+237. A "Sunk Cost" should be:
+A. Included in the calculation of a project's Net Present Value.
+B. Ignored when making a decision about a future investment.
+C. Subtracted from the company's total assets on the balance sheet.
+D. Added to the company's total debt.
+Answer: B
+
+238. If a company increases its "Financial Leverage" by taking on more debt, what happens to its "Cost of Equity"?
+A. It decreases because debt is cheaper than equity.
+B. It increases because the risk to shareholders (financial risk) has increased.
+C. It remains the same because the firm's business risk is unchanged.
+D. It becomes zero.
+Answer: B
+
+239. The "Time Value of Money" implies that an "Annuity Due" (payments at the beginning of the period) is worth:
+A. More than an "Ordinary Annuity" (payments at the end of the period) with the same terms.
+B. Less than an "Ordinary Annuity" with the same terms.
+C. Exactly the same as an "Ordinary Annuity" with the same terms.
+D. Half as much as an "Ordinary Annuity."
+Answer: A
+
+240. If a company's "Net Working Capital" is negative, it means:
+A. The company is extremely profitable and has no debt.
+B. The company's current liabilities exceed its current assets.
+C. The company has no physical assets like buildings or land.
+D. The company is located in a country with a negative interest rate.
+Answer: B
+
+241. "Capital Gains Tax" is a tax on:
+A. The interest earned on a savings account.
+B. The profit made from selling an investment for more than its cost.
+C. The total revenue of a company before any expenses.
+D. The salaries paid to the company's top executives.
+Answer: B
+
+242. If a firm's "Inventory Turnover" ratio increases, it usually indicates that:
+A. The firm is holding more inventory than it needs.
+B. The firm is selling its inventory more quickly.
+C. The firm's inventory is becoming obsolete and unsellable.
+D. The firm is paying more for its raw materials.
+Answer: B
+
+243. "Financial Intermediaries" like banks and insurance companies help:
+A. Only the government to collect more taxes.
+B. Transfer funds from savers to borrowers in an efficient manner.
+C. Companies to hide their losses from the public.
+D. Only large corporations to buy back their own shares.
+Answer: B
+
+244. A "Stock Dividend" (issuing more shares instead of cash) results in:
+A. An increase in the total market value of the company.
+B. A decrease in the share price but no change in the total value of an investor's holding.
+C. A large cash outflow from the company to its shareholders.
+D. An increase in the company's total debt.
+Answer: B
+
+245. If a company's "P/E Ratio" is 20 and its "EPS" is $2.00, what is the current share price?
+A. $10.00
+B. $40.00
+C. $20.00
+D. $2.00
+Answer: B
+
+246. "Operating Cash Flow" is different from "Net Income" because it:
+A. Includes the payment of dividends to shareholders.
+B. Excludes non-cash expenses like depreciation and accounts for changes in working capital.
+C. Includes the proceeds from the sale of new shares of stock.
+D. Excludes all taxes paid by the company.
+Answer: B
+
+247. If the "Expected Return" on a stock is less than its "Required Return" (as calculated by CAPM), the stock is:
+A. Undervalued and should be bought.
+B. Overvalued and should be sold.
+C. Correctly priced and should be held.
+D. Guaranteed to go bankrupt.
+Answer: B
+
+248. A "Zero-Coupon Bond" is a bond that:
+A. Pays a very high interest rate every month.
+B. Is sold at a deep discount and pays no periodic interest.
+C. Can be exchanged for a new car at the end of its life.
+D. Is only issued by companies that have zero debt.
+Answer: B
+
+249. If a firm's "Fixed Costs" are high, its "Break-Even Point" will be:
+A. Low, because it doesn't need many sales to cover its costs.
+B. High, because it needs more sales to cover its large fixed expenses.
+C. Zero, because fixed costs do not affect the break-even point.
+D. Unpredictable.
+Answer: B
+
+250. "Financial Synergy" in a merger refers to:
+A. The two companies having the same name after the merger.
+B. The combined firm having a lower cost of capital than the two firms separately.
+C. The two CEOs becoming best friends.
+D. The combined firm having fewer employees than the two firms separately.
+Answer: B
+
+251. If a company's "Debt-to-Equity Ratio" is 1.0, it means:
+A. The company has no debt at all.
+B. The company's total debt is equal to its total equity.
+C. The company's total assets are zero.
+D. The company is 100% owned by the government.
+Answer: B
+
+252. "Agency Costs" include:
+A. The cost of advertising the company's products.
+B. The cost of monitoring management and the losses from sub-optimal decisions.
+C. The cost of hiring a new security agency for the office.
+D. The cost of paying the company's travel agency.
+Answer: B
+
+253. If a firm's "Return on Equity" (ROE) is higher than its "Return on Assets" (ROA), it is likely because:
+A. The firm has no debt.
+B. The firm is using financial leverage (debt) to boost returns to shareholders.
+C. The firm is losing money on every sale.
+D. The firm's assets are all in the form of cash.
+Answer: B
+
+254. "Market Risk" is also known as "Systematic Risk" because:
+A. It only affects the computer systems of the stock exchange.
+B. It affects the entire financial system and cannot be avoided by diversification.
+C. It is always calculated using a systematic mathematical formula.
+D. It only occurs on a systematic schedule (e.g., every five years).
+Answer: B
+
+255. If a company's "Beta" is 0, its required return according to CAPM will be:
+A. Zero.
+B. Equal to the risk-free rate (Rf).
+C. Equal to the market return (Rm).
+D. Equal to the rate of inflation.
+Answer: B
+
+256. "Liquidation Value" of a firm is:
+A. The value of the firm if it continues to operate forever.
+B. The net amount that could be realized if the firm's assets were sold and its debts paid.
+C. The value of all the liquid assets (cash) the firm has.
+D. The value of the firm's brand name and reputation.
+Answer: B
+
+257. A "Protective Covenant" in a bond agreement is intended to:
+A. Protect the company from having to pay its debts.
+B. Protect the bondholders by limiting certain actions the company can take.
+C. Protect the CEO from being fired by the board of directors.
+D. Protect the government's tax revenue.
+Answer: B
+
+258. If a firm's "Profit Margin" decreases but its "Asset Turnover" increases, its "ROA" will:
+A. Decrease.
+B. Increase.
+C. Stay the same if the changes offset each other.
+D. Become negative.
+Answer: C
+
+259. "Financial Innovation" refers to:
+A. Hiring more creative people in the accounting department.
+B. The creation of new financial instruments and services to meet market needs.
+C. Changing the company's logo to look more modern.
+D. Using a new type of paper for the annual report.
+Answer: B
+
+260. If a company's "Payback Period" is 3 years and its required payback is 4 years, the project should be:
+A. Rejected.
+B. Accepted.
+C. Held for further analysis.
+D. Sold to a competitor.
+Answer: B
+
+261. "Capital Gains" are only taxed when:
+A. The investment is first purchased.
+B. The investment is actually sold (realized).
+C. The investment increases in value on paper.
+D. The company pays a dividend.
+Answer: B
+
+262. If a firm's "Equity Multiplier" is 3.0, its "Debt-to-Equity Ratio" is:
+A. 3.0
+B. 2.0
+C. 1.0
+D. 0.5
+*Tricky Math*: Equity Multiplier = Assets / Equity = (Debt + Equity) / Equity = (Debt/Equity) + 1. So 3.0 = (D/E) + 1 -> D/E = 2.0.
+Answer: B
+
+263. "Information Asymmetry" in finance occurs when:
+A. The company's computers are not working correctly.
+B. One party in a transaction has more or better information than the other.
+C. The company's annual report is printed in two different languages.
+D. The stock market is closed for a holiday.
+Answer: B
+
+264. If a company's "Dividend Growth Rate" (g) is higher than its "Required Return" (k), the Gordon Growth Model (P = D1 / (k-g)) will:
+A. Give a very high stock price.
+B. Give a negative or nonsensical stock price.
+C. Give the exact correct stock price.
+D. Only work for small companies.
+Answer: B
+
+265. "Efficient Market Hypothesis" (EMH) suggests that:
+A. It is easy to beat the market if you work hard enough.
+B. Stock prices always reflect all available information.
+C. The stock market is a giant scam.
+D. Only the government should be allowed to trade stocks.
+Answer: B
+
+266. If a company's "Times Interest Earned" (TIE) ratio is low, it indicates:
+A. The company has no debt.
+B. The company may have difficulty meeting its interest payments.
+C. The company is making too much profit.
+D. The company's employees are working too many hours.
+Answer: B
+
+267. "Secondary Market" is where:
+A. New shares are issued for the first time (IPO).
+B. Existing shares are traded between investors.
+C. The company buys raw materials for production.
+D. Second-hand machinery is sold.
+Answer: B
+
+268. If a firm's "Retention Ratio" is 60%, its "Dividend Payout Ratio" is:
+A. 60%
+B. 40%
+C. 100%
+D. 0%
+Answer: B
+
+269. "Market Capitalization" is:
+A. The total value of all the company's buildings.
+B. The total market value of all a company's outstanding shares.
+C. The total amount of debt a company has.
+D. The city where the company's headquarters is located.
+Answer: B
+
+270. If a company's "Beta" is 1.0, its return should move:
+A. In the exact same direction and magnitude as the market.
+B. Twice as much as the market.
+C. In the opposite direction of the market.
+D. Not at all when the market moves.
+Answer: A
+
+271. "Financial Intermediation" reduces:
+A. The total amount of money in the world.
+B. Transaction costs and information costs for savers and borrowers.
+C. The number of banks in a country.
+D. The interest rate paid on savings accounts.
+Answer: B
+
+272. If a company's "Net Profit Margin" is 10% and its "Sales" are $1,000,000, its "Net Income" is:
+A. $10,000
+B. $100,000
+C. $1,000,000
+D. $100
+Answer: B
+
+273. "External Financing" includes:
+A. Using the company's own retained earnings.
+B. Issuing new bonds or shares to the public.
+C. Selling old machinery to buy new machinery.
+D. Reducing the company's inventory levels.
+Answer: B
+
+274. If a firm's "Asset Turnover" is 2.0, it means:
+A. The firm sells its entire inventory twice a year.
+B. The firm generates $2.00 in sales for every $1.00 in assets.
+C. The firm's assets are twice as large as its debt.
+D. The firm replaces all its machinery every two years.
+Answer: B
+
+275. "Capital Structure" refers to the mix of:
+A. Different types of products a company sells.
+B. Long-term debt and equity used to finance a company.
+C. Different types of employees in a company.
+D. Different types of machinery in a factory.
+Answer: B
+
+276. If a company's "P/B Ratio" (Price-to-Book) is less than 1.0, it might mean:
+A. The company is extremely overvalued.
+B. The market believes the company's assets are worth less than their accounting value.
+C. The company has no debt.
+D. The company's share price is too high.
+Answer: B
+
+277. "Yield to Maturity" (YTM) on a bond is:
+A. The interest rate printed on the bond certificate.
+B. The total return expected on a bond if it is held until it matures.
+C. The date on which the bond will be paid off.
+D. The amount of tax paid on the bond's interest.
+Answer: B
+
+278. If a company's "Degree of Operating Leverage" (DOL) is high, a small change in sales will result in:
+A. No change in operating income.
+B. A large change in operating income (EBIT).
+C. A large change in the company's total debt.
+D. A large change in the number of employees.
+Answer: B
+
+279. "Net Present Value" (NPV) is considered superior to "Internal Rate of Return" (IRR) because:
+A. NPV is easier to calculate.
+B. NPV avoids the problem of multiple rates of return and scale issues.
+C. NPV always gives a higher number than IRR.
+D. IRR is only for large companies.
+Answer: B
+
+280. If a firm's "Quick Ratio" (Acid-Test) is much lower than its "Current Ratio," it means:
+A. The firm has a lot of cash.
+B. A large portion of the firm's current assets is tied up in inventory.
+C. The firm has no short-term debt.
+D. The firm is very liquid.
+Answer: B
+
+281. "Financial Risk" is primarily concerned with:
+A. The risk of a fire in the factory.
+B. The risk that the company cannot meet its fixed financial obligations (interest).
+C. The risk that the company's marketing campaign will fail.
+D. The risk that the CEO will resign.
+Answer: B
+
+282. If a company's "Operating Cycle" is long, it means:
+A. It takes a long time to produce its products.
+B. It takes a long time to convert its investment in inventory back into cash.
+C. The company's employees work long shifts.
+D. The company has been in business for many years.
+Answer: B
+
+283. "Cost of Capital" is also known as the:
+A. Hurdle rate.
+B. Tax rate.
+C. Inflation rate.
+D. Growth rate.
+Answer: A
+
+284. If a firm's "Marginal Tax Rate" increases, its "After-Tax Cost of Debt" will:
+A. Increase.
+B. Decrease (because the tax shield is more valuable).
+C. Stay the same.
+D. Become zero.
+Answer: B
+
+285. "Market Value Added" (MVA) is the difference between:
+A. Total sales and total costs.
+B. The market value of a firm and the capital contributed by investors.
+C. The company's profit this year and last year.
+D. The CEO's salary and the average worker's salary.
+Answer: B
+
+286. If a company's "Sustainable Growth Rate" is 5%, it means:
+A. The company can only grow at 5% if it issues new shares.
+B. The company can grow at 5% without changing its financial leverage or issuing new equity.
+C. The company's profit will always be 5% of its sales.
+D. The company will go bankrupt if it grows faster than 5%.
+Answer: B
+
+287. "Capital Budgeting" decisions are:
+A. Easily reversed if they turn out to be wrong.
+B. Generally irreversible and involve long-term commitments.
+C. Only made by the accounting department.
+D. Made every day for small purchases.
+Answer: B
+
+288. If a company's "Cash Conversion Cycle" (CCC) is negative, it means:
+A. The company is losing cash on every sale.
+B. The company receives cash from customers before it has to pay its suppliers.
+C. The company has no cash in its bank account.
+D. The company is located in a country with a negative currency.
+Answer: B
+
+289. "Financial Planning" involves:
+A. Only looking at what happened in the past.
+B. Estimating future funding needs and preparing for various scenarios.
+C. Only deciding how much to pay the CEO.
+D. Predicting the exact price of the company's stock in ten years.
+Answer: B
+
+290. If a firm's "Debt Ratio" is 0.6, it means:
+A. 60% of its assets are financed by debt.
+B. 60% of its profit is used to pay interest.
+C. It has 60 different types of debt.
+D. It will go bankrupt in 60 days.
+Answer: A
+
+291. "Modigliani-Miller Theorem" (in a world with no taxes) suggests that:
+A. Debt is always better than equity.
+B. The value of a firm is independent of its capital structure.
+C. Equity is always better than debt.
+D. A firm should have 100% debt.
+Answer: B
+
+292. If a company's "Interest Coverage Ratio" is 1.0, it means:
+A. The company has no interest to pay.
+B. The company's operating income is exactly equal to its interest expense.
+C. The company is extremely profitable.
+D. The company's debt is zero.
+Answer: B
+
+293. "Working Capital Policy" involves:
+A. Deciding how much to pay the workers.
+B. Deciding on the level of current assets and how to finance them.
+C. Deciding which city to build the next factory in.
+D. Deciding on the company's long-term dividend policy.
+Answer: B
+
+294. If a firm's "Average Collection Period" increases, it means:
+A. It is collecting cash from customers more quickly.
+B. It is taking longer to collect cash from customers.
+C. It is paying its suppliers more quickly.
+D. It has no customers.
+Answer: B
+
+295. "Capital Markets" are efficient if:
+A. No one ever loses money.
+B. Prices adjust rapidly to new information.
+C. The government controls all the trades.
+D. Only professional investors are allowed to trade.
+Answer: B
+
+296. If a company's "Beta" is 2.0, its stock is:
+A. Half as risky as the market.
+B. Twice as risky as the market.
+C. Not risky at all.
+D. Only risky on Tuesdays.
+Answer: B
+
+297. "Risk Premium" is:
+A. The total return on an investment.
+B. The extra return expected for taking on risk above the risk-free rate.
+C. The fee paid to an insurance company.
+D. The tax paid on high-risk investments.
+Answer: B
+
+298. If a firm's "EBIT" is $100,000 and its "Interest Expense" is $20,000, its "Times Interest Earned" is:
+A. 2.0
+B. 5.0
+C. 10.0
+D. 0.2
+Answer: B
+
+299. "Financial Management" is a sub-field of:
+A. Marketing.
+B. Economics.
+C. Sociology.
+D. Biology.
+Answer: B
+
+300. The "Ultimate Goal" of the financial manager is to:
+A. Make the company as large as possible.
+B. Maximize the wealth of the company's owners (shareholders).
+C. Minimize the amount of work for the employees.
+D. Maximize the amount of taxes paid to the government.
+Answer: B
