@@ -405,12 +405,12 @@ const css = `
   .ticker-wrap { 
     display: inline-block; 
     white-space: nowrap;
-    animation: ticker-scrolling 50s linear infinite; 
+    animation: ticker-scrolling 25s linear infinite; 
     padding-left: 100%;
   }
   .ticker-item { 
     display: inline-block; 
-    padding: 0 400px; 
+    padding: 0 100px; 
     color: var(--primary-light); 
     font-size: 13px; 
     font-weight: 700; 
