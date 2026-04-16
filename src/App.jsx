@@ -1581,6 +1581,8 @@ function RegisterScreen({ users, setUsers, onSuccess, onBack, showToast }) {
                 questionsAttempted: 0,
                 loginStreak: 0,
                 practiceTime: 0,
+                trialAttempts: 0,
+                trialPenaltyUntil: null,
                 trialUsed: {},
                 termsAcceptedAt: new Date().toISOString()
             };
@@ -1749,7 +1751,7 @@ function DashboardScreen({ user, setCurrentUser, users, setUsers, notifications,
 
     const penaltyUntil = user?.trialPenaltyUntil || penaltyData?.[user.matric]?.until;
     const penalty = penaltyUntil ? { until: penaltyUntil } : null;
-    const inPenalty = !!(penaltyUntil && Date.now() < penaltyUntil);
+    const inPenalty = !!(penaltyUntil && Date.now() < penaltyUntil) && !hasAnyAccess;
 
     const filteredCourses = COURSES.filter(c => {
         const matchesSearch = c.code.toLowerCase().includes(courseSearch.toLowerCase()) || c.name.toLowerCase().includes(courseSearch.toLowerCase());
@@ -2522,6 +2524,8 @@ function QuizModal({ opts, user, setUsers, users, penaltyData, setPenaltyData, p
     const [current, setCurrent] = useState(0);
     const [answers, setAnswers] = useState({});
     const [flagged, setFlagged] = useState(new Set());
+    const [flagModal, setFlagModal] = useState(false);
+    const [flagComment, setFlagComment] = useState("");
     const [timeLeft, setTimeLeft] = useState(0);
     const [showFeedback, setShowFeedback] = useState(false);
     const [timeUp, setTimeUp] = useState(false);
@@ -2529,6 +2533,38 @@ function QuizModal({ opts, user, setUsers, users, penaltyData, setPenaltyData, p
     const [confirmSubmit, setConfirmSubmit] = useState(false);
     const [confirmQuit, setConfirmQuit] = useState(false);
     const timerRef = useRef(null);
+
+    const onFlag = async () => {
+        const q = questions[current];
+        if (!q) return;
+        try {
+            const flagId = genId("flag");
+            await setDoc(doc(db, "flagged_questions", flagId), {
+                id: flagId,
+                questionId: q._docId || q.id,
+                questionText: q.question,
+                course: opts?.course || q.course || q.courseCode,
+                userMatric: user.matric,
+                userName: user.fullName || user.name,
+                comment: flagComment,
+                time: new Date().toISOString(),
+                status: "pending"
+            });
+            await setDoc(doc(db, "notifications", genId("notif")), {
+                to: "admin",
+                subject: "🚩 Question Flagged",
+                body: `${user.name} reported an issue with a ${opts?.course || "question"}.`,
+                time: new Date().toISOString(),
+                type: "flagged_question"
+            });
+            setFlagged(prev => new Set([...prev, current]));
+            setFlagModal(false);
+            setFlagComment("");
+            showToast("Report submitted to Admins!", "success");
+        } catch (e) {
+            showToast("Failed to submit report", "error");
+        }
+    };
 
     const activePayments = payments.filter(p => p.matric === user?.matric && p.status === "approved" && p.expiresAt && new Date(p.expiresAt) > new Date());
     const hasAccess = (() => {
@@ -2579,10 +2615,15 @@ function QuizModal({ opts, user, setUsers, users, penaltyData, setPenaltyData, p
             const inPenalty = !!(penaltyUntil && Date.now() < penaltyUntil);
 
             if (inPenalty) {
-                onClose();
-                showToast("Training locked! Subscribe to bypass the countdown.", "error");
-                setTimeout(() => onUpgrade(), 300);
-                return;
+                if (attempts < 3) {
+                    // Auto-recovery: Penalty is active but attempts haven't hit the limit.
+                    setUsers(prev => prev.map(u => u.matric === user.matric ? { ...u, trialPenaltyUntil: null } : u));
+                } else {
+                    onClose();
+                    showToast("Training locked! Subscribe to bypass the countdown.", "error");
+                    setTimeout(() => onUpgrade(), 300);
+                    return;
+                }
             }
 
             // Reset attempts if the previous penalty has expired
