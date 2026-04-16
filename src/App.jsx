@@ -456,6 +456,10 @@ const css = `
   @keyframes pulse-green { 0% { box-shadow: 0 0 0 0 rgba(74, 222, 128, 0.7); } 70% { box-shadow: 0 0 0 8px rgba(74, 222, 128, 0); } 100% { box-shadow: 0 0 0 0 rgba(74, 222, 128, 0); } }
   @keyframes pulse-gold { 0% { box-shadow: 0 0 0 0 rgba(251, 191, 36, 0.8); } 70% { box-shadow: 0 0 0 12px rgba(251, 191, 36, 0); } 100% { box-shadow: 0 0 0 0 rgba(251, 191, 36, 0); } }
   .pulse-gold { animation: pulse-gold 2.5s infinite; border: 2px solid #fbbf24 !important; }
+  .border-warning { border-left: 4px solid var(--warning) !important; }
+  .bg-warning\/10 { background: rgba(245, 158, 11, 0.1) !important; }
+  .border-warning\/20 { border: 1px solid rgba(245, 158, 11, 0.2) !important; }
+  .bg-black\/20 { background: rgba(0, 0, 0, 0.2) !important; }
   @keyframes pulse-silver { 0% { box-shadow: 0 0 0 0 rgba(156, 163, 175, 0.6); } 70% { box-shadow: 0 0 0 10px rgba(156, 163, 175, 0); } 100% { box-shadow: 0 0 0 0 rgba(156, 163, 175, 0); } }
   @keyframes pulse-bronze { 0% { box-shadow: 0 0 0 0 rgba(180, 83, 9, 0.5); } 70% { box-shadow: 0 0 0 10px rgba(180, 83, 9, 0); } 100% { box-shadow: 0 0 0 0 rgba(180, 83, 9, 0); } }
   .pulse-silver { animation: pulse-silver 2.5s infinite 0.3s; border: 2px solid #9ca3af !important; }
@@ -665,6 +669,16 @@ export default function App() {
             return next;
         });
     }, [showToast]);
+    const [flaggedQuestions, setLocalFlaggedQuestions] = useState([]);
+    useEffect(() => {
+        const unsub = onSnapshot(collection(db, "flagged_questions"), snap => {
+            const arr = [];
+            snap.forEach(d => arr.push({ ...d.data(), id: d.id }));
+            setLocalFlaggedQuestions(arr.sort((a,b) => new Date(b.time) - new Date(a.time)));
+        }, err => console.error("[Firestore flags]", err));
+        return () => unsub();
+    }, []);
+
     const [adminLogs, setLocalAdminLogs] = useState([]);
     const setAdminLogs = useCallback((updateFn) => {
         setLocalAdminLogs(prev => {
@@ -2824,18 +2838,9 @@ function QuizModal({ opts, user, setUsers, users, penaltyData, setPenaltyData, p
                             <div style={{ display: "flex", justifyContent: "space-between", marginTop: 12, gap: 10 }}>
                                 <div style={{ display: "flex", gap: 8 }}>
                                     <button className="btn btn-ghost btn-sm" onClick={() => { setCurrent(c => Math.max(0, c - 1)); setShowFeedback(false); }} disabled={current === 0}>← Prev</button>
-                                    <button className="btn btn-ghost btn-sm" onClick={() => setFlagged(f => {
-                                        const n = new Set(f);
-                                        if (n.has(current)) { n.delete(current); } else {
-                                            n.add(current);
-                                            // Add flagged notification to general admin feed
-                                            const notifsData = localStorage.getItem("simyc_notifs");
-                                            const oldNotifs = notifsData ? JSON.parse(notifsData) : [];
-                                            localStorage.setItem("simyc_notifs", JSON.stringify([...oldNotifs, { to: "admin", subject: "🚩 Question Flagged", body: `A user flagged question: "${q.question}" from ${q.course}`, time: new Date().toLocaleString(), type: "flagged_question" }]));
-                                            showToast("Question flagged for review!", "info");
-                                        }
-                                        return n;
-                                    })}>{flagged.has(current) ? "🚩" : "🏳️"}</button>
+                                    <button className="btn btn-ghost btn-sm" onClick={() => setFlagModal(true)}>
+                                        {flagged.has(current) ? <span style={{ color: "var(--warning)" }}>🚩</span> : "🏳️"}
+                                    </button>
                                 </div>
                                 <div style={{ display: "flex", gap: 8 }}>
                                     {current < questions.length - 1 ? <button className="btn btn-primary btn-sm" onClick={() => { setCurrent(c => c + 1); setShowFeedback(false); }}>Next →</button> : <button className="btn btn-success btn-sm" onClick={submitQuiz}>📩 Submit</button>}
@@ -2843,9 +2848,23 @@ function QuizModal({ opts, user, setUsers, users, penaltyData, setPenaltyData, p
                             </div>
                             <div style={{ marginTop: 14, display: "flex", gap: 5, flexWrap: "wrap" }}>
                                 {questions.map((_, i) => (
-                                    <div key={i} onClick={() => { setCurrent(i); setShowFeedback(false); }} style={{ width: 26, height: 26, borderRadius: 6, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 10, fontWeight: 700, cursor: "pointer", background: i === current ? "var(--primary)" : flagged.has(i) ? "rgba(245,158,11,0.4)" : answers[i] ? "rgba(22,163,74,0.3)" : "var(--card-border)", border: i === current ? "2px solid var(--primary-light)" : "1px solid transparent", transition: "all 0.15s" }}>{i + 1}</div>
+                                    <div key={i} onClick={() => { setCurrent(i); setShowFeedback(false); }} style={{ width: 26, height: 26, borderRadius: 6, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 10, fontWeight: 700, cursor: "pointer", background: i === current ? "var(--primary)" : flagged.has(i) ? "rgba(245,158,11,0.6)" : answers[i] ? "rgba(22,163,74,0.3)" : "var(--card-border)", border: i === current ? "2px solid var(--primary-light)" : "1px solid transparent", transition: "all 0.15s" }}>{i + 1}</div>
                                 ))}
                             </div>
+
+                            {flagModal && (
+                                <div className="modal-overlay">
+                                    <div className="card modal p-6" onClick={e => e.stopPropagation()}>
+                                        <h3 className="text-gradient mb-4">🚩 Report Error</h3>
+                                        <p className="text-sm text-muted mb-4">What's wrong with this question? Incorrect answer, typo, or poor explanation?</p>
+                                        <textarea className="input-field mb-4" rows={4} value={flagComment} onChange={e => setFlagComment(e.target.value)} placeholder="Explain the error here..." />
+                                        <div className="flex gap-2">
+                                            <button className="btn btn-primary btn-full" onClick={onFlag}>Submit Report</button>
+                                            <button className="btn btn-ghost btn-full" onClick={() => setFlagModal(false)}>Cancel</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            )}
                         </>
                     )}
 
@@ -3004,6 +3023,95 @@ function PaymentModal({ onClose, payments, setPayments, user, plans, showToast }
     );
 }
 
+// ─── ADMIN FLAGGED QUESTIONS ──────────────────────────────────────────────────
+function AdminFlaggedQuestions({ flaggedQuestions, questions, showToast }) {
+    const [editingQ, setEditingQ] = useState(null);
+    const [editForm, setEditForm] = useState(null);
+
+    const openEdit = (flag) => {
+        const q = questions.find(q => (q._docId || q.id) === flag.questionId);
+        if (!q) { showToast("Question not found in database", "error"); return; }
+        setEditingQ({ ...q, flagId: flag.id });
+        setEditForm({ ...q });
+    };
+
+    const saveEdit = async () => {
+        try {
+            const qId = editingQ._docId || editingQ.id;
+            await updateDoc(doc(db, "questions", qId), editForm);
+            await updateDoc(doc(db, "flagged_questions", editingQ.flagId), { status: "resolved" });
+            showToast("Question corrected and resolved!", "success");
+            setEditingQ(null);
+        } catch (e) {
+            showToast("Failed to save correction", "error");
+        }
+    };
+
+    return (
+        <div>
+            <h2 className="text-gradient mb-6" style={{ fontSize: 22 }}>🚩 Reported Question Errors</h2>
+            {flaggedQuestions.filter(f => f.status !== "resolved").length === 0 && <p className="text-muted">No pending reports. All good! ✨</p>}
+            {flaggedQuestions.filter(f => f.status !== "resolved").map(f => (
+                <div key={f.id} className="card p-5 mb-4 border-warning">
+                    <div className="flex justify-between items-start mb-2">
+                        <div>
+                            <span className="badge badge-yellow mb-2">{f.course}</span>
+                            <div style={{ fontWeight: 700, fontFamily: "Syne" }}>{f.userName} ({f.userMatric})</div>
+                        </div>
+                        <div className="text-xs text-muted">{formatDate(f.time)}</div>
+                    </div>
+                    <p className="bg-black/20 p-3 rounded-lg text-sm mb-3 italic">"{f.questionText}"</p>
+                    <div className="p-3 bg-warning/10 border-warning/20 border rounded-lg text-sm mb-4">
+                        <strong>Student Remark:</strong> {f.comment || "No comment provided."}
+                    </div>
+                    <div className="flex gap-2">
+                        <button className="btn btn-primary btn-sm" onClick={() => openEdit(f)}>🔧 Edit & Resolve</button>
+                        <button className="btn btn-ghost btn-sm" onClick={() => updateDoc(doc(db, "flagged_questions", f.id), { status: "resolved" })}>Dismiss</button>
+                    </div>
+                </div>
+            ))}
+
+            {editingQ && (
+                <div className="modal-overlay">
+                    <div className="card modal p-6" style={{ maxWidth: 600, width: "90%", maxHeight: "90vh", overflowY: "auto" }} onClick={e => e.stopPropagation()}>
+                        <h3 className="text-gradient mb-4">🔧 Correct Question</h3>
+                        <div className="input-group">
+                            <label className="input-label">Question Text</label>
+                            <textarea className="input-field" rows={4} value={editForm.question} onChange={e => setEditForm({ ...editForm, question: e.target.value })} />
+                        </div>
+                        {editForm.type === "objective" && (
+                            <div className="grid-2" style={{ gap: 15 }}>
+                                {editForm.options.map((opt, i) => (
+                                    <div key={i} className="input-group">
+                                        <label className="input-label">Option {String.fromCharCode(65 + i)}</label>
+                                        <input className="input-field" value={opt} onChange={e => {
+                                            const newOpts = [...editForm.options];
+                                            newOpts[i] = e.target.value;
+                                            setEditForm({ ...editForm, options: newOpts });
+                                        }} />
+                                    </div>
+                                ))}
+                            </div>
+                        )}
+                        <div className="input-group">
+                            <label className="input-label">Correct Answer ({editForm.type === "objective" ? "A, B, C, or D" : "Exact Text"})</label>
+                            <input className="input-field" value={editForm.answer} onChange={e => setEditForm({ ...editForm, answer: e.target.value })} />
+                        </div>
+                        <div className="input-group">
+                            <label className="input-label">Explanation</label>
+                            <textarea className="input-field" rows={2} value={editForm.explanation} onChange={e => setEditForm({ ...editForm, explanation: e.target.value })} />
+                        </div>
+                        <div className="flex gap-2 mt-4">
+                            <button className="btn btn-success btn-full" onClick={saveEdit}>✅ Save & Resolve</button>
+                            <button className="btn btn-ghost btn-full" onClick={() => setEditingQ(null)}>Cancel</button>
+                        </div>
+                    </div>
+                </div>
+            )}
+        </div>
+    );
+}
+
 // ─── ADMIN SCREEN ─────────────────────────────────────────────────────────────
 
 function AdminScreen({ user, users, setUsers, payments, setPayments, notifications, setNotifications, broadcasts, setBroadcasts, adminLogs, setAdminLogs, logAdminAction, messages, setMessages, readAdminMsgs, setReadAdminMsgs, onLogout, showToast, isSuperAdmin, maintenanceMode, setMaintenanceMode, plans, setPlans, questions, setQuestions, setLightboxPhoto }) {
@@ -3022,6 +3130,7 @@ function AdminScreen({ user, users, setUsers, payments, setPayments, notificatio
         { id: "broadcast", icon: "📢", label: "Broadcast" },
         { id: "messages", icon: "💬", label: "Messages" },
         { id: "editrequests", icon: "✏️", label: "Edit Requests" },
+        { id: "flaggedquestions", icon: "🚩", label: "Flagged Questions" },
         { id: "notifications", icon: "🔔", label: "System Notifications" },
         { id: "analytics", icon: "📊", label: "Analytics" },
         { id: "subscriptionmonitor", icon: "📉", label: "Subscription Monitor" },
@@ -3090,6 +3199,7 @@ function AdminScreen({ user, users, setUsers, payments, setPayments, notificatio
                 {section === "planmanager" && isSuperAdmin && <PlanManager plans={plans} setPlans={setPlans} showToast={showToast} />}
                 {section === "settings" && <AdminSettings showToast={showToast} />}
                 {section === "socialsafety" && <AdminSocialSafety users={users} showToast={showToast} />}
+                {section === "flaggedquestions" && <AdminFlaggedQuestions flaggedQuestions={flaggedQuestions} questions={questions} showToast={showToast} />}
             </div>
         </div>
     );
